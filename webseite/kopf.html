@@ -1,0 +1,159 @@
+<title>Wurzeln des Koran</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{
+  --ground:#F6F7F8; --surface:#FFFFFF; --surface-2:#EFF2F4;
+  --ink:#17222C; --ink-soft:#5D6C79; --ink-faint:#8B98A3;
+  --rule:#DCE2E7; --rule-soft:#E9EDF0;
+  --accent:#1E6E6A; --accent-soft:#E2EFEE; --accent-ink:#15514E;
+  --rare:#96582C; --rare-soft:#F6EBE1;
+  --shadow:0 1px 2px rgba(23,34,44,.06), 0 8px 24px rgba(23,34,44,.07);
+  --serif:'Spectral',Georgia,'Times New Roman',serif;
+  --sans:'IBM Plex Sans',system-ui,-apple-system,'Segoe UI',sans-serif;
+  --arab:'Amiri','Scheherazade New','Traditional Arabic',serif;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#101720; --surface:#17202A; --surface-2:#1E2935;
+  --ink:#E5ECF2; --ink-soft:#9CAAB7; --ink-faint:#6C7C89;
+  --rule:#2A3742; --rule-soft:#222E39;
+  --accent:#4DB2AB; --accent-soft:#16302F; --accent-ink:#7FCFC9;
+  --rare:#C68A55; --rare-soft:#2C2318;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
+}}
+:root[data-theme="dark"]{
+  --ground:#101720; --surface:#17202A; --surface-2:#1E2935;
+  --ink:#E5ECF2; --ink-soft:#9CAAB7; --ink-faint:#6C7C89;
+  --rule:#2A3742; --rule-soft:#222E39;
+  --accent:#4DB2AB; --accent-soft:#16302F; --accent-ink:#7FCFC9;
+  --rare:#C68A55; --rare-soft:#2C2318;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);
+  font-family:var(--serif);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+h1,h2,h3{text-wrap:balance;margin:0}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.eyebrow{font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.11em;
+  text-transform:uppercase;color:var(--ink-faint)}
+
+/* ---- Kopfzeile ---- */
+.kopf{position:sticky;top:env(safe-area-inset-top,0px);z-index:40;
+  background:color-mix(in srgb,var(--ground) 90%,transparent);
+  backdrop-filter:blur(12px);border-bottom:1px solid var(--rule)}
+.kopf-in{max-width:1240px;margin:0 auto;padding:12px 16px;
+  display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.marke{display:flex;align-items:baseline;gap:10px;margin-right:auto}
+.marke b{font-family:var(--serif);font-weight:600;font-size:18px;letter-spacing:-.01em}
+.marke span{font-family:var(--arab);font-size:19px;color:var(--accent)}
+.waehler{display:flex;gap:8px;align-items:center;font-family:var(--sans);font-size:13px}
+select{font:inherit;font-family:var(--sans);padding:7px 10px;border-radius:7px;
+  border:1px solid var(--rule);background:var(--surface);color:var(--ink);max-width:62vw}
+
+/* ---- Anleitung ---- */
+.anleitung{max-width:1240px;margin:0 auto;padding:22px 16px 6px}
+.anleitung h2{font-size:15px;font-family:var(--sans);font-weight:600;margin-bottom:12px}
+.schritte{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:1px;
+  background:var(--rule);border:1px solid var(--rule);border-radius:10px;overflow:hidden}
+.schritt{background:var(--surface);padding:14px 16px}
+.schritt .nr{font-family:var(--sans);font-size:11px;font-weight:600;color:var(--accent);
+  letter-spacing:.08em;display:block;margin-bottom:5px}
+.schritt p{margin:0;font-size:14.5px;line-height:1.5;color:var(--ink-soft)}
+.schritt p b{color:var(--ink);font-weight:600}
+
+/* ---- Hauptraster ---- */
+.raster{max-width:1240px;margin:0 auto;padding:22px 16px 64px;
+  display:grid;grid-template-columns:minmax(0,1fr) 400px;gap:28px;align-items:start}
+@media (max-width:900px){.raster{grid-template-columns:minmax(0,1fr);gap:0}}
+
+/* ---- Suren-Kopf ---- */
+.sura-kopf{border-bottom:2px solid var(--ink);padding-bottom:12px;margin-bottom:6px;
+  display:flex;align-items:flex-end;gap:14px;flex-wrap:wrap}
+.sura-kopf h1{font-size:clamp(23px,4.4vw,31px);font-weight:600;letter-spacing:-.015em}
+.sura-kopf .ar{font-family:var(--arab);font-size:clamp(25px,5vw,33px);color:var(--accent);line-height:1}
+.sura-kopf .meta{font-family:var(--sans);font-size:12.5px;color:var(--ink-soft);margin-left:auto;
+  text-align:right;line-height:1.5}
+
+/* ---- Verse ---- */
+.vers{padding:20px 0;border-bottom:1px solid var(--rule-soft)}
+.vers-nr{font-family:var(--sans);font-size:11px;font-weight:600;color:var(--ink-faint);
+  letter-spacing:.06em;margin-bottom:10px}
+.arabisch{font-family:var(--arab);font-size:clamp(24px,4.6vw,30px);line-height:2.05;
+  direction:rtl;text-align:right;margin-bottom:12px;color:var(--ink)}
+.deutsch{font-size:16.5px;line-height:1.62;color:var(--ink-soft);margin-bottom:14px;max-width:62ch}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:baseline;gap:6px;padding:4px 9px 5px;border-radius:6px;
+  border:1px solid var(--rule);background:var(--surface);transition:border-color .12s,background .12s}
+.chip .w{font-family:var(--arab);font-size:18px;line-height:1.1}
+.chip .n{font-family:var(--sans);font-size:10.5px;font-weight:500;color:var(--ink-faint);
+  font-variant-numeric:tabular-nums}
+.chip:hover{border-color:var(--accent);background:var(--accent-soft)}
+.chip.selten{border-color:var(--rare);background:var(--rare-soft)}
+.chip.selten .n{color:var(--rare);font-weight:600}
+.chip.aktiv{border-color:var(--accent);background:var(--accent);color:#fff}
+.chip.aktiv .n{color:rgba(255,255,255,.75)}
+.chips-hinweis{font-family:var(--sans);font-size:11.5px;color:var(--ink-faint);margin-bottom:7px}
+
+/* ---- Prüfer ---- */
+.pruefer{position:sticky;top:calc(env(safe-area-inset-top,0px) + 74px)}
+.karte{background:var(--surface);border:1px solid var(--rule);border-radius:12px;
+  box-shadow:var(--shadow);overflow:hidden}
+.karte-kopf{padding:16px 18px 14px;border-bottom:1px solid var(--rule);background:var(--surface-2)}
+.karte-kopf .wurzel{font-family:var(--arab);font-size:36px;line-height:1.1;letter-spacing:.14em;
+  color:var(--accent-ink);display:block;direction:rtl}
+.karte-kopf .zahl{font-family:var(--sans);font-size:13px;color:var(--ink-soft);margin-top:6px;
+  font-variant-numeric:tabular-nums}
+.karte-koerper{padding:16px 18px;max-height:min(58vh,620px);overflow-y:auto}
+.block{margin-bottom:20px}
+.block:last-child{margin-bottom:0}
+.block h3{font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink-faint);margin-bottom:9px}
+.lemmaliste{display:flex;flex-wrap:wrap;gap:6px}
+.lemma{font-family:var(--arab);font-size:17px;padding:3px 9px;border-radius:5px;
+  background:var(--surface-2);border:1px solid var(--rule-soft)}
+.lemma i{font-family:var(--sans);font-style:normal;font-size:10.5px;color:var(--ink-faint);
+  margin-left:5px;font-variant-numeric:tabular-nums}
+.stelle{display:block;width:100%;text-align:left;background:none;border:0;padding:9px 0;
+  border-bottom:1px solid var(--rule-soft);font-family:var(--serif)}
+.stelle:last-child{border-bottom:0}
+.stelle .ref{font-family:var(--sans);font-size:11px;font-weight:600;color:var(--accent);
+  letter-spacing:.04em;font-variant-numeric:tabular-nums}
+.stelle .txt{display:block;font-size:14.5px;line-height:1.5;color:var(--ink-soft);margin-top:3px}
+.stelle:hover .txt{color:var(--ink)}
+.stelle.hier .ref::after{content:' · diese Sure';color:var(--ink-faint);font-weight:400}
+
+/* Zählregeln */
+.regeln{width:100%;border-collapse:collapse;font-family:var(--sans);font-size:13px}
+.regeln td{padding:5px 0;border-bottom:1px solid var(--rule-soft)}
+.regeln td:last-child{text-align:right;font-weight:600;font-variant-numeric:tabular-nums}
+.regeln tr:last-child td{border-bottom:0}
+.warnung{margin-top:11px;padding:11px 13px;border-radius:8px;background:var(--rare-soft);
+  border:1px solid var(--rare);font-size:13.5px;line-height:1.5;color:var(--ink)}
+.warnung b{color:var(--rare)}
+
+.leer{padding:28px 18px;text-align:center;color:var(--ink-faint);font-size:14.5px;line-height:1.6}
+
+/* Mobile: Prüfer als Bodenblatt */
+.schliessen{display:none}
+@media (max-width:900px){
+  .pruefer{position:fixed;left:0;right:0;bottom:0;z-index:60;padding:0;
+    transform:translateY(101%);transition:transform .22s ease;
+    padding-bottom:env(safe-area-inset-bottom,0px);background:var(--surface)}
+  .pruefer.offen{transform:translateY(0)}
+  .karte{border-radius:14px 14px 0 0;border-bottom:0;max-height:82vh;display:flex;flex-direction:column}
+  .karte-koerper{max-height:none;flex:1}
+  .schliessen{display:block;position:absolute;top:12px;right:12px;width:32px;height:32px;
+    border-radius:50%;border:1px solid var(--rule);background:var(--surface);
+    font-size:17px;line-height:1;color:var(--ink-soft)}
+  .abdeckung{position:fixed;inset:0;background:rgba(10,16,22,.42);z-index:50;opacity:0;
+    pointer-events:none;transition:opacity .22s}
+  .abdeckung.offen{opacity:1;pointer-events:auto}
+}
+.fuss{max-width:1240px;margin:0 auto;padding:26px 16px 48px;border-top:1px solid var(--rule);
+  font-family:var(--sans);font-size:12.5px;color:var(--ink-faint);line-height:1.7}
+.fuss a{color:var(--accent);text-decoration:none;border-bottom:1px solid var(--rule)}
+</style>
