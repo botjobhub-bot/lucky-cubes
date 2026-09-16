@@ -156,4 +156,27 @@ select{font:inherit;font-family:var(--sans);padding:7px 10px;border-radius:7px;
 .fuss{max-width:1240px;margin:0 auto;padding:26px 16px 48px;border-top:1px solid var(--rule);
   font-family:var(--sans);font-size:12.5px;color:var(--ink-faint);line-height:1.7}
 .fuss a{color:var(--accent);text-decoration:none;border-bottom:1px solid var(--rule)}
+
+/* ---- Übersetzungsvergleich ---- */
+.schalter{display:inline-flex;align-items:center;gap:6px;font-family:var(--sans);font-size:12.5px;
+  color:var(--ink-soft);cursor:pointer;padding:6px 10px;border:1px solid var(--rule);
+  border-radius:7px;background:var(--surface);white-space:nowrap}
+.schalter input{accent-color:var(--accent);margin:0}
+.ue-block{border-left:2px solid var(--rule);padding-left:14px;margin-bottom:14px;max-width:64ch}
+.ue{display:grid;grid-template-columns:104px minmax(0,1fr);gap:12px;padding:7px 0;
+  border-bottom:1px solid var(--rule-soft)}
+.ue:last-child{border-bottom:0}
+.ue-name{font-family:var(--sans);font-size:10.5px;font-weight:600;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--ink-faint);padding-top:4px}
+.ue p{margin:0;font-size:15.5px;line-height:1.55;color:var(--ink-soft)}
+.uneinig{font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--rare);background:var(--rare-soft);
+  border:1px solid var(--rare);border-radius:5px;padding:4px 9px;display:inline-block;margin-bottom:9px}
+.punkt{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--rare);
+  margin-left:6px;vertical-align:middle}
+@media (max-width:560px){
+  .ue{grid-template-columns:minmax(0,1fr);gap:2px}
+  .ue-name{padding-top:0}
+  .ue-block{padding-left:11px}
+}
 </style>

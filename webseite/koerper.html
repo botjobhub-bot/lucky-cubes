@@ -4,21 +4,22 @@
     <div class="waehler">
       <label for="sura-wahl" class="eyebrow">Sure</label>
       <select id="sura-wahl"></select>
+      <label class="schalter"><input type="checkbox" id="vergleich" checked><span>4 Übersetzungen</span></label>
     </div>
   </div>
 </header>
 
 <section class="anleitung">
-  <h2>Wozu das gut ist</h2>
+  <h2>Zwei Wege unter die Übersetzung</h2>
   <div class="schritte">
-    <div class="schritt"><span class="nr">SO GEHT'S</span>
-      <p><b>Tippe eine Wurzel an</b> — die farbigen Kästchen unter jedem Vers. Jedes arabische Wort baut auf drei Grundbuchstaben auf.</p></div>
-    <div class="schritt"><span class="nr">WAS PASSIERT</span>
-      <p><b>Du siehst jede andere Stelle</b> im Koran, an der dieselbe Wurzel steht. Der Koran erklärt seine Wörter selbst.</p></div>
-    <div class="schritt"><span class="nr">WORAUF ACHTEN</span>
-      <p><b>Braun heißt selten.</b> Wörter mit wenigen Vorkommen tragen die meiste Bedeutung — die häufigen sagen wenig über <i>diese</i> Sure.</p></div>
-    <div class="schritt"><span class="nr">GEGENPROBE</span>
-      <p><b>Jede Wurzel zeigt alle Zählweisen</b> nebeneinander. Wer sich die passende aussucht, hat nichts bewiesen.</p></div>
+    <div class="schritt"><span class="nr">ÜBERSETZER VERGLEICHEN</span>
+      <p>Jeder Vers steht in <b>vier deutschen Fassungen</b>. Wo sie auseinandergehen, hat jemand eine Entscheidung getroffen, die du sonst nicht siehst.</p></div>
+    <div class="schritt"><span class="nr">WURZEL ANTIPPEN</span>
+      <p>Die Kästchen unter jedem Vers sind die <b>Wortwurzeln</b>. Antippen zeigt jede andere Stelle im Koran, an der dieselbe Wurzel steht.</p></div>
+    <div class="schritt"><span class="nr">SELTENES ZUERST</span>
+      <p><b>Braun heißt selten</b> — höchstens zehn Vorkommen im ganzen Koran. Diese Wörter tragen die meiste Bedeutung.</p></div>
+    <div class="schritt"><span class="nr">WAS DAS NICHT IST</span>
+      <p>Uneinigkeit heißt <b>nicht, dass einer falsch liegt</b>. Sie heißt: Hier wurde entschieden. Prüfen musst du selbst.</p></div>
   </div>
 </section>
 
@@ -40,32 +41,43 @@
 
 <footer class="fuss">
   Morphologie, Wurzeln und Lemmata: <a href="https://github.com/mustafa0x/quran-morphology">Quranic Arabic Corpus</a>.
-  Arabischer Text nach Uthmani, deutsche Übersetzung: Frank Bubenheim &amp; Nadeem Elyas
+  Arabischer Text nach Uthmani; deutsche Übersetzungen von Frank Bubenheim &amp; Nadeem Elyas,
+  Adel Theodor Khoury, Abu Rida Muhammad Ibn Ahmad Ibn Rassoul und Amir Zaidan
   (<a href="https://github.com/fawazahmed0/quran-api">quran-api</a>).<br>
-  Die Zahlen stammen unverändert aus dem Korpus. Was du daraus schließt, ist deine Arbeit —
-  dieses Werkzeug deutet nichts.
+  Die Markierung „Übersetzer uneinig“ vergleicht nur, <i>welche Wörter</i> gewählt wurden. Sie
+  unterscheidet nicht zwischen Stilfrage und Deutungsfrage — das ist deine Arbeit. Dieses Werkzeug
+  deutet nichts und entscheidet nichts.
 </footer>
 
 <script type="application/json" id="daten">__DATEN__</script>
 <script>
 (function(){
   const D = JSON.parse(document.getElementById('daten').textContent);
-  const {verse, suren, wurzeln, worte, stellen, zaehlung, lemmata, formen} = D;
+  const {verse, suren, wurzeln, worte, stellen, zaehlung, lemmata, ueb} = D;
+  const SCHWELLE = 0.76;   // oberstes Zehntel der Uneinigkeit
 
-  // Verse nach Sure gruppieren
   const proSura = {};
   verse.forEach((v,i)=>{ (proSura[v[0]] ||= []).push(i); });
 
   const el = id => document.getElementById(id);
-  const wahl = el('sura-wahl');
+  const wahl = el('sura-wahl'), schalter = el('vergleich');
   suren.forEach((s,i)=>{
     const o = document.createElement('option');
-    o.value = i+1;
-    o.textContent = `${i+1}. ${s[0]} — ${s[3]} Verse`;
+    o.value = i+1; o.textContent = `${i+1}. ${s[0]} — ${s[3]} Verse`;
     wahl.appendChild(o);
   });
 
   let aktiveWurzel = null;
+
+  function uebersetzungen(v){
+    if (!schalter.checked)
+      return `<p class="deutsch">${v[3][0]}</p>`;
+    const zeilen = v[3].map((t,i)=>
+      `<div class="ue"><span class="ue-name">${ueb[i]}</span><p>${t}</p></div>`).join('');
+    const flagge = v[4] !== null && v[4] >= SCHWELLE
+      ? `<div class="uneinig">Übersetzer uneinig — hier wurde entschieden</div>` : '';
+    return `<div class="ue-block">${flagge}${zeilen}</div>`;
+  }
 
   function zeigeSura(n){
     const s = suren[n-1];
@@ -73,37 +85,33 @@
       `<h1>${n}. ${s[0]}</h1><div class="ar">${s[1]}</div>` +
       `<div class="meta">${s[3]} Verse<br>${s[2]}</div>`;
 
-    const teile = proSura[n].map(vi=>{
-      const v = verse[vi];
-      const rs = (worte[String(vi)]||[]);
+    el('verse').innerHTML = proSura[n].map(vi=>{
+      const v = verse[vi], rs = worte[String(vi)] || [];
       const chips = rs.map(ri=>{
         const z = zaehlung[ri][0];
-        const selten = z <= 10 ? ' selten' : '';
-        return `<button class="chip${selten}" data-wurzel="${ri}">` +
+        return `<button class="chip${z<=10?' selten':''}" data-wurzel="${ri}">` +
                `<span class="w">${wurzeln[ri]}</span><span class="n">${z}</span></button>`;
       }).join('');
       return `<article class="vers" id="v${vi}">
         <div class="vers-nr">VERS ${v[1]}</div>
         <div class="arabisch">${v[2]}</div>
-        <p class="deutsch">${v[3]}</p>
+        ${uebersetzungen(v)}
         ${rs.length ? `<div class="chips-hinweis">${rs.length} Wurzeln — antippen für alle Stellen im Koran</div>
         <div class="chips">${chips}</div>` : ''}
       </article>`;
     }).join('');
-    el('verse').innerHTML = teile;
     markiere();
   }
 
   function markiere(){
-    document.querySelectorAll('.chip').forEach(c=>{
-      c.classList.toggle('aktiv', Number(c.dataset.wurzel) === aktiveWurzel);
-    });
+    document.querySelectorAll('.chip').forEach(c=>
+      c.classList.toggle('aktiv', Number(c.dataset.wurzel) === aktiveWurzel));
   }
 
   function zeigeWurzel(ri){
     aktiveWurzel = ri;
-    const w = wurzeln[ri], z = zaehlung[ri], orte = stellen[String(ri)] || [];
-    const [vork, verseN, surenN, sg, du, pl, indef] = z;
+    const w = wurzeln[ri], orte = stellen[String(ri)] || [];
+    const [vork, verseN, surenN, sg, du, pl, indef] = zaehlung[ri];
 
     el('karte-kopf').innerHTML =
       `<span class="wurzel">${w}</span>` +
@@ -112,15 +120,15 @@
 
     const lem = (lemmata[String(ri)]||[]).map(([l,c])=>
       `<span class="lemma">${l}<i>${c}×</i></span>`).join('');
-
     const verschieden = new Set([vork, verseN, surenN, sg, du, pl, indef]).size;
 
     const liste = orte.map(vi=>{
       const v = verse[vi];
       const hier = v[0] === Number(wahl.value) ? ' hier' : '';
+      const streit = v[4] !== null && v[4] >= SCHWELLE ? '<span class="punkt" title="Übersetzer uneinig"></span>' : '';
       return `<button class="stelle${hier}" data-vers="${vi}">` +
-             `<span class="ref">${v[0]}:${v[1]}</span>` +
-             `<span class="txt">${v[3]}</span></button>`;
+             `<span class="ref">${v[0]}:${v[1]}${streit}</span>` +
+             `<span class="txt">${v[3][0]}</span></button>`;
     }).join('');
 
     el('karte-koerper').innerHTML = `
@@ -136,8 +144,7 @@
           <tr><td>nur unbestimmte Formen</td><td>${indef}</td></tr>
         </table>
         <div class="warnung"><b>${verschieden} verschiedene Zahlen</b> aus einem einzigen Wort.
-        Wer erst das Ergebnis sieht und dann die Regel wählt, trifft jedes Ziel.
-        Lege die Zählweise vorher fest.</div>
+        Lege die Zählweise fest, bevor du das Ergebnis siehst.</div>
       </div>
       <div class="block"><h3>Alle ${verseN} Stellen im Koran</h3>${liste}</div>`;
 
@@ -158,8 +165,7 @@
       const vi = Number(stelle.dataset.vers), v = verse[vi];
       if (v[0] !== Number(wahl.value)){ wahl.value = v[0]; zeigeSura(v[0]); }
       oeffne(false);
-      const ziel = el('v'+vi);
-      if (ziel) ziel.scrollIntoView({behavior:'smooth', block:'center'});
+      el('v'+vi)?.scrollIntoView({behavior:'smooth', block:'center'});
       return;
     }
     if (e.target.closest('#schliessen') || e.target.closest('#abdeckung')) oeffne(false);
@@ -169,12 +175,16 @@
     zeigeSura(Number(wahl.value));
     window.scrollTo({top:0, behavior:'smooth'});
   });
+  schalter.addEventListener('change', ()=> zeigeSura(Number(wahl.value)));
 
-  // Startzustand: Sure 103, Wurzel ʿ-ṣ-r bereits geöffnet — der Fund, der die Methode zeigt
-  wahl.value = 103;
-  zeigeSura(103);
-  const start = wurzeln.indexOf('عصر');
+  // Startzustand: 57:20 zeigt die Sache in einem einzigen Vers —
+  // dieselbe Wurzel k-f-r, einmal "Ungläubige", zweimal "Säer", einmal gar nicht übersetzt.
+  wahl.value = 57;
+  zeigeSura(57);
+  const start = wurzeln.indexOf('كفر');
   if (start >= 0) zeigeWurzel(start);
   oeffne(false);
+  requestAnimationFrame(()=> el('v'+verse.findIndex(v=>v[0]===57&&v[1]===20))
+      ?.scrollIntoView({block:'center'}));
 })();
 </script>

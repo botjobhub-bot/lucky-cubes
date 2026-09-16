@@ -62,3 +62,48 @@ Verschärfte Fassung: *Hätte die Methode auch den wissenschaftlichen Irrtum
 bestätigt?* Beispiel Chromosomen: Bis 1956 galten 48 als richtig. Die tatsächliche
 Koranzählung ergibt 24 und 24 — die Methode hätte den Irrtum also genauso
 überzeugend „bewiesen" wie die Wahrheit. **Was beides bestätigt, unterscheidet nichts.**
+
+---
+
+## Übersetzungskritik — Schritt 1 erweitert
+
+Eine Übersetzung hat bereits **für dich entschieden**, was ein Wort bedeutet. Diese
+Entscheidung ist im deutschen Text nicht mehr sichtbar. Vier Übersetzungen
+nebeneinander machen sie wieder sichtbar.
+
+**Beispiel 57:20.** Dasselbe Wort ٱلْكُفَّار (*al-kuffār*):
+
+| Bubenheim/Elyas | „den **Ungläubigen**" |
+| Khoury | „den **Säern**" |
+| Abu Rida | „den **Säern**" |
+| Zaidan | „den **Kafir**" — unübersetzt gelassen |
+
+Die Wurzel ك ف ر heißt **bedecken, verhüllen**. Ein Säer bedeckt das Saatgut mit
+Erde. Beide Lesarten sind lexikalisch möglich; der Kontext (Regen, Pflanzenwuchs)
+stützt „Säer". „Ungläubiger" ist bereits Deutung, nicht Übersetzung.
+
+### Die vier Fragen der Übersetzungskritik
+
+1. **Gehen die Übersetzer auseinander?** Wenn ja, wurde entschieden.
+2. **Was ist die Grundbedeutung der Wurzel?** Nicht die theologische, die wörtliche.
+3. **Wie verwendet der Koran dieselbe Wurzel sonst?** Alle Stellen ansehen, nicht nur
+   die bequemen.
+4. **Trägt der Kontext die gewählte Lesart?** In 57:20 geht es um Regen und Pflanzen.
+
+### Die Gegenprobe zum „modernen Blick"
+
+Der Wunsch, Verkrustungen abzutragen, ist berechtigt. Er hat aber eine eigene
+Gefahr, und es ist genau dieselbe wie beim naturwissenschaftlichen i'jāz:
+**Rückprojektion.** Dort wird moderne Physik in den Vers gelesen, hier moderne Moral.
+Beide Male entscheidet die Gegenwart, was der Text sagen darf.
+
+Der Test dagegen:
+
+> **Kann meine Lesart dem Text auch widersprechen?**
+
+Wenn jede Untersuchung bei etwas landet, das ich ohnehin schon für richtig hielt,
+untersuche ich nicht — ich bestätige. Eine Methode, die nie ein unerwünschtes
+Ergebnis liefert, hat keinen Erkenntniswert.
+
+Deshalb: **Notiere vor der Untersuchung, was du erwartest.** Weicht das Ergebnis nie
+ab, ist das ein Befund über die Methode, nicht über den Koran.
