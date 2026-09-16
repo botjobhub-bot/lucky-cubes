@@ -1,0 +1,63 @@
+==============================================================================
+SURE 111  —  5 Verse, 17 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [111:1]
+    تَبَّتۡ یَدَاۤ أَبِی لَهَبࣲ وَتَبَّ
+    B/E:    Zugrunde gehen sollen die Hände Abu Lahabs, und zugrunde gehen soll er (selbst)
+    Khoury: Dem Verderben geweiht seien die Hände des Abu Lahab, und dem Verderben geweiht sei er
+
+  [111:2]
+    مَاۤ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ
+    B/E:    Was nützt ihm sein Besitz und das, was er erworben hat
+    Khoury: Nicht nützt ihm sein Vermögen und das, was er erworben hat
+
+  [111:3]
+    سَیَصۡلَىٰ نَارࣰا ذَاتَ لَهَبࣲ
+    B/E:    Er wird einem Feuer voller Flammen ausgesetzt sein
+    Khoury: Er wird in einem lodernden Feuer brennen
+
+  [111:4]
+    وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ
+    B/E:    und (auch) seine Frau, die Brennholzträgerin
+    Khoury: Und auch seine Frau, sie, die Holzträgerin
+
+  [111:5]
+    فِی جِیدِهَا حَبۡلࣱ مِّن مَّسَدِۭ
+    B/E:    Um ihrem Hals ist ein Strick aus Palmfasern
+    Khoury: An ihrem Hals hängt ein Strick aus Palmenfasern
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  جيد              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  مسد              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  حطب              1       2  sehr selten — nur 2x im ganzen Koran
+  لهب              2       3  sehr selten — nur 3x im ganzen Koran
+  تبب              2       4  sehr selten — nur 4x im ganzen Koran
+  حبل              1       7  sehr selten — nur 7x im ganzen Koran
+  صلي              1      25  selten — 25x im ganzen Koran
+  مرأ              1      38  selten — 38x im ganzen Koran
+  حمل              1      64  
+  كسب              1      67  
+  غني              1      73  
+  مول              1      86  
+  أبو              1     117  
+  يدي              1     120  
+  نور              1     194  
+
+  ACHTUNG: Diese Sure hat nur 17 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

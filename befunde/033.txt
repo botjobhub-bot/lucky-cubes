@@ -1,0 +1,665 @@
+==============================================================================
+SURE 33  —  73 Verse, 893 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [33:1]
+    ۞ یَـٰۤأَیُّهَا ٱلنَّبِیُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلۡكَـٰفِرِینَ وَٱلۡمُنَـٰفِقِینَۚ إِنَّ ٱللَّهَ كَانَ عَلِیمًا حَكِیمࣰا
+    B/E:    O Prophet, fürchte Allah und gehorche nicht den Ungläubigen und den Heuchlern. Gewiß, Allah ist Allwissend und Allweise
+    Khoury: O Prophet, fürchte Gott und gehorche nicht den Ungläubigen und den Heuchlern. Gott weiß Bescheid und ist weise
+
+  [33:2]
+    وَٱتَّبِعۡ مَا یُوحَىٰۤ إِلَیۡكَ مِن رَّبِّكَۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِیرࣰا
+    B/E:    Und folge dem, was dir (als Offenbarung) von deinem Herrn eingegeben wird. Gewiß, Allah ist dessen, was ihr tut, Kundig
+    Khoury: Und folge dem, was dir von deinem Herrn offenbart wird. Gott hat Kenntnis von dem, was ihr tut
+
+  [33:3]
+    وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلࣰا
+    B/E:    Und verlasse dich auf Allah. Allah genügt als Sachwalter
+    Khoury: Und vertrau auf Gott. Gott genügt als Sachwalter
+
+  [33:4]
+    مَّا جَعَلَ ٱللَّهُ لِرَجُلࣲ مِّن قَلۡبَیۡنِ فِی جَوۡفِهِۦۚ وَمَا جَعَلَ أَزۡوَ ٰجَكُمُ ٱلَّـٰۤءِی تُظَـٰهِرُونَ مِنۡهُنَّ أُمَّهَـٰتِكُمۡۚ وَمَا جَعَلَ أَدۡعِیَاۤءَكُمۡ أَبۡنَاۤءَكُمۡۚ ذَ ٰلِكُمۡ قَوۡلُكُم بِأَفۡوَ ٰهِكُمۡۖ وَٱللَّهُ یَقُولُ ٱلۡحَقَّ وَهُوَ یَهۡدِی ٱلسَّبِیلَ
+    B/E:    Allah hat keinem Mann zwei Herzen in seinem Inneren gemacht. Und Er hat eure Gattinnen, von denen ihr euch durch den Rückenschwur trennt, nicht (wirklich) zu euren Müttern gemacht. Und Er hat eure angenommenen Söhne nicht (wirklich) zu euren Söhnen gemacht. Das sind eure Worte aus eurem (eigenen) Mund. Aber Allah sagt die Wahrheit, und Er leitet den (rechten) Weg
+    Khoury: Gott hat keinem Mann zwei Herzen in seinem Inneren gemacht. Und Er hat eure Gattinnen, von denen ihr euch durch den Rückenspruch trennt, nicht (wirklich) zu euren Müttern gemacht. Und Er hat eure Adoptivsöhne nicht (wirklich) zu euren Söhnen gemacht. Das ist eure Rede aus eurem Munde. Aber Gott sagt die Wahrheit, und Er führt den (rechten) Weg
+
+  [33:5]
+    ٱدۡعُوهُمۡ لِءَابَاۤئِهِمۡ هُوَ أَقۡسَطُ عِندَ ٱللَّهِۚ فَإِن لَّمۡ تَعۡلَمُوۤا۟ ءَابَاۤءَهُمۡ فَإِخۡوَ ٰنُكُمۡ فِی ٱلدِّینِ وَمَوَ ٰلِیكُمۡۚ وَلَیۡسَ عَلَیۡكُمۡ جُنَاحࣱ فِیمَاۤ أَخۡطَأۡتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتۡ قُلُوبُكُمۡۚ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمًا
+    B/E:    Nennt sie nach ihren Vätern; das ist gerechter vor Allah. Wenn ihr ihre Väter nicht kennt, dann sind sie eure Brüder in der Religion und eure Schützlinge. Es ist für euch keine Sünde in dem, was ihr an Fehlern begeht, sondern was eure Herzen vorsätzlich anstreben. Und Allah ist Allvergebend und Barmherzig
+    Khoury: Nennt sie nach ihren Vätern. Das ist gerechter in den Augen Gottes. Wenn ihr ihre Väter nicht kennt, dann gelten sie als eure Brüder in der Religion und eure Schützlinge. Und es wird euch nicht als Vergehen angerechnet, was ihr hier gefehlt habt, sondern was eure Herzen vorsätzlich anstreben. Und Gott ist voller Vergebung und barmherzig
+
+  [33:6]
+    ٱلنَّبِیُّ أَوۡلَىٰ بِٱلۡمُؤۡمِنِینَ مِنۡ أَنفُسِهِمۡۖ وَأَزۡوَ ٰجُهُۥۤ أُمَّهَـٰتُهُمۡۗ وَأُو۟لُوا۟ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضࣲ فِی كِتَـٰبِ ٱللَّهِ مِنَ ٱلۡمُؤۡمِنِینَ وَٱلۡمُهَـٰجِرِینَ إِلَّاۤ أَن تَفۡعَلُوۤا۟ إِلَىٰۤ أَوۡلِیَاۤئِكُم مَّعۡرُوفࣰاۚ كَانَ ذَ ٰلِكَ فِی ٱلۡكِتَـٰبِ مَسۡطُورࣰا
+    B/E:    Der Prophet steht den Gläubigen näher als sie sich selbst, und seine Gattinnen sind ihre Mütter. Und die Blutsverwandten stehen nach dem Buch Allahs einander näher als die Gläubigen und Auswanderer, außer, daß ihr euren Schützlingen Gutes tun solltet. Dies steht im Buch verzeichnet
+    Khoury: Der Prophet hat eher Anspruch auf die Gläubigen als sie selbst. Und seine Gattinnen sind ihre Mütter. Und die Blutsverwandten haben nach dem Buch Gottes eher Anspruch auf gegenseitige Freundschaft als die Gläubigen und Ausgewanderten, es sei denn, ihr möchtet euren Freunden Gutes tun. Dies ist im Buch Gottes zeilenweise niedergeschrieben
+
+  [33:7]
+    وَإِذۡ أَخَذۡنَا مِنَ ٱلنَّبِیِّـۧنَ مِیثَـٰقَهُمۡ وَمِنكَ وَمِن نُّوحࣲ وَإِبۡرَ ٰهِیمَ وَمُوسَىٰ وَعِیسَى ٱبۡنِ مَرۡیَمَۖ وَأَخَذۡنَا مِنۡهُم مِّیثَـٰقًا غَلِیظࣰا
+    B/E:    Und (gedenke,) als Wir von den Propheten ihr Versprechen abnahmen, und auch von dir und von Nuh, Ibrahim, Musa und ’Isa, dem Sohn Maryams; Wir nahmen ihnen ein festes Versprechen ab
+    Khoury: Und als Wir von den Propheten ihre Verpflichtung entgegennahmen, und auch von dir und von Noach, Abraham, Mose und Jesus, dem Sohn Marias. Wir nahmen von ihnen eine schwere Verpflichtung entgegen
+
+  [33:8]
+    لِّیَسۡءَلَ ٱلصَّـٰدِقِینَ عَن صِدۡقِهِمۡۚ وَأَعَدَّ لِلۡكَـٰفِرِینَ عَذَابًا أَلِیمࣰا
+    B/E:    damit Er die Wahrhaftigen nach ihrer Wahrhaftigkeit frage. Und Er hat für die Ungläubigen schmerzhafte Strafe bereitet
+    Khoury: Damit Er ja die Wahrhaftigen nach ihrem wahrhaftigen Wandel frage. Und Er hat für die Ungläubigen eine schmerzhafte Pein bereitet
+
+  [33:9]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱذۡكُرُوا۟ نِعۡمَةَ ٱللَّهِ عَلَیۡكُمۡ إِذۡ جَاۤءَتۡكُمۡ جُنُودࣱ فَأَرۡسَلۡنَا عَلَیۡهِمۡ رِیحࣰا وَجُنُودࣰا لَّمۡ تَرَوۡهَاۚ وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرًا
+    B/E:    O die ihr glaubt, gedenkt der Gunst Allahs an euch, als Heerscharen zu euch kamen. Da sandten Wir gegen sie einen Wind und Heerscharen, die ihr nicht saht. Und was ihr tut, sieht Allah wohl
+    Khoury: O ihr, die ihr glaubt, gedenket der Gnade Gottes zu euch, als Truppen zu euch kamen. Da sandten Wir gegen sie einen Wind und auch Truppen, die ihr nicht sehen konntet. Und Gott sieht wohl, was ihr tut
+
+  [33:10]
+    إِذۡ جَاۤءُوكُم مِّن فَوۡقِكُمۡ وَمِنۡ أَسۡفَلَ مِنكُمۡ وَإِذۡ زَاغَتِ ٱلۡأَبۡصَـٰرُ وَبَلَغَتِ ٱلۡقُلُوبُ ٱلۡحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠
+    B/E:    Als sie von oben zu euch kamen und von unten her, und als die Blicke unsicher wurden und die Herzen die Kehle erreichten und ihr von Allah verschiedene Meinungen hattet
+    Khoury: Als sie von oben und von unten her zu euch kamen, und als die Blicke wichen und die Herzen die Kehle erreichten und ihr von Gott verschiedene Meinungen hattet
+
+  [33:11]
+    هُنَالِكَ ٱبۡتُلِیَ ٱلۡمُؤۡمِنُونَ وَزُلۡزِلُوا۟ زِلۡزَالࣰا شَدِیدࣰا
+    B/E:    Dort wurden die Gläubigen geprüft und heftig erschüttert
+    Khoury: Dort wurden die Gläubigen geprüft, und sie wurden heftig hin und her geschüttelt
+
+  [33:12]
+    وَإِذۡ یَقُولُ ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥۤ إِلَّا غُرُورࣰا
+    B/E:    Als die Heuchler und diejenigen, in deren Herzen Krankheit ist, sagten: „Allah und Sein Gesandter haben uns nur Trügerisches versprochen
+    Khoury: Als die Heuchler und die, in deren Herzen Krankheit ist, sagten: «Gott und sein Gesandter haben uns nur Trügerisches versprochen.»
+
+  [33:13]
+    وَإِذۡ قَالَت طَّاۤئِفَةࣱ مِّنۡهُمۡ یَـٰۤأَهۡلَ یَثۡرِبَ لَا مُقَامَ لَكُمۡ فَٱرۡجِعُوا۟ۚ وَیَسۡتَءۡذِنُ فَرِیقࣱ مِّنۡهُمُ ٱلنَّبِیَّ یَقُولُونَ إِنَّ بُیُوتَنَا عَوۡرَةࣱ وَمَا هِیَ بِعَوۡرَةٍۖ إِن یُرِیدُونَ إِلَّا فِرَارࣰا
+    B/E:    Und als eine Gruppe von ihnen sagte: „O ihr Leute von Yatrib, ihr könnt euch (hier) nicht aufhalten. Kehrt zurück. Und ein Teil von ihnen bat den Propheten um Erlaubnis, (heimzukehren,) indem sie sagten: „Unsere Häuser sind ohne Schutz. Dabei waren sie nicht ohne Schutz, sie wollten nur fliehen
+    Khoury: Und als eine Gruppe von ihnen sagte: «O ihr Leute von Yathrib, ihr könnt euch (hier) nicht aufhalten. Kehrt zurück.» Und ein Teil von ihnen bat den Propheten um Erlaubnis; sie sagten: «Unsere Häuser sind ohne Schutz.» Dabei waren sie nicht ohne Schutz, sie wollten nur fliehen
+
+  [33:14]
+    وَلَوۡ دُخِلَتۡ عَلَیۡهِم مِّنۡ أَقۡطَارِهَا ثُمَّ سُئِلُوا۟ ٱلۡفِتۡنَةَ لَءَاتَوۡهَا وَمَا تَلَبَّثُوا۟ بِهَاۤ إِلَّا یَسِیرࣰا
+    B/E:    Wäre man von ihren (verschiedenen) Bezirken her zu ihnen eingedrungen und wären sie dann aufgefordert worden, der Versuchung nachzugeben, sie hätten es begangen, und sie hätten dabei nur kurze Zeit gezögert
+    Khoury: Wäre man darin von ihren verschiedenen Bezirken her zu ihnen eingedrungen, und wären sie dann aufgefordert worden, der Versuchung nachzugeben, sie hätten es begangen, und sie hätten dabei nur kurze Zeit gezögert
+
+  [33:15]
+    وَلَقَدۡ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبۡلُ لَا یُوَلُّونَ ٱلۡأَدۡبَـٰرَۚ وَكَانَ عَهۡدُ ٱللَّهِ مَسۡءُولࣰا
+    B/E:    Dabei hatten sie sich zuvor gegenüber Allah verpflichtet, sie würden nicht den Rücken kehren. Nach der (Erfüllung der) Verpflichtung gegenüber Allah wird gefragt werden
+    Khoury: Dabei hatten sie sich vorher Gott gegenüber verpflichtet, sie würden nicht den Rücken kehren. Über die Verpflichtung Gott gegenüber wird Rechenschaft gefordert
+
+  [33:16]
+    قُل لَّن یَنفَعَكُمُ ٱلۡفِرَارُ إِن فَرَرۡتُم مِّنَ ٱلۡمَوۡتِ أَوِ ٱلۡقَتۡلِ وَإِذࣰا لَّا تُمَتَّعُونَ إِلَّا قَلِیلࣰا
+    B/E:    Sag: Die Flucht wird euch nicht nützen, wenn ihr davor flieht, zu sterben oder getötet zu werden. Und dann wird euch nur noch ein wenig Nießbrauch gewährt
+    Khoury: Sprich: Die Flucht wird euch nicht nützen, wenn ihr davor flieht, zu sterben oder getötet zu werden. Und dann wird euch nur noch ein wenig Nutznießung gewährt
+
+  [33:17]
+    قُلۡ مَن ذَا ٱلَّذِی یَعۡصِمُكُم مِّنَ ٱللَّهِ إِنۡ أَرَادَ بِكُمۡ سُوۤءًا أَوۡ أَرَادَ بِكُمۡ رَحۡمَةࣰۚ وَلَا یَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِیࣰّا وَلَا نَصِیرࣰا
+    B/E:    Sag: Wer ist es denn, der euch vor Allah schützen könnte, wenn Er euch Böses will oder wenn Er euch Barmherzigkeit (erweisen) will? Und sie werden für sich vor Allah weder Schutzherrn noch Helfer finden
+    Khoury: Sprich: Wer ist es denn, der euch vor Gott schützen könnte, wenn Er euch Böses will oder wenn Er euch Barmherzigkeit (erweisen) will? Und sie werden für sich außer Gott weder Freund noch Helfer finden
+
+  [33:18]
+    ۞ قَدۡ یَعۡلَمُ ٱللَّهُ ٱلۡمُعَوِّقِینَ مِنكُمۡ وَٱلۡقَاۤئِلِینَ لِإِخۡوَ ٰنِهِمۡ هَلُمَّ إِلَیۡنَاۖ وَلَا یَأۡتُونَ ٱلۡبَأۡسَ إِلَّا قَلِیلًا
+    B/E:    Allah kennt wohl diejenigen von euch, die (die anderen) behindern und die zu ihren Brüdern sagen: „Kommt her zu uns. Und sie lassen sich nur wenig auf den Kampf ein
+    Khoury: Gott kennt wohl diejenigen von euch, die (die anderen) behindern und die zu ihren Brüdern sagen: «Kommt her zu uns.» Und sie lassen sich nur wenig auf den Kampf ein
+
+  [33:19]
+    أَشِحَّةً عَلَیۡكُمۡۖ فَإِذَا جَاۤءَ ٱلۡخَوۡفُ رَأَیۡتَهُمۡ یَنظُرُونَ إِلَیۡكَ تَدُورُ أَعۡیُنُهُمۡ كَٱلَّذِی یُغۡشَىٰ عَلَیۡهِ مِنَ ٱلۡمَوۡتِۖ فَإِذَا ذَهَبَ ٱلۡخَوۡفُ سَلَقُوكُم بِأَلۡسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلۡخَیۡرِۚ أُو۟لَـٰۤئِكَ لَمۡ یُؤۡمِنُوا۟ فَأَحۡبَطَ ٱللَّهُ أَعۡمَـٰلَهُمۡۚ وَكَانَ ذَ ٰلِكَ عَلَى ٱللَّهِ یَسِیرࣰا
+    B/E:    und sind dabei habsüchtig euch gegenüber. Wenn aber die Angst sich einstellt, siehst du, wie sie dich mit kreisenden Augen anschauen wie einer, der vor dem Tod ohnmächtig wird. Wenn dann die Angst gewichen ist, verletzen sie euch mit scharfen Zungen aus Habsucht nach dem (erbeuteten) Gut. Jene haben nicht (wirklich) geglaubt; darum läßt Allah ihre Werke hinfällig werden; und dies ist Allah ein leichtes
+    Khoury: Und sind dabei geizig euch gegenüber. Wenn aber die Angst sich einstellt, siehst du, wie sie zu dir mit kreisenden Augen blicken wie einer, der vor dem Tod ohnmächtig wird. Ist dann die Angst vorüber, verbrühen sie euch mit scharfen Zungen aus Gier nach dem (erbeuteten) Gut. Das sind keine Gläubigen. Gott macht ihre Werke wertlos. Und dies ist Gott ein leichtes
+
+  [33:20]
+    یَحۡسَبُونَ ٱلۡأَحۡزَابَ لَمۡ یَذۡهَبُوا۟ۖ وَإِن یَأۡتِ ٱلۡأَحۡزَابُ یَوَدُّوا۟ لَوۡ أَنَّهُم بَادُونَ فِی ٱلۡأَعۡرَابِ یَسۡءَلُونَ عَنۡ أَنۢبَاۤئِكُمۡۖ وَلَوۡ كَانُوا۟ فِیكُم مَّا قَـٰتَلُوۤا۟ إِلَّا قَلِیلࣰا
+    B/E:    Sie meinen, die Gruppierungen seien nicht weggegangen. Und wenn die Gruppierungen (wieder)kommen sollten, möchten sie gern, sie wären in der Wüste unter den Wüstenarabern und würden sich (nur) über euch erkundigen. Und wenn sie unter euch wären, würden sie nur wenig kämpfen
+    Khoury: Sie meinen, die Parteien seien nicht weggegangen. Und sollten die Parteien (wieder) kommen, möchten sie gerne, sie wären in der Wüste unter den arabischen Beduinen und würden sich über euch erkundigen. Und wenn sie in eurer Mitte wären, würden sie nur wenig kämpfen
+
+  [33:21]
+    لَّقَدۡ كَانَ لَكُمۡ فِی رَسُولِ ٱللَّهِ أُسۡوَةٌ حَسَنَةࣱ لِّمَن كَانَ یَرۡجُوا۟ ٱللَّهَ وَٱلۡیَوۡمَ ٱلۡءَاخِرَ وَذَكَرَ ٱللَّهَ كَثِیرࣰا
+    B/E:    Ihr habt ja im Gesandten Allahs ein schönes Vorbild, (und zwar) für einen jeden, der auf Allah und den Jüngsten Tag hofft und Allahs viel gedenkt
+    Khoury: Ihr habt im Gesandten Gottes ein schönes Vorbild, (und zwar) für jeden, der auf Gott und den Jüngsten Tag hofft und Gottes viel gedenkt
+
+  [33:22]
+    وَلَمَّا رَءَا ٱلۡمُؤۡمِنُونَ ٱلۡأَحۡزَابَ قَالُوا۟ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥۚ وَمَا زَادَهُمۡ إِلَّاۤ إِیمَـٰنࣰا وَتَسۡلِیمࣰا
+    B/E:    Und als die Gläubigen die Gruppierungen sahen, sagten sie: „Das ist, was Allah und Sein Gesandter uns versprochen haben; Allah und Sein Gesandter sagen die Wahrheit. Und es mehrte ihnen nur den Glauben und die Ergebung
+    Khoury: Und als die Gläubigen die Parteien sahen, sagten sie: «Das ist, was Gott und sein Gesandter uns versprochen haben. Gott und sein Gesandter sagen die Wahrheit.» Und es hat ihren Glauben und ihre Ergebenheit nur vermehrt
+
+  [33:23]
+    مِّنَ ٱلۡمُؤۡمِنِینَ رِجَالࣱ صَدَقُوا۟ مَا عَـٰهَدُوا۟ ٱللَّهَ عَلَیۡهِۖ فَمِنۡهُم مَّن قَضَىٰ نَحۡبَهُۥ وَمِنۡهُم مَّن یَنتَظِرُۖ وَمَا بَدَّلُوا۟ تَبۡدِیلࣰا
+    B/E:    Unter den Gläubigen gibt es Männer, die das wahr gemacht haben, wozu sie sich Allah gegenüber verpflichteten. Unter ihnen gibt es manche, die ihr Gelübde erfüllt haben; und unter ihnen gibt es manche, die noch warten (müssen). Und sie haben keine Änderung vorgenommen
+    Khoury: Unter den Gläubigen gibt es Männer, die das wahr gemacht haben, wozu sie sich Gott gegenüber verpflichtet haben. Unter ihnen sind welche, die ihre Lebensaufgabe erfüllt haben; und unter ihnen sind welche, die noch warten müssen. Und sie haben keine Änderung vorgenommen
+
+  [33:24]
+    لِّیَجۡزِیَ ٱللَّهُ ٱلصَّـٰدِقِینَ بِصِدۡقِهِمۡ وَیُعَذِّبَ ٱلۡمُنَـٰفِقِینَ إِن شَاۤءَ أَوۡ یَتُوبَ عَلَیۡهِمۡۚ إِنَّ ٱللَّهَ كَانَ غَفُورࣰا رَّحِیمࣰا
+    B/E:    damit Allah den Wahrhaftigen ihre Wahrhaftigkeit vergelte und die Heuchler strafe, wenn Er will, oder sich ihnen Reue-Annehmend zuwende. Gewiß, Allah ist Allvergebend und Barmherzig
+    Khoury: Auf daß Gott die Wahrhaftigen für ihre Wahrhaftigkeit entlohne und die Heuchler peinige, wenn Er will, oder sich ihnen (gnädig) zuwende. Gott ist voller Vergebung und barmherzig
+
+  [33:25]
+    وَرَدَّ ٱللَّهُ ٱلَّذِینَ كَفَرُوا۟ بِغَیۡظِهِمۡ لَمۡ یَنَالُوا۟ خَیۡرࣰاۚ وَكَفَى ٱللَّهُ ٱلۡمُؤۡمِنِینَ ٱلۡقِتَالَۚ وَكَانَ ٱللَّهُ قَوِیًّا عَزِیزࣰا
+    B/E:    Und Allah wies diejenigen, die ungläubig waren, mit ihrem Grimm zurück, ohne daß sie etwas Gutes erlangt hätten. Und Allah ersparte den Gläubigen den Kampf. Allah ist Stark und Allmächtig
+    Khoury: Und Gott wies diejenigen, die ungläubig sind, mit ihrem Groll zurück, ohne daß sie etwas Gutes erlangt hätten. Und Gott befreite die Gläubigen vom Kampf. Gott ist stark und mächtig
+
+  [33:26]
+    وَأَنزَلَ ٱلَّذِینَ ظَـٰهَرُوهُم مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ مِن صَیَاصِیهِمۡ وَقَذَفَ فِی قُلُوبِهِمُ ٱلرُّعۡبَ فَرِیقࣰا تَقۡتُلُونَ وَتَأۡسِرُونَ فَرِیقࣰا
+    B/E:    Und Er ließ diejenigen von den Leuten der Schrift, die ihnen beigestanden hatten, aus ihren Burgen heruntersteigen. Und Er jagte in ihre Herzen Schrecken; eine Gruppe (von ihnen) habt ihr getötet und eine Gruppe gefangengenommen
+    Khoury: Und Er ließ diejenigen von den Leuten des Buches, die ihnen Beistand geleistet hatten, aus ihren Burgen heruntersteigen. Und Er jagte ihren Herzen Schrecken ein, so daß ihr einen Teil (von ihnen) getötet und einen Teil gefangengenommen habt
+
+  [33:27]
+    وَأَوۡرَثَكُمۡ أَرۡضَهُمۡ وَدِیَـٰرَهُمۡ وَأَمۡوَ ٰلَهُمۡ وَأَرۡضࣰا لَّمۡ تَطَءُوهَاۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣰا
+    B/E:    Und Er gab euch zum Erbe ihr Land, ihre Wohnstätten und ihren Besitz und auch ein Land, das ihr (vorher) nicht betreten hattet. Und Allah hat zu allem die Macht
+    Khoury: Und Er gab euch zum Erbe ihr Land, ihre Wohnstätten und ihren Besitz, und auch ein Land, das ihr (vorher) nicht betreten hattet. Und Gott hat Macht zu allen Dingen
+
+  [33:28]
+    یَـٰۤأَیُّهَا ٱلنَّبِیُّ قُل لِّأَزۡوَ ٰجِكَ إِن كُنتُنَّ تُرِدۡنَ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا وَزِینَتَهَا فَتَعَالَیۡنَ أُمَتِّعۡكُنَّ وَأُسَرِّحۡكُنَّ سَرَاحࣰا جَمِیلࣰا
+    B/E:    O Prophet, sag zu deinen Gattinnen: Wenn ihr das diesseitige Leben und seinen Schmuck haben wollt, dann kommt her, ich werde euch eine Abfindung gewähren und euch auf schöne Weise freigeben
+    Khoury: O Prophet, sprich zu deinen Gattinnen: Wenn ihr das diesseitige Leben und seinen Schmuck begehrt, dann kommt her, ich werde euch eine Versorgung sichern und euch auf eine schöne Weise freigeben
+
+  [33:29]
+    وَإِن كُنتُنَّ تُرِدۡنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلۡءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلۡمُحۡسِنَـٰتِ مِنكُنَّ أَجۡرًا عَظِیمࣰا
+    B/E:    Wenn ihr aber Allah und Seinen Gesandten und die jenseitige Wohnstätte haben wollt, so hat Allah für diejenigen von euch, die Gutes tun, großartigen Lohn berei tet
+    Khoury: Und wenn ihr Gott und seinen Gesandten und die jenseitige Wohnstätte begehrt, so hat Gott für die Rechtschaffenen von euch einen großartigen Lohn bereitet
+
+  [33:30]
+    یَـٰنِسَاۤءَ ٱلنَّبِیِّ مَن یَأۡتِ مِنكُنَّ بِفَـٰحِشَةࣲ مُّبَیِّنَةࣲ یُضَـٰعَفۡ لَهَا ٱلۡعَذَابُ ضِعۡفَیۡنِۚ وَكَانَ ذَ ٰلِكَ عَلَى ٱللَّهِ یَسِیرࣰا
+    B/E:    O Frauen des Propheten, wer von euch etwas klar Abscheuliches begeht, derjenigen wird die Strafe verzweifacht. Und das ist Allah ein leichtes
+    Khoury: O ihr Frauen des Propheten, wenn eine von euch eine eindeutige Schandtat begeht, wird ihr die Pein verdoppelt. Und das ist Gott ein leichtes
+
+  [33:31]
+    ۞ وَمَن یَقۡنُتۡ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعۡمَلۡ صَـٰلِحࣰا نُّؤۡتِهَاۤ أَجۡرَهَا مَرَّتَیۡنِ وَأَعۡتَدۡنَا لَهَا رِزۡقࣰا كَرِیمࣰا
+    B/E:    Und wer von euch Allah und Seinem Gesandten demütig ergeben ist und rechtschaffen handelt, der geben Wir ihren Lohn zweimal. Und Wir haben für sie ehrenvolle Versorgung bereitet
+    Khoury: Und wenn eine von euch Gott und seinem Gesandten ergeben ist und Gutes tut, lassen Wir ihr ihren Lohn zweimal zukommen. Und Wir haben für sie einen trefflichen Unterhalt bereitet
+
+  [33:32]
+    یَـٰنِسَاۤءَ ٱلنَّبِیِّ لَسۡتُنَّ كَأَحَدࣲ مِّنَ ٱلنِّسَاۤءِ إِنِ ٱتَّقَیۡتُنَّۚ فَلَا تَخۡضَعۡنَ بِٱلۡقَوۡلِ فَیَطۡمَعَ ٱلَّذِی فِی قَلۡبِهِۦ مَرَضࣱ وَقُلۡنَ قَوۡلࣰا مَّعۡرُوفࣰا
+    B/E:    O Frauen des Propheten, ihr seid nicht wie irgendeine von den (übrigen) Frauen. Wenn ihr gottesfürchtig seid, dann seid nicht unterwürfig im Reden, damit nicht derjenige, in dessen Herzen Krankheit ist, begehrlich wird, sondern sagt geziemende Worte
+    Khoury: O ihr Frauen des Propheten, ihr seid nicht wie irgendeine von den Frauen. Wenn ihr gottesfürchtig seid, dann seid nicht unterwürfig im Reden, damit nicht derjenige, in dessen Herzen Krankheit ist, sich Hoffnungen macht. Und sprecht geziemende Worte
+
+  [33:33]
+    وَقَرۡنَ فِی بُیُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَـٰهِلِیَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِینَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥۤۚ إِنَّمَا یُرِیدُ ٱللَّهُ لِیُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَیۡتِ وَیُطَهِّرَكُمۡ تَطۡهِیرࣰا
+    B/E:    Haltet euch in euren Häusern auf; und stellt euch nicht zur Schau wie in der Zeit der früheren Unwissenheit. Verrichtet das Gebet und entrichtet die Abgabe und gehorcht Allah und Seinem Gesandten. Allah will gewiß nur den Makel von euch entfernen, ihr Angehörigen des Hauses, und euch völlig rein machen
+    Khoury: Haltet euch in euren Häusern auf. Und stellt nicht euren Schmuck zur Schau wie in der Zeit der früheren Unwissenheit. Verrichtet das Gebet und entrichtet die Abgabe und gehorcht Gott und seinem Gesandten. Gott will die Unreinheit von euch entfernen, ihr Leute des Hauses, und euch völlig rein machen
+
+  [33:34]
+    وَٱذۡكُرۡنَ مَا یُتۡلَىٰ فِی بُیُوتِكُنَّ مِنۡ ءَایَـٰتِ ٱللَّهِ وَٱلۡحِكۡمَةِۚ إِنَّ ٱللَّهَ كَانَ لَطِیفًا خَبِیرًا
+    B/E:    Und gedenkt dessen, was in euren Häusern von den Zeichen Allahs und von der Weisheit verlesen wird. Gewiß, Allah ist Feinfühlig und Allkundig
+    Khoury: Und gedenkt dessen, was von den Zeichen Gottes und von der Weisheit in euren Häusern verlesen wird. Gott ist feinfühlig und hat Kenntnis von allem
+
+  [33:35]
+    إِنَّ ٱلۡمُسۡلِمِینَ وَٱلۡمُسۡلِمَـٰتِ وَٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِ وَٱلۡقَـٰنِتِینَ وَٱلۡقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِینَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِینَ وَٱلصَّـٰبِرَ ٰتِ وَٱلۡخَـٰشِعِینَ وَٱلۡخَـٰشِعَـٰتِ وَٱلۡمُتَصَدِّقِینَ وَٱلۡمُتَصَدِّقَـٰتِ وَٱلصَّـٰۤئِمِینَ وَٱلصَّـٰۤئِمَـٰتِ وَٱلۡحَـٰفِظِینَ فُرُوجَهُمۡ وَٱلۡحَـٰفِظَـٰتِ وَٱلذَّ ٰكِرِینَ ٱللَّهَ كَثِیرࣰا وَٱلذَّ ٰكِرَ ٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةࣰ وَأَجۡرًا عَظِیمࣰا
+    B/E:    Gewiß, muslimische Männer und muslimische Frauen, gläubige Männer und gläubige Frauen, ergebene Männer und ergebene Frauen, wahrhaftige Männer und wahrhaftige Frauen, standhafte Männer und standhafte Frauen, demütige Männer und demütige Frauen, Almosen gebende Männer und Almosen gebende Frauen, fastende Männer und fastende Frauen, Männer, die ihre Scham hüten und Frauen, die (ihre Scham) hüten, und Allahs viel gedenkende Männer und gedenkende Frauen für (all) sie hat Allah Vergebung und großartigen Lohn bereitet
+    Khoury: Für die muslimischen Männer und Frauen, Männer und Frauen, die gläubig, ergeben, wahrhaftig, geduldig, demütig sind, die Almosen geben, fasten, ihre Scham bewahren und Gottes viel gedenken - für sie hat Gott Vergebung und einen großartigen Lohn bereitet
+
+  [33:36]
+    وَمَا كَانَ لِمُؤۡمِنࣲ وَلَا مُؤۡمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥۤ أَمۡرًا أَن یَكُونَ لَهُمُ ٱلۡخِیَرَةُ مِنۡ أَمۡرِهِمۡۗ وَمَن یَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدۡ ضَلَّ ضَلَـٰلࣰا مُّبِینࣰا
+    B/E:    Weder für einen gläubigen Mann noch für eine gläubige Frau gibt es, wenn Allah und Sein Gesandter eine Angelegenheit entschieden haben, die Möglichkeit, in ihrer Angelegenheit zu wählen. Und wer sich Allah und Seinem Gesandten widersetzt, der befindet sich ja in deutlichem Irrtum
+    Khoury: Ein Gläubiger oder eine Gläubige darf, wenn Gott und sein Gesandter eine Angelegenheit entschieden haben, nicht die Möglichkeit haben, in ihrer Angelegenheit frei zu wählen. Und wer gegen Gott und seinen Gesandten ungehorsam ist, der befindet sich in einem offenkundigen Irrtum
+
+  [33:37]
+    وَإِذۡ تَقُولُ لِلَّذِیۤ أَنۡعَمَ ٱللَّهُ عَلَیۡهِ وَأَنۡعَمۡتَ عَلَیۡهِ أَمۡسِكۡ عَلَیۡكَ زَوۡجَكَ وَٱتَّقِ ٱللَّهَ وَتُخۡفِی فِی نَفۡسِكَ مَا ٱللَّهُ مُبۡدِیهِ وَتَخۡشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخۡشَىٰهُۖ فَلَمَّا قَضَىٰ زَیۡدࣱ مِّنۡهَا وَطَرࣰا زَوَّجۡنَـٰكَهَا لِكَیۡ لَا یَكُونَ عَلَى ٱلۡمُؤۡمِنِینَ حَرَجࣱ فِیۤ أَزۡوَ ٰجِ أَدۡعِیَاۤئِهِمۡ إِذَا قَضَوۡا۟ مِنۡهُنَّ وَطَرࣰاۚ وَكَانَ أَمۡرُ ٱللَّهِ مَفۡعُولࣰا
+    B/E:    Und als du zu demjenigen sagtest, dem Allah Gunst erwiesen hatte und dem auch du Gunst erwiesen hattest: „Behalte deine Gattin für dich und fürchte Allah, und in deinem Inneren verborgen hieltest, was Allah doch offenlegen wird, und die Menschen fürchtetest, während Allah ein größeres Anrecht darauf hat, daß du Ihn fürchtest. Als dann Zaid keinen Wunsch mehr an ihr hatte, gaben Wir sie dir zur Gattin, damit für die Gläubigen kein Grund zur Bedrängnis bestehe hinsichtlich der Gattinnen ihrer angenommenen Söhne, wenn diese keinen Wunsch mehr an ihnen haben. Und Allahs Anordnung wird (stets) ausgeführt
+    Khoury: Und als du zu dem, dem Gott Gnade erwiesen hatte und dem auch du Gnade erwiesen hattest, sagtest: «Behalte deine Gattin für dich und fürchte Gott», und in deinem Inneren geheimhieltest, was (Gott doch offenlegt, und die Menschen fürchtetest, während Gott eher darauf Anspruch hat, daß du Ihn fürchtest. Als dann Zayd seinen Wunsch an ihr erfüllt hatte, gaben Wir sie dir zur Gattin, damit für die Gläubigen kein Grund zur Bedrängnis bestehe in bezug auf die Gattinnen ihrer Adoptivsöhne, wenn diese ihren Wunsch an ihnen erfüllt haben. Und der Befehl Gottes wird ausgeführt)
+
+  [33:38]
+    مَّا كَانَ عَلَى ٱلنَّبِیِّ مِنۡ حَرَجࣲ فِیمَا فَرَضَ ٱللَّهُ لَهُۥۖ سُنَّةَ ٱللَّهِ فِی ٱلَّذِینَ خَلَوۡا۟ مِن قَبۡلُۚ وَكَانَ أَمۡرُ ٱللَّهِ قَدَرࣰا مَّقۡدُورًا
+    B/E:    Es besteht für den Propheten kein Grund zur Bedrängnis in dem, was Allah für ihn verpflichtend gemacht hat. (So war) Allahs Gesetzmäßigkeit mit denjenigen, die zuvor dahingegangen sind - und Allahs Anordnung ist ein fest gefaßter Beschluß
+    Khoury: Es besteht für den Propheten kein Grund zur Bedrängnis in dem, was Gott für ihn festgelegt hat. So war das beispielhafte Verhalten Gottes mit denen, die vorher dahingegangen sind - und der Befehl Gottes ist ein fest gefaßter Beschluß
+
+  [33:39]
+    ٱلَّذِینَ یُبَلِّغُونَ رِسَـٰلَـٰتِ ٱللَّهِ وَیَخۡشَوۡنَهُۥ وَلَا یَخۡشَوۡنَ أَحَدًا إِلَّا ٱللَّهَۗ وَكَفَىٰ بِٱللَّهِ حَسِیبࣰا
+    B/E:    die Allahs Botschaften übermitteln, Ihn fürchten und niemanden fürchten außer Allah. Und Allah genügt als Abrechner
+    Khoury: Die die Botschaft Gottes ausrichten, Ihn fürchten und niemanden fürchten außer Gott. Und Gott genügt als der, der abrechnet
+
+  [33:40]
+    مَّا كَانَ مُحَمَّدٌ أَبَاۤ أَحَدࣲ مِّن رِّجَالِكُمۡ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِیِّـۧنَۗ وَكَانَ ٱللَّهُ بِكُلِّ شَیۡءٍ عَلِیمࣰا
+    B/E:    Muhammad ist nicht der Vater irgend jemandes von euren Männern, sondern Allahs Gesandter und das Siegel der Propheten. Und Allah weiß über alles Bescheid
+    Khoury: Muhammad ist nicht der Vater irgendeines von euren Männern, sondern der Gesandte Gottes und das Siegel der Propheten. Und Gott weiß über alle Dinge Bescheid
+
+  [33:41]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱذۡكُرُوا۟ ٱللَّهَ ذِكۡرࣰا كَثِیرࣰا
+    B/E:    O die ihr glaubt, gedenkt Allahs in häufigem Gedenken
+    Khoury: O ihr, die ihr glaubt, gedenket Gottes in häufigem Gedenken
+
+  [33:42]
+    وَسَبِّحُوهُ بُكۡرَةࣰ وَأَصِیلًا
+    B/E:    und preist Ihn morgens und abends
+    Khoury: Und preiset Ihn morgens und abends
+
+  [33:43]
+    هُوَ ٱلَّذِی یُصَلِّی عَلَیۡكُمۡ وَمَلَـٰۤئِكَتُهُۥ لِیُخۡرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِینَ رَحِیمࣰا
+    B/E:    Er ist es, Der über euch den Segen spricht - und auch Seine Engel -, damit Er euch aus den Finsternissen ins Licht hinausbringt; und Er ist zu den Gläubigen Barmherzig
+    Khoury: Er ist es, der über euch den Segen spricht - und auch seine Engel -, damit Er euch aus den Finsternissen ins Licht hinausführt. Und Er ist barmherzig zu den Gläubigen
+
+  [33:44]
+    تَحِیَّتُهُمۡ یَوۡمَ یَلۡقَوۡنَهُۥ سَلَـٰمࣱۚ وَأَعَدَّ لَهُمۡ أَجۡرࣰا كَرِیمࣰا
+    B/E:    Ihr Gruß am Tag, da sie Ihm begegnen, wird sein: „Friede ! Und Er hat für sie trefflichen Lohn bereitet
+    Khoury: Ihre Begrüßung am Tag, da sie Ihm begegnen, wird sein: «Friede!» Und Er hat für sie einen trefflichen Lohn bereitet
+
+  [33:45]
+    یَـٰۤأَیُّهَا ٱلنَّبِیُّ إِنَّاۤ أَرۡسَلۡنَـٰكَ شَـٰهِدࣰا وَمُبَشِّرࣰا وَنَذِیرࣰا
+    B/E:    O Prophet, Wir haben dich gesandt als Zeugen, als Verkünder froher Botschaft und als Warner
+    Khoury: O Prophet, Wir haben dich gesandt als Zeugen, als Freudenboten und als Warner
+
+  [33:46]
+    وَدَاعِیًا إِلَى ٱللَّهِ بِإِذۡنِهِۦ وَسِرَاجࣰا مُّنِیرࣰا
+    B/E:    und als einen, der zu Allah mit Seiner Erlaubnis ruft und als eine lichtspendende Leuchte
+    Khoury: Und als einen, der zu Gott mit seiner Erlaubnis ruft, und als eine helle Leuchte
+
+  [33:47]
+    وَبَشِّرِ ٱلۡمُؤۡمِنِینَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضۡلࣰا كَبِیرࣰا
+    B/E:    Und verkünde den Gläubigen, daß es für sie von Allah große Huld geben wird
+    Khoury: Und verkünde den Gläubigen, daß für sie von Gott eine große Huld bestimmt ist
+
+  [33:48]
+    وَلَا تُطِعِ ٱلۡكَـٰفِرِینَ وَٱلۡمُنَـٰفِقِینَ وَدَعۡ أَذَىٰهُمۡ وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلࣰا
+    B/E:    Und gehorche nicht den Ungläubigen und den Heuchlern; beachte nicht die Beleidigungen, die sie dir zufügen, und verlasse dich auf Allah. Und Allah genügt als Sachwalter
+    Khoury: Und gehorche nicht den Ungläubigen und den Heuchlern. Kümmere dich nicht um das Leid, das sie dir zufügen, und vertrau auf Gott. Und Gott genügt als Sachwalter
+
+  [33:49]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا نَكَحۡتُمُ ٱلۡمُؤۡمِنَـٰتِ ثُمَّ طَلَّقۡتُمُوهُنَّ مِن قَبۡلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمۡ عَلَیۡهِنَّ مِنۡ عِدَّةࣲ تَعۡتَدُّونَهَاۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحࣰا جَمِیلࣰا
+    B/E:    O die ihr glaubt, wenn ihr gläubige Frauen heiratet und euch hierauf von ihnen scheidet, bevor ihr sie berührt habt, dann dürft ihr für sie keine von euch berechnete Wartezeit aussetzen; gewährt ihnen eine Abfindung und gebt sie auf schöne Weise frei
+    Khoury: O ihr, die ihr glaubt, wenn ihr gläubige Frauen heiratet und sie hierauf entlaßt, bevor ihr sie berührt habt, dann dürft ihr ihnen nicht eine von euch berechnete Wartezeit auferlegen. Sichert ihnen eine Versorgung und laßt sie auf eine schöne Weise frei
+
+  [33:50]
+    یَـٰۤأَیُّهَا ٱلنَّبِیُّ إِنَّاۤ أَحۡلَلۡنَا لَكَ أَزۡوَ ٰجَكَ ٱلَّـٰتِیۤ ءَاتَیۡتَ أُجُورَهُنَّ وَمَا مَلَكَتۡ یَمِینُكَ مِمَّاۤ أَفَاۤءَ ٱللَّهُ عَلَیۡكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِی هَاجَرۡنَ مَعَكَ وَٱمۡرَأَةࣰ مُّؤۡمِنَةً إِن وَهَبَتۡ نَفۡسَهَا لِلنَّبِیِّ إِنۡ أَرَادَ ٱلنَّبِیُّ أَن یَسۡتَنكِحَهَا خَالِصَةࣰ لَّكَ مِن دُونِ ٱلۡمُؤۡمِنِینَۗ قَدۡ عَلِمۡنَا مَا فَرَضۡنَا عَلَیۡهِمۡ فِیۤ أَزۡوَ ٰجِهِمۡ وَمَا مَلَكَتۡ أَیۡمَـٰنُهُمۡ لِكَیۡلَا یَكُونَ عَلَیۡكَ حَرَجࣱۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمࣰا
+    B/E:    O Prophet, Wir haben dir (zu heiraten) erlaubt: deine Gattinnen, denen du ihren Lohn gegeben hast, das, was deine rechte Hand (an Sklavinnen) besitzt von dem, was Allah dir als Beute zugeteilt hat, die Töchter deiner Onkel väterlicherseits und die Töchter deiner Tanten väterlicherseits, die Töchter deiner Onkel mütterlicherseits und die Töchter deiner Tanten mütterlicherseits, die mit dir ausgewandert sind; auch eine (jede) gläubige Frau, wenn sie sich dem Propheten (ohne Gegenforderung) schenkt und falls der Prophet sie heiraten will: Dies ist dir vorbehalten unter Ausschluß der (übrigen) Gläubigen - Wir wissen wohl, was Wir ihnen hinsichtlich ihrer Gattinnen und dessen, was ihre rechte Hand (an Sklavinnen) besitzt, verpflichtend gemacht haben -, damit für dich kein Grund zur Bedrängnis bestehe. Und Allah ist Allvergebend und Barmherzig
+    Khoury: O Prophet, Wir haben dir für erlaubt erklärt zu heiraten: deine Gattinnen, denen du ihren Lohn hast zukommen lassen; das, was deine rechte Hand besitzt von dem, was Gott dir als Beute zugeteilt hat; die Töchter deines Onkels und die Töchter deiner Tanten väterlicherseits, die Töchter deines Onkels und die Töchter deiner Tanten mütterlicherseits, welche mit dir ausgewandert sind; auch jede gläubige Frau, wenn sie sich dem Propheten (ohne Gegenforderung) schenkt und falls der Prophet sie heiraten will: Dies ist dir vorbehalten im Unterschied von den Gläubigen - Wir wissen wohl, was Wir ihnen in bezug auf ihre Gattinnen und auf das, was ihre rechte Hand besitzt, verpflichtend gemacht haben -, damit für dich kein Grund zur Bedrängnis bestehe. Und Gott ist voller Vergebung und barmherzig
+
+  [33:51]
+    ۞ تُرۡجِی مَن تَشَاۤءُ مِنۡهُنَّ وَتُءۡوِیۤ إِلَیۡكَ مَن تَشَاۤءُۖ وَمَنِ ٱبۡتَغَیۡتَ مِمَّنۡ عَزَلۡتَ فَلَا جُنَاحَ عَلَیۡكَۚ ذَ ٰلِكَ أَدۡنَىٰۤ أَن تَقَرَّ أَعۡیُنُهُنَّ وَلَا یَحۡزَنَّ وَیَرۡضَیۡنَ بِمَاۤ ءَاتَیۡتَهُنَّ كُلُّهُنَّۚ وَٱللَّهُ یَعۡلَمُ مَا فِی قُلُوبِكُمۡۚ وَكَانَ ٱللَّهُ عَلِیمًا حَلِیمࣰا
+    B/E:    Du darfst zurückstellen, wen von ihnen du willst, und du darfst bei dir aufnehmen, wen du willst. Und wenn du doch eine von denjenigen begehrst, die du abgewiesen hast, dann ist das für dich keine Sünde. Das ist eher geeignet, daß sie frohen Mutes, nicht traurig und daß sie alle mit dem zufrieden sind, was du ihnen gibst. Allah weiß, was in euren Herzen ist. Allah ist Allwissend und Nachsichtig
+    Khoury: Du darfst zurückstellen, wen von ihnen du willst, und du darrst bei dir aufnehmen, wen du willst. Und wenn du doch eine von denen haben möchtest, die du abgewiesen hast, dann ist das für dich kein Vergehen. Das bewirkt eher, daß sie frohen Mutes, nicht betrübt und alle mit dem zufrieden sind, was du ihnen zukommen läßt. Gott weiß, was in euren Herzen ist. Gott weiß Bescheid und ist langmütig
+
+  [33:52]
+    لَّا یَحِلُّ لَكَ ٱلنِّسَاۤءُ مِنۢ بَعۡدُ وَلَاۤ أَن تَبَدَّلَ بِهِنَّ مِنۡ أَزۡوَ ٰجࣲ وَلَوۡ أَعۡجَبَكَ حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ یَمِینُكَۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ رَّقِیبࣰا
+    B/E:    Darüber hinaus ist dir weder erlaubt, Frauen zu heiraten noch sie gegen (andere) Gattinnen einzutauschen, auch wenn ihre Schönheit dir gefallen sollte, mit Ausnahme dessen, was deine rechte Hand (an Sklavinnen) besitzt. Und Allah ist Wächter über alles
+    Khoury: Es ist dir danach nicht mehr erlaubt, Frauen zu heiraten und sie gegen (andere) Gattinnen einzutauschen, auch wenn ihre Schönheit dir gefallen sollte, mit Ausnahme dessen, was deine rechte Hand besitzt. Und Gott ist Wächter über alle Dinge
+
+  [33:53]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَدۡخُلُوا۟ بُیُوتَ ٱلنَّبِیِّ إِلَّاۤ أَن یُؤۡذَنَ لَكُمۡ إِلَىٰ طَعَامٍ غَیۡرَ نَـٰظِرِینَ إِنَىٰهُ وَلَـٰكِنۡ إِذَا دُعِیتُمۡ فَٱدۡخُلُوا۟ فَإِذَا طَعِمۡتُمۡ فَٱنتَشِرُوا۟ وَلَا مُسۡتَءۡنِسِینَ لِحَدِیثٍۚ إِنَّ ذَ ٰلِكُمۡ كَانَ یُؤۡذِی ٱلنَّبِیَّ فَیَسۡتَحۡیِۦ مِنكُمۡۖ وَٱللَّهُ لَا یَسۡتَحۡیِۦ مِنَ ٱلۡحَقِّۚ وَإِذَا سَأَلۡتُمُوهُنَّ مَتَـٰعࣰا فَسۡءَلُوهُنَّ مِن وَرَاۤءِ حِجَابࣲۚ ذَ ٰلِكُمۡ أَطۡهَرُ لِقُلُوبِكُمۡ وَقُلُوبِهِنَّۚ وَمَا كَانَ لَكُمۡ أَن تُؤۡذُوا۟ رَسُولَ ٱللَّهِ وَلَاۤ أَن تَنكِحُوۤا۟ أَزۡوَ ٰجَهُۥ مِنۢ بَعۡدِهِۦۤ أَبَدًاۚ إِنَّ ذَ ٰلِكُمۡ كَانَ عِندَ ٱللَّهِ عَظِیمًا
+    B/E:    O die ihr glaubt, tretet nicht in die Häuser des Propheten ein - außer es wird euch erlaubt - zu(r Teilnahme an) einem Essen, ohne auf die rechte Zeit zu warten. Sondern wenn ihr (herein)gerufen werdet, dann tretet ein, und wenn ihr gegessen habt, dann geht auseinander, und (tut dies,) ohne euch mit geselliger Unterhaltung aufzuhalten. Solches fügt dem Propheten Leid zu, aber er schämt sich vor euch. Allah aber schämt sich nicht vor der Wahrheit. Und wenn ihr sie um einen Gegenstand bittet, so bittet sie hinter einem Vorhang. Das ist reiner für eure Herzen und ihre Herzen. Und es steht euch nicht zu, dem Gesandten Allahs Leid zuzufügen, und auch nicht, jemals seine Gattinnen nach ihm zu heiraten. Gewiß, das wäre bei Allah etwas Ungeheuerliches
+    Khoury: O ihr, die ihr glaubt, tretet nicht in die Häuser des Propheten ein - es sei denn, das wird euch erlaubt - zur Teilnahme an einem Essen, ohne auf die Essenszeit zu warten. Wenn ihr dann hereingerufen werdet, dann tretet ein, und, wenn ihr gegessen habt, dann geht auseinander, und (dies) ohne euch einer Unterhaltung hinzugeben. Damit fügt ihr dem Propheten Leid zu, aber er schämt sich vor euch. Gott aber schämt sich nicht vor der Wahrheit. Und wenn ihr sie um einen Gegenstand bittet, so bittet sie von hinter einem Vorhang. Das ist reiner für eure Herzen und ihre Herzen. Und es steht euch nicht zu, dem Gesandten Gottes Leid zuzufügen, und auch nicht jemals seine Gattinnen nach ihm zu heiraten. Das wäre bei Gott etwas Ungeheuerliches
+
+  [33:54]
+    إِن تُبۡدُوا۟ شَیۡءًا أَوۡ تُخۡفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَیۡءٍ عَلِیمࣰا
+    B/E:    Ob ihr etwas offenlegt oder verbergt, gewiß, Allah weiß über alles Bescheid
+    Khoury: Ob ihr etwas offenlegt oder geheimhaltet, Gott weiß über alle Dinge Bescheid
+
+  [33:55]
+    لَّا جُنَاحَ عَلَیۡهِنَّ فِیۤ ءَابَاۤئِهِنَّ وَلَاۤ أَبۡنَاۤئِهِنَّ وَلَاۤ إِخۡوَ ٰنِهِنَّ وَلَاۤ أَبۡنَاۤءِ إِخۡوَ ٰنِهِنَّ وَلَاۤ أَبۡنَاۤءِ أَخَوَ ٰتِهِنَّ وَلَا نِسَاۤئِهِنَّ وَلَا مَا مَلَكَتۡ أَیۡمَـٰنُهُنَّۗ وَٱتَّقِینَ ٱللَّهَۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَیۡءࣲ شَهِیدًا
+    B/E:    Es besteht für sie keine Sünde weder hinsichtlich ihrer Väter, noch ihrer Söhne, noch ihrer Brüder, der Söhne ihrer Brüder, noch der Söhne ihrer Schwestern, noch ihrer Frauen noch derjenigen, die ihre rechte Hand besitzt. Und fürchtet Allah. Gewiß, Allah ist über alles Zeuge
+    Khoury: Es besteht für sie kein Vergehen in bezug auf ihre Väter, ihre Söhne, ihre Brüder, die Söhne ihrer Brüder, die Söhne ihrer Schwestern, ihre Frauen und die, die ihre rechte Hand besitzt. Und fürchtet Gott. Gott ist Zeuge über alle Dinge
+
+  [33:56]
+    إِنَّ ٱللَّهَ وَمَلَـٰۤئِكَتَهُۥ یُصَلُّونَ عَلَى ٱلنَّبِیِّۚ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ صَلُّوا۟ عَلَیۡهِ وَسَلِّمُوا۟ تَسۡلِیمًا
+    B/E:    Gewiß, Allah und Seine Engel sprechen den Segen über den Propheten. O die ihr glaubt, sprecht den Segen über ihn und grüßt ihn mit gehörigem Gruß
+    Khoury: Gott und seine Engel sprechen den Segen über den Propheten. O ihr, die ihr glaubt, sprecht den Segen über ihn und grüßt ihn mit gehörigem Gruß
+
+  [33:57]
+    إِنَّ ٱلَّذِینَ یُؤۡذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِی ٱلدُّنۡیَا وَٱلۡءَاخِرَةِ وَأَعَدَّ لَهُمۡ عَذَابࣰا مُّهِینࣰا
+    B/E:    Diejenigen, die Allah und Seinem Gesandten Leid zufügen, verflucht Allah im Diesseits und Jenseits, und für sie hat Er schmachvolle Strafe bereitet
+    Khoury: Diejenigen, die Gott und seinem Gesandten Leid zufügen, verflucht Gott im Diesseits und Jenseits, und für sie hat Er eine schmähliche Pein bereitet
+
+  [33:58]
+    وَٱلَّذِینَ یُؤۡذُونَ ٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِ بِغَیۡرِ مَا ٱكۡتَسَبُوا۟ فَقَدِ ٱحۡتَمَلُوا۟ بُهۡتَـٰنࣰا وَإِثۡمࣰا مُّبِینࣰا
+    B/E:    Und diejenigen, die den gläubigen Männern und den gläubigen Frauen Leid zufügen für etwas, was sie nicht begangen haben, laden damit Verleumdung und offenkundige Sünde auf sich
+    Khoury: Und diejenigen, die den gläubigen Männern und Frauen Leid zufügen für etwas, was sie nicht begangen haben, laden auf sich eine Verleumdung und eine offenkundige Schuld
+
+  [33:59]
+    یَـٰۤأَیُّهَا ٱلنَّبِیُّ قُل لِّأَزۡوَ ٰجِكَ وَبَنَاتِكَ وَنِسَاۤءِ ٱلۡمُؤۡمِنِینَ یُدۡنِینَ عَلَیۡهِنَّ مِن جَلَـٰبِیبِهِنَّۚ ذَ ٰلِكَ أَدۡنَىٰۤ أَن یُعۡرَفۡنَ فَلَا یُؤۡذَیۡنَۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمࣰا
+    B/E:    O Prophet, sag deinen Gattinnen und deinen Töchtern und den Frauen der Gläubigen, sie sollen etwas von ihrem Überwurf über sich herunterziehen. Das ist eher geeignet, daß sie erkannt und so nicht belästigt werden. Und Allah ist Allvergebend und Barmherzig
+    Khoury: O Prophet, sag deinen Gattinnen und deinen Töchtern und den Frauen der Gläubigen, sie sollen etwas von ihrem Überwurf über sich herunterziehen. Das bewirkt eher, daß sie erkannt werden und daß sie nicht belästigt werden. Und Gott ist voller Vergebung und barmherzig
+
+  [33:60]
+    ۞ لَّئِن لَّمۡ یَنتَهِ ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ وَٱلۡمُرۡجِفُونَ فِی ٱلۡمَدِینَةِ لَنُغۡرِیَنَّكَ بِهِمۡ ثُمَّ لَا یُجَاوِرُونَكَ فِیهَاۤ إِلَّا قَلِیلࣰا
+    B/E:    Wenn nicht die Heuchler und diejenigen, in deren Herzen Krankheit ist, und diejenigen, die beunruhigende Gerüchte in der Stadt verbreiten, (damit) aufhören, werden Wir dich ganz gewiß gegen sie antreiben. Hierauf werden sie nur noch kurze Zeit darin deine Nachbarn sein
+    Khoury: Wenn die Heuchler und diejenigen, in deren Herzen Krankheit ist, und diejenigen, die beunruhigende Falschmeldungen in der Stadt verbreiten, (damit) nicht aufhören, werden Wir dich bestimmt gegen sie antreiben. Dann werden sie nur noch kurze Zeit in deiner Nachbarschaft darin wohnen
+
+  [33:61]
+    مَّلۡعُونِینَۖ أَیۡنَمَا ثُقِفُوۤا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقۡتِیلࣰا
+    B/E:    (Sie sind) verflucht. Wo immer sie (im Kampf) angetroffen werden, werden sie ergriffen und allesamt getötet
+    Khoury: Verflucht sind sie. Wo immer man sie trifft, wird man sie ergreifen und unerbittlich töten
+
+  [33:62]
+    سُنَّةَ ٱللَّهِ فِی ٱلَّذِینَ خَلَوۡا۟ مِن قَبۡلُۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبۡدِیلࣰا
+    B/E:    (So war) Allahs Gesetzmäßigkeit mit denjenigen, die zuvor dahingegangen sind. Und du wirst in Allahs Gesetzmäßigkeit keine Änderung finden
+    Khoury: So war das beispielhafte Verfahren Gottes mit denen, die vorher dahingegangen sind. Und du wirst im Verfahren Gottes keine Veränderung finden
+
+  [33:63]
+    یَسۡءَلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِۖ قُلۡ إِنَّمَا عِلۡمُهَا عِندَ ٱللَّهِۚ وَمَا یُدۡرِیكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِیبًا
+    B/E:    Die Menschen fragen dich nach der Stunde. Sag: Das Wissen darüber ist nur bei Allah. Was läßt dich wissen? Vielleicht ist die Stunde nahe
+    Khoury: Die Menschen fragen dich nach der Stunde. Sprich: Nur Gott weiß über sie Bescheid. Woher willst du es wissen? Vielleicht steht die Stunde nahe bevor
+
+  [33:64]
+    إِنَّ ٱللَّهَ لَعَنَ ٱلۡكَـٰفِرِینَ وَأَعَدَّ لَهُمۡ سَعِیرًا
+    B/E:    Gewiß, Allah hat die Ungläubigen verflucht und für sie eine Feuerglut bereitet
+    Khoury: Gott hat die Ungläubigen verflucht, und Er hat für sie einen Feuerbrand bereitet
+
+  [33:65]
+    خَـٰلِدِینَ فِیهَاۤ أَبَدࣰاۖ لَّا یَجِدُونَ وَلِیࣰّا وَلَا نَصِیرࣰا
+    B/E:    ewig und auf immer darin zu bleiben, ohne einen Schutzherrn noch Helfer zu finden
+    Khoury: Darin werden sie auf immer ewig weilen; und sie werden weder Freund noch Helfer finden
+
+  [33:66]
+    یَوۡمَ تُقَلَّبُ وُجُوهُهُمۡ فِی ٱلنَّارِ یَقُولُونَ یَـٰلَیۡتَنَاۤ أَطَعۡنَا ٱللَّهَ وَأَطَعۡنَا ٱلرَّسُولَا۠
+    B/E:    Am Tag, da ihre Gesichter im (Höllen)feuer hin und her gedreht werden, sagen sie: „O hätten wir doch Allah gehorcht und hätten wir dem Gesandten gehorcht
+    Khoury: Am Tag, da ihre Gesichter im Feuer gewendet werden, sagen sie: «O hätten wir doch Gott gehorcht und hätten wir doch dem Gesandten gehorcht!»
+
+  [33:67]
+    وَقَالُوا۟ رَبَّنَاۤ إِنَّاۤ أَطَعۡنَا سَادَتَنَا وَكُبَرَاۤءَنَا فَأَضَلُّونَا ٱلسَّبِیلَا۠
+    B/E:    Und sie sagen: „Unser Herr, gewiß, wir haben unseren Herrschern und unseren Großen gehorcht, und da haben sie uns vom Weg abirren lassen
+    Khoury: Und sie sagen: «Unser Herr, wir haben unseren Herrschern und den Großen unter uns gehorcht, da haben sie uns vom Weg abirren lassen
+
+  [33:68]
+    رَبَّنَاۤ ءَاتِهِمۡ ضِعۡفَیۡنِ مِنَ ٱلۡعَذَابِ وَٱلۡعَنۡهُمۡ لَعۡنࣰا كَبِیرࣰا
+    B/E:    Unser Herr, lasse ihnen zweifache Strafe zukommen, und verfluche sie mit einem großen Fluch
+    Khoury: Unser Herr, laß ihnen ein Doppelmaß an Pein zukommen, und verfluche sie mit einem großen Fluch.»
+
+  [33:69]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِینَ ءَاذَوۡا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ۚ وَكَانَ عِندَ ٱللَّهِ وَجِیهࣰا
+    B/E:    O die ihr glaubt, seid nicht wie diejenigen, die Musa Leid zufügten, worauf Allah ihn freisprach von dem, was sie (über ihn) sagten; und er war bei Allah angesehen
+    Khoury: O ihr, die ihr glaubt, seid nicht wie diejenigen, die Mose Leid zugefügt haben, worauf Gott ihn freisprach von dem, was sie (über ihn) sagten. Er war bei Gott angesehen
+
+  [33:70]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوۡلࣰا سَدِیدࣰا
+    B/E:    O die ihr glaubt, fürchtet Allah und sagt treffende Worte
+    Khoury: O ihr, die ihr glaubt, fürchtet Gott und sprecht zutreffende Worte
+
+  [33:71]
+    یُصۡلِحۡ لَكُمۡ أَعۡمَـٰلَكُمۡ وَیَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡۗ وَمَن یُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدۡ فَازَ فَوۡزًا عَظِیمًا
+    B/E:    so läßt Er eure Werke als gut gelten und vergibt euch eure Sünden. Und wer Allah und Seinem Gesandten gehorcht, der erzielt ja einen großartigen Erfolg
+    Khoury: Dann läßt Er eure Werke als gut gelten und vergibt euch eure Sünden. Und wer Gott und seinem Gesandten gehorcht, der erringt einen großartigen Erfolg
+
+  [33:72]
+    إِنَّا عَرَضۡنَا ٱلۡأَمَانَةَ عَلَى ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَٱلۡجِبَالِ فَأَبَیۡنَ أَن یَحۡمِلۡنَهَا وأَشۡفَقۡنَ مِنۡهَا وَحَمَلَهَا ٱلۡإِنسَـٰنُۖ إِنَّهُۥ كَانَ ظَلُومࣰا جَهُولࣰا
+    B/E:    Wir haben das anvertraute Gut den Himmeln und der Erde und den Bergen angeboten, aber sie weigerten sich, es zu tragen, sie scheuten sich davor. Der Mensch trug es - gewiß, er ist sehr oft ungerecht und sehr oft töricht
+    Khoury: Wir haben das Vertrauenspfand den Himmeln und der Erde und den Bergen angeboten, sie aber weigerten sich, es zu tragen, sie waren erschrocken davor. Der Mensch trug es - er tut wirklich Unrecht und ist sehr töricht
+
+  [33:73]
+    لِّیُعَذِّبَ ٱللَّهُ ٱلۡمُنَـٰفِقِینَ وَٱلۡمُنَـٰفِقَـٰتِ وَٱلۡمُشۡرِكِینَ وَٱلۡمُشۡرِكَـٰتِ وَیَتُوبَ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمَۢا
+    B/E:    (Das ist so,) damit Allah die Heuchler, Männer und Frauen, und die Götzendiener, Männer und Frauen, straft und sich den Gläubigen, Männern und Frauen, Reue-Annehmend zuwendet. Allah ist Allvergebend und Barmherzig
+    Khoury: So wird Gott nun die Heuchler, Männer und Frauen, und die Polytheisten, Männer und Frauen, peinigen, und so wird Gott sich den Gläubigen, Männern und Frauen, zuwenden. Gott ist voller Vergebung und barmherzig
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  جوف              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  سلق              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  صيص              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  عوق              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  نحب              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  جلب              1       2  sehr selten — nur 2x im ganzen Koran
+  حنجر             1       2  sehr selten — nur 2x im ganzen Koran
+  خضع              1       2  sehr selten — nur 2x im ganzen Koran
+  غرو              1       2  sehr selten — nur 2x im ganzen Koran
+  هلم              1       2  sehr selten — nur 2x im ganzen Koran
+  وطر              2       2  kommt AUSSCHLIESSLICH in dieser Sure vor
+  سرج              1       4  sehr selten — nur 4x im ganzen Koran
+  عور              2       4  sehr selten — nur 4x im ganzen Koran
+  ودع              1       4  sehr selten — nur 4x im ganzen Koran
+  رعب              1       5  sehr selten — nur 5x im ganzen Koran
+  شحح              2       5  sehr selten — nur 5x im ganzen Koran
+  عمم              2       5  sehr selten — nur 5x im ganzen Koran
+  قطر              1       5  sehr selten — nur 5x im ganzen Koran
+  أسر              1       6  sehr selten — nur 6x im ganzen Koran
+  ثقف              1       6  sehr selten — nur 6x im ganzen Koran
+  زلزل             2       6  sehr selten — nur 6x im ganzen Koran
+  سدد              1       6  sehr selten — nur 6x im ganzen Koran
+  وطأ              1       6  sehr selten — nur 6x im ganzen Koran
+  أسو              1       7  sehr selten — nur 7x im ganzen Koran
+  برج              2       7  sehr selten — nur 7x im ganzen Koran
+  سرح              4       7  sehr selten — nur 7x im ganzen Koran
+  عمد              1       7  sehr selten — nur 7x im ganzen Koran
+  فيأ              1       7  sehr selten — nur 7x im ganzen Koran
+  أني              1       8  sehr selten — nur 8x im ganzen Koran
+  بهت              1       8  sehr selten — nur 8x im ganzen Koran
+  حجب              1       8  sehr selten — nur 8x im ganzen Koran
+  ختم              1       8  sehr selten — nur 8x im ganzen Koran
+  خول              2       8  sehr selten — nur 8x im ganzen Koran
+  رجف              1       8  sehr selten — nur 8x im ganzen Koran
+  لطف              1       8  sehr selten — nur 8x im ganzen Koran
+  زيغ              1       9  sehr selten — nur 9x im ganzen Koran
+  فرج              1       9  sehr selten — nur 9x im ganzen Koran
+  قذف              1       9  sehr selten — nur 9x im ganzen Koran
+  أصل              1      10  sehr selten — nur 10x im ganzen Koran
+  رجس              1      10  sehr selten — nur 10x im ganzen Koran
+  سفل              1      10  sehr selten — nur 10x im ganzen Koran
+  سود              1      10  sehr selten — nur 10x im ganzen Koran
+  عزل              1      10  sehr selten — nur 10x im ganzen Koran
+  جمل              2      11  selten — 11x im ganzen Koran
+  شفق              1      11  selten — 11x im ganzen Koran
+  غيظ              1      11  selten — 11x im ganzen Koran
+  فرر              3      11  selten — 11x im ganzen Koran
+  بكر              1      12  selten — 12x im ganzen Koran
+  طمع              1      12  selten — 12x im ganzen Koran
+  نيل              1      12  selten — 12x im ganzen Koran
+  أبي              1      13  selten — 13x im ganzen Koran
+  جور              1      13  selten — 13x im ganzen Koran
+  عصم              1      13  selten — 13x im ganzen Koran
+  غلظ              1      13  selten — 13x im ganzen Koran
+  فوه              1      13  selten — 13x im ganzen Koran
+  قنت              3      13  selten — 13x im ganzen Koran
+  صوم              2      14  selten — 14x im ganzen Koran
+  حرج              3      15  selten — 15x im ganzen Koran
+  حبط              1      16  selten — 16x im ganzen Koran
+  سطر              1      16  selten — 16x im ganzen Koran
+  عتد              1      16  selten — 16x im ganzen Koran
+  خشع              2      17  selten — 17x im ganzen Koran
+  فرض              2      18  selten — 18x im ganzen Koran
+  سعر              1      19  selten — 19x im ganzen Koran
+  حزب              3      20  selten — 20x im ganzen Koran
+  حلم              1      21  selten — 21x im ganzen Koran
+  سنن              3      21  selten — 21x im ganzen Koran
+  نشر              1      21  selten — 21x im ganzen Koran
+  خطأ              1      22  selten — 22x im ganzen Koran
+  عرب              1      22  selten — 22x im ganzen Koran
+  طلق              1      23  selten — 23x im ganzen Koran
+  نكح              3      23  selten — 23x im ganzen Koran
+  أذي              7      24  selten — 24x im ganzen Koran
+  جهل              2      24  selten — 24x im ganzen Koran
+  رقب              1      24  selten — 24x im ganzen Koran
+  فحش              1      24  selten — 24x im ganzen Koran
+  مرض              3      24  selten — 24x im ganzen Koran
+  حدد              1      25  selten — 25x im ganzen Koran
+  قسط              1      25  selten — 25x im ganzen Koran
+  لسن              1      25  selten — 25x im ganzen Koran
+  وهب              1      25  selten — 25x im ganzen Koran
+  هون              1      26  selten — 26x im ganzen Koran
+  عجب              1      27  selten — 27x im ganzen Koran
+  غرر              1      27  selten — 27x im ganzen Koran
+  مدن              1      27  selten — 27x im ganzen Koran
+  مسك              1      27  selten — 27x im ganzen Koran
+  أبد              2      28  selten — 28x im ganzen Koran
+  خلو              2      28  selten — 28x im ganzen Koran
+  رجو              2      28  selten — 28x im ganzen Koran
+  جند              2      29  selten — 29x im ganzen Koran
+  دري              1      29  selten — 29x im ganzen Koran
+  غشو              1      29  selten — 29x im ganzen Koran
+  فوز              2      29  selten — 29x im ganzen Koran
+  ودد              1      29  selten — 29x im ganzen Koran
+  بدو              3      31  selten — 31x im ganzen Koran
+  برأ              1      31  selten — 31x im ganzen Koran
+  خلص              1      31  selten — 31x im ganzen Koran
+  طهر              3      31  selten — 31x im ganzen Koran
+  لبث              1      31  selten — 31x im ganzen Koran
+  هجر              2      31  selten — 31x im ganzen Koran
+  عصي              1      32  selten — 32x im ganzen Koran
+  وري              1      32  selten — 32x im ganzen Koran
+  كفي              4      33  selten — 33x im ganzen Koran
+  جنح              3      34  selten — 34x im ganzen Koran
+  خفي              2      34  selten — 34x im ganzen Koran
+  وثق              2      34  selten — 34x im ganzen Koran
+  مرر              1      35  selten — 35x im ganzen Koran
+  ورث              1      35  selten — 35x im ganzen Koran
+  أوي              1      36  selten — 36x im ganzen Koran
+  حدث              1      36  selten — 36x im ganzen Koran
+  بلو              1      38  selten — 38x im ganzen Koran
+  قرر              2      38  selten — 38x im ganzen Koran
+  مرأ              1      38  selten — 38x im ganzen Koran
+  ذنب              1      39  selten — 39x im ganzen Koran
+  جبل              1      41  
+  طوف              1      41  
+  لعن              5      41  
+  حزن              1      42  
+  قوي              1      42  
+  فوق              1      43  
+  بدل              4      44  
+  حفظ              2      44  
+  دبر              1      44  
+  يسر              3      44  
+  زين              1      46  
+  عهد              3      46  
+  كرم              2      47  
+  أثم              1      48  
+  خشي              4      48  
+  طعم              2      48  
+  سوع              2      49  
+  نفع              1      50  
+  حلل              2      51  
+  خبر              2      52  
+  ضعف              3      52  
+  دور              3      55  
+  ذهب              3      56  
+  نهي              1      56  
+  روح              1      57  
+  عدد              8      57  hier gehaeuft (x7.9 gegenueber dem Schnitt)
+  ردد              1      59  
+  زكو              1      59  
+  ظهر              2      59  
+  نسو              6      59  hier gehaeuft (x5.7 gegenueber dem Schnitt)
+  فتن              1      60  
+  زيد              1      61  
+  مسس              1      61  
+  تلو              1      63  
+  قضي              4      63  hier gehaeuft (x3.6 gegenueber dem Schnitt)
+  حمل              3      64  
+  عين              2      65  
+  كسب              1      67  
+  حمد              1      68  
+  ظنن              2      69  
+  علو              1      70  
+  متع              4      70  hier gehaeuft (x3.2 gegenueber dem Schnitt)
+  وكل              4      70  hier gehaeuft (x3.2 gegenueber dem Schnitt)
+  عرف              3      71  
+  يمن              4      71  hier gehaeuft (x3.2 gegenueber dem Schnitt)
+  فرق              3      72  
+  بأس              1      73  
+  بيت              5      73  hier gehaeuft (x3.9 gegenueber dem Schnitt)
+  رجل              3      73  
+  رضو              1      73  
+  ألم              1      75  
+  قلل              4      76  
+  بلغ              2      77  
+  وجه              2      78  
+  وحي              1      78  
+  عرض              1      79  
+  زوج             11      81  hier gehaeuft (x7.6 gegenueber dem Schnitt)
+  أحد              3      85  
+  مول              1      86  
+  توب              2      87  
+  خلد              1      87  
+  ليس              2      89  
+  سبح              1      92  
+  أخو              5      96  
+  بغي              1      96  
+  قرب              1      96  
+  صلو              4      99  
+  دين              1     101  
+  أذن              3     102  
+  شدد              1     102  
+  صبر              2     103  
+  رجع              1     104  
+  فضل              1     104  
+  وجد              3     107  
+  أجر              5     108  
+  فعل              2     108  
+  حسب              2     109  
+  نفق              7     111  hier gehaeuft (x3.5 gegenueber dem Schnitt)
+  أبو              4     117  
+  جزي              1     118  
+  أمم              2     119  
+  عزز              1     120  
+  بشر              2     123  
+  رزق              1     123  
+  خوف              2     124  
+  أول              1     125  
+  دخل              3     126  
+  أهل              3     127  
+  عظم              4     128  
+  سأل              7     129  hier gehaeuft (x3.1 gegenueber dem Schnitt)
+  طوع              7     129  hier gehaeuft (x3.1 gegenueber dem Schnitt)
+  نظر              3     129  
+  نذر              1     130  
+  قدر              3     132  
+  دنو              5     133  
+  سلم              6     140  
+  نعم              3     140  
+  دون              2     144  
+  لقي              1     146  
+  بصر              2     148  
+  رود              7     148  
+  وعد              2     151  
+  غير              2     154  
+  صدق             10     155  hier gehaeuft (x3.6 gegenueber dem Schnitt)
+  بعض              2     158  
+  نصر              2     158  
+  شهد              2     160  
+  نبأ             18     160  hier gehaeuft (x6.3 gegenueber dem Schnitt)
+  كبر              3     161  
+  موت              2     165  
+  سوأ              1     167  
+  كثر              3     167  
+  شرك              2     168  
+  قلب             11     168  hier gehaeuft (x3.7 gegenueber dem Schnitt)
+  قتل              6     170  
+  تبع              1     172  
+  سبل              2     176  
+  صلح              2     180  
+  خرج              1     182  
+  بني             10     184  hier gehaeuft (x3.1 gegenueber dem Schnitt)
+  حيي              4     189  
+  ضلل              3     191  
+  حسن              3     194  
+  نور              3     194  
+  خير              3     196  
+  عند              4     201  
+  ملك              6     206  
+  حكم              2     210  
+  دعو              5     212  
+  ولي              7     232  
+  غفر              7     234  
+  بعد              2     235  
+  أمر              4     248  
+  أخر              3     250  
+  وقي              5     258  
+  أخذ              3     273  
+  جيأ              3     278  
+  حقق              3     287  
+  ذكر              7     292  
+  نزل              1     293  
+  قبل              4     294  
+  نفس              3     298  
+  ظلم              2     315  
+  هدي              1     316  
+  كتب              3     319  
+  رأي              3     328  
+  أنس              4     338  
+  رحم              8     339  
+  جعل              3     346  
+  عمل              5     360  
+  عذب              6     373  
+  كلل              6     377  
+  سمو              1     381  
+  أرض              3     461  
+  يوم              3     475  
+  رسل             17     513  
+  شيأ              9     519  
+  بين              3     523  
+  كفر              5     525  
+  أتي              9     549  
+  أيي             13     597  
+  قوم              2     660  
+  علم              9     854  
+  أمن             31     879  
+  ربب              3     980  
+  كون             42    1390  
+  قول             21    1722  
+  أله             90    2851  
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

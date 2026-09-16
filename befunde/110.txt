@@ -1,0 +1,53 @@
+==============================================================================
+SURE 110  —  3 Verse, 16 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [110:1]
+    إِذَا جَاۤءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ
+    B/E:    Wenn Allahs Hilfe kommt und der Sieg
+    Khoury: Wenn die Unterstützung Gottes kommt, und auch der Erfolg
+
+  [110:2]
+    وَرَأَیۡتَ ٱلنَّاسَ یَدۡخُلُونَ فِی دِینِ ٱللَّهِ أَفۡوَاجࣰا
+    B/E:    und du die Menschen in Allahs Religion in Scharen eintreten siehst
+    Khoury: Und du die Menschen in Scharen in die Religion Gottes eintreten siehst
+
+  [110:3]
+    فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا
+    B/E:    dann lobpreise deinen Herrn und bitte Ihn um Vergebung; gewiß, Er ist Reue-Annehmend
+    Khoury: Dann sing das Lob deines Herrn und bitte Ihn um Vergebung. Siehe, Er wendet sich gnädig wieder zu
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  فوج              1       5  sehr selten — nur 5x im ganzen Koran
+  فتح              1      38  selten — 38x im ganzen Koran
+  حمد              1      68  
+  توب              1      87  
+  سبح              1      92  
+  دين              1     101  
+  دخل              1     126  
+  نصر              1     158  
+  غفر              1     234  
+  جيأ              1     278  
+  رأي              1     328  
+  أنس              1     338  
+  ربب              1     980  
+  كون              1    1390  
+  أله              2    2851  
+
+  ACHTUNG: Diese Sure hat nur 16 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

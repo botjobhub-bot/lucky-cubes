@@ -1,0 +1,50 @@
+==============================================================================
+SURE 112  —  4 Verse, 10 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [112:1]
+    قُلۡ هُوَ ٱللَّهُ أَحَدٌ
+    B/E:    Sag: Er ist Allah, Einer
+    Khoury: Sprich: Er ist Gott, ein Einziger
+
+  [112:2]
+    ٱللَّهُ ٱلصَّمَدُ
+    B/E:    Allah, der Überlegene
+    Khoury: Gott, der Undurchdringliche
+
+  [112:3]
+    لَمۡ یَلِدۡ وَلَمۡ یُولَدۡ
+    B/E:    Er hat nicht gezeugt und ist nicht gezeugt worden
+    Khoury: Er hat nicht gezeugt, und Er ist nicht gezeugt worden
+
+  [112:4]
+    وَلَمۡ یَكُن لَّهُۥ كُفُوًا أَحَدُۢ
+    B/E:    und niemand ist Ihm jemals gleich
+    Khoury: Und niemand ist Ihm ebenbürtig
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  صمد              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  كفأ              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  أحد              2      85  
+  ولد              2     102  
+  كون              1    1390  
+  قول              1    1722  
+  أله              2    2851  
+
+  ACHTUNG: Diese Sure hat nur 10 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

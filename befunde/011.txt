@@ -1,0 +1,981 @@
+==============================================================================
+SURE 11  —  123 Verse, 1166 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [11:1]
+    الۤرۚ كِتَـٰبٌ أُحۡكِمَتۡ ءَایَـٰتُهُۥ ثُمَّ فُصِّلَتۡ مِن لَّدُنۡ حَكِیمٍ خَبِیرٍ
+    B/E:    Alif-Lam-Ra. (Dies ist) ein Buch, dessen Zeichen eindeutig festgefügt und hierauf ausführlich dargelegt sind von Seiten eines Allweisen und Allkundigen
+    Khoury: Alif Lam Ra. (Dies ist) ein Buch, dessen Zeichen eindeutig festgefügt und dann im einzelnen dargelegt sind von einem Weisen und Kundigen
+
+  [11:2]
+    أَلَّا تَعۡبُدُوۤا۟ إِلَّا ٱللَّهَۚ إِنَّنِی لَكُم مِّنۡهُ نَذِیرࣱ وَبَشِیرࣱ
+    B/E:    Ihr sollt nur Allah dienen. Gewiß, ich bin euch von Ihm (aus) ein Warner und Frohbote
+    Khoury: «Ihr sollt Gott allein dienen» - ich bin euch von Ihm her ein Warner und Freudenbote
+
+  [11:3]
+    وَأَنِ ٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ ثُمَّ تُوبُوۤا۟ إِلَیۡهِ یُمَتِّعۡكُم مَّتَـٰعًا حَسَنًا إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى وَیُؤۡتِ كُلَّ ذِی فَضۡلࣲ فَضۡلَهُۥۖ وَإِن تَوَلَّوۡا۟ فَإِنِّیۤ أَخَافُ عَلَیۡكُمۡ عَذَابَ یَوۡمࣲ كَبِیرٍ
+    B/E:    und: Bittet euren Herrn um Vergebung, hierauf wendet euch Ihm in Reue zu, so wird Er euch einen schönen Nießbrauch auf eine festgesetzte Frist gewähren, und Er wird jedem, der voll Huld ist, Seine Huld gewähren. Wenn sie sich jedoch abkehren, (so sag:) Gewiß, ich fürchte für euch die Strafe eines schweren Tages
+    Khoury: Und: «Bittet euren Herrn um Vergebung, dann wendet euch Ihm zu, so wird Er euch eine schöne Nutznießung auf eine bestimmte Frist geben, und Er wird jedem, der ein Verdienst (erworben) hat, sein Verdienst zukommen lassen.» Wenn ihr euch abkehrt, so fürchte ich für euch die Pein eines schweren Tages
+
+  [11:4]
+    إِلَى ٱللَّهِ مَرۡجِعُكُمۡۖ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ
+    B/E:    Zu Allah ist eure Rückkehr, und Er hat zu allem die Macht
+    Khoury: Zu Gott wird eure Rückkehr sein, und Er hat Macht zu allen Dingen
+
+  [11:5]
+    أَلَاۤ إِنَّهُمۡ یَثۡنُونَ صُدُورَهُمۡ لِیَسۡتَخۡفُوا۟ مِنۡهُۚ أَلَا حِینَ یَسۡتَغۡشُونَ ثِیَابَهُمۡ یَعۡلَمُ مَا یُسِرُّونَ وَمَا یُعۡلِنُونَۚ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ
+    B/E:    Sicherlich, sie krümmen ihre Brüste zusammen, um sich vor Ihm zu verbergen. Sicherlich, wenn sie sich (auch) mit ihren Gewändern überdecken, Er weiß doch, was sie geheimhalten und was sie offenlegen. Gewiß, Er weiß über das Innerste der Brüste Bescheid
+    Khoury: Aber siehe, sie falten ihre Brust zusammen, um sich vor Ihm zu verstecken. Siehe, wenn sie sich (auch) mit ihren Gewändern überdecken, Er weiß doch, was sie geheimhalten und was sie offenlegen. Er weiß über das innere Geheimnis Bescheid
+
+  [11:6]
+    ۞ وَمَا مِن دَاۤبَّةࣲ فِی ٱلۡأَرۡضِ إِلَّا عَلَى ٱللَّهِ رِزۡقُهَا وَیَعۡلَمُ مُسۡتَقَرَّهَا وَمُسۡتَوۡدَعَهَاۚ كُلࣱّ فِی كِتَـٰبࣲ مُّبِینࣲ
+    B/E:    Und es gibt kein Tier auf der Erde, ohne daß Allah sein Unterhalt obläge. Und Er kennt seinen Aufenthaltsort und seinen Aufbewahrungsort. Alles ist in einem deutlichen Buch (verzeichnet)
+    Khoury: Und es gibt kein Tier auf der Erde, ohne daß Gott für seinen Unterhalt sorgen und seinen Aufenthaltsort und seinen Aufbewahrungsort kennen würde. Alles steht in einem deutlichen Buch
+
+  [11:7]
+    وَهُوَ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ فِی سِتَّةِ أَیَّامࣲ وَكَانَ عَرۡشُهُۥ عَلَى ٱلۡمَاۤءِ لِیَبۡلُوَكُمۡ أَیُّكُمۡ أَحۡسَنُ عَمَلࣰاۗ وَلَئِن قُلۡتَ إِنَّكُم مَّبۡعُوثُونَ مِنۢ بَعۡدِ ٱلۡمَوۡتِ لَیَقُولَنَّ ٱلَّذِینَ كَفَرُوۤا۟ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ مُّبِینࣱ
+    B/E:    Er ist es, Der die Himmel und die Erde in sechs Tagen erschuf, und Sein Thron war auf dem Wasser, damit Er euch prüfe (und feststelle), wer von euch die besten Taten begeht. Und wenn du sagst: Ihr werdet nach dem Tod auferweckt werden, sagen diejenigen, die ungläubig sind, ganz gewiß: Das ist ja nur deutliche Zauberei
+    Khoury: Er ist es, der die Himmel und die Erde in sechs Tagen erschaffen hat, während sein Thron auf dem Wasser war, um euch zu prüfen (und festzustellen), wer von euch am besten handelt. Und wenn du sagst: «Ihr werdet nach dem Tod auferweckt werden», sagen diejenigen, die ungläubig sind, bestimmt: «Das ist ja offenkundige Zauberei.»
+
+  [11:8]
+    وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰۤ أُمَّةࣲ مَّعۡدُودَةࣲ لَّیَقُولُنَّ مَا یَحۡبِسُهُۥۤۗ أَلَا یَوۡمَ یَأۡتِیهِمۡ لَیۡسَ مَصۡرُوفًا عَنۡهُمۡ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ
+    B/E:    Und wenn Wir ihnen die Strafe für einen bestimmten Zeitraum zurückstellen, sagen sie ganz gewiß: Was hält sie zurück? Wahrlich, am Tag, an dem sie über sie kommt, kann sie nicht von ihnen abgewendet werden, und es wird sie das umschließen, worüber sie sich lustig zu machen pflegten
+    Khoury: Und wenn Wir ihnen die Pein für eine bestimmte Weile zurückstellen, sagen sie wohl: «Was hält sie zurück?» Siehe, am Tag, da sie über sie kommt, kann sie nicht von ihnen abgewehrt werden, und es wird sie das umschließen, worüber sie spotteten
+
+  [11:9]
+    وَلَئِنۡ أَذَقۡنَا ٱلۡإِنسَـٰنَ مِنَّا رَحۡمَةࣰ ثُمَّ نَزَعۡنَـٰهَا مِنۡهُ إِنَّهُۥ لَیَءُوسࣱ كَفُورࣱ
+    B/E:    Und wenn Wir den Menschen von Uns (aus) Barmherzigkeit kosten lassen und sie ihm hierauf entziehen, ist er fürwahr sehr verzweifelt und sehr undankbar
+    Khoury: Und wenn Wir den Menschen von uns her Barmherzigkeit kosten lassen und sie ihm dann wegnehmen, ist er sehr verzweifelt und undankbar
+
+  [11:10]
+    وَلَئِنۡ أَذَقۡنَـٰهُ نَعۡمَاۤءَ بَعۡدَ ضَرَّاۤءَ مَسَّتۡهُ لَیَقُولَنَّ ذَهَبَ ٱلسَّیِّءَاتُ عَنِّیۤۚ إِنَّهُۥ لَفَرِحࣱ فَخُورٌ
+    B/E:    Und wenn Wir ihn Angenehmes kosten lassen nach Leid, das ihm widerfuhr, sagt er ganz gewiß: Das Übel ist von mir gewichen. Und er ist fürwahr froh und prahlerisch
+    Khoury: Und wenn Wir ihn nach einem Leid, das ihn erfaßt hat, Angenehmes kosten lassen, sagt er gewiß: «Das Übel ist von mir gewichen.» Und er ist froh und prahlerisch
+
+  [11:11]
+    إِلَّا ٱلَّذِینَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰۤئِكَ لَهُم مَّغۡفِرَةࣱ وَأَجۡرࣱ كَبِیرࣱ
+    B/E:    außer denjenigen, die standhaft sind und rechtschaffene Werke tun; für sie gibt es Vergebung und großen Lohn
+    Khoury: Mit Ausnahme derer, die geduldig sind und die guten Werke tun; für sie ist Vergebung und ein großer Lohn bestimmt
+
+  [11:12]
+    فَلَعَلَّكَ تَارِكُۢ بَعۡضَ مَا یُوحَىٰۤ إِلَیۡكَ وَضَاۤئِقُۢ بِهِۦ صَدۡرُكَ أَن یَقُولُوا۟ لَوۡلَاۤ أُنزِلَ عَلَیۡهِ كَنزٌ أَوۡ جَاۤءَ مَعَهُۥ مَلَكٌۚ إِنَّمَاۤ أَنتَ نَذِیرࣱۚ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ وَكِیلٌ
+    B/E:    Vielleicht möchtest du einen Teil von dem, was dir (als Offenbarung) eingegeben wird, auslassen und deine Brust ist dadurch beklommen, und dies, weil sie sagen: Wäre doch ein Schatz auf ihn herabgesandt worden oder ein Engel mit ihm gekommen! Du aber bist nur ein Warner. Und Allah ist Sachwalter über alles
+    Khoury: Vielleicht möchtest du einen Teil von dem, was dir offenbart wird, auslassen und fühlst dadurch deine Brust beklommen, und dies, weil sie sagen: «Wäre doch ein Schatz auf ihn herabgesandt worden oder ein Engel mit ihm gekommen!» Du aber bist nur ein Warner. Und Gott ist Sachwalter über alle Dinge
+
+  [11:13]
+    أَمۡ یَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ فَأۡتُوا۟ بِعَشۡرِ سُوَرࣲ مِّثۡلِهِۦ مُفۡتَرَیَـٰتࣲ وَٱدۡعُوا۟ مَنِ ٱسۡتَطَعۡتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ صَـٰدِقِینَ
+    B/E:    Oder sagen sie: Er hat ihn ersonnen Sag: Dann bringt doch zehn ersonnene Suren bei, die ihm gleich sind, und ruft an, wen ihr könnt, außer Allah, wenn ihr wahrhaftig seid
+    Khoury: Oder sagen sie: «Er hat ihn erdichtet»? Sprich: Dann bringt zehn Suren bei, die ihm gleich wären und die erdichtet sind, und ruft, wen ihr könnt, anstelle Gottes an, so ihr die Wahrheit sagt
+
+  [11:14]
+    فَإِلَّمۡ یَسۡتَجِیبُوا۟ لَكُمۡ فَٱعۡلَمُوۤا۟ أَنَّمَاۤ أُنزِلَ بِعِلۡمِ ٱللَّهِ وَأَن لَّاۤ إِلَـٰهَ إِلَّا هُوَۖ فَهَلۡ أَنتُم مُّسۡلِمُونَ
+    B/E:    Und wenn sie euch nicht erhören, dann wisset, daß er nur mit Allahs Wissen herabgesandt worden ist und daß es keinen Gott gibt außer Ihm? Werdet ihr nun (Allah) ergeben sein
+    Khoury: Wenn sie euch nicht erhören, dann wißt, daß es mit Gottes Wissen herabgesandt worden ist und daß es keinen Gott gibt außer ihm. Werdet ihr nun Gottergebene sein
+
+  [11:15]
+    مَن كَانَ یُرِیدُ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا وَزِینَتَهَا نُوَفِّ إِلَیۡهِمۡ أَعۡمَـٰلَهُمۡ فِیهَا وَهُمۡ فِیهَا لَا یُبۡخَسُونَ
+    B/E:    Wer immer das diesseitige Leben und seinen Schmuck will, dem lassen wir in ihm (den Lohn für) seine Werke in vollem Maß zukommen, und ihm wird darin nichts geschmälert
+    Khoury: Denen, die das diesseitige Leben und seinen Schmuck begehren, erstatten Wir in ihm ihre Taten voll, und ihnen wird in ihm nichts abgezogen
+
+  [11:16]
+    أُو۟لَـٰۤئِكَ ٱلَّذِینَ لَیۡسَ لَهُمۡ فِی ٱلۡءَاخِرَةِ إِلَّا ٱلنَّارُۖ وَحَبِطَ مَا صَنَعُوا۟ فِیهَا وَبَـٰطِلࣱ مَّا كَانُوا۟ یَعۡمَلُونَ
+    B/E:    Das sind diejenigen, für die es im Jenseits nur das (Höllen)feuer gibt. Nutzlos ist, was sie in ihm gemacht haben, und hinfallig wird, was sie zu tun pflegten
+    Khoury: Das sind die, für die im Jenseits nichts bestimmt ist als das Feuer. Wertlos ist, was sie in ihm vollbracht haben, und nichtig ist, was sie zu tun pflegten
+
+  [11:17]
+    أَفَمَن كَانَ عَلَىٰ بَیِّنَةࣲ مِّن رَّبِّهِۦ وَیَتۡلُوهُ شَاهِدࣱ مِّنۡهُ وَمِن قَبۡلِهِۦ كِتَـٰبُ مُوسَىٰۤ إِمَامࣰا وَرَحۡمَةًۚ أُو۟لَـٰۤئِكَ یُؤۡمِنُونَ بِهِۦۚ وَمَن یَكۡفُرۡ بِهِۦ مِنَ ٱلۡأَحۡزَابِ فَٱلنَّارُ مَوۡعِدُهُۥۚ فَلَا تَكُ فِی مِرۡیَةࣲ مِّنۡهُۚ إِنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یُؤۡمِنُونَ
+    B/E:    Ist denn einer (den anderen gleich), der sich auf einen klaren Beweis von seinem Herrn stützt, und auf den ein Zeuge von Ihm folgt, dem die Schrift Musas vorausging als Vorbild und Barmherzigkeit? Diese glauben daran. Wer aber von den Gruppierungen ihn verleugnet, dessen Verabredung(sort) ist das (Höllen)feuer. So sei nicht über ihn im Zweifel, er ist die Wahrheit von deinem Herrn. Aber die meisten Menschen glauben nicht
+    Khoury: Ist denn der, der von seinem Herrn einen deutlichen Beweis hat, auf den auch ein Zeuge von Ihm folgt und dem das Buch des Mose vorausging als Vorbild und Barmherzigkeit... (den anderen gleich)? Diese glauben daran. Wer aber von den Parteien ihn verleugnet, dessen Verabredungsort ist das Feuer. So sei nicht über ihn im Zweifel, er ist die Wahrheit von deinem Herrn. Aber die meisten Menschen glauben nicht
+
+  [11:18]
+    وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًاۚ أُو۟لَـٰۤئِكَ یُعۡرَضُونَ عَلَىٰ رَبِّهِمۡ وَیَقُولُ ٱلۡأَشۡهَـٰدُ هَـٰۤؤُلَاۤءِ ٱلَّذِینَ كَذَبُوا۟ عَلَىٰ رَبِّهِمۡۚ أَلَا لَعۡنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِینَ
+    B/E:    Und wer ist ungerechter, als wer gegen Allah eine Lüge ersinnt? Jene werden ihrem Herrn vorgeführt, und die Zeugen werden sagen: Das sind diejenigen, die gegen ihren Herrn gelogen haben. Aber wahrlich, Allahs Fluch (kommt) über die Ungerechten
+    Khoury: Und wer ist ungerechter als der, der gegen Gott eine Lüge erdichtet? Jene werden ihrem Herrn vorgeführt, und die Zeugen werden sagen: «Das sind die, die gegen ihren Herrn gelogen haben.» Möge der Fluch Gottes über die kommen, die Unrecht tun
+
+  [11:19]
+    ٱلَّذِینَ یَصُدُّونَ عَن سَبِیلِ ٱللَّهِ وَیَبۡغُونَهَا عِوَجࣰا وَهُم بِٱلۡءَاخِرَةِ هُمۡ كَـٰفِرُونَ
+    B/E:    die von Allahs Weg abhalten und danach trachten, ihn krumm zu machen, und sie, die sie das Jenseits verleugnen
+    Khoury: Die vom Weg Gottes abweisen und sich ihn krumm wünschen, und die ja das Jenseits verleugnen
+
+  [11:20]
+    أُو۟لَـٰۤئِكَ لَمۡ یَكُونُوا۟ مُعۡجِزِینَ فِی ٱلۡأَرۡضِ وَمَا كَانَ لَهُم مِّن دُونِ ٱللَّهِ مِنۡ أَوۡلِیَاۤءَۘ یُضَـٰعَفُ لَهُمُ ٱلۡعَذَابُۚ مَا كَانُوا۟ یَسۡتَطِیعُونَ ٱلسَّمۡعَ وَمَا كَانُوا۟ یُبۡصِرُونَ
+    B/E:    Jene werden sich (Allah) auf der Erde nicht entziehen können, und sie werden außer Allah keine Schutzherren haben. Die Strafe wird ihnen vervielfacht. Sie konnten nicht hören, und sie pflegten nicht zu sehen
+    Khoury: Jene konnten (Gottes Willen) auf der Erde nicht vereiteln, und sie haben außer Gott keine Freunde. Die Pein wird ihnen verdoppelt. Sie vermochten nicht zu hören, und sie konnten nicht sehen
+
+  [11:21]
+    أُو۟لَـٰۤئِكَ ٱلَّذِینَ خَسِرُوۤا۟ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُوا۟ یَفۡتَرُونَ
+    B/E:    Das sind diejenigen, die ihre Seelen verloren haben, und es ist ihnen entschwunden, was sie zu ersinnen pflegten
+    Khoury: Das sind die, die sich selbst verloren haben, und es ist ihnen entschwunden, was sie erdichteten
+
+  [11:22]
+    لَا جَرَمَ أَنَّهُمۡ فِی ٱلۡءَاخِرَةِ هُمُ ٱلۡأَخۡسَرُونَ
+    B/E:    Zweifellos sind sie im Jenseits die größten Verlierer
+    Khoury: Zweifellos sind sie im Jenseits die größten Verlierer
+
+  [11:23]
+    إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَخۡبَتُوۤا۟ إِلَىٰ رَبِّهِمۡ أُو۟لَـٰۤئِكَ أَصۡحَـٰبُ ٱلۡجَنَّةِۖ هُمۡ فِیهَا خَـٰلِدُونَ
+    B/E:    Gewiß, diejenigen, die glauben und rechtschaffene Werke tun und sich vor ihrem Herrn demütigen, das sind die Insassen des (Paradies)gartens. Ewig werden sie darin bleiben
+    Khoury: Diejenigen, die glauben und die guten Werke tun und sich vor ihrem Herrn demütigen, das sind die Gefährten des Paradieses; darin werden sie ewig weilen
+
+  [11:24]
+    ۞ مَثَلُ ٱلۡفَرِیقَیۡنِ كَٱلۡأَعۡمَىٰ وَٱلۡأَصَمِّ وَٱلۡبَصِیرِ وَٱلسَّمِیعِۚ هَلۡ یَسۡتَوِیَانِ مَثَلًاۚ أَفَلَا تَذَكَّرُونَ
+    B/E:    Das Gleichnis der beiden Gruppen ist wie der Blinde und der Taube und der Sehende und der Hörende. Sind die beiden (etwa) einander gleich? Bedenkt ihr denn nicht
+    Khoury: Es ist mit den beiden Gruppen wie mit dem Blinden und dem Tauben und dem, der sehen, und dem, der hören kann. Sind die beiden etwa einander gleichzusetzen? Wollt ihr es nicht bedenken
+
+  [11:25]
+    وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦۤ إِنِّی لَكُمۡ نَذِیرࣱ مُّبِینٌ
+    B/E:    Und Wir sandten ja bereits Nuh zu seinem Volk: Ich bin euch ja ein deutlicher Warner
+    Khoury: Und Wir sandten Noach zu seinem Volk: «Ich bin euch ein deutlicher Warner
+
+  [11:26]
+    أَن لَّا تَعۡبُدُوۤا۟ إِلَّا ٱللَّهَۖ إِنِّیۤ أَخَافُ عَلَیۡكُمۡ عَذَابَ یَوۡمٍ أَلِیمࣲ
+    B/E:    Ihr sollt keinem außer Allah dienen. Gewiß, ich fürchte für euch die Strafe eines schmerzhaften Tages
+    Khoury: Ihr sollt Gott allein dienen. Ich fürchte für euch die Pein eines schmerzvollen Tages.»
+
+  [11:27]
+    فَقَالَ ٱلۡمَلَأُ ٱلَّذِینَ كَفَرُوا۟ مِن قَوۡمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرࣰا مِّثۡلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِینَ هُمۡ أَرَاذِلُنَا بَادِیَ ٱلرَّأۡیِ وَمَا نَرَىٰ لَكُمۡ عَلَیۡنَا مِن فَضۡلِۭ بَلۡ نَظُنُّكُمۡ كَـٰذِبِینَ
+    B/E:    Da sagte die führende Schar aus seinem Volk, die ungläubig war: Wir sehen in dir nur einen Menschen unseresgleichen. Und wir sehen, daß nur die dir folgen, die unsere Niedrigsten sind, und zwar ohne reifliche Überlegung. Und wir sehen bei euch keinen Vorzug gegenüber uns. Vielmehr meinen wir, daß ihr Lügner seid
+    Khoury: Die Vornehmen aus seinem Volk, die ungläubig waren, sagten: «Wir sehen, daß du nur ein Mensch bist wie wir. Und wir sehen, daß nur die dir folgen, die unsere Niedrigsten sind, und zwar ohne reifliche Überlegung. Und wir sehen bei euch keinen Vorzug über uns. Vielmehr meinen wir, daß ihr lügt.»
+
+  [11:28]
+    قَالَ یَـٰقَوۡمِ أَرَءَیۡتُمۡ إِن كُنتُ عَلَىٰ بَیِّنَةࣲ مِّن رَّبِّی وَءَاتَىٰنِی رَحۡمَةࣰ مِّنۡ عِندِهِۦ فَعُمِّیَتۡ عَلَیۡكُمۡ أَنُلۡزِمُكُمُوهَا وَأَنتُمۡ لَهَا كَـٰرِهُونَ
+    B/E:    Er sagte: O mein Volk, was meint ihr, wenn ich mich auf einen klaren Beweis von meinem Herrn stütze und Er mir eine Barmherzigkeit von Sich hat zukommen lassen, die aber eurem Blick entzogen wurde, sollen wir sie euch da aufzwingen, wo sie euch zuwider ist
+    Khoury: Er sagte: «O mein Volk, was meint ihr? Wenn ich einen deutlichen Beweis von meinem Herrn habe und Er mir eine Barmherzigkeit von sich hat zukommen lassen, die eurem Blick entzogen wurde, könnten wir sie euch da aufzwingen, wo sie euch zuwider ist
+
+  [11:29]
+    وَیَـٰقَوۡمِ لَاۤ أَسۡءَلُكُمۡ عَلَیۡهِ مَالًاۖ إِنۡ أَجۡرِیَ إِلَّا عَلَى ٱللَّهِۚ وَمَاۤ أَنَا۠ بِطَارِدِ ٱلَّذِینَ ءَامَنُوۤا۟ۚ إِنَّهُم مُّلَـٰقُوا۟ رَبِّهِمۡ وَلَـٰكِنِّیۤ أَرَىٰكُمۡ قَوۡمࣰا تَجۡهَلُونَ
+    B/E:    Und, o mein Volk, ich verlange von euch keinen Besitz dafür. Mein Lohn obliegt nur Allah. Und ich werde nicht diejenigen, die glauben, abweisen; sie werden ihrem Herrn begegnen. Aber ich sehe, ihr seid Leute, die töricht sind
+    Khoury: Und, o mein Volk, ich verlange von euch dafür kein Geld. Mein Lohn obliegt Gott allein. Und ich werde nicht diejenigen, die glauben, verstoßen; sie werden ihrem Herrn begegnen. Aber ich sehe, daß ihr Leute seid, die töricht sind
+
+  [11:30]
+    وَیَـٰقَوۡمِ مَن یَنصُرُنِی مِنَ ٱللَّهِ إِن طَرَدتُّهُمۡۚ أَفَلَا تَذَكَّرُونَ
+    B/E:    Und, o mein Volk, wer wird mir gegen Allah helfen, wenn ich sie abweise? Bedenkt ihr denn nicht
+    Khoury: Und, o mein Volk, wer wird mir denn vor Gott Unterstützung gewähren, wenn ich sie verstoßen sollte? Wollt ihr es nicht bedenken
+
+  [11:31]
+    وَلَاۤ أَقُولُ لَكُمۡ عِندِی خَزَاۤئِنُ ٱللَّهِ وَلَاۤ أَعۡلَمُ ٱلۡغَیۡبَ وَلَاۤ أَقُولُ إِنِّی مَلَكࣱ وَلَاۤ أَقُولُ لِلَّذِینَ تَزۡدَرِیۤ أَعۡیُنُكُمۡ لَن یُؤۡتِیَهُمُ ٱللَّهُ خَیۡرًاۖ ٱللَّهُ أَعۡلَمُ بِمَا فِیۤ أَنفُسِهِمۡ إِنِّیۤ إِذࣰا لَّمِنَ ٱلظَّـٰلِمِینَ
+    B/E:    Und ich sage nicht zu euch, ich besäße die Schatzkammern Allahs, und ich weiß auch nicht das Verborgene; und ich sage nicht, ich sei ein Engel. Noch sage ich von denen, die eure Augen verachten, Allah werde ihnen niemals etwas Gutes zukommen lassen - Allah weiß am besten, was in ihrem Innersten ist -, sonst gehörte ich wahrlich zu den Ungerechten
+    Khoury: Und ich sage euch nicht, ich hätte die Vorratskammern Gottes, und ich kenne auch nicht das Unsichtbare. Und ich sage nicht, ich sei ein Engel. Und ich sage nicht (von denen), die eure Augen verachten, Gott werde ihnen niemals etwas Gutes zukommen lassen - Gott weiß besser, was in ihrem Inneren ist -, sonst würde ich zu denen gehören, die Unrecht tun.»
+
+  [11:32]
+    قَالُوا۟ یَـٰنُوحُ قَدۡ جَـٰدَلۡتَنَا فَأَكۡثَرۡتَ جِدَ ٰلَنَا فَأۡتِنَا بِمَا تَعِدُنَاۤ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ
+    B/E:    Sie sagten: O Nuh, du hast bereits mit uns gestritten und dabei den Streit mit uns übertrieben. Bring uns doch her, was du uns androhst, wenn du zu den Wahrhaftigen gehörst
+    Khoury: Sie sagten: «O Noach, du hast mit uns gestritten und den Streit mit uns lange geführt. So bring uns doch her, was du uns androhst, so du zu denen gehörst, die die Wahrheit sagen.»
+
+  [11:33]
+    قَالَ إِنَّمَا یَأۡتِیكُم بِهِ ٱللَّهُ إِن شَاۤءَ وَمَاۤ أَنتُم بِمُعۡجِزِینَ
+    B/E:    Er sagte: Nur Allah (allein) wird es euch bringen, wenn Er will, und ihr werdet euch (Ihm) nicht entziehen können
+    Khoury: Er sagte: «Bringen wird es euch Gott, wenn Er will, und ihr könnt es nicht vereiteln
+
+  [11:34]
+    وَلَا یَنفَعُكُمۡ نُصۡحِیۤ إِنۡ أَرَدتُّ أَنۡ أَنصَحَ لَكُمۡ إِن كَانَ ٱللَّهُ یُرِیدُ أَن یُغۡوِیَكُمۡۚ هُوَ رَبُّكُمۡ وَإِلَیۡهِ تُرۡجَعُونَ
+    B/E:    Und mein guter Rat wird, wenn ich euch gut raten will, euch nicht nützen, wenn Allah euch in Verirrung fallen lassen will. Er ist euer Herr, und zu Ihm werdet ihr zurückgebracht
+    Khoury: Und nicht nützt euch mein Rat, so ich euch raten will, wenn Gott euch abirren lassen will. Er ist euer Herr, und zu Ihm werdet ihr zurückgebracht.»
+
+  [11:35]
+    أَمۡ یَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَیۡتُهُۥ فَعَلَیَّ إِجۡرَامِی وَأَنَا۠ بَرِیۤءࣱ مِّمَّا تُجۡرِمُونَ
+    B/E:    Oder sagen sie: Er hat ihn ersonnen Sag: Wenn ich ihn ersonnen habe, so lastet meine Übeltat auf mir, und ich bin unschuldig an dem, was ihr an Übeltaten begeht
+    Khoury: Oder sagen sie wohl: «Er hat ihn erdichtet»? Sprich: Wenn ich ihn erdichtet habe, so lastet meine Übeltat auf mir, und ich bin unschuldig an dem, was ihr verübt
+
+  [11:36]
+    وَأُوحِیَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن یُؤۡمِنَ مِن قَوۡمِكَ إِلَّا مَن قَدۡ ءَامَنَ فَلَا تَبۡتَئِسۡ بِمَا كَانُوا۟ یَفۡعَلُونَ
+    B/E:    Und Nuh wurde (als Offenbarung) eingegeben: Niemand aus deinem Volk wird glauben außer denen, die bereits geglaubt haben. So sei nicht bekümmert wegen dessen, was sie getan haben
+    Khoury: Und dem Noach wurde offenbart: «Niemand aus deinem Volk wird glauben außer denen, die bereits geglaubt haben. So fühle dich nicht elend wegen dessen, was sie taten
+
+  [11:37]
+    وَٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡیُنِنَا وَوَحۡیِنَا وَلَا تُخَـٰطِبۡنِی فِی ٱلَّذِینَ ظَلَمُوۤا۟ إِنَّهُم مُّغۡرَقُونَ
+    B/E:    Und verfertige das Schiff vor Unseren Augen und nach Unserer Eingebung. Und sprich Mich nicht an zugunsten derer, die Unrecht getan haben; sie werden ertränkt werden
+    Khoury: Und verfertige das Schiff vor unseren Augen und nach unserer Offenbarung. Und sprich Mich nicht an zugunsten derer, die Unrecht getan haben. Sie werden sicher ertränkt werden.»
+
+  [11:38]
+    وَیَصۡنَعُ ٱلۡفُلۡكَ وَكُلَّمَا مَرَّ عَلَیۡهِ مَلَأࣱ مِّن قَوۡمِهِۦ سَخِرُوا۟ مِنۡهُۚ قَالَ إِن تَسۡخَرُوا۟ مِنَّا فَإِنَّا نَسۡخَرُ مِنكُمۡ كَمَا تَسۡخَرُونَ
+    B/E:    Er verfertigte das Schiff, wobei jedesmal, wenn eine führende Schar aus seinem Volk an ihm vorbeikam, sie über ihn spotteten. Er sagte: Wenn ihr über uns spottet, werden auch wir über euch spotten, so wie ihr (jetzt über uns) spottet
+    Khoury: Er ging daran, das Schiff zu verfertigen. Und sooft Vornehme aus seinem Volk an ihm vorbeikamen, verhöhnten sie ihn. Er sagte: «Wenn ihr uns jetzt verhöhnt, werden auch wir euch verhöhnen, so wie ihr (uns jetzt) verhöhnt
+
+  [11:39]
+    فَسَوۡفَ تَعۡلَمُونَ مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَیَحِلُّ عَلَیۡهِ عَذَابࣱ مُّقِیمٌ
+    B/E:    Dann werdet ihr (noch) erfahren, über wen eine Strafe kommen, die ihn in Schande stürzt, und (über wen) eine beständige Strafe hereinbrechen wird
+    Khoury: Und ihr werdet zu wissen bekommen, über wen eine Pein kommen wird, die ihn zuschanden macht, und (über wen) eine beständige Pein hereinbricht.»
+
+  [11:40]
+    حَتَّىٰۤ إِذَا جَاۤءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ قُلۡنَا ٱحۡمِلۡ فِیهَا مِن كُلࣲّ زَوۡجَیۡنِ ٱثۡنَیۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَیۡهِ ٱلۡقَوۡلُ وَمَنۡ ءَامَنَۚ وَمَاۤ ءَامَنَ مَعَهُۥۤ إِلَّا قَلِیلࣱ
+    B/E:    (So ging es,) bis nun Unser Befehl kam und der Ofen brodelte; Wir sagten: Lade darin von jeder (Art) zwei, ein Paar, und deine Angehörigen außer demjenigen, gegen den das Wort vorher ergangen ist, und diejenigen, die glauben! Mit ihm glaubten aber nur wenige
+    Khoury: Als nun unser Befehl kam und der Ofen brodelte, sprachen Wir: «Lade darin ein Paar von jeder Art und deine Angehörigen außer dem, gegen den der Spruch vorher erging, und diejenigen, die glauben.» Mit ihm glaubten aber nur wenige
+
+  [11:41]
+    ۞ وَقَالَ ٱرۡكَبُوا۟ فِیهَا بِسۡمِ ٱللَّهِ مَجۡر۪ىٰهَا وَمُرۡسَىٰهَاۤۚ إِنَّ رَبِّی لَغَفُورࣱ رَّحِیمࣱ
+    B/E:    Und er sagte: Steigt hinein! Im Namen Allahs erfolge seine Fahrt und seine Landung. Mein Herr ist fürwahr Allvergebend und Barmherzig
+    Khoury: Und er sagte: «Steigt hinein. Im Namen Gottes erfolge seine Fahrt und seine Landung. Mein Herr ist voller Vergebung und barmherzig.»
+
+  [11:42]
+    وَهِیَ تَجۡرِی بِهِمۡ فِی مَوۡجࣲ كَٱلۡجِبَالِ وَنَادَىٰ نُوحٌ ٱبۡنَهُۥ وَكَانَ فِی مَعۡزِلࣲ یَـٰبُنَیَّ ٱرۡكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلۡكَـٰفِرِینَ
+    B/E:    Es fuhr mit ihnen dahin inmitten von Wogen wie Berge. Nuh rief seinem Sohn zu, der sich abseits hielt: O mein lieber Sohn, steig mit uns ein und sei nicht mit den Ungläubigen
+    Khoury: Es fuhr mit ihnen dahin auf Wogen wie Berge. Noach rief seinem Sohn zu, der abseits stand: «O mein Sohn, steig ein mit uns und sei nicht mit den Ungläubigen.»
+
+  [11:43]
+    قَالَ سَءَاوِیۤ إِلَىٰ جَبَلࣲ یَعۡصِمُنِی مِنَ ٱلۡمَاۤءِۚ قَالَ لَا عَاصِمَ ٱلۡیَوۡمَ مِنۡ أَمۡرِ ٱللَّهِ إِلَّا مَن رَّحِمَۚ وَحَالَ بَیۡنَهُمَا ٱلۡمَوۡجُ فَكَانَ مِنَ ٱلۡمُغۡرَقِینَ
+    B/E:    Er sagte: Ich werde auf einem Berg Zuflucht suchen, der mich vor dem Wasser schützt. Er sagte: Es gibt heute nichts, das vor dem Befehl Allahs schützen könnte, außer für den, dessen Er Sich erbarmt. Die Wogen trennten sie beide, und so gehörte er zu denjenigen, die ertränkt wurden
+    Khoury: Er sagte: «Ich werde Unterkunft finden auf einem Berg, der mich vor dem Wasser schützt.» Er sagte: «Es gibt heute niemanden, der vor dem Befehl Gottes schützen könnte, außer für den, dessen Er sich erbarmt.» Die Woge trennte sie beide, und so war er einer von denen, die ertränkt wurden
+
+  [11:44]
+    وَقِیلَ یَـٰۤأَرۡضُ ٱبۡلَعِی مَاۤءَكِ وَیَـٰسَمَاۤءُ أَقۡلِعِی وَغِیضَ ٱلۡمَاۤءُ وَقُضِیَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِیِّۖ وَقِیلَ بُعۡدࣰا لِّلۡقَوۡمِ ٱلظَّـٰلِمِینَ
+    B/E:    Und es wurde gesagt: O Erde, schlucke dein Wasser! O Himmel, halt ein! Das Wasser nahm ab, und die Angelegenheit war entschieden. Es saß auf dem (Berg) Gudi auf. Und es wurde gesagt: Weg mit dem ungerechten Volk
+    Khoury: Und es wurde gesprochen: «O Erde, verschlinge dein Wasser. O Himmel, halt ein.» Das Wasser nahm ab, und die Angelegenheit war entschieden. Es hielt auf dem Djudi an. Und es wurde gesprochen: «Weg mit den Leuten, die Unrecht tun!»
+
+  [11:45]
+    وَنَادَىٰ نُوحࣱ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبۡنِی مِنۡ أَهۡلِی وَإِنَّ وَعۡدَكَ ٱلۡحَقُّ وَأَنتَ أَحۡكَمُ ٱلۡحَـٰكِمِینَ
+    B/E:    Und Nuh rief zu seinem Herrn. Er sagte: Mein Herr, mein Sohn gehört zu meinen Angehörigen, und Dein Versprechen ist die Wahrheit, und Du bist der Weiseste derer, die richten
+    Khoury: Und Noach rief seinen Herrn an und sagte: «Mein Herr, mein Sohn gehört zu meinen Angehörigen, und dein Versprechen ist die Wahrheit, und du bist der Weiseste derer, die Urteile fällen.»
+
+  [11:46]
+    قَالَ یَـٰنُوحُ إِنَّهُۥ لَیۡسَ مِنۡ أَهۡلِكَۖ إِنَّهُۥ عَمَلٌ غَیۡرُ صَـٰلِحࣲۖ فَلَا تَسۡءَلۡنِ مَا لَیۡسَ لَكَ بِهِۦ عِلۡمٌۖ إِنِّیۤ أَعِظُكَ أَن تَكُونَ مِنَ ٱلۡجَـٰهِلِینَ
+    B/E:    Er sagte: O Nuh, er gehört nicht zu deinen Angehörigen. Er ist eine Tat, die nicht rechtschaffen ist. So bitte Mich nicht um etwas, wovon du kein Wissen hast! Ich ermahne dich, nicht zu den Toren zu gehören
+    Khoury: Er sprach: «O Noach, er gehört nicht zu deinen Angehörigen. Es ist eine Tat, die nicht gut ist. So bitte Mich nicht um etwas, wovon du kein Wissen hast. Ich ermahne dich, nicht einer der Törichten zu sein.»
+
+  [11:47]
+    قَالَ رَبِّ إِنِّیۤ أَعُوذُ بِكَ أَنۡ أَسۡءَلَكَ مَا لَیۡسَ لِی بِهِۦ عِلۡمࣱۖ وَإِلَّا تَغۡفِرۡ لِی وَتَرۡحَمۡنِیۤ أَكُن مِّنَ ٱلۡخَـٰسِرِینَ
+    B/E:    Er sagte: Mein Herr, ich suche Schutz bei Dir (davor), daß ich Dich um etwas bitte, wovon ich kein Wissen habe! Wenn Du mir nicht vergibst und Dich meiner nicht erbarmst, werde ich zu den Verlierern gehören
+    Khoury: Er sagte: «O mein Herr, ich suche Zuflucht bei Dir davor, daß ich Dich um etwas bitte, wovon ich kein Wissen habe. Wenn Du mir nicht vergibst und dich meiner (nicht) erbarmst, werde ich zu den Verlierern gehören.»
+
+  [11:48]
+    قِیلَ یَـٰنُوحُ ٱهۡبِطۡ بِسَلَـٰمࣲ مِّنَّا وَبَرَكَـٰتٍ عَلَیۡكَ وَعَلَىٰۤ أُمَمࣲ مِّمَّن مَّعَكَۚ وَأُمَمࣱ سَنُمَتِّعُهُمۡ ثُمَّ یَمَسُّهُم مِّنَّا عَذَابٌ أَلِیمࣱ
+    B/E:    Es wurde gesagt: O Nuh, steige hinunter in Frieden von Uns und mit Segnungen über dich und über Gemeinschaften von denen, die mit dir sind. Es gibt (aber auch) Gemeinschaften, denen Wir einen Nießbrauch geben werden, hierauf wird ihnen schmerzhafte Strafe von Uns widerfahren
+    Khoury: Es wurde gesprochen: «O Noach, steig hinunter in unserem Frieden und mit unseren Segnungen über dich und über Gemeinschaften von denen, die mit dir sind. Es gibt Gemeinschaften, denen Wir eine Nutznießung geben werden, dann wird sie eine schmerzhafte Pein von Uns erfassen.»
+
+  [11:49]
+    تِلۡكَ مِنۡ أَنۢبَاۤءِ ٱلۡغَیۡبِ نُوحِیهَاۤ إِلَیۡكَۖ مَا كُنتَ تَعۡلَمُهَاۤ أَنتَ وَلَا قَوۡمُكَ مِن قَبۡلِ هَـٰذَاۖ فَٱصۡبِرۡۖ إِنَّ ٱلۡعَـٰقِبَةَ لِلۡمُتَّقِینَ
+    B/E:    Diese (Nachrichten) gehören zu den Nachrichten vom Verborgenen, die Wir dir (als Offenbarung) eingeben. Du wußtest sie zuvor nicht, weder du noch dein Volk. Sei nun standhaft! Das (gute) Ende gehört den Gottesfürchtigen
+    Khoury: Dies gehört zu den Berichten über das Unsichtbare, die Wir dir offenbaren. Du wußtest sie vorher nicht, weder du noch dein Volk. Sei nun geduldig. Das Ende gehört den Gottesfürchtigen
+
+  [11:50]
+    وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودࣰاۚ قَالَ یَـٰقَوۡمِ ٱعۡبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنۡ إِلَـٰهٍ غَیۡرُهُۥۤۖ إِنۡ أَنتُمۡ إِلَّا مُفۡتَرُونَ
+    B/E:    Und (Wir sandten) zu ’Ad ihren Bruder Hud. Er sagte: O mein Volk, dient Allah! Keinen Gott habt ihr außer Ihm. Ihr ersinnt ja nur Lügen
+    Khoury: Und (Wir sandten) zu Aad ihren Bruder Hud. Er sagte: «O mein Volk, dienet Gott. Ihr habt keinen Gott außer Ihm. Ihr erdichtet ja nur Lügen
+
+  [11:51]
+    یَـٰقَوۡمِ لَاۤ أَسۡءَلُكُمۡ عَلَیۡهِ أَجۡرًاۖ إِنۡ أَجۡرِیَ إِلَّا عَلَى ٱلَّذِی فَطَرَنِیۤۚ أَفَلَا تَعۡقِلُونَ
+    B/E:    O mein Volk, ich verlange von euch keinen Lohn dafür. Mein Lohn obliegt nur demjenigen, Der mich erschaffen hat. Begreift ihr denn nicht
+    Khoury: O mein Volk, ich verlange von euch keinen Lohn. Mein Lohn obliegt dem, der mich geschaffen hat. Habt ihr denn keinen Verstand
+
+  [11:52]
+    وَیَـٰقَوۡمِ ٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ ثُمَّ تُوبُوۤا۟ إِلَیۡهِ یُرۡسِلِ ٱلسَّمَاۤءَ عَلَیۡكُم مِّدۡرَارࣰا وَیَزِدۡكُمۡ قُوَّةً إِلَىٰ قُوَّتِكُمۡ وَلَا تَتَوَلَّوۡا۟ مُجۡرِمِینَ
+    B/E:    Und, o mein Volk, bittet euren Herrn um Vergebung, hierauf bereut vor Ihm, so wird Er den Regen auf euch ergiebig (herab)senden und euch (noch mehr) Kraft zu eurer Kraft hinzufügen. Und kehrt euch nicht als Übeltäter ab
+    Khoury: Und, o mein Volk, bittet euren Herrn um Vergebung, dann wendet euch Ihm zu, so wird Er den Himmel über euch ergiebig regnen lassen und euch zu eurer Kraft noch mehr Kraft hinzu verleihen. Und kehrt euch nicht als Übeltäter ab.»
+
+  [11:53]
+    قَالُوا۟ یَـٰهُودُ مَا جِئۡتَنَا بِبَیِّنَةࣲ وَمَا نَحۡنُ بِتَارِكِیۤ ءَالِهَتِنَا عَن قَوۡلِكَ وَمَا نَحۡنُ لَكَ بِمُؤۡمِنِینَ
+    B/E:    Sie sagten: O Hud, du hast uns keinen klaren Beweis gebracht. Wir wollen nicht unsere Götter auf dein Wort hin verlassen, und wir werden deinetwegen nicht gläubig werden
+    Khoury: Sie sagten: «O Hud, du hast uns keinen deutlichen Beweis gebracht. Wir werden nicht unsere Götter auf dein Wort hin verlassen, und wir werden dir nicht glauben
+
+  [11:54]
+    إِن نَّقُولُ إِلَّا ٱعۡتَرَىٰكَ بَعۡضُ ءَالِهَتِنَا بِسُوۤءࣲۗ قَالَ إِنِّیۤ أُشۡهِدُ ٱللَّهَ وَٱشۡهَدُوۤا۟ أَنِّی بَرِیۤءࣱ مِّمَّا تُشۡرِكُونَ
+    B/E:    Wir können nur sagen, daß einige unserer Götter dich mit etwas Bösem heimgesucht haben. Er sagte: Ich nehme Allah zum Zeugen, und bezeugt auch ihr, daß ich mich lossage von dem, was ihr (Ihm) beigesellt
+    Khoury: Wir können nur sagen, daß einer unserer Götter dir etwas Böses zugefügt hat.» Er sagte: «Ich nehme Gott zum Zeugen, und auch ihr sollt bezeugen, daß ich unschuldig bin an dem, was ihr (Ihm) beigesellt
+
+  [11:55]
+    مِن دُونِهِۦۖ فَكِیدُونِی جَمِیعࣰا ثُمَّ لَا تُنظِرُونِ
+    B/E:    außer Ihm. So schmiedet alle gegen mich eure List und gewährt mir hierauf keinen Aufschub
+    Khoury: (und) neben Ihn (stellt). Geht gegen mich allesamt mit eurer List vor und gewährt mir keinen Aufschub
+
+  [11:56]
+    إِنِّی تَوَكَّلۡتُ عَلَى ٱللَّهِ رَبِّی وَرَبِّكُمۚ مَّا مِن دَاۤبَّةٍ إِلَّا هُوَ ءَاخِذُۢ بِنَاصِیَتِهَاۤۚ إِنَّ رَبِّی عَلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
+    B/E:    Ich verlasse mich auf Allah, meinen Herrn und euren Herrn. Es gibt kein Tier, das Er nicht an seiner Stirnlocke hielte. Gewiß, mein Herr befindet sich auf einem geraden Weg
+    Khoury: Ich vertraue auf Gott, meinen Herrn und euren Herrn. Es gibt kein Tier, das Er nicht an seinem Schopf halten würde. Mein Herr befindet sich auf einem geraden Weg
+
+  [11:57]
+    فَإِن تَوَلَّوۡا۟ فَقَدۡ أَبۡلَغۡتُكُم مَّاۤ أُرۡسِلۡتُ بِهِۦۤ إِلَیۡكُمۡۚ وَیَسۡتَخۡلِفُ رَبِّی قَوۡمًا غَیۡرَكُمۡ وَلَا تَضُرُّونَهُۥ شَیۡءًاۚ إِنَّ رَبِّی عَلَىٰ كُلِّ شَیۡءٍ حَفِیظࣱ
+    B/E:    Wenn ihr euch abkehrt, so habe ich euch ja das (von der Botschaft) ausgerichtet, womit ich zu euch gesandt wurde. Mein Herr wird ein anderes Volk nach euch folgen lassen, und ihr könnt Ihm keinerlei Schaden zufügen. Gewiß, mein Herr ist Hüter über alles
+    Khoury: Wenn ihr euch abkehrt, so habe ich euch das ausgerichtet, womit ich zu euch gesandt worden bin. Mein Herr wird ein anderes Volk nach euch folgen lassen, und ihr könnt Ihm nichts schaden. Mein Herr ist Hüter über alle Dinge.»
+
+  [11:58]
+    وَلَمَّا جَاۤءَ أَمۡرُنَا نَجَّیۡنَا هُودࣰا وَٱلَّذِینَ ءَامَنُوا۟ مَعَهُۥ بِرَحۡمَةࣲ مِّنَّا وَنَجَّیۡنَـٰهُم مِّنۡ عَذَابٍ غَلِیظࣲ
+    B/E:    Als nun Unser Befehl kam, erretteten Wir Hud und diejenigen, die mit ihm glaubten, durch Barmherzigkeit von Uns; und Wir erretteten sie vor harter Strafe
+    Khoury: Als nun unser Befehl eintraf, erretteten Wir Hud und diejenigen, die mit ihm glaubten, aus Barmherzigkeit von Uns, und Wir erretteten sie vor einer schweren Pein
+
+  [11:59]
+    وَتِلۡكَ عَادࣱۖ جَحَدُوا۟ بِءَایَـٰتِ رَبِّهِمۡ وَعَصَوۡا۟ رُسُلَهُۥ وَٱتَّبَعُوۤا۟ أَمۡرَ كُلِّ جَبَّارٍ عَنِیدࣲ
+    B/E:    Das waren die ’Ad. Sie verleugneten die Zeichen ihres Herrn und widersetzten sich Seinen Gesandten und folgten dem Befehl eines jeden trotzigen Gewalthabers
+    Khoury: Das waren die Aad. Sie leugneten die Zeichen ihres Herrn und waren gegen seine Gesandten ungehorsam und folgten dem Befehl eines jeden widerspenstigen Gewaltherrschers
+
+  [11:60]
+    وَأُتۡبِعُوا۟ فِی هَـٰذِهِ ٱلدُّنۡیَا لَعۡنَةࣰ وَیَوۡمَ ٱلۡقِیَـٰمَةِۗ أَلَاۤ إِنَّ عَادࣰا كَفَرُوا۟ رَبَّهُمۡۗ أَلَا بُعۡدࣰا لِّعَادࣲ قَوۡمِ هُودࣲ
+    B/E:    Aber ein Fluch folgte ihnen im Diesseits nach und (wird ihnen) am Tag der Auferstehung (nachfolgen). Sicherlich, die ’Ad verleugneten ihren Herrn. Aber ja, weg mit ’Ad, dem Volk von Hud
+    Khoury: Aber der Fluch verfolgte sie im Diesseits und (so auch) am Tag der Auferstehung. Die Aad waren undankbar gegen ihren Herrn. Ja, weg mit Aad, dem Volk von Hud
+
+  [11:61]
+    ۞ وَإِلَىٰ ثَمُودَ أَخَاهُمۡ صَـٰلِحࣰاۚ قَالَ یَـٰقَوۡمِ ٱعۡبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنۡ إِلَـٰهٍ غَیۡرُهُۥۖ هُوَ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَٱسۡتَعۡمَرَكُمۡ فِیهَا فَٱسۡتَغۡفِرُوهُ ثُمَّ تُوبُوۤا۟ إِلَیۡهِۚ إِنَّ رَبِّی قَرِیبࣱ مُّجِیبࣱ
+    B/E:    Und (Wir sandten) zu Tamud ihren Bruder Salih. Er sagte: O mein Volk, dient Allah! Keinen Gott habt ihr außer Ihm. Er hat euch aus der Erde entstehen lassen und sie euch zu besiedeln gegeben. So bittet Ihn um Vergebung, hierauf bereut vor Ihm. Mein Herr ist nahe und erhört (die Gebete)
+    Khoury: Und (Wir sandten) zu Thamud ihren Bruder Salih. Er sagte: «O mein Volk, dienet Gott. Ihr habt keinen Gott außer Ihm. Er hat euch aus der Erde entstehen lassen und sie euch zu bebauen und zu bestellen gegeben. So bittet Ihn um Vergebung, dann wendet euch Ihm zu. Mein Herr ist nahe und bereit zu erhören.»
+
+  [11:62]
+    قَالُوا۟ یَـٰصَـٰلِحُ قَدۡ كُنتَ فِینَا مَرۡجُوࣰّا قَبۡلَ هَـٰذَاۤۖ أَتَنۡهَىٰنَاۤ أَن نَّعۡبُدَ مَا یَعۡبُدُ ءَابَاۤؤُنَا وَإِنَّنَا لَفِی شَكࣲّ مِّمَّا تَدۡعُونَاۤ إِلَیۡهِ مُرِیبࣲ
+    B/E:    Sie sagten: O Salih, du warst zuvor unter uns einer, auf den man Hoffnung setzte. Willst du uns denn verbieten, dem zu dienen, dem unsere Väter dienen? Wir sind fürwahr über das, wozu du uns aufrufst, in einem starken Zweifel
+    Khoury: Sie sagten: «O Salih, du warst vorher in unserer Mitte einer, auf den man Hoffnung setzte. Willst du uns denn verbieten, zu verehren, was unsere Väter immer verehrt haben? Wir hegen über das, wozu du uns aufrufst, einen starken Zweifel.»
+
+  [11:63]
+    قَالَ یَـٰقَوۡمِ أَرَءَیۡتُمۡ إِن كُنتُ عَلَىٰ بَیِّنَةࣲ مِّن رَّبِّی وَءَاتَىٰنِی مِنۡهُ رَحۡمَةࣰ فَمَن یَنصُرُنِی مِنَ ٱللَّهِ إِنۡ عَصَیۡتُهُۥۖ فَمَا تَزِیدُونَنِی غَیۡرَ تَخۡسِیرࣲ
+    B/E:    Er sagte: O mein Volk, was meint ihr, wenn ich mich auf einen klaren Beweis von meinem Herrn stütze und Er mir Barmherzigkeit von Sich hat zukommen lassen, wer wird mir gegen Allah helfen, wenn ich mich Ihm widersetze? Ihr würdet mir nur (meinen) Verlust mehren
+    Khoury: Er sagte: «O mein Volk, was meint ihr? Wenn ich einen deutlichen Beweis von meinem Herrn habe und Er mir eine Barmherzigkeit von sich hat zukommen lassen, wer wird mir vor Gott Unterstützung gewähren, wenn ich gegen Ihn ungehorsam bin? Ihr bringt mir nur noch einen größeren Verlust
+
+  [11:64]
+    وَیَـٰقَوۡمِ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَایَةࣰۖ فَذَرُوهَا تَأۡكُلۡ فِیۤ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوۤءࣲ فَیَأۡخُذَكُمۡ عَذَابࣱ قَرِیبࣱ
+    B/E:    Und, o mein Volk, dies ist die Kamelstute Allahs, euch zum Zeichen. Laßt sie auf Allahs Erde weiden und fügt ihr nichts Böses zu, sonst überkommt euch eine baldige Strafe
+    Khoury: Und, o mein Volk, dies ist die Kamelstute Gottes, euch zum Zeichen. Laßt sie auf Gottes Erde weiden und rührt sie nicht mit etwas Bösem an. Sonst ergreift euch eine baldige Pein.»
+
+  [11:65]
+    فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِی دَارِكُمۡ ثَلَـٰثَةَ أَیَّامࣲۖ ذَ ٰلِكَ وَعۡدٌ غَیۡرُ مَكۡذُوبࣲ
+    B/E:    Aber sie schnitten ihr die Sehnen durch. Da sagte er: Genießt (euer Leben) in eurer Wohnstätte noch drei Tage lang. Dies ist ein Versprechen, das nicht erlogen ist
+    Khoury: Sie schnitten ihr die Flechsen durch und stachen sie. Da sagte er: «Genießt (euer Leben) in eurer Wohnstätte noch drei Tage lang. Dies ist eine Androhung, die nicht erlogen ist.»
+
+  [11:66]
+    فَلَمَّا جَاۤءَ أَمۡرُنَا نَجَّیۡنَا صَـٰلِحࣰا وَٱلَّذِینَ ءَامَنُوا۟ مَعَهُۥ بِرَحۡمَةࣲ مِّنَّا وَمِنۡ خِزۡیِ یَوۡمِئِذٍۚ إِنَّ رَبَّكَ هُوَ ٱلۡقَوِیُّ ٱلۡعَزِیزُ
+    B/E:    Als nun Unser Befehl kam, erretteten Wir Salih und diejenigen, die mit ihm glaubten, durch Barmherzigkeit von Uns, auch vor der Schande jenes Tages. Gewiß, dein Herr ist ja der Starke und Allmächtige
+    Khoury: Als nun unser Befehl eintraf, erretteten Wir Salih und diejenigen, die mit ihm glaubten, aus Barmherzigkeit von Uns, auch vor der Schande jenes Tages. Dein Herr ist ja der Starke, der Mächtige
+
+  [11:67]
+    وَأَخَذَ ٱلَّذِینَ ظَلَمُوا۟ ٱلصَّیۡحَةُ فَأَصۡبَحُوا۟ فِی دِیَـٰرِهِمۡ جَـٰثِمِینَ
+    B/E:    Und es ergriff diejenigen, die Unrecht taten, der Schrei, und so lagen sie morgens in ihren Wohnstätten auf den Brüsten da
+    Khoury: Da ergriff diejenigen, die Unrecht taten, der Schrei, und am Morgen lagen sie in ihren Wohnstätten auf ihren Gesichtern
+
+  [11:68]
+    كَأَن لَّمۡ یَغۡنَوۡا۟ فِیهَاۤۗ أَلَاۤ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمۡۗ أَلَا بُعۡدࣰا لِّثَمُودَ
+    B/E:    als hätten sie (überhaupt) nicht darin gewohnt. Sicherlich, die Tamud verleugneten ihren Herrn. Aber ja, weg mit Tamud
+    Khoury: Als hätten sie nicht lange darin gewohnt. Die Thamud waren undankbar gegen ihren Herrn. Ja, weg mit Thamud
+
+  [11:69]
+    وَلَقَدۡ جَاۤءَتۡ رُسُلُنَاۤ إِبۡرَ ٰهِیمَ بِٱلۡبُشۡرَىٰ قَالُوا۟ سَلَـٰمࣰاۖ قَالَ سَلَـٰمࣱۖ فَمَا لَبِثَ أَن جَاۤءَ بِعِجۡلٍ حَنِیذࣲ
+    B/E:    Unsere Gesandten kamen bereits zu Ibrahim mit der frohen Botschaft. Sie sagten: Frieden! Er sagte: Friede! Er verweilte nicht lange, da brachte er ein gebratenes Kalb herbei
+    Khoury: Unsere Boten kamen zu Abraham mit der frohen Botschaft. Sie sagten: «Frieden!» Er sagte: «Frieden!» Es dauerte nicht lange, da brachte er ein geschmortes Kalb herbei
+
+  [11:70]
+    فَلَمَّا رَءَاۤ أَیۡدِیَهُمۡ لَا تَصِلُ إِلَیۡهِ نَكِرَهُمۡ وَأَوۡجَسَ مِنۡهُمۡ خِیفَةࣰۚ قَالُوا۟ لَا تَخَفۡ إِنَّاۤ أُرۡسِلۡنَاۤ إِلَىٰ قَوۡمِ لُوطࣲ
+    B/E:    Als er aber sah, daß ihre Hände nicht danach hinlangten, fand er es von ihnen befremdlich, und er empfand Furcht vor ihnen. Sie sagten: Fürchte dich nicht! Wir sind zu dem Volk Luts gesandt
+    Khoury: Und als er sah, daß ihre Hände nicht hinlangten, fand er es von ihnen befremdlich, und er empfand Angst vor ihnen. Sie sagten: «Hab keine Angst. Wir sind zu dem Volk von Lot gesandt.»
+
+  [11:71]
+    وَٱمۡرَأَتُهُۥ قَاۤئِمَةࣱ فَضَحِكَتۡ فَبَشَّرۡنَـٰهَا بِإِسۡحَـٰقَ وَمِن وَرَاۤءِ إِسۡحَـٰقَ یَعۡقُوبَ
+    B/E:    Seine Frau stand dabei. Sie lachte, und da verkündeten Wir ihr Ishaq, und nach Ishaq Ya’qub
+    Khoury: Seine Frau stand da. Da lachte sie. Da verkündeten Wir ihr Isaak, und nach Isaak Jakob
+
+  [11:72]
+    قَالَتۡ یَـٰوَیۡلَتَىٰۤ ءَأَلِدُ وَأَنَا۠ عَجُوزࣱ وَهَـٰذَا بَعۡلِی شَیۡخًاۖ إِنَّ هَـٰذَا لَشَیۡءٌ عَجِیبࣱ
+    B/E:    Sie sagte: O wehe mir, soll ich noch gebären, wo ich doch alt bin, und dies ist doch mein Ehemann, schon ein Greis? Das ist fürwahr eine verwunderliche Sache
+    Khoury: Sie sagte: «O wehe mir, soll ich noch gebären, wo ich doch alt bin und dieser da mein Mann ist, ein Greis? Das ist doch eine verwunderliche Sache.»
+
+  [11:73]
+    قَالُوۤا۟ أَتَعۡجَبِینَ مِنۡ أَمۡرِ ٱللَّهِۖ رَحۡمَتُ ٱللَّهِ وَبَرَكَـٰتُهُۥ عَلَیۡكُمۡ أَهۡلَ ٱلۡبَیۡتِۚ إِنَّهُۥ حَمِیدࣱ مَّجِیدࣱ
+    B/E:    Sie sagten: Wunderst du dich über den Befehl Allahs? Die Barmherzigkeit Allahs und Seine Segnungen seien auf euch, Angehörige des Hauses! Er ist Lobenswürdig und Ruhmvoll
+    Khoury: Sie sagten: «Bist du verwundert über den Befehl Gottes? Die Barmherzigkeit Gottes und seine Segnungen kommen auf euch, ihr Leute des Hauses! Er ist des Lobes und der Ehre würdig.»
+
+  [11:74]
+    فَلَمَّا ذَهَبَ عَنۡ إِبۡرَ ٰهِیمَ ٱلرَّوۡعُ وَجَاۤءَتۡهُ ٱلۡبُشۡرَىٰ یُجَـٰدِلُنَا فِی قَوۡمِ لُوطٍ
+    B/E:    Als die Angst von Ibrahim gewichen und die frohe Botschaft zu ihm gekommen war, begann er mit Uns über das Volk Luts zu streiten
+    Khoury: Als der Schrecken von Abraham gewichen und die frohe Botschaft zu ihm gekommen war, begann er mit Uns über das Volk von Lot zu streiten
+
+  [11:75]
+    إِنَّ إِبۡرَ ٰهِیمَ لَحَلِیمٌ أَوَّ ٰهࣱ مُّنِیبࣱ
+    B/E:    Ibrahim war wahrlich nachsichtig, weichherzig und reuig
+    Khoury: Abraham war ja langmütig, voller Trauer und bereit, sich Gott reumütig zuzuwenden
+
+  [11:76]
+    یَـٰۤإِبۡرَ ٰهِیمُ أَعۡرِضۡ عَنۡ هَـٰذَاۤۖ إِنَّهُۥ قَدۡ جَاۤءَ أَمۡرُ رَبِّكَۖ وَإِنَّهُمۡ ءَاتِیهِمۡ عَذَابٌ غَیۡرُ مَرۡدُودࣲ
+    B/E:    O Ibrahim, lasse davon ab! Der Befehl deines Herrn ist nun gekommen. Über sie kommt eine Strafe, die unwiderruflich ist
+    Khoury: «O Abraham, laß davon ab. Der Befehl deines Herrn ist eingetroffen. Über sie kommt eine Pein, die unabwendbar ist.»
+
+  [11:77]
+    وَلَمَّا جَاۤءَتۡ رُسُلُنَا لُوطࣰا سِیۤءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعࣰا وَقَالَ هَـٰذَا یَوۡمٌ عَصِیبࣱ
+    B/E:    Und als Unsere Gesandten zu Lut kamen, geriet er ihretwegen in eine böse Lage und war durch ihre Anwesenheit beklommen. Er sagte: Das ist ein drangsalvoller Tag
+    Khoury: Und als unsere Boten zu Lot kamen, geriet er ihretwegen in eine böse Lage und wußte daraus keinen Ausweg. Er sagte: «Das ist ein drangsalvoller Tag.»
+
+  [11:78]
+    وَجَاۤءَهُۥ قَوۡمُهُۥ یُهۡرَعُونَ إِلَیۡهِ وَمِن قَبۡلُ كَانُوا۟ یَعۡمَلُونَ ٱلسَّیِّءَاتِۚ قَالَ یَـٰقَوۡمِ هَـٰۤؤُلَاۤءِ بَنَاتِی هُنَّ أَطۡهَرُ لَكُمۡۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخۡزُونِ فِی ضَیۡفِیۤۖ أَلَیۡسَ مِنكُمۡ رَجُلࣱ رَّشِیدࣱ
+    B/E:    Seine Leute kamen eilig zu ihm getrieben. Zuvor pflegten sie böse Taten zu begehen. Er sagte: O mein Volk, dies hier sind meine Töchter, sie sind reiner für euch. So fürchtet Allah und stürzt mich nicht um meiner Gäste willen in Schande! Gibt es denn unter euch keinen besonnenen Mann
+    Khoury: Seine Leute kamen zu ihm geeilt. Zuvor pflegten sie Missetaten zu verüben. Er sagte: «O mein Volk, da sind meine Töchter, sie sind reiner für euch. So fürchtet Gott und bringt nicht Schande über mich in Zusammenhang mit meinen Gästen. Gibt es denn unter euch keinen vernünftigen Mann?»
+
+  [11:79]
+    قَالُوا۟ لَقَدۡ عَلِمۡتَ مَا لَنَا فِی بَنَاتِكَ مِنۡ حَقࣲّ وَإِنَّكَ لَتَعۡلَمُ مَا نُرِیدُ
+    B/E:    Sie sagten: Du weißt sehr wohl, daß wir kein Recht auf deine Töchter haben, und du weißt fürwahr, was wir wollen
+    Khoury: Sie sagten: «Du weißt genau, daß wir kein Recht auf deine Töchter haben, und du weißt wohl, was wir wollen.»
+
+  [11:80]
+    قَالَ لَوۡ أَنَّ لِی بِكُمۡ قُوَّةً أَوۡ ءَاوِیۤ إِلَىٰ رُكۡنࣲ شَدِیدࣲ
+    B/E:    Er sagte: Hätte ich doch Kraft (genug), um euch zu widerstehen, oder könnte ich nur bei einer starken Stütze Zuflucht finden
+    Khoury: Er sagte: «Hätte ich doch Kraft genug, um euch zu widerstehen, oder könnte ich nur auf einem starken Stützpunkt Unterkunft finden!»
+
+  [11:81]
+    قَالُوا۟ یَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن یَصِلُوۤا۟ إِلَیۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعࣲ مِّنَ ٱلَّیۡلِ وَلَا یَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِیبُهَا مَاۤ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَیۡسَ ٱلصُّبۡحُ بِقَرِیبࣲ
+    B/E:    Sie sagten: O Lut, wir sind die Gesandten deines Herrn. Sie werden nicht zu dir gelangen. So zieh mit deinen Angehörigen in einem Teil der Nacht fort, und niemand von euch soll sich umwenden - außer deiner Frau! Gewiß, es wird sie treffen, was jene trifft. Der ihnen versprochene Zeitpunkt ist der Tagesanbruch. Ist nicht der Tagesanbruch schon nahe
+    Khoury: Sie sagten: «O Lot, wir sind die Boten deines Herrn. Sie werden nicht zu dir gelangen. So zieh mit deinen Angehörigen in einem Teil der Nacht fort, und keiner von euch soll sich umdrehen. Ausgenommen deine Frau; treffen wird sie das, was ihnen zustoßen wird. Ihre Verabredungszeit ist der Morgen. Ist nicht der Morgen schon nahe?»
+
+  [11:82]
+    فَلَمَّا جَاۤءَ أَمۡرُنَا جَعَلۡنَا عَـٰلِیَهَا سَافِلَهَا وَأَمۡطَرۡنَا عَلَیۡهَا حِجَارَةࣰ مِّن سِجِّیلࣲ مَّنضُودࣲ
+    B/E:    Als nun Unser Befehl kam, kehrten Wir das Oberste von ihr zuunterst und ließen auf sie Steine aus vorbereitetem gebrannten Lehm regnen
+    Khoury: Als nun unser Befehl eintraf, kehrten Wir in ihrer Stadt das Oberste zuunterst und ließen auf sie Backsteine aus übereinandergeschichtetem Ton regnen
+
+  [11:83]
+    مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِیَ مِنَ ٱلظَّـٰلِمِینَ بِبَعِیدࣲ
+    B/E:    bei deinem Herrn gekennzeichnete (Steine). Und sie liegt den Ungerechten nicht fern
+    Khoury: Bei deinem Herrn gekennzeichnete (Steine). Und sie liegt denen, die Unrecht tun, gewiß nicht fern
+
+  [11:84]
+    ۞ وَإِلَىٰ مَدۡیَنَ أَخَاهُمۡ شُعَیۡبࣰاۚ قَالَ یَـٰقَوۡمِ ٱعۡبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنۡ إِلَـٰهٍ غَیۡرُهُۥۖ وَلَا تَنقُصُوا۟ ٱلۡمِكۡیَالَ وَٱلۡمِیزَانَۖ إِنِّیۤ أَرَىٰكُم بِخَیۡرࣲ وَإِنِّیۤ أَخَافُ عَلَیۡكُمۡ عَذَابَ یَوۡمࣲ مُّحِیطࣲ
+    B/E:    Und (Wir sandten) zu Madyan ihren Bruder Su’aib. Er sagte: O mein Volk, dient Allah! Keinen Gott habt ihr außer Ihm. Laßt an Maß und Gewicht nichts fehlen! Ich sehe, es geht euch gut. Aber ich fürchte für euch die Strafe eines umfassenden Tages
+    Khoury: Und (Wir sandten) zu Madyan ihren Bruder Shuayb. Er sagte: «O mein Volk, dienet Gott. Ihr habt keinen Gott außer Ihm. Laßt an Maß und Gewicht nichts fehlen. Ich sehe, es geht euch gut. Ich fürchte aber für euch die Pein eines umgreifenden Tages
+
+  [11:85]
+    وَیَـٰقَوۡمِ أَوۡفُوا۟ ٱلۡمِكۡیَالَ وَٱلۡمِیزَانَ بِٱلۡقِسۡطِۖ وَلَا تَبۡخَسُوا۟ ٱلنَّاسَ أَشۡیَاۤءَهُمۡ وَلَا تَعۡثَوۡا۟ فِی ٱلۡأَرۡضِ مُفۡسِدِینَ
+    B/E:    Und, o mein Volk, gebt volles Maß und Gewicht in Gerechtigkeit und schmälert den Menschen nicht ihre Sachen und richtet auf der Erde nicht unheilstiftend Verderben an
+    Khoury: Und, o mein Volk, gebt volles Maß und Gewicht nach Gerechtigkeit und zieht den Menschen nichts ab, was ihnen gehört, und verbreitet nicht Unheil auf der Erde
+
+  [11:86]
+    بَقِیَّتُ ٱللَّهِ خَیۡرࣱ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِینَۚ وَمَاۤ أَنَا۠ عَلَیۡكُم بِحَفِیظࣲ
+    B/E:    Das Bleibende (an Lohn) von Allah ist besser für euch, wenn ihr gläubig seid. Und ich bin nicht Hüter über euch
+    Khoury: Was bei Gott bleibt, ist besser für euch, so ihr gläubig seid. Und ich bin nicht Hüter über euch.»
+
+  [11:87]
+    قَالُوا۟ یَـٰشُعَیۡبُ أَصَلَوٰتُكَ تَأۡمُرُكَ أَن نَّتۡرُكَ مَا یَعۡبُدُ ءَابَاۤؤُنَاۤ أَوۡ أَن نَّفۡعَلَ فِیۤ أَمۡوَ ٰلِنَا مَا نَشَـٰۤؤُا۟ۖ إِنَّكَ لَأَنتَ ٱلۡحَلِیمُ ٱلرَّشِیدُ
+    B/E:    Sie sagten: O Su’aib, befiehlt dir denn dein Gebet, daß wir das verlassen, dem unsere Väter dienen, oder (davon absehen), mit unserem Besitz zu tun, was wir wollen? Du bist fürwahr der Nachsichtige und Besonnene
+    Khoury: Sie sagten: «O Shuayb, befehlen dir denn deine Gebete, daß wir das verlassen, was unsere Väter verehrt haben, oder davon abstehen, mit unserem Vermögen zu tun, was wir wollen? Du bist ja wohl der Langmütige, der Vernünftige!»
+
+  [11:88]
+    قَالَ یَـٰقَوۡمِ أَرَءَیۡتُمۡ إِن كُنتُ عَلَىٰ بَیِّنَةࣲ مِّن رَّبِّی وَرَزَقَنِی مِنۡهُ رِزۡقًا حَسَنࣰاۚ وَمَاۤ أُرِیدُ أَنۡ أُخَالِفَكُمۡ إِلَىٰ مَاۤ أَنۡهَىٰكُمۡ عَنۡهُۚ إِنۡ أُرِیدُ إِلَّا ٱلۡإِصۡلَـٰحَ مَا ٱسۡتَطَعۡتُۚ وَمَا تَوۡفِیقِیۤ إِلَّا بِٱللَّهِۚ عَلَیۡهِ تَوَكَّلۡتُ وَإِلَیۡهِ أُنِیبُ
+    B/E:    Er sagte: O mein Volk, was meint ihr, wenn ich mich auf einen klaren Beweis von meinem Herrn stütze und Er mir eine schöne Versorgung gewährt hat? Und ich will mich (dann in meinem Vorhaben) von euch nicht unterscheiden, indem ich das tue, was ich euch verbiete. Ich will nur Besserung, soweit ich (sie erreichen) kann. Das Gelingen wird mir nur durch Allah (allein) beschieden. Auf Ihn verlasse ich mich, und Ihm wende ich mich reuig zu
+    Khoury: Er sagte: «O mein Volk, was meint ihr, wenn ich einen deutlichen Beweis von meinem Herrn habe und Er mir einen schönen Lebensunterhalt beschert hat? Ich will auch nicht (einfach) euch widersprechen im Hinblick auf das, was ich euch verbiete. Ich will nur Ordnung schaffen, soweit ich es vermag. Durch Gott allein wird mir das Gelingen beschieden. Auf Ihn vertraue ich, und Ihm wende ich mich reumütig zu
+
+  [11:89]
+    وَیَـٰقَوۡمِ لَا یَجۡرِمَنَّكُمۡ شِقَاقِیۤ أَن یُصِیبَكُم مِّثۡلُ مَاۤ أَصَابَ قَوۡمَ نُوحٍ أَوۡ قَوۡمَ هُودٍ أَوۡ قَوۡمَ صَـٰلِحࣲۚ وَمَا قَوۡمُ لُوطࣲ مِّنكُم بِبَعِیدࣲ
+    B/E:    Und, o mein Volk, meine Feindseligkeit soll euch ja nicht dazu bringen, daß euch das Gleiche trifft, was das Volk Nuhs oder das Volk Huds oder das Volk Salihs traf. Und das Volk Luts liegt euch nicht fern
+    Khoury: Und, o mein Volk, mein Zerwürfnis (mit euch) soll euch nicht dazu führen, daß euch das trifft, was früher das Volk von Noach oder das Volk von Hud oder das Volk von Salih getroffen hat. Und das Volk von Lot liegt nicht fernab von euch
+
+  [11:90]
+    وَٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ ثُمَّ تُوبُوۤا۟ إِلَیۡهِۚ إِنَّ رَبِّی رَحِیمࣱ وَدُودࣱ
+    B/E:    Und bittet euren Herrn um Vergebung und hierauf bereut vor Ihm! Gewiß, mein Herr ist Barmherzig und Liebevoll
+    Khoury: Und bittet euren Herrn um Vergebung und dann wendet euch Ihm zu. Mein Herr ist barmherzig und liebevoll.»
+
+  [11:91]
+    قَالُوا۟ یَـٰشُعَیۡبُ مَا نَفۡقَهُ كَثِیرࣰا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِینَا ضَعِیفࣰاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَـٰكَۖ وَمَاۤ أَنتَ عَلَیۡنَا بِعَزِیزࣲ
+    B/E:    Sie sagten: O Su’aib, wir verstehen nicht viel von dem, was du sagst. Und wir sehen wahrlich, daß du unter uns nicht wehrhaft bist. Wenn deine Sippschaft nicht wäre, hätten wir dich fürwahr gesteinigt. Du hast ja bei uns kein Ansehen
+    Khoury: Sie sagten: «O Shuayb, wir begreifen nicht viel von dem, was du sagst. Und wir sehen, daß du in unserer Mitte schwach bist. Wenn dein Anhang nicht wäre, hätten wir dich gesteinigt. Vor dir haben wir ja keinen Respekt.»
+
+  [11:92]
+    قَالَ یَـٰقَوۡمِ أَرَهۡطِیۤ أَعَزُّ عَلَیۡكُم مِّنَ ٱللَّهِ وَٱتَّخَذۡتُمُوهُ وَرَاۤءَكُمۡ ظِهۡرِیًّاۖ إِنَّ رَبِّی بِمَا تَعۡمَلُونَ مُحِیطࣱ
+    B/E:    Er sagte: O mein Volk, hat meine Sippschaft bei euch mehr Ansehen als Allah, und habt ihr Ihn hinter eurem Rücken gelassen? Gewiß, mein Herr umfaßt, was ihr tut
+    Khoury: Er sagte: «O mein Volk, habt ihr vor meinem Anhang eher Respekt als vor Gott, und habt ihr Ihn hinter eurem Rücken zurückgelassen? Mein Herr umfaßt, was ihr tut
+
+  [11:93]
+    وَیَـٰقَوۡمِ ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنِّی عَـٰمِلࣱۖ سَوۡفَ تَعۡلَمُونَ مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَمَنۡ هُوَ كَـٰذِبࣱۖ وَٱرۡتَقِبُوۤا۟ إِنِّی مَعَكُمۡ رَقِیبࣱ
+    B/E:    Und, o mein Volk, handelt nach eurer Stellung! Ich werde (ebenfalls so) handeln. Ihr werdet (noch) erfahren, über wen eine Strafe kommen wird, die ihn in Schande stürzt, und wer ein Lügner ist. Und wartet (es) ab! Ich bin mit euch ein Beobachter
+    Khoury: Und, o mein Volk, handelt nach eurem Standpunkt, ich werde auch so handeln. Ihr werdet zu wissen bekommen, über wen eine Pein kommen wird, die ihn zuschanden macht, und wer ein Lügner ist. Und wartet ab, ich warte mit euch ab.»
+
+  [11:94]
+    وَلَمَّا جَاۤءَ أَمۡرُنَا نَجَّیۡنَا شُعَیۡبࣰا وَٱلَّذِینَ ءَامَنُوا۟ مَعَهُۥ بِرَحۡمَةࣲ مِّنَّا وَأَخَذَتِ ٱلَّذِینَ ظَلَمُوا۟ ٱلصَّیۡحَةُ فَأَصۡبَحُوا۟ فِی دِیَـٰرِهِمۡ جَـٰثِمِینَ
+    B/E:    Als nun Unser Befehl kam, erretteten Wir Su’aib und diejenigen, die mit ihm glaubten, durch Barmherzigkeit von Uns. Da ergriff diejenigen, die Unrecht taten, der Schrei, und so lagen sie morgens in ihren Wohnstätten auf den Brüsten da
+    Khoury: Als nun unser Befehl eintraf, erretteten Wir Shuayb und diejenigen, die mit ihm glaubten, aus Barmherzigkeit von Uns. Da ergriff diejenigen, die Unrecht taten, der Schrei, und am Morgen lagen sie in ihren Wohnstätten auf ihren Gesichtern
+
+  [11:95]
+    كَأَن لَّمۡ یَغۡنَوۡا۟ فِیهَاۤۗ أَلَا بُعۡدࣰا لِّمَدۡیَنَ كَمَا بَعِدَتۡ ثَمُودُ
+    B/E:    als hätten sie (überhaupt) nicht darin gewohnt. Aber ja, weg mit Madyan, wie auch die Tamud entfernt wurden
+    Khoury: Als hätten sie nicht lange darin gewohnt. Ja, weg mit Madyan, wie auch die Thamud weggerafft wurden
+
+  [11:96]
+    وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِءَایَـٰتِنَا وَسُلۡطَـٰنࣲ مُّبِینٍ
+    B/E:    Und Wir sandten bereits Musa mit Unseren Zeichen und mit einer deutlichen Ermächtigung
+    Khoury: Und Wir sandten Mose mit unseren Zeichen und einer offenkundigen Ermächtigung
+
+  [11:97]
+    إِلَىٰ فِرۡعَوۡنَ وَمَلَإِی۟هِۦ فَٱتَّبَعُوۤا۟ أَمۡرَ فِرۡعَوۡنَۖ وَمَاۤ أَمۡرُ فِرۡعَوۡنَ بِرَشِیدࣲ
+    B/E:    zu Fir’aun und seiner führenden Schar. Diese folgten dem Befehl Fir’auns; der Befehl Fir’auns aber war nicht rechtweisend
+    Khoury: Zu Pharao und seinen Vornehmen. Diese folgten dem Befehl des Pharao; der Befehl des Pharao war aber nicht richtig
+
+  [11:98]
+    یَقۡدُمُ قَوۡمَهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ فَأَوۡرَدَهُمُ ٱلنَّارَۖ وَبِئۡسَ ٱلۡوِرۡدُ ٱلۡمَوۡرُودُ
+    B/E:    Er wird seinem Volk am Tag der Auferstehung vorangehen. Er führt sie wie zur Tränke ins (Höllen)feuer hinab - eine schlimme Tränke, zu der sie hinabgeführt werden
+    Khoury: Er wird seinem Volk am Tag der Auferstehung vorangehen. Er führt sie wie zur Tränke ins Feuer hinab - welch schlimme Tränke, zu der sie hinabgeführt werden
+
+  [11:99]
+    وَأُتۡبِعُوا۟ فِی هَـٰذِهِۦ لَعۡنَةࣰ وَیَوۡمَ ٱلۡقِیَـٰمَةِۚ بِئۡسَ ٱلرِّفۡدُ ٱلۡمَرۡفُودُ
+    B/E:    Und ein Fluch folgte ihnen im Diesseits nach und (wird ihnen) am Tag der Auferstehung (nachfolgen) - eine schlimme Beigabe, die (ihnen) gegeben wird
+    Khoury: Und der Fluch verfolgte sie im Diesseits und (so auch) am Tag der Auferstehung - welch schlimmes Geschenk, das ihnen geschenkt wird
+
+  [11:100]
+    ذَ ٰلِكَ مِنۡ أَنۢبَاۤءِ ٱلۡقُرَىٰ نَقُصُّهُۥ عَلَیۡكَۖ مِنۡهَا قَاۤئِمࣱ وَحَصِیدࣱ
+    B/E:    Dies gehört zu den Nachrichten von den Städten; Wir erzählen es dir. Einige von ihnen stehen noch, andere sind abgemäht
+    Khoury: Dies gehört zu den Berichten über die Städte; Wir erzählen es dir. Einige von ihnen stehen noch, andere sind abgemäht
+
+  [11:101]
+    وَمَا ظَلَمۡنَـٰهُمۡ وَلَـٰكِن ظَلَمُوۤا۟ أَنفُسَهُمۡۖ فَمَاۤ أَغۡنَتۡ عَنۡهُمۡ ءَالِهَتُهُمُ ٱلَّتِی یَدۡعُونَ مِن دُونِ ٱللَّهِ مِن شَیۡءࣲ لَّمَّا جَاۤءَ أَمۡرُ رَبِّكَۖ وَمَا زَادُوهُمۡ غَیۡرَ تَتۡبِیبࣲ
+    B/E:    Nicht Wir haben ihnen Unrecht getan, sondern sie selbst haben sich Unrecht zugefügt. Ihre Götter, die sie anstatt Allahs anrufen, haben ihnen nichts genützt, als der Befehl deines Herrn kam, und sie richteten sie nur noch mehr zugrunde
+    Khoury: Nicht Wir haben ihnen Unrecht getan, sondern sie haben sich selbst Unrecht getan. Ihre Götter, die sie anstelle Gottes anrufen, haben ihnen nichts genützt, als der Befehl deines Herrn eintraf, und sie brachten ihnen nur noch ein größeres Verderben
+
+  [11:102]
+    وَكَذَ ٰلِكَ أَخۡذُ رَبِّكَ إِذَاۤ أَخَذَ ٱلۡقُرَىٰ وَهِیَ ظَـٰلِمَةٌۚ إِنَّ أَخۡذَهُۥۤ أَلِیمࣱ شَدِیدٌ
+    B/E:    So ist der Griff deines Herrn, wenn Er die Städte ergreift, während sie Unrecht tun. Gewiß, Sein Griff ist schmerzhaft und hart
+    Khoury: So ist die Art deines Herrn heimzusuchen, wenn Er die Städte heimsucht, während sie Unrecht tun. Seine Heimsuchung ist schmerzhaft und hart
+
+  [11:103]
+    إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰ لِّمَنۡ خَافَ عَذَابَ ٱلۡءَاخِرَةِۚ ذَ ٰلِكَ یَوۡمࣱ مَّجۡمُوعࣱ لَّهُ ٱلنَّاسُ وَذَ ٰلِكَ یَوۡمࣱ مَّشۡهُودࣱ
+    B/E:    Darin ist wahrlich ein Zeichen für jemanden, der die Strafe des Jenseits fürchtet. Das ist ein Tag, zu dem die Menschen versammelt werden, und das ist ein Tag, an dem sie (alle) anwesend sein werden
+    Khoury: Darin ist ein Zeichen für den, der die Pein des Jenseits fürchtet. Das ist ein Tag, auf den die Menschen versammelt werden. Das ist ein Tag, den sie alle erleben werden
+
+  [11:104]
+    وَمَا نُؤَخِّرُهُۥۤ إِلَّا لِأَجَلࣲ مَّعۡدُودࣲ
+    B/E:    Und Wir stellen ihn nur auf eine bestimmte Frist zurück
+    Khoury: Und Wir stellen ihn nur für eine bestimmte Frist zurück
+
+  [11:105]
+    یَوۡمَ یَأۡتِ لَا تَكَلَّمُ نَفۡسٌ إِلَّا بِإِذۡنِهِۦۚ فَمِنۡهُمۡ شَقِیࣱّ وَسَعِیدࣱ
+    B/E:    An dem Tag, da er eintrifft, wird keine Seele sprechen, außer mit Seiner Erlaubnis. Dann werden einige von ihnen unglücklich und andere glückselig sein
+    Khoury: Am Tag, da er eintrifft, wird niemand sprechen, außer mit seiner Erlaubnis. Einige von ihnen werden dann unglücklich und andere selig sein
+
+  [11:106]
+    فَأَمَّا ٱلَّذِینَ شَقُوا۟ فَفِی ٱلنَّارِ لَهُمۡ فِیهَا زَفِیرࣱ وَشَهِیقٌ
+    B/E:    Was nun diejenigen angeht, die unglücklich sind, so werden sie dann im (Höllen)feuer sein; darin werden sie seufzen und schluchzen
+    Khoury: Diejenigen, die unglücklich sind, werden dann im Feuer sein; darin werden sie seufzen und schluchzen
+
+  [11:107]
+    خَـٰلِدِینَ فِیهَا مَا دَامَتِ ٱلسَّمَـٰوَ ٰتُ وَٱلۡأَرۡضُ إِلَّا مَا شَاۤءَ رَبُّكَۚ إِنَّ رَبَّكَ فَعَّالࣱ لِّمَا یُرِیدُ
+    B/E:    ewig darin zu bleiben, solange die Himmel und die Erde währen, außer was dein Herr will. Dein Herr tut immer, was Er will
+    Khoury: Und sie werden darin ewig weilen, solange die Himmel und die Erde währen, außer was dein Herr will. Dein Herr tut ja, was Er will
+
+  [11:108]
+    ۞ وَأَمَّا ٱلَّذِینَ سُعِدُوا۟ فَفِی ٱلۡجَنَّةِ خَـٰلِدِینَ فِیهَا مَا دَامَتِ ٱلسَّمَـٰوَ ٰتُ وَٱلۡأَرۡضُ إِلَّا مَا شَاۤءَ رَبُّكَۖ عَطَاۤءً غَیۡرَ مَجۡذُوذࣲ
+    B/E:    Was aber diejenigen angeht, die glückselig sind, so werden sie im (Paradies)garten sein, ewig darin zu bleiben, solange die Himmel und die Erde währen, außer was dein Herr will, als eine unverkürzte Gabe
+    Khoury: Diejenigen, die selig sind, werden im Paradies sein; darin werden sie ewig weilen, solange die Himmel und die Erde währen, außer was dein Herr will, als Gabe, die nicht verringert wird
+
+  [11:109]
+    فَلَا تَكُ فِی مِرۡیَةࣲ مِّمَّا یَعۡبُدُ هَـٰۤؤُلَاۤءِۚ مَا یَعۡبُدُونَ إِلَّا كَمَا یَعۡبُدُ ءَابَاۤؤُهُم مِّن قَبۡلُۚ وَإِنَّا لَمُوَفُّوهُمۡ نَصِیبَهُمۡ غَیۡرَ مَنقُوصࣲ
+    B/E:    So sei nicht im Zweifel über das, dem diese dienen. Sie dienen nur, wie ihre Väter zuvor gedient haben. Und Wir werden ihnen ihren Anteil fürwahr unverringert zukommen lassen
+    Khoury: So sei nicht über das, was diese da verehren, im Zweifel. Sie verehren nur, wie ihre Väter zuvor verehrt haben. Und Wir werden ihnen ihren Anteil unverkürzt erstatten
+
+  [11:110]
+    وَلَقَدۡ ءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ فَٱخۡتُلِفَ فِیهِۚ وَلَوۡلَا كَلِمَةࣱ سَبَقَتۡ مِن رَّبِّكَ لَقُضِیَ بَیۡنَهُمۡۚ وَإِنَّهُمۡ لَفِی شَكࣲّ مِّنۡهُ مُرِیبࣲ
+    B/E:    Und Wir gaben bereits Musa die Schrift, doch wurde man darüber uneinig. Und wenn es nicht ein früher ergangenes Wort von deinem Herrn gegeben hätte, so wäre zwischen ihnen wahrlich entschieden worden. Und sie sind darüber fürwahr in starkem Zweifel
+    Khoury: Und Wir ließen dem Mose das Buch zukommen. Da wurden sie darüber uneins. Und gäbe es nicht einen früher ergangenen Spruch von deinem Herrn, so wäre zwischen ihnen entschieden worden. Und sie sind darüber in einem starken Zweifel
+
+  [11:111]
+    وَإِنَّ كُلࣰّا لَّمَّا لَیُوَفِّیَنَّهُمۡ رَبُّكَ أَعۡمَـٰلَهُمۡۚ إِنَّهُۥ بِمَا یَعۡمَلُونَ خَبِیرࣱ
+    B/E:    Und allen wird dein Herr ihre Werke in vollem Maß ganz sicher erstatten. Gewiß, Er ist dessen, was sie tun, Kundig
+    Khoury: Und allen wird dein Herr bestimmt ihre Taten voll vergelten. Er hat Kenntnis von dem, was sie tun
+
+  [11:112]
+    فَٱسۡتَقِمۡ كَمَاۤ أُمِرۡتَ وَمَن تَابَ مَعَكَ وَلَا تَطۡغَوۡا۟ۚ إِنَّهُۥ بِمَا تَعۡمَلُونَ بَصِیرࣱ
+    B/E:    So verhalte dich recht, wie dir befohlen wurde, (du) und diejenigen, die mit dir bereuen, und lehnt euch nicht auf. Gewiß, was ihr tut, sieht Er wohl
+    Khoury: So verhalte dich recht, wie dir befohlen wurde, du und diejenigen, die mit dir umkehren, und zeigt kein Übermaß an Frevel. Er sieht wohl, was ihr tut
+
+  [11:113]
+    وَلَا تَرۡكَنُوۤا۟ إِلَى ٱلَّذِینَ ظَلَمُوا۟ فَتَمَسَّكُمُ ٱلنَّارُ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِنۡ أَوۡلِیَاۤءَ ثُمَّ لَا تُنصَرُونَ
+    B/E:    Und sucht nicht eine Stütze bei denen, die Unrecht tun, sonst berührt euch das (Höllen)feuer; ihr habt außer Allah keine Schutzherren. Dann wird euch keine Hilfe zuteil werden
+    Khoury: Und sucht nicht eine Stütze bei denen, die Unrecht tun, sonst erfaßt euch das Feuer. Dann werdet ihr keine Freunde haben außer Gott, und dann werdet ihr keine Unterstützung erfahren
+
+  [11:114]
+    وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَیِ ٱلنَّهَارِ وَزُلَفࣰا مِّنَ ٱلَّیۡلِۚ إِنَّ ٱلۡحَسَنَـٰتِ یُذۡهِبۡنَ ٱلسَّیِّءَاتِۚ ذَ ٰلِكَ ذِكۡرَىٰ لِلذَّ ٰكِرِینَ
+    B/E:    Und verrichte das Gebet an beiden Enden des Tages und in Stunden der Nacht. Die guten Taten lassen die bösen Taten vergehen. Das ist eine Ermahnung für diejenigen, die (Allahs) gedenken
+    Khoury: Und verrichte das Gebet an beiden Enden des Tages und zu Nachtzeiten. Die guten Taten vertreiben die Missetaten. Das ist eine Erinnerung für die, die (Gottes) gedenken
+
+  [11:115]
+    وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ ٱلۡمُحۡسِنِینَ
+    B/E:    Und sei standhaft; denn Allah läßt den Lohn der Gutes Tuenden nicht verlorengehen
+    Khoury: Und sei geduldig. Gott läßt den Lohn der Rechtschaffenen nicht verlorengehen
+
+  [11:116]
+    فَلَوۡلَا كَانَ مِنَ ٱلۡقُرُونِ مِن قَبۡلِكُمۡ أُو۟لُوا۟ بَقِیَّةࣲ یَنۡهَوۡنَ عَنِ ٱلۡفَسَادِ فِی ٱلۡأَرۡضِ إِلَّا قَلِیلࣰا مِّمَّنۡ أَنجَیۡنَا مِنۡهُمۡۗ وَٱتَّبَعَ ٱلَّذِینَ ظَلَمُوا۟ مَاۤ أُتۡرِفُوا۟ فِیهِ وَكَانُوا۟ مُجۡرِمِینَ
+    B/E:    Wenn es unter den Geschlechtern vor euch doch nur Leute mit einem Rest (von Tugend) gegeben hätte, die verbieten, auf der Erde Unheil zu stiften - bis auf wenige unter denen, die Wir von ihnen retteten! Diejenigen, die Unrecht taten, folgten dem ihnen verliehenen üppigen Leben und wurden Übeltäter
+    Khoury: Wenn es doch unter den Generationen vor euch einen tugendhaften Rest von Leuten gäbe, die verbieten, auf der Erde Unheil zu stiften - abgesehen von einigen wenigen von ihnen, die Wir gerettet haben! Diejenigen, die Unrecht taten, folgten dem ihnen verliehenen üppigen Leben und wurden Übeltäter
+
+  [11:117]
+    وَمَا كَانَ رَبُّكَ لِیُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمࣲ وَأَهۡلُهَا مُصۡلِحُونَ
+    B/E:    Und dein Herr hätte die Städte nimmer zu Unrecht vernichtet, während ihre Bewohner Heilstifter waren
+    Khoury: Und dein Herr hätte unmöglich Städte zu Unrecht dem Verderben preisgegeben, während ihre Bewohner Besserung zeigten
+
+  [11:118]
+    وَلَوۡ شَاۤءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةࣰ وَ ٰحِدَةࣰۖ وَلَا یَزَالُونَ مُخۡتَلِفِینَ
+    B/E:    Und wenn dein Herr wollte, hätte Er die Menschen wahrlich zu einer einzigen Gemeinschaft gemacht. Aber sie bleiben doch uneinig
+    Khoury: Und wenn dein Herr gewollt hätte, hätte Er die Menschen zu einer einzigen Gemeinschaft gemacht. Aber sie sind immer noch uneins
+
+  [11:119]
+    إِلَّا مَن رَّحِمَ رَبُّكَۚ وَلِذَ ٰلِكَ خَلَقَهُمۡۗ وَتَمَّتۡ كَلِمَةُ رَبِّكَ لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ أَجۡمَعِینَ
+    B/E:    außer denen, derer Sich dein Herr erbarmt hat. Dazu hat Er sie erschaffen. Und so erfüllt sich das Wort deines Herrn: Ich werde die Hölle ganz gewiß mit den Ginn und den Menschen allesamt füllen
+    Khoury: Außer denen, derer sich dein Herr erbarmt hat. Dazu hat Er sie erschaffen. Und so erfüllt sich der Spruch deines Herrn: «Ich werde die Hölle mit den Djinn und den Menschen allen füllen.»
+
+  [11:120]
+    وَكُلࣰّا نَّقُصُّ عَلَیۡكَ مِنۡ أَنۢبَاۤءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَۚ وَجَاۤءَكَ فِی هَـٰذِهِ ٱلۡحَقُّ وَمَوۡعِظَةࣱ وَذِكۡرَىٰ لِلۡمُؤۡمِنِینَ
+    B/E:    Alles berichten Wir dir von den Nachrichten über die Gesandten, womit Wir dein Herz festigen. Darin ist dir die Wahrheit zugekommen, und eine Ermahnung und Erinnerung für die Gläubigen
+    Khoury: Alles erzählen Wir dir von den Berichten über die Gesandten,, um dein Herz damit zu festigen. Darin ist die Wahrheit zu dir gekommen, und eine Ermahnung und Erinnerung für die Gläubigen
+
+  [11:121]
+    وَقُل لِّلَّذِینَ لَا یُؤۡمِنُونَ ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنَّا عَـٰمِلُونَ
+    B/E:    Und sag zu denen, die nicht glauben: Handelt nach eurer Stellung, wir werden (ebenfalls so) handeln
+    Khoury: Und sprich zu denen, die nicht glauben: Handelt nach eurem Standpunkt, wir werden (auch so) handeln
+
+  [11:122]
+    وَٱنتَظِرُوۤا۟ إِنَّا مُنتَظِرُونَ
+    B/E:    Und wartet ab, wir warten ebenfalls ab
+    Khoury: Und wartet ab, wir warten auch ab
+
+  [11:123]
+    وَلِلَّهِ غَیۡبُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَإِلَیۡهِ یُرۡجَعُ ٱلۡأَمۡرُ كُلُّهُۥ فَٱعۡبُدۡهُ وَتَوَكَّلۡ عَلَیۡهِۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا تَعۡمَلُونَ
+    B/E:    Und Allahs ist das Verborgene der Himmel und der Erde, und zu Ihm wird die ganze Angelegenheit zurückgebracht. So diene Ihm und verlasse dich auf Ihn. Und dein Herr ist nicht unachtsam dessen, was ihr tut
+    Khoury: Und Gott gehört das Unsichtbare der Himmel und der Erde, und zu Ihm wird die ganze Angelegenheit zurückgebracht. So diene Ihm und vertraue auf Ihn. Und dein Herr läßt nicht unbeachtet, was ihr tut
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  بلع              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  حنذ              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  روع              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  زري              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  قلع              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  أوه              1       2  sehr selten — nur 2x im ganzen Koran
+  جذذ              1       2  sehr selten — nur 2x im ganzen Koran
+  جود              1       2  sehr selten — nur 2x im ganzen Koran
+  حبس              1       2  sehr selten — nur 2x im ganzen Koran
+  رفد              2       2  kommt AUSSCHLIESSLICH in dieser Sure vor
+  سعد              2       2  kommt AUSSCHLIESSLICH in dieser Sure vor
+  شهق              1       2  sehr selten — nur 2x im ganzen Koran
+  غيض              1       2  sehr selten — nur 2x im ganzen Koran
+  هرع              1       2  sehr selten — nur 2x im ganzen Koran
+  خبت              1       3  sehr selten — nur 3x im ganzen Koran
+  رهط              2       3  sehr selten — nur 3x im ganzen Koran
+  زفر              1       3  sehr selten — nur 3x im ganzen Koran
+  عرو              1       3  sehr selten — nur 3x im ganzen Koran
+  لفت              1       3  sehr selten — nur 3x im ganzen Koran
+  نضد              1       3  sehr selten — nur 3x im ganzen Koran
+  وجس              1       3  sehr selten — nur 3x im ganzen Koran
+  تبب              1       4  sehr selten — nur 4x im ganzen Koran
+  درر              1       4  sehr selten — nur 4x im ganzen Koran
+  رذل              1       4  sehr selten — nur 4x im ganzen Koran
+  ركن              2       4  sehr selten — nur 4x im ganzen Koran
+  سجل              1       4  sehr selten — nur 4x im ganzen Koran
+  شيخ              1       4  sehr selten — nur 4x im ganzen Koran
+  فور              1       4  sehr selten — nur 4x im ganzen Koran
+  مجد              1       4  sehr selten — nur 4x im ganzen Koran
+  نصي              1       4  sehr selten — nur 4x im ganzen Koran
+  ودع              1       4  sehr selten — nur 4x im ganzen Koran
+  وفق              1       4  sehr selten — nur 4x im ganzen Koran
+  جثم              2       5  sehr selten — nur 5x im ganzen Koran
+  ذرع              1       5  sehr selten — nur 5x im ganzen Koran
+  طرد              2       5  sehr selten — nur 5x im ganzen Koran
+  عثو              1       5  sehr selten — nur 5x im ganzen Koran
+  عصب              1       5  sehr selten — nur 5x im ganzen Koran
+  لزم              1       5  sehr selten — nur 5x im ganzen Koran
+  حصد              1       6  sehr selten — nur 6x im ganzen Koran
+  ضيف              1       6  sehr selten — nur 6x im ganzen Koran
+  فخر              1       6  sehr selten — nur 6x im ganzen Koran
+  بخس              2       7  sehr selten — nur 7x im ganzen Koran
+  بعل              1       7  sehr selten — nur 7x im ganzen Koran
+  موج              2       7  sehr selten — nur 7x im ganzen Koran
+  نوق              1       7  sehr selten — nur 7x im ganzen Koran
+  ترف              1       8  sehr selten — nur 8x im ganzen Koran
+  ستت              1       8  sehr selten — nur 8x im ganzen Koran
+  سري              1       8  sehr selten — nur 8x im ganzen Koran
+  عقر              1       8  sehr selten — nur 8x im ganzen Koran
+  هبط              1       8  sehr selten — nur 8x im ganzen Koran
+  دوم              2       9  sehr selten — nur 9x im ganzen Koran
+  عوج              1       9  sehr selten — nur 9x im ganzen Koran
+  كنز              1       9  sehr selten — nur 9x im ganzen Koran
+  جبر              1      10  sehr selten — nur 10x im ganzen Koran
+  حيق              1      10  sehr selten — nur 10x im ganzen Koran
+  زلف              1      10  sehr selten — nur 10x im ganzen Koran
+  زيل              1      10  sehr selten — nur 10x im ganzen Koran
+  سفل              1      10  sehr selten — nur 10x im ganzen Koran
+  ضحك              1      10  sehr selten — nur 10x im ganzen Koran
+  ضيع              1      10  sehr selten — nur 10x im ganzen Koran
+  عزل              1      10  sehr selten — nur 10x im ganzen Koran
+  نقص              2      10  sehr selten — nur 10x im ganzen Koran
+  طرف              1      11  selten — 11x im ganzen Koran
+  ورد              3      11  selten — 11x im ganzen Koran
+  جحد              1      12  selten — 12x im ganzen Koran
+  خطب              1      12  selten — 12x im ganzen Koran
+  شقو              2      12  selten — 12x im ganzen Koran
+  وصل              2      12  selten — 12x im ganzen Koran
+  خزن              1      13  selten — 13x im ganzen Koran
+  صيح              2      13  selten — 13x im ganzen Koran
+  ضيق              2      13  selten — 13x im ganzen Koran
+  عصم              2      13  selten — 13x im ganzen Koran
+  غلظ              1      13  selten — 13x im ganzen Koran
+  نصح              2      13  selten — 13x im ganzen Koran
+  يأس              1      13  selten — 13x im ganzen Koran
+  رجم              1      14  selten — 14x im ganzen Koran
+  رسو              1      14  selten — 14x im ganzen Koran
+  عطو              1      14  selten — 14x im ganzen Koran
+  ركب              2      15  selten — 15x im ganzen Koran
+  سوم              1      15  selten — 15x im ganzen Koran
+  شكك              2      15  selten — 15x im ganzen Koran
+  صمم              1      15  selten — 15x im ganzen Koran
+  مطر              1      15  selten — 15x im ganzen Koran
+  حبط              1      16  selten — 16x im ganzen Koran
+  علن              1      16  selten — 16x im ganzen Koran
+  فأد              1      16  selten — 16x im ganzen Koran
+  كيل              2      16  selten — 16x im ganzen Koran
+  سور              1      17  selten — 17x im ganzen Koran
+  عوذ              1      17  selten — 17x im ganzen Koran
+  ثبت              1      18  selten — 18x im ganzen Koran
+  دبب              2      18  selten — 18x im ganzen Koran
+  لدن              1      18  selten — 18x im ganzen Koran
+  نوب              2      18  selten — 18x im ganzen Koran
+  رشد              3      19  selten — 19x im ganzen Koran
+  حزب              1      20  selten — 20x im ganzen Koran
+  صنع              3      20  selten — 20x im ganzen Koran
+  فطر              1      20  selten — 20x im ganzen Koran
+  فقه              1      20  selten — 20x im ganzen Koran
+  مري              2      20  selten — 20x im ganzen Koran
+  نزع              1      20  selten — 20x im ganzen Koran
+  بقي              2      21  selten — 21x im ganzen Koran
+  حجر              1      21  selten — 21x im ganzen Koran
+  حلم              2      21  selten — 21x im ganzen Koran
+  تمم              1      22  selten — 22x im ganzen Koran
+  غوي              1      22  selten — 22x im ganzen Koran
+  فرح              1      22  selten — 22x im ganzen Koran
+  غرق              2      23  selten — 23x im ganzen Koran
+  وزن              2      23  selten — 23x im ganzen Koran
+  جهل              2      24  selten — 24x im ganzen Koran
+  رقب              2      24  selten — 24x im ganzen Koran
+  عمر              1      24  selten — 24x im ganzen Koran
+  حول              1      25  selten — 25x im ganzen Koran
+  فلك              2      25  selten — 25x im ganzen Koran
+  قسط              1      25  selten — 25x im ganzen Koran
+  وعظ              2      25  selten — 25x im ganzen Koran
+  خزي              4      26  selten — 26x im ganzen Koran
+  عجز              3      26  selten — 26x im ganzen Koran
+  عجب              2      27  selten — 27x im ganzen Koran
+  عشر              1      27  selten — 27x im ganzen Koran
+  مدن              2      27  selten — 27x im ganzen Koran
+  ثوب              1      28  selten — 28x im ganzen Koran
+  حوط              2      28  selten — 28x im ganzen Koran
+  رجو              1      28  selten — 28x im ganzen Koran
+  شقق              1      28  selten — 28x im ganzen Koran
+  نشأ              1      28  selten — 28x im ganzen Koran
+  ثني              2      29  selten — 29x im ganzen Koran
+  جدل              3      29  selten — 29x im ganzen Koran
+  غشو              1      29  selten — 29x im ganzen Koran
+  ودد              1      29  selten — 29x im ganzen Koran
+  صرف              1      30  selten — 30x im ganzen Koran
+  قصص              2      30  selten — 30x im ganzen Koran
+  هود              5      30  selten — 30x im ganzen Koran
+  بدو              1      31  selten — 31x im ganzen Koran
+  برأ              2      31  selten — 31x im ganzen Koran
+  طهر              1      31  selten — 31x im ganzen Koran
+  لبث              1      31  selten — 31x im ganzen Koran
+  برك              2      32  selten — 32x im ganzen Koran
+  ثلث              1      32  selten — 32x im ganzen Koran
+  عصي              2      32  selten — 32x im ganzen Koran
+  نصب              1      32  selten — 32x im ganzen Koran
+  وري              2      32  selten — 32x im ganzen Koran
+  عرش              1      33  selten — 33x im ganzen Koran
+  عمي              2      33  selten — 33x im ganzen Koran
+  خفي              1      34  selten — 34x im ganzen Koran
+  هزأ              1      34  selten — 34x im ganzen Koran
+  حين              1      35  selten — 35x im ganzen Koran
+  غفل              1      35  selten — 35x im ganzen Koran
+  كيد              1      35  selten — 35x im ganzen Koran
+  مرر              1      35  selten — 35x im ganzen Koran
+  أوي              2      36  selten — 36x im ganzen Koran
+  بطل              1      36  selten — 36x im ganzen Koran
+  ريب              2      36  selten — 36x im ganzen Koran
+  قرن              1      36  selten — 36x im ganzen Koran
+  قطع              1      36  selten — 36x im ganzen Koran
+  سبق              2      37  selten — 37x im ganzen Koran
+  نكر              1      37  selten — 37x im ganzen Koran
+  بلو              1      38  selten — 38x im ganzen Koran
+  قرر              1      38  selten — 38x im ganzen Koran
+  مرأ              2      38  selten — 38x im ganzen Koran
+  سلط              1      39  selten — 39x im ganzen Koran
+  طغي              1      39  selten — 39x im ganzen Koran
+  ملأ              4      40  selten — 40x im ganzen Koran
+  جبل              2      41  
+  كره              1      41  
+  لعن              3      41  
+  سخر              4      42  
+  صدد              1      42  
+  قوي              4      42  
+  ترك              3      43  
+  جوب              2      43  
+  فصل              1      43  
+  حفظ              2      44  
+  سرر              1      44  
+  صبح              4      45  hier gehaeuft (x3.8 gegenueber dem Schnitt)
+  صرط              1      45  
+  وذر              1      45  
+  زين              1      46  
+  صدر              3      46  
+  عجل              1      47  
+  قدم              1      48  
+  عقل              1      49  
+  فسد              2      50  
+  نفع              1      50  
+  حلل              1      51  
+  خبر              2      52  
+  ضعف              2      52  
+  ندي              2      53  
+  دور              3      55  
+  أجل              2      56  
+  ذهب              3      56  
+  نهي              3      56  
+  عدد              2      57  
+  قري              3      57  
+  ردد              1      59  
+  ظهر              1      59  
+  غيب              3      60  
+  فري              7      60  hier gehaeuft (x5.0 gegenueber dem Schnitt)
+  زيد              3      61  
+  مسس              4      61  
+  تلو              1      63  
+  ذوق              2      63  
+  سحر              1      63  
+  عود              4      63  
+  قضي              2      63  
+  موه              4      63  
+  جري              2      64  
+  حمل              1      64  
+  خسر              4      65  
+  عين              2      65  
+  جرم              6      66  hier gehaeuft (x3.9 gegenueber dem Schnitt)
+  وفي              4      66  
+  بعث              1      67  
+  حمد              1      68  
+  هلك              1      68  
+  وحد              1      68  
+  ظنن              1      69  
+  علو              1      70  
+  متع              4      70  
+  وكل              4      70  
+  فرق              1      72  
+  بأس              3      73  
+  بيت              1      73  
+  رجل              1      73  
+  غني              3      73  
+  ضرر              2      74  
+  ألم              3      75  
+  كلم              3      75  
+  قلل              2      76  
+  بلغ              1      77  
+  صوب              4      77  
+  وحي              4      78  
+  عرض              2      79  
+  عقب              1      80  
+  زوج              1      81  
+  سوي              2      83  
+  نجو              5      84  
+  أحد              1      85  
+  مول              2      86  
+  توب              5      87  
+  خلد              3      87  
+  ليس              7      89  hier gehaeuft (x3.4 gegenueber dem Schnitt)
+  ليل              2      92  
+  أخو              3      96  
+  بغي              1      96  
+  قرب              3      96  
+  صحب              1      97  
+  صلو              2      99  
+  أذن              1     102  
+  شدد              2     102  
+  ولد              1     102  
+  صبر              3     103  
+  رجع              3     104  
+  فضل              3     104  
+  أجر              5     108  
+  فعل              3     108  
+  أكل              1     109  
+  نهر              1     113  
+  أبو              3     117  
+  أمم              5     119  
+  عزز              3     120  
+  يدي              1     120  
+  بشر              5     123  
+  رزق              3     123  
+  خوف              6     124  
+  أهل              6     127  
+  خلف              4     127  
+  جمع              3     129  
+  سأل              4     129  
+  طوع              3     129  
+  نظر              3     129  
+  نذر              3     130  
+  قدر              1     132  
+  دنو              2     133  
+  سلم              4     140  
+  نعم              1     140  
+  دون              5     144  
+  لقي              1     146  
+  بصر              3     148  
+  رود              7     148  
+  وعد              5     151  
+  غير             11     154  hier gehaeuft (x3.1 gegenueber dem Schnitt)
+  صدق              2     155  
+  بعض              2     158  
+  نصر              3     158  
+  شهد              5     160  
+  نبأ              3     160  
+  كبر              2     161  
+  موت              1     165  
+  سوأ              6     167  
+  كثر              3     167  
+  شرك              1     168  
+  مثل              5     169  
+  تبع              6     172  
+  سبل              1     176  
+  صلح              9     180  
+  بني              5     184  
+  سمع              2     185  
+  حيي              1     189  
+  ضلل              1     191  
+  حسن              5     194  
+  نور              5     194  
+  خير              3     196  
+  جنن              3     201  
+  عند              4     201  
+  ملك              2     206  
+  حكم              4     210  
+  دعو              3     212  
+  ولي              5     232  
+  غفر              7     234  
+  بعد              9     235  
+  أمر             16     248  
+  أخر              6     250  
+  وقي              2     258  
+  خلق              2     261  
+  أخذ              8     273  
+  عبد             12     275  
+  جيأ             15     278  
+  كذب              5     282  
+  حقق              4     287  
+  ذكر              5     292  
+  نزل              2     293  
+  قبل              6     294  
+  نفس              4     298  
+  ظلم             14     315  
+  كتب              4     319  
+  رأي             11     328  
+  أنس              6     338  
+  رحم             13     339  
+  جعل              2     346  
+  عمل             16     360  
+  عذب             13     373  
+  كلل             11     377  
+  سمو              8     381  
+  أرض             11     461  
+  يوم             15     475  
+  رسل             10     513  
+  شيأ             12     519  
+  بين             11     523  
+  كفر              8     525  
+  أتي             13     549  
+  أيي              6     597  
+  قوم             42     660  
+  علم             14     854  
+  أمن             15     879  
+  ربب             44     980  
+  كون             33    1390  
+  قول             55    1722  
+  أله             45    2851  
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

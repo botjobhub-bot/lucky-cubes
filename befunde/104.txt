@@ -1,0 +1,87 @@
+==============================================================================
+SURE 104  —  9 Verse, 21 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [104:1]
+    وَیۡلࣱ لِّكُلِّ هُمَزَةࣲ لُّمَزَةٍ
+    B/E:    Wehe jedem Stichler und Nörgler
+    Khoury: Wehe jedem Stichler und Nörgler
+
+  [104:2]
+    ٱلَّذِی جَمَعَ مَالࣰا وَعَدَّدَهُۥ
+    B/E:    der Besitz zusammenträgt und ihn zählt und immer wieder zählt
+    Khoury: Der sein Vermögen zusammenbringt und es zählt
+
+  [104:3]
+    یَحۡسَبُ أَنَّ مَالَهُۥۤ أَخۡلَدَهُۥ
+    B/E:    wobei er meint, daß sein Besitz ihn ewig leben ließe
+    Khoury: Und dabei meint, sein Vermögen würde ihn unsterblich machen
+
+  [104:4]
+    كَلَّاۖ لَیُنۢبَذَنَّ فِی ٱلۡحُطَمَةِ
+    B/E:    Keineswegs! Er wird ganz gewiß in al-Hutama geworfen werden
+    Khoury: Nein, er wird bestimmt in die Zermalmende geworfen werden
+
+  [104:5]
+    وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ
+    B/E:    Was läßt dich wissen, was al-Hutama ist
+    Khoury: Woher sollst du wissen, was die Zermalmende ist
+
+  [104:6]
+    نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ
+    B/E:    (Sie ist) Allahs entfachtes Feuer
+    Khoury: Es ist das angefachte Feuer Gottes
+
+  [104:7]
+    ٱلَّتِی تَطَّلِعُ عَلَى ٱلۡأَفۡءِدَةِ
+    B/E:    das Einblick in die Herzen gewinnt
+    Khoury: Das die Herzen durchdringt
+
+  [104:8]
+    إِنَّهَا عَلَیۡهِم مُّؤۡصَدَةࣱ
+    B/E:    Gewiß, es wird sie einschließen
+    Khoury: Es liegt über ihnen zugeschlagen
+
+  [104:9]
+    فِی عَمَدࣲ مُّمَدَّدَةِۭ
+    B/E:    in langgestreckten Säulen
+    Khoury: In langgestreckten Säulen
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  همز              1       3  sehr selten — nur 3x im ganzen Koran
+  وصد              1       3  sehr selten — nur 3x im ganzen Koran
+  لمز              1       4  sehr selten — nur 4x im ganzen Koran
+  حطم              2       6  sehr selten — nur 6x im ganzen Koran
+  عمد              1       7  sehr selten — nur 7x im ganzen Koran
+  وقد              1      11  selten — 11x im ganzen Koran
+  نبذ              1      12  selten — 12x im ganzen Koran
+  فأد              1      16  selten — 16x im ganzen Koran
+  طلع              1      19  selten — 19x im ganzen Koran
+  دري              1      29  selten — 29x im ganzen Koran
+  مدد              1      32  selten — 32x im ganzen Koran
+  عدد              1      57  
+  مول              2      86  
+  خلد              1      87  
+  حسب              1     109  
+  جمع              1     129  
+  نور              1     194  
+  كلل              1     377  
+  أله              1    2851  
+
+  ACHTUNG: Diese Sure hat nur 21 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

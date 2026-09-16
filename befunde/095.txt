@@ -1,0 +1,85 @@
+==============================================================================
+SURE 95  —  8 Verse, 25 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [95:1]
+    وَٱلتِّینِ وَٱلزَّیۡتُونِ
+    B/E:    Bei der Feige und der Olive
+    Khoury: Bei dem Feigenbaum und dem Olivenbaum
+
+  [95:2]
+    وَطُورِ سِینِینَ
+    B/E:    und dem Berg Sinin
+    Khoury: Und dem Berg Sinai
+
+  [95:3]
+    وَهَـٰذَا ٱلۡبَلَدِ ٱلۡأَمِینِ
+    B/E:    und dieser sicheren Ortschaft
+    Khoury: Und diesem sicheren Gebiet
+
+  [95:4]
+    لَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ فِیۤ أَحۡسَنِ تَقۡوِیمࣲ
+    B/E:    Wir haben den Menschen ja in schönster Gestaltung erschaffen
+    Khoury: Wir haben den Menschen in schönster ebenmäßiger Gestalt erschaffen
+
+  [95:5]
+    ثُمَّ رَدَدۡنَـٰهُ أَسۡفَلَ سَـٰفِلِینَ
+    B/E:    hierauf haben Wir ihn zu den Niedrigsten der Niedrigen werden lassen
+    Khoury: Dann haben Wir ihn in den niedrigsten der niedrigen Stände gebracht
+
+  [95:6]
+    إِلَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمۡ أَجۡرٌ غَیۡرُ مَمۡنُونࣲ
+    B/E:    außer denjenigen, die glauben und rechtschaffene Werke tun; für sie wird es einen Lohn geben, der nicht aufhört
+    Khoury: Ausgenommen die, die glauben und die guten Werke tun: Sie empfangen einen Lohn, der nicht aufhört
+
+  [95:7]
+    فَمَا یُكَذِّبُكَ بَعۡدُ بِٱلدِّینِ
+    B/E:    Was läßt dich da weiterhin das Gericht für Lüge erklären
+    Khoury: Was läßt dich da noch das Gericht für Lüge erklären
+
+  [95:8]
+    أَلَیۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَـٰكِمِینَ
+    B/E:    Ist nicht Allah der Weiseste derjenigen, die richten
+    Khoury: Ist nicht Gott der Weiseste all derer, die urteilen
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  تين              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  زيت              1       7  sehr selten — nur 7x im ganzen Koran
+  سفل              2      10  sehr selten — nur 10x im ganzen Koran
+  طور              1      11  selten — 11x im ganzen Koran
+  بلد              1      19  selten — 19x im ganzen Koran
+  منن              1      27  selten — 27x im ganzen Koran
+  ردد              1      59  
+  ليس              1      89  
+  دين              1     101  
+  أجر              1     108  
+  غير              1     154  
+  صلح              1     180  
+  حسن              1     194  
+  حكم              2     210  
+  بعد              1     235  
+  خلق              1     261  
+  كذب              1     282  
+  أنس              1     338  
+  عمل              1     360  
+  قوم              1     660  
+  أمن              2     879  
+  أله              1    2851  
+
+  ACHTUNG: Diese Sure hat nur 25 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

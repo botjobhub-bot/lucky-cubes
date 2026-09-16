@@ -1,0 +1,81 @@
+==============================================================================
+SURE 99  —  8 Verse, 29 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [99:1]
+    إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا
+    B/E:    Wenn die Erde erschüttert wird durch ihr heftiges Beben
+    Khoury: Wenn die Erde durch ihr heftiges Beben erschüttert wird
+
+  [99:2]
+    وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا
+    B/E:    und die Erde hervorbringt ihre Lasten
+    Khoury: Und die Erde ihre schweren Lasten hervorbringt
+
+  [99:3]
+    وَقَالَ ٱلۡإِنسَـٰنُ مَا لَهَا
+    B/E:    und der Mensch sagt: Was ist mit ihr
+    Khoury: Und der Mensch sagt: «Was ist mit ihr?»
+
+  [99:4]
+    یَوۡمَئِذࣲ تُحَدِّثُ أَخۡبَارَهَا
+    B/E:    an jenem Tag wird sie die Nachrichten über sich erzählen
+    Khoury: An jenem Tag erzählt sie ihre Nachrichten
+
+  [99:5]
+    بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا
+    B/E:    weil dein Herr (es) ihr eingegeben hat
+    Khoury: Weil dein Herr (es) ihr offenbart hat
+
+  [99:6]
+    یَوۡمَئِذࣲ یَصۡدُرُ ٱلنَّاسُ أَشۡتَاتࣰا لِّیُرَوۡا۟ أَعۡمَـٰلَهُمۡ
+    B/E:    An jenem Tag werden die Menschen (in Gruppen) getrennt herauskommen, damit ihnen ihre Werke gezeigt werden
+    Khoury: An jenem Tag kommen die Menschen in verschiedenen Gruppen hervor, damit ihnen ihre Werke gezeigt werden
+
+  [99:7]
+    فَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَیۡرࣰا یَرَهُۥ
+    B/E:    Wer nun im Gewicht eines Stäubchens Gutes tut, wird es sehen
+    Khoury: Wer nun Gutes im Gewicht eines Stäubchens tut, wird es sehen
+
+  [99:8]
+    وَمَن یَعۡمَلۡ مِثۡقَالَ ذَرَّةࣲ شَرࣰّا یَرَهُۥ
+    B/E:    Und wer im Gewicht eines Stäubchens Böses tut, wird es sehen
+    Khoury: Und wer Böses im Gewicht eines Stäubchens tut, wird es sehen
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  شتت              1       5  sehr selten — nur 5x im ganzen Koran
+  زلزل             2       6  sehr selten — nur 6x im ganzen Koran
+  ثقل              3      28  selten — 28x im ganzen Koran
+  شرر              1      31  selten — 31x im ganzen Koran
+  حدث              1      36  selten — 36x im ganzen Koran
+  ذرر              2      38  selten — 38x im ganzen Koran
+  صدر              1      46  
+  خبر              1      52  
+  وحي              1      78  
+  خرج              1     182  
+  خير              1     196  
+  رأي              3     328  
+  أنس              2     338  
+  عمل              3     360  
+  أرض              2     461  
+  يوم              2     475  
+  ربب              1     980  
+  قول              1    1722  
+
+  ACHTUNG: Diese Sure hat nur 29 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

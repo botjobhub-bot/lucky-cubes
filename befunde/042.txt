@@ -1,0 +1,488 @@
+==============================================================================
+SURE 42  —  53 Verse, 518 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [42:1]
+    حمۤ
+    B/E:    Ha-Mim
+    Khoury: Haa Mim
+
+  [42:2]
+    عۤسۤقۤ
+    B/E:    Ayn-Sin-Qaf
+    Khoury: Ayn Sien Qaaf
+
+  [42:3]
+    كَذَ ٰلِكَ یُوحِیۤ إِلَیۡكَ وَإِلَى ٱلَّذِینَ مِن قَبۡلِكَ ٱللَّهُ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
+    B/E:    So gibt dir Allah (als Offenbarung) ein und (hat auch zuvor) denjenigen, die vor dir waren, (als Offenbarungen eingegeben), (Er), der Allmächtige und Allweise
+    Khoury: So offenbart Gott dir, so wie (früher) denjenigen, die vor dir lebten, (Er), der Mächtige, der Weise
+
+  [42:4]
+    لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَلِیُّ ٱلۡعَظِیمُ
+    B/E:    Ihm gehört, was in den Himmeln und was auf der Erde ist, und Er ist der Erhabene und Allgewaltige
+    Khoury: Ihm gehört, was in den Himmeln und was auf der Erde ist, und Er ist der Erhabene, der Majestätische
+
+  [42:5]
+    تَكَادُ ٱلسَّمَـٰوَ ٰتُ یَتَفَطَّرۡنَ مِن فَوۡقِهِنَّۚ وَٱلۡمَلَـٰۤئِكَةُ یُسَبِّحُونَ بِحَمۡدِ رَبِّهِمۡ وَیَسۡتَغۡفِرُونَ لِمَن فِی ٱلۡأَرۡضِۗ أَلَاۤ إِنَّ ٱللَّهَ هُوَ ٱلۡغَفُورُ ٱلرَّحِیمُ
+    B/E:    Beinahe brechen die Himmel auseinander von oben her. Und die Engel lobpreisen ihren Herrn und bitten (Ihn) um Vergebung für diejenigen, die auf der Erde sind. Ja sicherlich, Allah ist der Allvergebende und Barmherzige
+    Khoury: Die Himmel brechen bald auseinander von oben her. Und die Engel singen das Lob ihres Herrn und bitten Ihn um Vergebung für die, die auf der Erde sind. Ja, Gott ist der, der voller Vergebung und barmherzig ist
+
+  [42:6]
+    وَٱلَّذِینَ ٱتَّخَذُوا۟ مِن دُونِهِۦۤ أَوۡلِیَاۤءَ ٱللَّهُ حَفِیظٌ عَلَیۡهِمۡ وَمَاۤ أَنتَ عَلَیۡهِم بِوَكِیلࣲ
+    B/E:    Über diejenigen, die sich anstatt Seiner Schutzherren nehmen, ist Allah Hüter, und du bist nicht ihr Sachwalter
+    Khoury: Über diejenigen, die sich an seiner Stelle Freunde nehmen, ist Gott Hüter, und nicht bist du ihr Sachwalter
+
+  [42:7]
+    وَكَذَ ٰلِكَ أَوۡحَیۡنَاۤ إِلَیۡكَ قُرۡءَانًا عَرَبِیࣰّا لِّتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَا وَتُنذِرَ یَوۡمَ ٱلۡجَمۡعِ لَا رَیۡبَ فِیهِۚ فَرِیقࣱ فِی ٱلۡجَنَّةِ وَفَرِیقࣱ فِی ٱلسَّعِیرِ
+    B/E:    Und so haben Wir dir einen arabischen Qur’an (als Offenbarung) eingegeben, damit du die Mutter der Städte und diejenigen rings umher warnst, und damit du vor dem Tag der Versammlung warnst, an dem es keinen Zweifel gibt. Eine Gruppe wird im (Paradies)garten sein und eine Gruppe in der Feuerglut
+    Khoury: Und so haben Wir dir einen arabischen Koran offenbart, damit du die Mutter der Städte und die Menschen in ihrer Umgebung warnest, und damit du vor dem Tag der Versammlung warnest; an ihm ist kein Zweifel möglich. Ein Teil wird im Paradies sein und ein Teil im Feuerbrand
+
+  [42:8]
+    وَلَوۡ شَاۤءَ ٱللَّهُ لَجَعَلَهُمۡ أُمَّةࣰ وَ ٰحِدَةࣰ وَلَـٰكِن یُدۡخِلُ مَن یَشَاۤءُ فِی رَحۡمَتِهِۦۚ وَٱلظَّـٰلِمُونَ مَا لَهُم مِّن وَلِیࣲّ وَلَا نَصِیرٍ
+    B/E:    Und wenn Allah gewollt hätte, hätte Er sie wahrlich zu einer einzigen Gemeinschaft gemacht. Aber Er läßt, wen Er will, in Seine Barmherzigkeit eingehen. Und die Ungerechten haben weder Schutzherrn noch Helfer
+    Khoury: Und wenn Gott gewollt hätte, hätte Er sie zu einer einzigen Gemeinschaft gemacht. Aber Er läßt in seine Barmherzigkeit eingehen, wen Er will. Und die, die Unrecht tun, haben weder Freund noch Helfer
+
+  [42:9]
+    أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦۤ أَوۡلِیَاۤءَۖ فَٱللَّهُ هُوَ ٱلۡوَلِیُّ وَهُوَ یُحۡیِ ٱلۡمَوۡتَىٰ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ
+    B/E:    Oder haben sie sich anstatt Seiner Schutzherren genommen? Allah (allein) ist doch der Schutzherr. Er macht die Toten wieder lebendig, und Er hat zu allem die Macht
+    Khoury: Oder haben sie sich an seiner Stelle Freunde genommen? Gott (allein) ist doch der Freund. Er macht die Toten wieder lebendig, und Er hat Macht zu allen Dingen
+
+  [42:10]
+    وَمَا ٱخۡتَلَفۡتُمۡ فِیهِ مِن شَیۡءࣲ فَحُكۡمُهُۥۤ إِلَى ٱللَّهِۚ ذَ ٰلِكُمُ ٱللَّهُ رَبِّی عَلَیۡهِ تَوَكَّلۡتُ وَإِلَیۡهِ أُنِیبُ
+    B/E:    Und worüber ihr auch immer uneinig seid, das Urteil darüber steht Allah (allein) zu. Dies ist doch Allah, mein Herr. Auf Ihn verlasse ich mich, und Ihm wende ich mich reuig zu
+    Khoury: Und worüber ihr auch uneins seid, das Urteil darüber steht Gott (allein) zu. Das ist eben Gott, mein Herr. Auf Ihn vertraue ich, und zu Ihm wende ich mich reumütig
+
+  [42:11]
+    فَاطِرُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَ ٰجࣰا وَمِنَ ٱلۡأَنۡعَـٰمِ أَزۡوَ ٰجࣰا یَذۡرَؤُكُمۡ فِیهِۚ لَیۡسَ كَمِثۡلِهِۦ شَیۡءࣱۖ وَهُوَ ٱلسَّمِیعُ ٱلۡبَصِیرُ
+    B/E:    (Er ist) der Erschaffer der Himmel und der Erde. Er hat euch aus euch selbst Gattinnen gemacht, und auch aus dem Vieh Paare, wodurch Er euch vermehrt. Nichts ist Ihm gleich; und Er ist der Allhörende und Allsehende
+    Khoury: (Er ist) der Schöpfer der Himmel und der Erde. Er hat euch aus euch selbst Gattinnen gemacht, und auch aus den Tieren Paare, so daß Er euch dadurch vermehrt. Nichts ist Ihm gleich. Er ist der, der alles hört und sieht
+
+  [42:12]
+    لَهُۥ مَقَالِیدُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۖ یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ وَیَقۡدِرُۚ إِنَّهُۥ بِكُلِّ شَیۡءٍ عَلِیمࣱ
+    B/E:    Ihm gehören die Schlüssel der Himmel und der Erde. Er gewährt die Versorgung großzügig, wem Er will, und bemißt auch. Gewiß, Er weiß über alles Bescheid
+    Khoury: Er hat die Schlüssel der Himmel und der Erde. Er teilt den Lebensunterhalt großzügig, wem Er will, und auch bemessen zu. Siehe, Er weiß über alle Dinge Bescheid
+
+  [42:13]
+    ۞ شَرَعَ لَكُم مِّنَ ٱلدِّینِ مَا وَصَّىٰ بِهِۦ نُوحࣰا وَٱلَّذِیۤ أَوۡحَیۡنَاۤ إِلَیۡكَ وَمَا وَصَّیۡنَا بِهِۦۤ إِبۡرَ ٰهِیمَ وَمُوسَىٰ وَعِیسَىٰۤۖ أَنۡ أَقِیمُوا۟ ٱلدِّینَ وَلَا تَتَفَرَّقُوا۟ فِیهِۚ كَبُرَ عَلَى ٱلۡمُشۡرِكِینَ مَا تَدۡعُوهُمۡ إِلَیۡهِۚ ٱللَّهُ یَجۡتَبِیۤ إِلَیۡهِ مَن یَشَاۤءُ وَیَهۡدِیۤ إِلَیۡهِ مَن یُنِیبُ
+    B/E:    Er hat euch von der Religion festgelegt, was Er Nuh anbefahl und was Wir dir (als Offenbarung) eingegeben haben und was Wir Ibrahim, Musa und ’Isa anbefahlen: Haltet die (Vorschriften der) Religion ein und spaltet euch nicht darin (in Gruppen). Den Götzendienern setzt das schwer zu, wozu du sie aufrufst. Allah erwählt dazu, wen Er will, und leitet dazu, wer sich (Ihm) reuig zuwendet
+    Khoury: Er hat euch von der Religion verordnet, was Er Noach aufgetragen hat, und was Wir dir offenbart haben, und was Wir Abraham, Mose und Jesus aufgetragen haben: Haltet die (Bestimmungen der) Religion ein und bringt keine Spaltungen hinein. Den Polytheisten fällt das schwer, wozu du sie aufrufst. Gott erwählt dazu, wen Er will, und Er führt dazu, wer sich (Ihm) reumütig zuwendet
+
+  [42:14]
+    وَمَا تَفَرَّقُوۤا۟ إِلَّا مِنۢ بَعۡدِ مَا جَاۤءَهُمُ ٱلۡعِلۡمُ بَغۡیَۢا بَیۡنَهُمۡۚ وَلَوۡلَا كَلِمَةࣱ سَبَقَتۡ مِن رَّبِّكَ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى لَّقُضِیَ بَیۡنَهُمۡۚ وَإِنَّ ٱلَّذِینَ أُورِثُوا۟ ٱلۡكِتَـٰبَ مِنۢ بَعۡدِهِمۡ لَفِی شَكࣲّ مِّنۡهُ مُرِیبࣲ
+    B/E:    Und sie spalteten sich erst, nachdem das Wissen zu ihnen gekommen war - aus Mißgunst untereinander. Und wenn es nicht ein früher ergangenes Wort von deinem Herrn auf eine festgesetzte Frist gäbe, so wäre wahrlich zwischen ihnen entschieden worden. Gewiß, diejenigen, denen die Schrift nach ihnen zum Erbe gegeben wurde, sind darüber in starkem Zweifel
+    Khoury: Und sie spalteten sich darin erst, nachdem das Wissen zu ihnen gekommen war, dies aus ungerechter Auflehnung untereinander. Und gäbe es nicht einen früher ergangenen Spruch von deinem Herrn auf eine bestimmte Frist, so wäre zwischen ihnen entschieden worden. Siehe, diejenigen, denen nach ihnen das Buch zum Erbe übergeben wurde, hegen darüber starken Zweifel
+
+  [42:15]
+    فَلِذَ ٰلِكَ فَٱدۡعُۖ وَٱسۡتَقِمۡ كَمَاۤ أُمِرۡتَۖ وَلَا تَتَّبِعۡ أَهۡوَاۤءَهُمۡۖ وَقُلۡ ءَامَنتُ بِمَاۤ أَنزَلَ ٱللَّهُ مِن كِتَـٰبࣲۖ وَأُمِرۡتُ لِأَعۡدِلَ بَیۡنَكُمُۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمۡۖ لَنَاۤ أَعۡمَـٰلُنَا وَلَكُمۡ أَعۡمَـٰلُكُمۡۖ لَا حُجَّةَ بَیۡنَنَا وَبَیۡنَكُمُۖ ٱللَّهُ یَجۡمَعُ بَیۡنَنَاۖ وَإِلَیۡهِ ٱلۡمَصِیرُ
+    B/E:    Darum rufe du auf und verhalte dich recht, wie dir befohlen wurde. Und folge nicht ihren Neigungen und sag: Ich glaube an das, was Allah an Büchern herabgesandt hat, und mir ist befohlen worden, unter euch gerecht zu handeln. Allah ist unser Herr und euer Herr. Uns unsere Werke und euch eure Werke. Es gibt keine (gemeinsame) Beweisgrundlage zwischen uns und euch. Allah wird uns zusammenbringen. Und zu Ihm ist der Ausgang
+    Khoury: Darum rufe du auf und verhalte dich recht, wie dir befohlen worden ist. Und folge nicht ihren Neigungen, sondern sprich: Ich glaube an das, was Gott an Büchern herabgesandt hat, und mir ist befohlen worden, unter euch Gerechtigkeit zu üben. Gott ist unser Herr und euer Herr. Wir haben unsere Werke, und ihr habt eure Werke (zu verantworten). Es gibt keinen Streitgrund zwischen uns und euch. Gott wird uns zusammenbringen. Und zu Ihm führt der Lebensweg
+
+  [42:16]
+    وَٱلَّذِینَ یُحَاۤجُّونَ فِی ٱللَّهِ مِنۢ بَعۡدِ مَا ٱسۡتُجِیبَ لَهُۥ حُجَّتُهُمۡ دَاحِضَةٌ عِندَ رَبِّهِمۡ وَعَلَیۡهِمۡ غَضَبࣱ وَلَهُمۡ عَذَابࣱ شَدِیدٌ
+    B/E:    Diejenigen, die über Allah streiten, nachdem auf Ihn gehört worden ist, deren Beweisgrundlage wird bei ihrem Herrn widerlegt; auf ihnen liegt Zorn, und für sie wird es strenge Strafe geben
+    Khoury: Diejenigen, die über Gott streiten, nachdem auf Ihn gehört worden ist, deren Streitgrund wird bei ihrem Herrn widerlegt. Auf ihnen liegt Zorn, und bestimmt ist für sie eine harte Pein
+
+  [42:17]
+    ٱللَّهُ ٱلَّذِیۤ أَنزَلَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ وَٱلۡمِیزَانَۗ وَمَا یُدۡرِیكَ لَعَلَّ ٱلسَّاعَةَ قَرِیبࣱ
+    B/E:    Allah ist es, Der das Buch mit der Wahrheit herabgesandt hat, und (auch) die Waage. Was läßt dich wissen? Vielleicht ist die Stunde nahe
+    Khoury: Gott ist es, der das Buch mit der Wahrheit herabgesandt hat, und auch die Waage. Woher willst du es wissen? Vielleicht steht die Stunde nahe bevor
+
+  [42:18]
+    یَسۡتَعۡجِلُ بِهَا ٱلَّذِینَ لَا یُؤۡمِنُونَ بِهَاۖ وَٱلَّذِینَ ءَامَنُوا۟ مُشۡفِقُونَ مِنۡهَا وَیَعۡلَمُونَ أَنَّهَا ٱلۡحَقُّۗ أَلَاۤ إِنَّ ٱلَّذِینَ یُمَارُونَ فِی ٱلسَّاعَةِ لَفِی ضَلَـٰلِۭ بَعِیدٍ
+    B/E:    Diejenigen, die nicht an sie glauben, wünschen, sie zu beschleunigen. Diejenigen aber, die glauben, sind besorgt wegen ihr und wissen, daß sie Wirklichkeit ist. Doch eben diejenigen, die über die Stunde streiten, befinden sich wahrlich in tiefem Irrtum
+    Khoury: Diejenigen, die nicht an sie glauben, wünschen, sie zu beschleunigen. Die aber, die glauben, sind erschrocken vor ihr und wissen, daß sie Wirklichkeit ist. Aber diejenigen, die über die Stunde streiten, befinden sich in tiefem Irrtum
+
+  [42:19]
+    ٱللَّهُ لَطِیفُۢ بِعِبَادِهِۦ یَرۡزُقُ مَن یَشَاۤءُۖ وَهُوَ ٱلۡقَوِیُّ ٱلۡعَزِیزُ
+    B/E:    Allah ist Feinfühlig zu Seinen Dienern. Er versorgt, wen Er will. Und Er ist der Starke und Allmächtige
+    Khoury: Gott ist feinfühlig zu seinen Dienern. Er beschert Lebensunterhalt, wem Er will. Und Er ist der Starke, der Mächtige
+
+  [42:20]
+    مَن كَانَ یُرِیدُ حَرۡثَ ٱلۡءَاخِرَةِ نَزِدۡ لَهُۥ فِی حَرۡثِهِۦۖ وَمَن كَانَ یُرِیدُ حَرۡثَ ٱلدُّنۡیَا نُؤۡتِهِۦ مِنۡهَا وَمَا لَهُۥ فِی ٱلۡءَاخِرَةِ مِن نَّصِیبٍ
+    B/E:    Wer immer die (Ernte) des Saatfeldes für das Jenseits haben will, dem mehren Wir noch (die Ernte) in seinem Saatfeld. Und wer die (Ernte) des Saatfeldes für das Diesseits haben will, dem lassen Wir etwas davon zukommen, für den wird es aber im Jenseits keinen Anteil geben
+    Khoury: Wer die Saaternte des Jenseits haben will, dem mehren Wir noch seine Saaternte. Und wer die Saaternte des Diesseits haben will, dem lassen Wir etwas davon zukommen, er erhält aber im Jenseits keinen Anteil
+
+  [42:21]
+    أَمۡ لَهُمۡ شُرَكَـٰۤؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّینِ مَا لَمۡ یَأۡذَنۢ بِهِ ٱللَّهُۚ وَلَوۡلَا كَلِمَةُ ٱلۡفَصۡلِ لَقُضِیَ بَیۡنَهُمۡۗ وَإِنَّ ٱلظَّـٰلِمِینَ لَهُمۡ عَذَابٌ أَلِیمࣱ
+    B/E:    Oder haben sie (etwa) Teilhaber, die ihnen als Religion festgelegt haben, was Allah nicht erlaubt hat? Wenn es nicht das (bereits ergangene) Wort der Entscheidung (des Aufschubs bis zum Jüngsten Gericht) gäbe, wäre zwischen ihnen wahrlich (schon jetzt) entschieden worden. Und gewiß, für die Ungerechten wird es schmerzhafte Strafe geben
+    Khoury: Oder haben sie etwa Teilhaber, die ihnen als Religion verordnet haben, was Gott nicht erlaubt hat? Und gäbe es nicht den Urteilsspruch, wäre es zwischen ihnen entschieden worden. Und für die, die Unrecht tun, ist eine schmerzhafte Pein bestimmt
+
+  [42:22]
+    تَرَى ٱلظَّـٰلِمِینَ مُشۡفِقِینَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعُۢ بِهِمۡۗ وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِی رَوۡضَاتِ ٱلۡجَنَّاتِۖ لَهُم مَّا یَشَاۤءُونَ عِندَ رَبِّهِمۡۚ ذَ ٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِیرُ
+    B/E:    Du wirst (dann) die Ungerechten besorgt sehen wegen dessen, was sie verdient haben, und es wird über sie hereinbrechen. Diejenigen aber, die glauben und rechtschaffene Werke tun, werden sich auf den Auen des (Paradies)gartens befinden. Sie haben, was sie wollen, bei ihrem Herrn; das ist die große Huld
+    Khoury: Du siehst dann die, die Unrecht tun, erschrocken vor dem, was sie erworben haben, und es wird über sie hereinbrechen. Diejenigen aber, die glauben und die guten Werke tun, befinden sich in den Gärten des Paradieses. Sie haben bei ihrem Herrn, was sie wollen. Das ist die große Huld
+
+  [42:23]
+    ذَ ٰلِكَ ٱلَّذِی یُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِۗ قُل لَّاۤ أَسۡءَلُكُمۡ عَلَیۡهِ أَجۡرًا إِلَّا ٱلۡمَوَدَّةَ فِی ٱلۡقُرۡبَىٰۗ وَمَن یَقۡتَرِفۡ حَسَنَةࣰ نَّزِدۡ لَهُۥ فِیهَا حُسۡنًاۚ إِنَّ ٱللَّهَ غَفُورࣱ شَكُورٌ
+    B/E:    Das ist die frohe Botschaft, die Allah Seinen Dienern, die glauben und rechtschaffene Werke tun, verkündet. Sag: Ich verlange von euch keinen Lohn dafür, es sei denn die Liebe wie zu den Verwandten’. Und wer ein gutes Werk tut, dem schenken Wir dafür noch mehr Gutes. Gewiß, Allah ist Allvergebend und stets zu Dank bereit
+    Khoury: Das ist die Frohbotschaft, die Gott seinen Dienern, die glauben und die guten Werke tun, verkündet. Sprich: Ich verlange von euch keinen Lohn dafür, es sei denn die Liebe wie zu den Verwandten. Und wer ein gutes Werk tut, dem schenken Wir dafür noch mehr Gutes. Gott ist voller Vergebung und zeigt sich erkenntlich
+
+  [42:24]
+    أَمۡ یَقُولُونَ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبࣰاۖ فَإِن یَشَإِ ٱللَّهُ یَخۡتِمۡ عَلَىٰ قَلۡبِكَۗ وَیَمۡحُ ٱللَّهُ ٱلۡبَـٰطِلَ وَیُحِقُّ ٱلۡحَقَّ بِكَلِمَـٰتِهِۦۤۚ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ
+    B/E:    Oder sagen sie etwa: Er hat eine Lüge gegen Allah ersonnen? Wenn nun Allah will, kann Er dir das Herz versiegeln. Und Allah löscht das Falsche aus und setzt die Wahrheit mit Seinen Worten durch. Er weiß über das innere Geheimnis Bescheid
+    Khoury: Oder sagen sie etwa: «Er hat eine Lüge gegen Gott erdichtet»? Wenn nun Gott will, kann Er dir das Herz versiegeln. Und Gott löscht das Falsche aus und bestätigt die Wahrheit mit seinen Worten. Er weiß über das innere Geheimnis Bescheid
+
+  [42:25]
+    وَهُوَ ٱلَّذِی یَقۡبَلُ ٱلتَّوۡبَةَ عَنۡ عِبَادِهِۦ وَیَعۡفُوا۟ عَنِ ٱلسَّیِّءَاتِ وَیَعۡلَمُ مَا تَفۡعَلُونَ
+    B/E:    Er ist es, Der die Reue von Seinen Dienern annimmt und die Missetaten verzeiht. Und Er weiß, was ihr tut
+    Khoury: Er ist es, der die Umkehr von seinen Dienern annimmt und die Missetaten verzeiht. Und Er weiß, was ihr tut
+
+  [42:26]
+    وَیَسۡتَجِیبُ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَیَزِیدُهُم مِّن فَضۡلِهِۦۚ وَٱلۡكَـٰفِرُونَ لَهُمۡ عَذَابࣱ شَدِیدࣱ
+    B/E:    Und Er erhört diejenigen, die glauben und rechtschaffene Werke tun, und Er gibt ihnen noch mehr von Seiner Huld. Für die Ungläubigen aber wird es strenge Strafe geben
+    Khoury: Und Er erhört diejenigen, die glauben und die guten Werke tun, und gibt ihnen noch mehr von seiner Huld. Für die Ungläubigen aber ist eine harte Pein bestimmt
+
+  [42:27]
+    ۞ وَلَوۡ بَسَطَ ٱللَّهُ ٱلرِّزۡقَ لِعِبَادِهِۦ لَبَغَوۡا۟ فِی ٱلۡأَرۡضِ وَلَـٰكِن یُنَزِّلُ بِقَدَرࣲ مَّا یَشَاۤءُۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِیرُۢ بَصِیرࣱ
+    B/E:    Und würde Allah Seinen Dienern die Versorgung großzügig zuteilen, würden sie auf der Erde Ungerechtigkeit verüben. Aber Allah läßt im richtigen Maß herabkommen, was Er will. Er hat Kenntnis von Seinen Dienern und sieht sie wohl
+    Khoury: Und würde Gott seinen Dienern den Lebensunterhalt großzügig zuteilen, würden sie auf der Erde Ungerechtigkeit verüben. Aber Gott läßt im richtigen Maße herabkommen, was Er will. Er hat Kenntnis von seinen Dienern und sieht sie wohl
+
+  [42:28]
+    وَهُوَ ٱلَّذِی یُنَزِّلُ ٱلۡغَیۡثَ مِنۢ بَعۡدِ مَا قَنَطُوا۟ وَیَنشُرُ رَحۡمَتَهُۥۚ وَهُوَ ٱلۡوَلِیُّ ٱلۡحَمِیدُ
+    B/E:    Und Er ist es, Der den Regen herabkommen läßt, nachdem sie die Hoffnung aufgegeben haben, und Der Seine Barmherzigkeit ausbreitet. Und Er ist der Schutzherr und Lobenswürdige
+    Khoury: Und Er ist es, der den Regen herabkommen läßt, nachdem sie die Hoffnung aufgegeben haben, und der seine Barmherzigkeit ausbreitet. Und Er ist der Freund und des Lobes würdig
+
+  [42:29]
+    وَمِنۡ ءَایَـٰتِهِۦ خَلۡقُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَمَا بَثَّ فِیهِمَا مِن دَاۤبَّةࣲۚ وَهُوَ عَلَىٰ جَمۡعِهِمۡ إِذَا یَشَاۤءُ قَدِیرࣱ
+    B/E:    Und zu Seinen Zeichen gehört die Erschaffung der Himmel und der Erde und das, was Er an Tieren in ihnen beiden sich ausbreiten läßt. Und Er hat die Macht, sie zu versammeln, wenn Er will
+    Khoury: Und zu seinen Zeichen gehört es, daß Er die Himmel und die Erde erschaffen hat und in ihnen beiden allerlei Getier sich ausbreiten läßt. Und Er hat die Macht, sie zu versammeln, wenn Er will
+
+  [42:30]
+    وَمَاۤ أَصَـٰبَكُم مِّن مُّصِیبَةࣲ فَبِمَا كَسَبَتۡ أَیۡدِیكُمۡ وَیَعۡفُوا۟ عَن كَثِیرࣲ
+    B/E:    Und was immer euch an Unglück trifft, es ist für das, was eure Hände erworben haben. Und Er verzeiht vieles
+    Khoury: Und was immer euch an Unglück trifft, es ist für das, was eure I lande erworben haben. Und Er übergeht wohl vieles
+
+  [42:31]
+    وَمَاۤ أَنتُم بِمُعۡجِزِینَ فِی ٱلۡأَرۡضِۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِیࣲّ وَلَا نَصِیرࣲ
+    B/E:    Ihr könnt euch (Ihm) auf der Erde nicht entziehen; und ihr habt außer Allah weder Schutzherrn noch Helfer
+    Khoury: Ihr könnt auf der Erde nichts vereiteln. Und ihr habt außer Gott weder Freund noch Helfer
+
+  [42:32]
+    وَمِنۡ ءَایَـٰتِهِ ٱلۡجَوَارِ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَـٰمِ
+    B/E:    Und zu Seinen Zeichen gehören die auf dem Meer fahrenden (Schiffe), wie die Berge
+    Khoury: Und zu seinen Zeichen gehören die Schiffe, die wie Berge auf dem Meer fahren
+
+  [42:33]
+    إِن یَشَأۡ یُسۡكِنِ ٱلرِّیحَ فَیَظۡلَلۡنَ رَوَاكِدَ عَلَىٰ ظَهۡرِهِۦۤۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَـٰتࣲ لِّكُلِّ صَبَّارࣲ شَكُورٍ
+    B/E:    Wenn Er will, läßt Er den Wind sich legen, dann bleiben sie bewegungslos auf seiner Oberfläche stehen. Darin sind wahrlich Zeichen für jeden sehr Standhaften und sehr Dankbaren
+    Khoury: Wenn Er will, läßt Er den Wind sich legen, so daß sie nun bewegungslos auf der Wasserfläche stehenbleiben. Darin sind Zeichen für jeden, der sehr geduldig und sehr dankbar ist
+
+  [42:34]
+    أَوۡ یُوبِقۡهُنَّ بِمَا كَسَبُوا۟ وَیَعۡفُ عَن كَثِیرࣲ
+    B/E:    oder Er läßt sie untergehen für das, was sie verdient haben. Und Er verzeiht vieles
+    Khoury: Oder Er läßt sie untergehen für das, was sie erworben haben. Und Er übergeht wohl vieles
+
+  [42:35]
+    وَیَعۡلَمَ ٱلَّذِینَ یُجَـٰدِلُونَ فِیۤ ءَایَـٰتِنَا مَا لَهُم مِّن مَّحِیصࣲ
+    B/E:    Und diejenigen, die über Unsere Zeichen streiten, sollen wissen, daß es für sie kein Entrinnen gibt
+    Khoury: Deshalb sollen diejenigen, die über unsere Zeichen streiten, wissen, daß es für sie kein Entrinnen gibt
+
+  [42:36]
+    فَمَاۤ أُوتِیتُم مِّن شَیۡءࣲ فَمَتَـٰعُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۚ وَمَا عِندَ ٱللَّهِ خَیۡرࣱ وَأَبۡقَىٰ لِلَّذِینَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ
+    B/E:    Was immer euch gegeben worden ist, ist Nießbrauch des diesseitigen Lebens. Was aber bei Allah ist, ist besser und beständiger für diejenigen, die glauben und sich auf ihren Herrn verlassen
+    Khoury: Und was immer euch zuteil geworden ist, ist Nutznießung des diesseitigen Lebens. Was aber bei Gott ist, ist besser und hat eher Bestand für die, die glauben und auf ihren Herrn vertrauen
+
+  [42:37]
+    وَٱلَّذِینَ یَجۡتَنِبُونَ كَبَـٰۤئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَ ٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمۡ یَغۡفِرُونَ
+    B/E:    und diejenigen, die schwerwiegende Sünden und Abscheulichkeiten meiden und, wenn sie zornig sind, (doch) vergeben
+    Khoury: Die die schweren Sünden und die schändlichen Taten meiden und, wenn sie in Zorn geraten, (lieber) vergeben
+
+  [42:38]
+    وَٱلَّذِینَ ٱسۡتَجَابُوا۟ لِرَبِّهِمۡ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمۡرُهُمۡ شُورَىٰ بَیۡنَهُمۡ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ
+    B/E:    und diejenigen, die auf ihren Herrn hören und das Gebet verrichten, ihre Angelegenheit(en) durch Beratung untereinander (regeln) und von dem ausgeben, womit Wir sie versorgt haben
+    Khoury: Und die auf ihren Herrn hören und das Gebet verrichten, ihre Angelegenheiten durch Beratung regeln und von dem, was Wir ihnen beschert haben, spenden
+
+  [42:39]
+    وَٱلَّذِینَ إِذَاۤ أَصَابَهُمُ ٱلۡبَغۡیُ هُمۡ یَنتَصِرُونَ
+    B/E:    und diejenigen, die, wenn Gewalttätigkeit gegen sie verübt wird, sich selbst helfen
+    Khoury: Und die, wenn ihnen Ungerechtigkeit widerfährt, sich selbst helfen
+
+  [42:40]
+    وَجَزَ ٰۤؤُا۟ سَیِّئَةࣲ سَیِّئَةࣱ مِّثۡلُهَاۖ فَمَنۡ عَفَا وَأَصۡلَحَ فَأَجۡرُهُۥ عَلَى ٱللَّهِۚ إِنَّهُۥ لَا یُحِبُّ ٱلظَّـٰلِمِینَ
+    B/E:    Die Vergeltung für eine böse Tat ist etwas gleich Böses. Wer aber verzeiht und Besserung bringt, dessen Lohn obliegt Allah. Er liebt ja nicht die Ungerechten
+    Khoury: Eine schlechte Tat soll mit etwas gleich Bösem vergolten werden. Wer aber verzeiht und Besserung schafft, dessen Lohn obliegt Gott. Er liebt ja die nicht, die Unrecht tun
+
+  [42:41]
+    وَلَمَنِ ٱنتَصَرَ بَعۡدَ ظُلۡمِهِۦ فَأُو۟لَـٰۤئِكَ مَا عَلَیۡهِم مِّن سَبِیلٍ
+    B/E:    Und wer immer sich selbst hilft, nachdem ihm Unrecht zugefügt wurde, gegen jene gibt es keine Möglichkeit (, sie zu belangen)
+    Khoury: Und die, die sich selbst helfen, nachdem ihnen Unrecht getan wurde, können nicht belangt werden
+
+  [42:42]
+    إِنَّمَا ٱلسَّبِیلُ عَلَى ٱلَّذِینَ یَظۡلِمُونَ ٱلنَّاسَ وَیَبۡغُونَ فِی ٱلۡأَرۡضِ بِغَیۡرِ ٱلۡحَقِّۚ أُو۟لَـٰۤئِكَ لَهُمۡ عَذَابٌ أَلِیمࣱ
+    B/E:    Eine Möglichkeit (zu belangen) gibt es nur gegen diejenigen, die den Menschen Unrecht zufügen und auf der Erde ohne Recht Gewalttätigkeiten begehen. Für sie wird es schmerzhafte Strafe geben
+    Khoury: Belangt werden die, die den Menschen Unrecht tun und auf der Erde unberechtigterweise ungerecht handeln. Für sie ist eine schmerzhafte Pein bestimmt
+
+  [42:43]
+    وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَ ٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ
+    B/E:    Wahrlich, wenn einer standhaft erträgt und vergibt, so gehört dies zur Entschlossenheit (in der Handhabe) der Angelegenheiten
+    Khoury: Wahrlich, wenn einer geduldig ist und vergibt, so gehört dies zur Entschlossenheit in den Anliegen
+
+  [42:44]
+    وَمَن یُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِیࣲّ مِّنۢ بَعۡدِهِۦۗ وَتَرَى ٱلظَّـٰلِمِینَ لَمَّا رَأَوُا۟ ٱلۡعَذَابَ یَقُولُونَ هَلۡ إِلَىٰ مَرَدࣲّ مِّن سَبِیلࣲ
+    B/E:    Wen Allah in die Irre gehen läßt, der hat keinen Schutzherrn nach Ihm. Und du siehst, wie die Ungerechten, wenn sie die Strafe sehen, sagen: Gibt es denn einen Weg zur Rückkehr
+    Khoury: Wen Gott irreführt, der hat daraufhin keinen Freund. Und du siehst, wie die, die Unrecht tun, wenn sie die Pein sehen, sagen: «Gibt es denn einen Weg, zurückzukehren?»
+
+  [42:45]
+    وَتَرَىٰهُمۡ یُعۡرَضُونَ عَلَیۡهَا خَـٰشِعِینَ مِنَ ٱلذُّلِّ یَنظُرُونَ مِن طَرۡفٍ خَفِیࣲّۗ وَقَالَ ٱلَّذِینَ ءَامَنُوۤا۟ إِنَّ ٱلۡخَـٰسِرِینَ ٱلَّذِینَ خَسِرُوۤا۟ أَنفُسَهُمۡ وَأَهۡلِیهِمۡ یَوۡمَ ٱلۡقِیَـٰمَةِۗ أَلَاۤ إِنَّ ٱلظَّـٰلِمِینَ فِی عَذَابࣲ مُّقِیمࣲ
+    B/E:    Und du siehst, wie sie ihm vorgeführt werden, demütig vor Unterwürfigkeit und mit verborgenen Blicken schauend. Und diejenigen, die glauben, sagen: Die (wahren) Verlierer sind diejenigen, die sich selbst und ihre Angehörigen am Tag der Auferstehung verlieren. Ja gewiß, die Ungerechten befinden sich in beständiger Strafe
+    Khoury: Und du siehst, wie sie ihm vorgeführt werden, demütig vor Erniedrigung und mit verstohlenen Blicken dreinschauend. Und diejenigen, die glauben, sagen: «Die (wahren) Verlierer sind die, die am Tag der Auferstehung sich selbst und ihre Angehörigen verlieren.» Ja, die, die Unrecht tun, befinden sich in einer beständigen Pein
+
+  [42:46]
+    وَمَا كَانَ لَهُم مِّنۡ أَوۡلِیَاۤءَ یَنصُرُونَهُم مِّن دُونِ ٱللَّهِۗ وَمَن یُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِیلٍ
+    B/E:    Und sie werden keine Schutzherren haben, die ihnen anstatt Allahs helfen (könnten). Wen Allah in die Irre gehen läßt, für den gibt es keinen (Aus)weg
+    Khoury: Und sie haben keine Freunde, die sie anstelle Gottes unterstützen könnten. Wen Gott irreführt, für den gibt es keinen Ausweg
+
+  [42:47]
+    ٱسۡتَجِیبُوا۟ لِرَبِّكُم مِّن قَبۡلِ أَن یَأۡتِیَ یَوۡمࣱ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِۚ مَا لَكُم مِّن مَّلۡجَإࣲ یَوۡمَئِذࣲ وَمَا لَكُم مِّن نَّكِیرࣲ
+    B/E:    Hört auf euren Herrn, bevor von Allah ein Tag kommt, der nicht zurückgewiesen wird. Keinen Zufluchtsort werdet ihr an jenem Tag haben und keine Möglichkeit, (etwas) zu mißbilligen’
+    Khoury: Hört auf euren Herrn, bevor ein Tag kommt, der von Seiten Gottes nicht zurückgewiesen wird. An jenem Tag habt ihr keinen Zufluchtsort und keine Möglichkeit, (irgend etwas) abzustreiten
+
+  [42:48]
+    فَإِنۡ أَعۡرَضُوا۟ فَمَاۤ أَرۡسَلۡنَـٰكَ عَلَیۡهِمۡ حَفِیظًاۖ إِنۡ عَلَیۡكَ إِلَّا ٱلۡبَلَـٰغُۗ وَإِنَّاۤ إِذَاۤ أَذَقۡنَا ٱلۡإِنسَـٰنَ مِنَّا رَحۡمَةࣰ فَرِحَ بِهَاۖ وَإِن تُصِبۡهُمۡ سَیِّئَةُۢ بِمَا قَدَّمَتۡ أَیۡدِیهِمۡ فَإِنَّ ٱلۡإِنسَـٰنَ كَفُورࣱ
+    B/E:    Wenn sie sich nun abwenden, so haben Wir dich nicht als Hüter über sie gesandt. Dir obliegt nur die Übermittelung (der Botschaft). Und siehe, wenn Wir den Menschen von Uns Barmherzigkeit kosten lassen, ist er froh darüber. Wenn sie aber etwas Böses trifft für das, was ihre Hände vorausgeschickt haben, gewiß, dann ist der Mensch sehr undankbar
+    Khoury: Wenn sie sich abwenden, so haben Wir dich nicht als Hüter über sie gesandt. Dir obliegt nur die Ausrichtung (der Botschaft). Und siehe, wenn Wir den Menschen Barmherzigkeit von Uns kosten lassen, freut er sich darüber. Wenn aber etwas Böses sie trifft für das, was ihre Hände vorausgeschickt haben, dann ist der Mensch sehr undankbar
+
+  [42:49]
+    لِّلَّهِ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۚ یَخۡلُقُ مَا یَشَاۤءُۚ یَهَبُ لِمَن یَشَاۤءُ إِنَـٰثࣰا وَیَهَبُ لِمَن یَشَاۤءُ ٱلذُّكُورَ
+    B/E:    Allah gehört die Herrschaft der Himmel und der Erde. Er erschafft, was Er will. Er schenkt, wem Er will, (nur) weibliche, und Er schenkt, wem Er will, (nur) männliche (Nachkommen)
+    Khoury: Gott gehört die Königsherrschaft der Himmel und der Erde. Er erschafft, was Er will. Er schenkt, wem Er will, weibliche, und Er schenkt, wem Er will, männliche Nachkommen
+
+  [42:50]
+    أَوۡ یُزَوِّجُهُمۡ ذُكۡرَانࣰا وَإِنَـٰثࣰاۖ وَیَجۡعَلُ مَن یَشَاۤءُ عَقِیمًاۚ إِنَّهُۥ عَلِیمࣱ قَدِیرࣱ
+    B/E:    Oder (Er schenkt) beides zusammen, männliche und weibliche (Nachkommen). Und Er macht, wen Er will, unfruchtbar. Gewiß, Er ist Allwissend und Allmächtig
+    Khoury: Oder Er schenkt beides, männliche und weibliche Nachkommen. Und Er macht, wen Er will, unfruchtbar. Er weiß Bescheid und ist mächtig
+
+  [42:51]
+    ۞ وَمَا كَانَ لِبَشَرٍ أَن یُكَلِّمَهُ ٱللَّهُ إِلَّا وَحۡیًا أَوۡ مِن وَرَاۤئِ حِجَابٍ أَوۡ یُرۡسِلَ رَسُولࣰا فَیُوحِیَ بِإِذۡنِهِۦ مَا یَشَاۤءُۚ إِنَّهُۥ عَلِیٌّ حَكِیمࣱ
+    B/E:    Und es steht keinem menschlichen Wesen zu, daß Allah zu ihm spricht, außer durch Eingeben (von Offenbarung) oder hinter einem Vorhang, oder indem Er einen Boten sendet, der (ihm) dann mit Seiner Erlaubnis (als Offenbarung) eingibt, was Er will. Gewiß, Er ist Erhaben und Allweise
+    Khoury: Und es steht keinem Menschen zu, daß Gott zu ihm spricht, es sei denn durch Offenbarung oder hinter einem Vorhang, oder indem Er einen Boten sendet, der (ihm) dann mit seiner Erlaubnis offenbart, was Er will. Er ist erhaben und weise
+
+  [42:52]
+    وَكَذَ ٰلِكَ أَوۡحَیۡنَاۤ إِلَیۡكَ رُوحࣰا مِّنۡ أَمۡرِنَاۚ مَا كُنتَ تَدۡرِی مَا ٱلۡكِتَـٰبُ وَلَا ٱلۡإِیمَـٰنُ وَلَـٰكِن جَعَلۡنَـٰهُ نُورࣰا نَّهۡدِی بِهِۦ مَن نَّشَاۤءُ مِنۡ عِبَادِنَاۚ وَإِنَّكَ لَتَهۡدِیۤ إِلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
+    B/E:    Und ebenso haben Wir dir Geist von Unserem Befehl (als Offenbarung) eingegeben. Du wußtest (vorher) weder, was das Buch noch was der Glaube ist; doch haben Wir es zu einem Licht gemacht, mit dem Wir rechtleiten, wen Wir wollen von Unseren Dienern. Und du leitest ja wahrlich zu einem geraden Weg
+    Khoury: Und so haben Wir dir Geist von unserem Befehl offenbart. Du wußtest nicht (vorher), was das Buch und was der Glaube ist. Und doch haben Wir es zu einem Licht gemacht, mit dem Wir rechtleiten, wen von unseren Dienern Wir wollen. Und wahrlich, du führst zu einem geraden Weg
+
+  [42:53]
+    صِرَ ٰطِ ٱللَّهِ ٱلَّذِی لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۗ أَلَاۤ إِلَى ٱللَّهِ تَصِیرُ ٱلۡأُمُورُ
+    B/E:    Allahs Weg, Dem gehört, was in den Himmeln und was auf der Erde ist. Sicherlich, zu Allah nehmen die Angelegenheiten ihren Ausgang
+    Khoury: Dem Weg Gottes, dem gehört, was in den Himmeln und was auf der Erde ist. Ja, zu Gott gelangen die Angelegenheiten
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  ركد              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  روض              1       2  sehr selten — nur 2x im ganzen Koran
+  وبق              1       2  sehr selten — nur 2x im ganzen Koran
+  لجأ              1       3  sehr selten — nur 3x im ganzen Koran
+  محو              1       3  sehr selten — nur 3x im ganzen Koran
+  دحض              1       4  sehr selten — nur 4x im ganzen Koran
+  شور              1       4  sehr selten — nur 4x im ganzen Koran
+  عقم              1       4  sehr selten — nur 4x im ganzen Koran
+  غيث              1       4  sehr selten — nur 4x im ganzen Koran
+  قلد              1       4  sehr selten — nur 4x im ganzen Koran
+  حيص              1       5  sehr selten — nur 5x im ganzen Koran
+  شرع              2       5  sehr selten — nur 5x im ganzen Koran
+  قرف              1       5  sehr selten — nur 5x im ganzen Koran
+  ذرأ              1       6  sehr selten — nur 6x im ganzen Koran
+  قنط              1       6  sehr selten — nur 6x im ganzen Koran
+  حجب              1       8  sehr selten — nur 8x im ganzen Koran
+  ختم              1       8  sehr selten — nur 8x im ganzen Koran
+  لطف              1       8  sehr selten — nur 8x im ganzen Koran
+  بثث              1       9  sehr selten — nur 9x im ganzen Koran
+  عزم              1       9  sehr selten — nur 9x im ganzen Koran
+  شفق              2      11  selten — 11x im ganzen Koran
+  طرف              1      11  selten — 11x im ganzen Koran
+  جبي              1      12  selten — 12x im ganzen Koran
+  حرث              3      14  selten — 14x im ganzen Koran
+  شكك              1      15  selten — 15x im ganzen Koran
+  خشع              1      17  selten — 17x im ganzen Koran
+  دبب              1      18  selten — 18x im ganzen Koran
+  نوب              2      18  selten — 18x im ganzen Koran
+  سعر              1      19  selten — 19x im ganzen Koran
+  فطر              2      20  selten — 20x im ganzen Koran
+  مري              1      20  selten — 20x im ganzen Koran
+  بقي              1      21  selten — 21x im ganzen Koran
+  نشر              1      21  selten — 21x im ganzen Koran
+  عرب              1      22  selten — 22x im ganzen Koran
+  فرح              1      22  selten — 22x im ganzen Koran
+  وزن              1      23  selten — 23x im ganzen Koran
+  ذلل              1      24  selten — 24x im ganzen Koran
+  غضب              2      24  selten — 24x im ganzen Koran
+  فحش              1      24  selten — 24x im ganzen Koran
+  كود              1      24  selten — 24x im ganzen Koran
+  وقع              1      24  selten — 24x im ganzen Koran
+  بسط              2      25  selten — 25x im ganzen Koran
+  حول              1      25  selten — 25x im ganzen Koran
+  وهب              2      25  selten — 25x im ganzen Koran
+  عجز              1      26  selten — 26x im ganzen Koran
+  عدل              1      28  selten — 28x im ganzen Koran
+  جدل              1      29  selten — 29x im ganzen Koran
+  دري              2      29  selten — 29x im ganzen Koran
+  صير              2      29  selten — 29x im ganzen Koran
+  ودد              1      29  selten — 29x im ganzen Koran
+  أنث              2      30  selten — 30x im ganzen Koran
+  نصب              1      32  selten — 32x im ganzen Koran
+  وري              1      32  selten — 32x im ganzen Koran
+  وصي              2      32  selten — 32x im ganzen Koran
+  جنب              1      33  selten — 33x im ganzen Koran
+  حجج              3      33  selten — 33x im ganzen Koran
+  ظلل              1      33  selten — 33x im ganzen Koran
+  خفي              1      34  selten — 34x im ganzen Koran
+  عفو              4      35  selten — 35x im ganzen Koran
+  ورث              1      35  selten — 35x im ganzen Koran
+  بطل              1      36  selten — 36x im ganzen Koran
+  ريب              2      36  selten — 36x im ganzen Koran
+  سبق              1      37  selten — 37x im ganzen Koran
+  نكر              1      37  selten — 37x im ganzen Koran
+  هوي              1      38  selten — 38x im ganzen Koran
+  بحر              1      42  
+  قوي              1      42  
+  جوب              4      43  
+  فصل              1      43  
+  فوق              1      43  
+  حفظ              2      44  
+  صرط              2      45  
+  صدر              1      46  
+  عجل              1      47  
+  أثم              1      48  
+  قدم              1      48  
+  سوع              2      49  
+  خبر              1      52  
+  أجل              1      56  
+  روح              2      57  
+  قري              1      57  
+  ردد              2      59  
+  ظهر              1      59  
+  فري              1      60  
+  زيد              3      61  
+  ذوق              1      63  
+  قضي              2      63  
+  جري              1      64  
+  خسر              2      65  
+  كسب              3      67  
+  حمد              2      68  
+  وحد              1      68  
+  سكن              1      69  
+  علو              2      70  
+  متع              1      70  
+  وكل              3      70  
+  فرق              4      72  
+  ألم              2      75  
+  شكر              2      75  
+  كلم              4      75  
+  بلغ              1      77  
+  صوب              4      77  
+  وحي              6      78  
+  عرض              2      79  
+  زوج              3      81  
+  توب              1      87  
+  قرأ              1      88  
+  ليس              1      89  
+  سبح              1      92  
+  حبب              1      95  
+  بغي              4      96  
+  قرب              2      96  
+  صلو              1      99  
+  دين              3     101  
+  أذن              2     102  
+  شدد              2     102  
+  صبر              2     103  
+  فضل              2     104  
+  أجر              2     108  
+  فعل              1     108  
+  نفق              1     111  
+  جزي              1     118  
+  أمم              2     119  
+  عزز              2     120  
+  يدي              2     120  
+  بشر              2     123  
+  رزق              4     123  hier gehaeuft (x3.2 gegenueber dem Schnitt)
+  دخل              1     126  
+  أهل              1     127  
+  خلف              1     127  
+  عظم              1     128  
+  جمع              3     129  
+  سأل              1     129  
+  نظر              1     129  
+  نذر              2     130  
+  قدر              5     132  hier gehaeuft (x3.7 gegenueber dem Schnitt)
+  دنو              2     133  
+  نعم              1     140  
+  دون              4     144  
+  بصر              2     148  
+  رود              2     148  
+  غير              1     154  
+  نصر              5     158  hier gehaeuft (x3.1 gegenueber dem Schnitt)
+  كبر              3     161  
+  موت              1     165  
+  سوأ              4     167  
+  كثر              2     167  
+  شرك              2     168  
+  قلب              1     168  
+  مثل              2     169  
+  تبع              1     172  
+  سبل              4     176  
+  صلح              4     180  
+  سمع              1     185  
+  حيي              2     189  
+  ضلل              3     191  
+  حسن              2     194  
+  نور              1     194  
+  خير              1     196  
+  جنن              2     201  
+  عند              3     201  
+  ملك              2     206  
+  حكم              3     210  
+  دعو              2     212  
+  ولي              8     232  hier gehaeuft (x3.3 gegenueber dem Schnitt)
+  غفر              5     234  
+  بعد              7     235  
+  أمر              6     248  
+  أخر              2     250  
+  خلق              2     261  
+  أخذ              2     273  
+  عبد              6     275  
+  جيأ              1     278  
+  كذب              1     282  
+  حقق              5     287  
+  ذكر              2     292  
+  نزل              4     293  
+  قبل              3     294  
+  نفس              2     298  
+  ظلم              8     315  
+  هدي              3     316  
+  كتب              4     319  
+  رأي              4     328  
+  أنس              3     338  
+  رحم              4     339  
+  جعل              4     346  
+  عمل              5     360  
+  عذب              6     373  
+  كلل              3     377  
+  سمو              8     381  
+  أرض             10     461  
+  يوم              4     475  
+  رسل              3     513  
+  شيأ             21     519  hier gehaeuft (x3.9 gegenueber dem Schnitt)
+  بين              8     523  
+  كفر              2     525  
+  أتي              3     549  
+  أيي              4     597  
+  قوم              6     660  
+  علم              8     854  
+  أمن              9     879  
+  ربب             10     980  
+  كون              5    1390  
+  قول              5    1722  
+  أله             32    2851  
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

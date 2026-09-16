@@ -1,0 +1,75 @@
+==============================================================================
+SURE 102  —  8 Verse, 17 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [102:1]
+    أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ
+    B/E:    Die Vermehrung lenkt euch ab
+    Khoury: Der Wettstreit um noch mehr lenkt euch ab
+
+  [102:2]
+    حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ
+    B/E:    bis ihr die Friedhöfe besucht
+    Khoury: Daß ihr (sogar) die Gräber besucht
+
+  [102:3]
+    كَلَّا سَوۡفَ تَعۡلَمُونَ
+    B/E:    Keineswegs! Ihr werdet (es noch) erfahren
+    Khoury: Nein, ihr werdet es noch zu wissen bekommen
+
+  [102:4]
+    ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ
+    B/E:    Abermals: Keineswegs! Ihr werdet (es noch) erfahren
+    Khoury: Noch einmal: Nein, ihr werdet es noch zu wissen bekommen
+
+  [102:5]
+    كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡیَقِینِ
+    B/E:    Keineswegs! Wenn ihr es nur mit dem Wissen der Gewißheit wüßtet
+    Khoury: Nein, wenn ihr es nur mit Gewißheit wüßtet
+
+  [102:6]
+    لَتَرَوُنَّ ٱلۡجَحِیمَ
+    B/E:    Ihr werdet ganz gewiß den Höllenbrand sehen
+    Khoury: Ihr werdet bestimmt die Hölle sehen
+
+  [102:7]
+    ثُمَّ لَتَرَوُنَّهَا عَیۡنَ ٱلۡیَقِینِ
+    B/E:    Abermals: Ihr werdet ihn mit dem Auge der Gewißheit sehen
+    Khoury: Noch einmal: Ihr werdet sie mit völliger Gewißheit sehen
+
+  [102:8]
+    ثُمَّ لَتُسۡءَلُنَّ یَوۡمَئِذٍ عَنِ ٱلنَّعِیمِ
+    B/E:    Hierauf werdet ihr an jenem Tag ganz gewiß nach der Wonne gefragt werden
+    Khoury: Dann werdet ihr an jenem Tag euer angenehmes Leben zu verantworten haben
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  زور              1       6  sehr selten — nur 6x im ganzen Koran
+  قبر              1       8  sehr selten — nur 8x im ganzen Koran
+  لهو              1      16  selten — 16x im ganzen Koran
+  جحم              1      26  selten — 26x im ganzen Koran
+  يقن              2      28  selten — 28x im ganzen Koran
+  عين              1      65  
+  سأل              1     129  
+  نعم              1     140  
+  كثر              1     167  
+  رأي              2     328  
+  يوم              1     475  
+  علم              4     854  
+
+  ACHTUNG: Diese Sure hat nur 17 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

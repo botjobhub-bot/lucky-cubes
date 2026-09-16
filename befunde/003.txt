@@ -1,0 +1,1460 @@
+==============================================================================
+SURE 3  —  200 Verse, 2281 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [3:1]
+    الۤمۤ
+    B/E:    Alif-Lam-Mim
+    Khoury: Alif Lam Mim
+
+  [3:2]
+    ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡحَیُّ ٱلۡقَیُّومُ
+    B/E:    Allah - es gibt keinen Gott außer Ihm, dem Lebendigen und Beständigen
+    Khoury: Gott, es gibt keinen Gott außer Ihm, dem Lebendigen, dem Beständigen
+
+  [3:3]
+    نَزَّلَ عَلَیۡكَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ مُصَدِّقࣰا لِّمَا بَیۡنَ یَدَیۡهِ وَأَنزَلَ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ
+    B/E:    Er hat dir das Buch mit der Wahrheit offenbart, das zu bestätigen, was vor ihm (offenbart) war. Und Er hat (auch) die Tora und das Evangelium (als Offenbarung) herabgesandt
+    Khoury: Er hat auf dich das Buch mit der Wahrheit herabgesandt als Bestätigung dessen, was vor ihm vorhanden war. Und Er hat die Tora und das Evangelium herabgesandt
+
+  [3:4]
+    مِن قَبۡلُ هُدࣰى لِّلنَّاسِ وَأَنزَلَ ٱلۡفُرۡقَانَۗ إِنَّ ٱلَّذِینَ كَفَرُوا۟ بِءَایَـٰتِ ٱللَّهِ لَهُمۡ عَذَابࣱ شَدِیدࣱۗ وَٱللَّهُ عَزِیزࣱ ذُو ٱنتِقَامٍ
+    B/E:    zuvor, als Rechtleitung für die Menschen. Und Er hat die Unterscheidung herabgesandt. Gewiß, diejenigen, die Allahs Zeichen verleugnen, für sie wird es strenge Strafe geben. Allah ist Allmächtig und Besitzer von Vergeltungsgewalt
+    Khoury: Zuvor als Rechtleitung für die Menschen, und Er hat die Unterscheidungsnorm herabgesandt. Diejenigen, die die Zeichen Gottes verleugnen, erhalten eine harte Pein. Und Gott ist mächtig und übt Rache
+
+  [3:5]
+    إِنَّ ٱللَّهَ لَا یَخۡفَىٰ عَلَیۡهِ شَیۡءࣱ فِی ٱلۡأَرۡضِ وَلَا فِی ٱلسَّمَاۤءِ
+    B/E:    Vor Allah ist nichts verborgen, weder auf der Erde noch im Himmel
+    Khoury: Vor Gott ist nichts verborgen, weder auf der Erde noch im Himmel
+
+  [3:6]
+    هُوَ ٱلَّذِی یُصَوِّرُكُمۡ فِی ٱلۡأَرۡحَامِ كَیۡفَ یَشَاۤءُۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
+    B/E:    Er ist es, Der euch im Mutterleib gestaltet, wie Er will. Es gibt keinen Gott außer Ihm, dem Allmächtigen und Allweisen
+    Khoury: Er ist es, der euch im Mutterschoß gestaltet, wie Er will. Es gibt keinen Gott außer Ihm, dem Mächtigen, dem Weisen
+
+  [3:7]
+    هُوَ ٱلَّذِیۤ أَنزَلَ عَلَیۡكَ ٱلۡكِتَـٰبَ مِنۡهُ ءَایَـٰتࣱ مُّحۡكَمَـٰتٌ هُنَّ أُمُّ ٱلۡكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتࣱۖ فَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِمۡ زَیۡغࣱ فَیَتَّبِعُونَ مَا تَشَـٰبَهَ مِنۡهُ ٱبۡتِغَاۤءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَاۤءَ تَأۡوِیلِهِۦۖ وَمَا یَعۡلَمُ تَأۡوِیلَهُۥۤ إِلَّا ٱللَّهُۗ وَٱلرَّ ٰسِخُونَ فِی ٱلۡعِلۡمِ یَقُولُونَ ءَامَنَّا بِهِۦ كُلࣱّ مِّنۡ عِندِ رَبِّنَاۗ وَمَا یَذَّكَّرُ إِلَّاۤ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ
+    B/E:    Er ist es, Der das Buch (als Offenbarung) auf dich herabgesandt hat. Dazu gehören eindeutige Verse - sie sind der Kern des Buches - und andere, mehrdeutige. Was aber diejenigen angeht, in deren Herzen (Neigung zum) Abschweifen ist, so folgen sie dem, was davon mehrdeutig ist, im Trachten nach Irreführung und im Trachten nach ihrer Mißdeutung. Aber niemand weiß ihre Deutung außer Allah. Und diejenigen, die im Wissen fest gegründet sind, sagen: „Wir glauben daran; alles ist von unserem Herrn. Aber nur diejenigen bedenken, die Verstand besitzen
+    Khoury: Er ist es, der das Buch auf dich herabgesandt hat. In ihm gibt es eindeutig festgelegte Zeichen - sie sind die Urnorm des Buches - und andere, mehrdeutige. Diejenigen, in deren Herzen Abweichen von der Wahrheit steckt, folgen dem, was in ihm mehrdeutig ist, im Trachten danach, (die Menschen) zu verführen, und im Trachten danach, es (eigener) Deutung zu unterziehen. Um seine Deutung aber weiß niemand außer Gott. Und diejenigen, die im Wissen fest gegründet sind, sagen: «Wir glauben; das eine und das andere ist von unserem Herrn.» Jedoch bedenken (es) nur die Einsichtigen
+
+  [3:8]
+    رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَیۡتَنَا وَهَبۡ لَنَا مِن لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ
+    B/E:    Unser Herr, lasse unsere Herzen nicht abschweifen, nachdem Du uns rechtgeleitet hast, und schenke uns Erbarmen von Dir aus. Du bist ja der unablässig Schenkende
+    Khoury: Unser Herr, laß unsere Herzen nicht abweichen, nachdem Du uns rechtgeleitet hast. Und schenke uns von Dir Barmherzigkeit. Du bist ja der Freigebige
+
+  [3:9]
+    رَبَّنَاۤ إِنَّكَ جَامِعُ ٱلنَّاسِ لِیَوۡمࣲ لَّا رَیۡبَ فِیهِۚ إِنَّ ٱللَّهَ لَا یُخۡلِفُ ٱلۡمِیعَادَ
+    B/E:    Unser Herr, Du wirst die Menschen gewiß zu einem Tag versammeln, an dem es keinen Zweifel gibt. Allah bricht nicht, was Er versprochen hat
+    Khoury: Unser Herr, Du wirst die Menschen auf einen Tag versammeln, an dem kein Zweifel möglich ist. Gott bricht das Versprechen nicht
+
+  [3:10]
+    إِنَّ ٱلَّذِینَ كَفَرُوا۟ لَن تُغۡنِیَ عَنۡهُمۡ أَمۡوَ ٰلُهُمۡ وَلَاۤ أَوۡلَـٰدُهُم مِّنَ ٱللَّهِ شَیۡءࣰاۖ وَأُو۟لَـٰۤئِكَ هُمۡ وَقُودُ ٱلنَّارِ
+    B/E:    Gewiß, denjenigen, die ungläubig sind, werden weder ihr Besitz noch ihre Kinder vor Allah etwas nützen. Sie sind es, die Brennstoff des (Höllen)feuers sein werden
+    Khoury: Denen, die ungläubig sind, werden weder ihr Vermögen noch ihre Kinder vor Gott etwas nützen. Sie sind der Brennstoff des Feuers
+
+  [3:11]
+    كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَذَّبُوا۟ بِءَایَـٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۗ وَٱللَّهُ شَدِیدُ ٱلۡعِقَابِ
+    B/E:    Nach der Art der Leute Fir’auns und derjenigen vor ihnen: Sie erklärten Unsere Zeichen für Lüge, und da ergriff sie Allah für ihre Sünden. Und Allah ist streng im Bestrafen
+    Khoury: Es ist wie mit den Leuten des Pharao und denen, die vor ihnen lebten. Sie erklärten unsere Zeichen für Lüge, so ergriff sie Gott wegen ihrer Sünden. Und Gott verhängt harte Strafen
+
+  [3:12]
+    قُل لِّلَّذِینَ كَفَرُوا۟ سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمِهَادُ
+    B/E:    Sag zu denjenigen, die ungläubig sind: Ihr werdet besiegt und zur Hölle zusammengetrieben werden - eine schlimme Lagerstatt
+    Khoury: Sprich zu denen, die ungläubig sind: Ihr werdet besiegt und zur Hölle versammelt werden - welch schlimme Lagerstätte
+
+  [3:13]
+    قَدۡ كَانَ لَكُمۡ ءَایَةࣱ فِی فِئَتَیۡنِ ٱلۡتَقَتَاۖ فِئَةࣱ تُقَـٰتِلُ فِی سَبِیلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةࣱ یَرَوۡنَهُم مِّثۡلَیۡهِمۡ رَأۡیَ ٱلۡعَیۡنِۚ وَٱللَّهُ یُؤَیِّدُ بِنَصۡرِهِۦ مَن یَشَاۤءُۚ إِنَّ فِی ذَ ٰلِكَ لَعِبۡرَةࣰ لِّأُو۟لِی ٱلۡأَبۡصَـٰرِ
+    B/E:    Ihr hattet ja ein Zeichen in zwei Scharen, die aufeinandertrafen: Die eine kämpfte auf Allahs Weg und eine andere, ungläubige. Sie sahen sie dem Augenschein nach zweimal so viel, wie sie (selbst waren). Und Allah stärkt mit Seiner Hilfe, wen Er will. Darin ist wahrlich eine Lehre für diejenigen, die Einsicht besitzen
+    Khoury: Ihr hattet ein Zeichen in zwei Gruppen, die aufeinandertrafen: Die eine Gruppe kämpfte auf dem Weg Gottes, die andere war ungläubig. Sie sahen mit eigenen Augen, daß jene zweimal so zahlreich waren wie sie. Aber Gott stärkt mit seiner Unterstützung, wen Er will. Darin ist eine Lehre für die Einsichtigen
+
+  [3:14]
+    زُیِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَ ٰتِ مِنَ ٱلنِّسَاۤءِ وَٱلۡبَنِینَ وَٱلۡقَنَـٰطِیرِ ٱلۡمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلۡفِضَّةِ وَٱلۡخَیۡلِ ٱلۡمُسَوَّمَةِ وَٱلۡأَنۡعَـٰمِ وَٱلۡحَرۡثِۗ ذَ ٰلِكَ مَتَـٰعُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلۡمَءَابِ
+    B/E:    Ausgeschmückt ist den Menschen die Liebe zu den Begierden, nach Frauen, Söhnen, aufgehäuften Mengen von Gold und Silber, Rassepferden, Vieh und Saatfeldern. Das ist der Genuß im diesseitigen Leben. Doch bei Allah ist die schöne Heimstatt
+    Khoury: Verlockend ist den Menschen gemacht worden die Liebe zu dem, was man begehrt: Frauen, Söhne, ganze Zentner von Gold und Silber, gekennzeichnete Pferde, Vieh und Ackerland. Dies ist Nutznießung des diesseitigen Lebens. Aber bei Gott ist die schöne Heimstatt
+
+  [3:15]
+    ۞ قُلۡ أَؤُنَبِّئُكُم بِخَیۡرࣲ مِّن ذَ ٰلِكُمۡۖ لِلَّذِینَ ٱتَّقَوۡا۟ عِندَ رَبِّهِمۡ جَنَّـٰتࣱ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَا وَأَزۡوَ ٰجࣱ مُّطَهَّرَةࣱ وَرِضۡوَ ٰنࣱ مِّنَ ٱللَّهِۗ وَٱللَّهُ بَصِیرُۢ بِٱلۡعِبَادِ
+    B/E:    Sag: Soll ich euch von etwas Besserem als diesem Kunde geben? Für diejenigen, die gottesfürchtig sind, werden bei ihrem Herrn Gärten sein, durcheilt von Bächen, ewig darin zu bleiben, und vollkommen gereinigte Gattinnen und Wohlgefallen von Allah. Allah sieht die Menschen wohl
+    Khoury: Sprich: Soll ich euch etwas kundtun, was besser ist als dieses? Für diejenigen, die gottesfürchtig sind, sind bei ihrem Herrn Gärten, unter denen Bäche fließen und in denen sie ewig weilen werden, und geläuterte Gattinnen und Wohlgefallen von Gott - Gott sieht wohl die Diener
+
+  [3:16]
+    ٱلَّذِینَ یَقُولُونَ رَبَّنَاۤ إِنَّنَاۤ ءَامَنَّا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
+    B/E:    die sagen: „Unser Herr, gewiß, wir glauben. Darum vergib uns unsere Sünden und bewahre uns vor der Strafe des (Höllen)feuers
+    Khoury: (für sie), die sagen: «Unser Herr, wir glauben, so vergib uns unsere Sünden und bewahre uns vor der Pein des Feuers»
+
+  [3:17]
+    ٱلصَّـٰبِرِینَ وَٱلصَّـٰدِقِینَ وَٱلۡقَـٰنِتِینَ وَٱلۡمُنفِقِینَ وَٱلۡمُسۡتَغۡفِرِینَ بِٱلۡأَسۡحَارِ
+    B/E:    Die Standhaften und die Wahrhaftigen, die demütig Ergebenen und diejenigen, die ausgeben, und die im letzten Teil der Nacht um Vergebung Bittenden
+    Khoury: Die geduldig, wahrhaftig und demütig ergeben sind, die Spenden geben und die in der Morgendämmerung um Vergebung bitten
+
+  [3:18]
+    شَهِدَ ٱللَّهُ أَنَّهُۥ لَاۤ إِلَـٰهَ إِلَّا هُوَ وَٱلۡمَلَـٰۤئِكَةُ وَأُو۟لُوا۟ ٱلۡعِلۡمِ قَاۤئِمَۢا بِٱلۡقِسۡطِۚ لَاۤ إِلَـٰهَ إِلَّا هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
+    B/E:    Allah bezeugt, daß es keinen Gott gibt außer Ihm; und (ebenso bezeugen) die Engel und diejenigen, die Wissen besitzen; der Wahrer der Gerechtigkeit. Es gibt keinen Gott außer Ihm, dem Allmächtigen und Allweisen
+    Khoury: Gott bezeugt, daß es keinen Gott gibt außer Ihm, ebenso die Engel und diejenigen, die das Wissen besitzen. Er steht für die Gerechtigkeit ein. Es gibt keinen Gott außer Ihm, dem Mächtigen, dem Weisen
+
+  [3:19]
+    إِنَّ ٱلدِّینَ عِندَ ٱللَّهِ ٱلۡإِسۡلَـٰمُۗ وَمَا ٱخۡتَلَفَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَاۤءَهُمُ ٱلۡعِلۡمُ بَغۡیَۢا بَیۡنَهُمۡۗ وَمَن یَكۡفُرۡ بِءَایَـٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِیعُ ٱلۡحِسَابِ
+    B/E:    Gewiß, die Religion ist bei Allah der Islam. Doch diejenigen, denen die Schrift gegeben wurde, wurden erst uneinig, nachdem das Wissen zu ihnen gekommen war - aus Mißgunst untereinander, Doch wer Allahs Zeichen verleugnet -, so ist Allah schnell im Abrechnen
+    Khoury: Die Religion bei Gott ist der Islam. Diejenigen, denen das Buch zugekommen ist, sind erst uneins geworden, nachdem das Wissen zu ihnen gekommen war, dies aus ungerechter Auflehnung untereinander. Wenn aber jemand die Zeichen Gottes verleugnet - siehe, Gott ist schnell im Abrechnen
+
+  [3:20]
+    فَإِنۡ حَاۤجُّوكَ فَقُلۡ أَسۡلَمۡتُ وَجۡهِیَ لِلَّهِ وَمَنِ ٱتَّبَعَنِۗ وَقُل لِّلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ وَٱلۡأُمِّیِّـۧنَ ءَأَسۡلَمۡتُمۡۚ فَإِنۡ أَسۡلَمُوا۟ فَقَدِ ٱهۡتَدَوا۟ۖ وَّإِن تَوَلَّوۡا۟ فَإِنَّمَا عَلَیۡكَ ٱلۡبَلَـٰغُۗ وَٱللَّهُ بَصِیرُۢ بِٱلۡعِبَادِ
+    B/E:    Und wenn sie mit dir streiten (wollen), dann sag: „Ich habe mein Gesicht Allah ergeben, und (ebenso,) wer mir folgt! Und sag zu jenen, denen die Schrift gegeben wurde, und den Schriftunkundigen: „Seid ihr (Allah) ergeben? Wenn sie (Ihm) ergeben sind, dann sind sie rechtgeleitet. Kehren sie sich aber ab, so obliegt dir nur die Übermittelung (der Botschaft). Allah sieht die Menschen wohl
+    Khoury: Wenn sie mit dir streiten, dann sprich: Ich ergebe mich Gott völlig, und auch die, die mir folgen. Und sprich zu denen, denen das Buch zugekommen ist, und zu den Ungelehrten: Werdet ihr nun Muslime werden? Wenn sie Muslime werden, folgen sie der Rechtleitung. Wenn sie sich aber abkehren, so obliegt dir nur die Ausrichtung (der Botschaft). Und Gott sieht wohl die Diener
+
+  [3:21]
+    إِنَّ ٱلَّذِینَ یَكۡفُرُونَ بِءَایَـٰتِ ٱللَّهِ وَیَقۡتُلُونَ ٱلنَّبِیِّـۧنَ بِغَیۡرِ حَقࣲّ وَیَقۡتُلُونَ ٱلَّذِینَ یَأۡمُرُونَ بِٱلۡقِسۡطِ مِنَ ٱلنَّاسِ فَبَشِّرۡهُم بِعَذَابٍ أَلِیمٍ
+    B/E:    Diejenigen, die Allahs Zeichen verleugnen, die Propheten zu Unrecht töten und diejenigen unter den Menschen töten, die Gerechtigkeit befehlen, denen verkünde schmerzhafte Strafe
+    Khoury: Denen, die die Zeichen Gottes verleugnen und die Propheten zu Unrecht töten und diejenigen unter den Menschen töten, die die Gerechtigkeit gebieten, verkünde eine schmerzhafte Pein
+
+  [3:22]
+    أُو۟لَـٰۤئِكَ ٱلَّذِینَ حَبِطَتۡ أَعۡمَـٰلُهُمۡ فِی ٱلدُّنۡیَا وَٱلۡءَاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِینَ
+    B/E:    Das sind diejenigen, deren Werke im Diesseits und Jenseits hinfällig werden. Und sie haben keine Helfer
+    Khoury: Das sind die, deren Werke im Diesseits und Jenseits wertlos sind, und sie werden keine Helfer haben
+
+  [3:23]
+    أَلَمۡ تَرَ إِلَى ٱلَّذِینَ أُوتُوا۟ نَصِیبࣰا مِّنَ ٱلۡكِتَـٰبِ یُدۡعَوۡنَ إِلَىٰ كِتَـٰبِ ٱللَّهِ لِیَحۡكُمَ بَیۡنَهُمۡ ثُمَّ یَتَوَلَّىٰ فَرِیقࣱ مِّنۡهُمۡ وَهُم مُّعۡرِضُونَ
+    B/E:    Siehst du nicht jene, denen ein Teil der Schrift gegeben wurde? Sie werden zum Buch Allahs aufgefordert, damit es zwischen ihnen richte. Hierauf kehrt sich eine Gruppe von ihnen ab, und sie sind Widerstrebende
+    Khoury: Hast du nicht auf jene geschaut, denen ein Anteil vom Buch zugekommen ist, wie sie zum Buch Gottes gerufen werden, damit es zwischen ihnen urteilt, und wie dann ein Teil von ihnen den Rücken kehrt und sich abwendet
+
+  [3:24]
+    ذَ ٰلِكَ بِأَنَّهُمۡ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّاۤ أَیَّامࣰا مَّعۡدُودَ ٰتࣲۖ وَغَرَّهُمۡ فِی دِینِهِم مَّا كَانُوا۟ یَفۡتَرُونَ
+    B/E:    Dies, weil sie sagen: „Das (Höllen)feuer wird uns nur für eine bestimmte Anzahl von Tagen berühren. Was sie (an Lügen) zu ersinnen pflegten, hat sie über ihre Religion getäuscht
+    Khoury: Dies, weil sie sagen: «Das Feuer wird uns sicher nur einige gezählte Tage berühren.» Siehe, betört hat sie in ihrer Religion, was sie immer wieder erdichtet haben
+
+  [3:25]
+    فَكَیۡفَ إِذَا جَمَعۡنَـٰهُمۡ لِیَوۡمࣲ لَّا رَیۡبَ فِیهِ وَوُفِّیَتۡ كُلُّ نَفۡسࣲ مَّا كَسَبَتۡ وَهُمۡ لَا یُظۡلَمُونَ
+    B/E:    Aber wie (wird es sein), wenn Wir sie zu einem Tag versammeln, an dem es keinen Zweifel gibt, und jeder Seele in vollem Maß zukommt, was sie verdient hat, und ihnen kein Unrecht zugefügt wird
+    Khoury: Wie wird es wohl sein, wenn Wir sie auf einen Tag versammeln, an dem kein Zweifel möglich ist, und wenn jeder Seele voll erstattet wird, was sie erworben hat? Und ihnen wird nicht Unrecht getan
+
+  [3:26]
+    قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلۡمُلۡكِ تُؤۡتِی ٱلۡمُلۡكَ مَن تَشَاۤءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَاۤءُ وَتُعِزُّ مَن تَشَاۤءُ وَتُذِلُّ مَن تَشَاۤءُۖ بِیَدِكَ ٱلۡخَیۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ
+    B/E:    Sag: O Allah, Herr der Herrschaft, Du gibst die Herrschaft, wem Du willst, und Du entziehst die Herrschaft, wem Du willst. Du machst mächtig, wen Du willst, und Du erniedrigst, wen Du willst. In Deiner Hand ist (all) das Gute. Gewiß, Du hast zu allem die Macht
+    Khoury: Sprich: O Gott, der Du über die Königsherrschaft verfügst, Du gibst die Königsherrschaft, wem Du willst, und Du nimmst die Königsherrschaft, wem Du willst. Du verleihst Macht, wem Du willst, und Du erniedrigst, wen Du willst. In deiner Hand liegt das Gute. Du hast Macht zu allen Dingen
+
+  [3:27]
+    تُولِجُ ٱلَّیۡلَ فِی ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِی ٱلَّیۡلِۖ وَتُخۡرِجُ ٱلۡحَیَّ مِنَ ٱلۡمَیِّتِ وَتُخۡرِجُ ٱلۡمَیِّتَ مِنَ ٱلۡحَیِّۖ وَتَرۡزُقُ مَن تَشَاۤءُ بِغَیۡرِ حِسَابࣲ
+    B/E:    Du läßt die Nacht in den Tag eindringen und läßt den Tag eindringen in die Nacht. Und Du läßt das Lebendige aus dem Toten hervorgehen und läßt hervorgehen das Tote aus dem Lebendigen. Und Du versorgst, wen Du willst, ohne zu berechnen
+    Khoury: Du läßt die Nacht in den Tag übergehen, und Du läßt den Tag in die Nacht übergehen. Du bringst das Lebendige aus dem Toten, und Du bringst das Tote aus dem Lebendigen hervor, und Du bescherst Unterhalt, wem Du willst, ohne (viel) zu rechnen
+
+  [3:28]
+    لَّا یَتَّخِذِ ٱلۡمُؤۡمِنُونَ ٱلۡكَـٰفِرِینَ أَوۡلِیَاۤءَ مِن دُونِ ٱلۡمُؤۡمِنِینَۖ وَمَن یَفۡعَلۡ ذَ ٰلِكَ فَلَیۡسَ مِنَ ٱللَّهِ فِی شَیۡءٍ إِلَّاۤ أَن تَتَّقُوا۟ مِنۡهُمۡ تُقَىٰةࣰۗ وَیُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَإِلَى ٱللَّهِ ٱلۡمَصِیرُ
+    B/E:    Die Gläubigen sollen nicht die Ungläubigen anstatt der Gläubigen zu Schutzherren nehmen. Wer das tut, hat überhaupt nichts mit Allah (gemeinsam) -, es sei denn, daß ihr euch (durch dieses Verhalten) vor ihnen wirklich schützt. Allah mahnt euch zur Vorsicht vor Sich selbst. Und zu Allah ist der Ausgang
+    Khoury: Die Gläubigen sollen sich nicht die Ungläubigen anstelle der Gläubigen zu Freunden nehmen. Wer das tut, hat keine Gemeinschaft mit Gott, es sei denn, ihr hütet euch wirklich vor ihnen. Gott warnt euch vor sich selbst. Und zu Gott führt der Lebensweg
+
+  [3:29]
+    قُلۡ إِن تُخۡفُوا۟ مَا فِی صُدُورِكُمۡ أَوۡ تُبۡدُوهُ یَعۡلَمۡهُ ٱللَّهُۗ وَیَعۡلَمُ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ
+    B/E:    Sag: Ob ihr verbergt, was in euren Brüsten ist oder es offenlegt, Allah weiß es; Er weiß, was in den Himmeln und was auf der Erde ist. Und Allah hat zu allem die Macht
+    Khoury: Sprich: Ob ihr das geheimhaltet, was in eurem Inneren ist, oder es offenlegt, Gott weiß es. Und Er weiß, was in den Himmeln und was auf der Erde ist. Und Gott hat Macht zu allen Dingen
+
+  [3:30]
+    یَوۡمَ تَجِدُ كُلُّ نَفۡسࣲ مَّا عَمِلَتۡ مِنۡ خَیۡرࣲ مُّحۡضَرࣰا وَمَا عَمِلَتۡ مِن سُوۤءࣲ تَوَدُّ لَوۡ أَنَّ بَیۡنَهَا وَبَیۡنَهُۥۤ أَمَدَۢا بَعِیدࣰاۗ وَیُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَٱللَّهُ رَءُوفُۢ بِٱلۡعِبَادِ
+    B/E:    An dem Tag wird jede Seele das, was sie an Gutem getan hat, bereit finden. Und von dem, was sie an Bösem getan hat, hätte sie gern, wenn zwischen ihr und ihm ein weiter Abstand wäre. Und Allah mahnt euch zur Vorsicht vor Sich selbst. Allah ist Gnädig zu den Menschen
+    Khoury: An dem Tag, da jede Seele das vorgebracht findet, was sie an Gutem getan hat und was sie an Bösem getan hat. Sie wird wünschen, es läge zwischen ihr und ihm eine weite Entfernung. Und Gott warnt euch vor sich selbst. Und Gott hat Mitleid mit den Dienern
+
+  [3:31]
+    قُلۡ إِن كُنتُمۡ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِی یُحۡبِبۡكُمُ ٱللَّهُ وَیَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ
+    B/E:    Sag: Wenn ihr Allah liebt, dann folgt mir. So liebt euch Allah und vergibt euch eure Sünden. Allah ist Allvergebend und Barmherzig
+    Khoury: Sprich: Wenn ihr Gott liebt, dann folgt mir, so wird Gott euch lieben und euch eure Sünden vergeben. Und Gott ist voller Vergebung und barmherzig
+
+  [3:32]
+    قُلۡ أَطِیعُوا۟ ٱللَّهَ وَٱلرَّسُولَۖ فَإِن تَوَلَّوۡا۟ فَإِنَّ ٱللَّهَ لَا یُحِبُّ ٱلۡكَـٰفِرِینَ
+    B/E:    Sag: Gehorcht Allah und dem Gesandten. Doch wenn sie sich abkehren, so liebt Allah die Ungläubigen nicht
+    Khoury: Sprich: Gehorchet Gott und dem Gesandten. Wenn sie sich abkehren - siehe, Gott liebt die Ungläubigen nicht
+
+  [3:33]
+    ۞ إِنَّ ٱللَّهَ ٱصۡطَفَىٰۤ ءَادَمَ وَنُوحࣰا وَءَالَ إِبۡرَ ٰهِیمَ وَءَالَ عِمۡرَ ٰنَ عَلَى ٱلۡعَـٰلَمِینَ
+    B/E:    Gewiß, Allah hat Adam und Nuh und die Sippe Ibrahims und die Sippe ’Imrans vor den (anderen) Weltenbewohnern auserwählt
+    Khoury: Gott hat sich Adam, Noach, die Sippe Abrahams und die Sippe Imraans vor den Weltenbewohnern erwählt
+
+  [3:34]
+    ذُرِّیَّةَۢ بَعۡضُهَا مِنۢ بَعۡضࣲۗ وَٱللَّهُ سَمِیعٌ عَلِیمٌ
+    B/E:    eine der anderen Nachkommenschaft. Und Allah ist Allhörend und Allwissend
+    Khoury: Eine Nachkommenschaft, von der die einen von den anderen stammen. Und Gott hört und weiß alles
+
+  [3:35]
+    إِذۡ قَالَتِ ٱمۡرَأَتُ عِمۡرَ ٰنَ رَبِّ إِنِّی نَذَرۡتُ لَكَ مَا فِی بَطۡنِی مُحَرَّرࣰا فَتَقَبَّلۡ مِنِّیۤۖ إِنَّكَ أَنتَ ٱلسَّمِیعُ ٱلۡعَلِیمُ
+    B/E:    Als ’Imrans Frau sagte: „Mein Herr, ich gelobe Dir, was in meinem Mutterleib ist, für Deinen Dienst freigestellt. So nimm (es) von mir an! Du bist ja der Allhörende und Allwissende
+    Khoury: Als die Frau Imraans sagte: «Mein Herr, ich gelobe Dir das, was in meinem Leib ist, und weihe es Dir. Nimm es von mir an. Du bist der, der alles hört und weiß.»
+
+  [3:36]
+    فَلَمَّا وَضَعَتۡهَا قَالَتۡ رَبِّ إِنِّی وَضَعۡتُهَاۤ أُنثَىٰ وَٱللَّهُ أَعۡلَمُ بِمَا وَضَعَتۡ وَلَیۡسَ ٱلذَّكَرُ كَٱلۡأُنثَىٰۖ وَإِنِّی سَمَّیۡتُهَا مَرۡیَمَ وَإِنِّیۤ أُعِیذُهَا بِكَ وَذُرِّیَّتَهَا مِنَ ٱلشَّیۡطَـٰنِ ٱلرَّجِیمِ
+    B/E:    Als sie sie dann zur Welt gebracht hatte, sagte sie: „Mein Herr, ich habe ein Mädchen zur Welt gebracht. Und Allah wußte sehr wohl, was sie zur Welt gebracht hatte, und der Knabe ist nicht wie das Mädchen. „Ich habe sie Maryam genannt, und ich stelle sie und ihre Nachkommenschaft unter Deinen Schutz vor dem gesteinigten Satan
+    Khoury: Als sie mit ihr niederkam, sagte sie: «Mein Herr, ich habe da ein Mädchen geboren.» - Gott wußte doch besser, was sie geboren hatte, ein männliches Kind ist eben nicht wie ein weibliches. - «Und ich habe sie Maria genannt. Und ich suche bei Dir Zuflucht für sie und ihre Nachkommenschaft vor dem gesteinigten Satan.»
+
+  [3:37]
+    فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنࣲ وَأَنۢبَتَهَا نَبَاتًا حَسَنࣰا وَكَفَّلَهَا زَكَرِیَّاۖ كُلَّمَا دَخَلَ عَلَیۡهَا زَكَرِیَّا ٱلۡمِحۡرَابَ وَجَدَ عِندَهَا رِزۡقࣰاۖ قَالَ یَـٰمَرۡیَمُ أَنَّىٰ لَكِ هَـٰذَاۖ قَالَتۡ هُوَ مِنۡ عِندِ ٱللَّهِۖ إِنَّ ٱللَّهَ یَرۡزُقُ مَن یَشَاۤءُ بِغَیۡرِ حِسَابٍ
+    B/E:    Da nahm ihr Herr sie auf gütigste Art an und ließ sie auf schöne Weise heranwachsen und gab sie Zakariyya zur Betreuung. Jedesmal, wenn Zakariyya zu ihr in die Zelle trat, fand er bei ihr Versorgung. Er sagte: „O Maryam, woher hast du das? Sie sagte: „Es kommt von Allah; Allah versorgt, wen Er will, ohne zu berechnen
+    Khoury: Da nahm sie ihr Herr auf schöne Weise an und ließ sie auf schöne Weise heranwachsen. Er vertraute sie Zakaria an. Sooft Zakaria zu ihr in das Heiligtum trat, fand er bei ihr Lebensunterhalt. Er sagte: «O Maria, woher hast du das?» Sie sagte: «Von Gott. Gott beschert Unterhalt, wem Er will, ohne (viel) zu rechnen.»
+
+  [3:38]
+    هُنَالِكَ دَعَا زَكَرِیَّا رَبَّهُۥۖ قَالَ رَبِّ هَبۡ لِی مِن لَّدُنكَ ذُرِّیَّةࣰ طَیِّبَةًۖ إِنَّكَ سَمِیعُ ٱلدُّعَاۤءِ
+    B/E:    Da rief Zakariyya seinen Herrn an und sagte: „Mein Herr, schenke mir von Dir aus gute Nachkommenschaft! Du bist ja der Gebetserhörer
+    Khoury: Dort rief Zakaria zu seinem Herrn und sagte: «Mein Herr, schenke mir von Dir her eine gute Nachkommenschaft. Du erhörst ja das Gebet.»
+
+  [3:39]
+    فَنَادَتۡهُ ٱلۡمَلَـٰۤئِكَةُ وَهُوَ قَاۤئِمࣱ یُصَلِّی فِی ٱلۡمِحۡرَابِ أَنَّ ٱللَّهَ یُبَشِّرُكَ بِیَحۡیَىٰ مُصَدِّقَۢا بِكَلِمَةࣲ مِّنَ ٱللَّهِ وَسَیِّدࣰا وَحَصُورࣰا وَنَبِیࣰّا مِّنَ ٱلصَّـٰلِحِینَ
+    B/E:    Und da riefen ihm die Engel zu, während er betend in der Zelle stand: Allah verkündet dir Yahya, ein Wort von Allah zu bestätigen, einen Herrn, einen Keuschen und Propheten von den Rechtschaffenen
+    Khoury: Da riefen ihm die Engel, während er im Heiligtum stand und betete, zu: «Gott verkündet dir Yahyaa; er wird ein Wort von Gott für wahr halten und wird Herrscher, Asket und Prophet sein, einer von den Rechtschaffenen.»
+
+  [3:40]
+    قَالَ رَبِّ أَنَّىٰ یَكُونُ لِی غُلَـٰمࣱ وَقَدۡ بَلَغَنِیَ ٱلۡكِبَرُ وَٱمۡرَأَتِی عَاقِرࣱۖ قَالَ كَذَ ٰلِكَ ٱللَّهُ یَفۡعَلُ مَا یَشَاۤءُ
+    B/E:    Er sagte: „Mein Herr, wie soll ich einen Jungen bekommen, wo mich schon hohes Alter überkommen hat und meine Frau unfruchtbar ist? Er (, der Engel,) sagte: „So (wird es sein); Allah tut, was Er will
+    Khoury: Er sagte: «Mein Herr, wie soll ich einen Knaben haben, wo ich ein hohes Alter erreicht habe und meine Frau unfruchtbar ist?» Er sprach: «So ist es; Gott tut, was Er will.»
+
+  [3:41]
+    قَالَ رَبِّ ٱجۡعَل لِّیۤ ءَایَةࣰۖ قَالَ ءَایَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَیَّامٍ إِلَّا رَمۡزࣰاۗ وَٱذۡكُر رَّبَّكَ كَثِیرࣰا وَسَبِّحۡ بِٱلۡعَشِیِّ وَٱلۡإِبۡكَـٰرِ
+    B/E:    Er (Zakariyya) sagte: „Mein Herr, setze mir ein Zeichen. Er sagte: „Dein Zeichen ist, daß du drei Tage lang nicht zu den Menschen sprechen wirst außer durch Gebärden. Und gedenke deines Herrn häufig und preise (Ihn) am Abend und am frühen Morgen
+    Khoury: Er sagte: «Mein Herr, setze mir ein Zeichen.» Er sprach: «Dein Zeichen ist, daß du drei Tage lang zu den Menschen nicht sprechen wirst, außer durch Winken. Und gedenke viel deines Herrn und preise (Ihn) am Abend und am Morgen.»
+
+  [3:42]
+    وَإِذۡ قَالَتِ ٱلۡمَلَـٰۤئِكَةُ یَـٰمَرۡیَمُ إِنَّ ٱللَّهَ ٱصۡطَفَىٰكِ وَطَهَّرَكِ وَٱصۡطَفَىٰكِ عَلَىٰ نِسَاۤءِ ٱلۡعَـٰلَمِینَ
+    B/E:    Und als die Engel sagten: „O Maryam, Allah hat dich auserwählt und dich rein gemacht und dich auserwählt vor den Frauen der (anderen) Weltenbewohner
+    Khoury: Als die Engel sagten: «O Maria, Gott hat dich auserwählt und rein gemacht, und Er hat dich vor den Frauen der Weltenbewohner auserwählt
+
+  [3:43]
+    یَـٰمَرۡیَمُ ٱقۡنُتِی لِرَبِّكِ وَٱسۡجُدِی وَٱرۡكَعِی مَعَ ٱلرَّ ٰكِعِینَ
+    B/E:    O Maryam, sei deinem Herrn demütig ergeben, wirf dich nieder und verbeuge dich zusammen mit den sich Verbeugenden
+    Khoury: O Maria, sei deinem Herrn demütig ergeben, wirf dich nieder und verneige dich mit denen, die sich verneigen.»
+
+  [3:44]
+    ذَ ٰلِكَ مِنۡ أَنۢبَاۤءِ ٱلۡغَیۡبِ نُوحِیهِ إِلَیۡكَۚ وَمَا كُنتَ لَدَیۡهِمۡ إِذۡ یُلۡقُونَ أَقۡلَـٰمَهُمۡ أَیُّهُمۡ یَكۡفُلُ مَرۡیَمَ وَمَا كُنتَ لَدَیۡهِمۡ إِذۡ یَخۡتَصِمُونَ
+    B/E:    Dies gehört zu den Nachrichten vom Verborgenen, das Wir dir (als Offenbarung) eingeben. Denn du warst nicht bei ihnen, als sie ihre Rohre warfen (, um durch das Los zu bestimmen), wer von ihnen Maryam betreuen sollte. Und du warst nicht bei ihnen, als sie miteinander stritten
+    Khoury: Dies gehört zu den Berichten über das Unsichtbare, die Wir dir offenbaren. Du warst ja nicht bei ihnen, als sie ihre Losstäbe warfen, wer von ihnen Maria betreuen solle. Und du warst nicht bei ihnen, als sie miteinander stritten
+
+  [3:45]
+    إِذۡ قَالَتِ ٱلۡمَلَـٰۤئِكَةُ یَـٰمَرۡیَمُ إِنَّ ٱللَّهَ یُبَشِّرُكِ بِكَلِمَةࣲ مِّنۡهُ ٱسۡمُهُ ٱلۡمَسِیحُ عِیسَى ٱبۡنُ مَرۡیَمَ وَجِیهࣰا فِی ٱلدُّنۡیَا وَٱلۡءَاخِرَةِ وَمِنَ ٱلۡمُقَرَّبِینَ
+    B/E:    Als die Engel sagten: „O Maryam, Allah verkündet dir ein Wort von Ihm, dessen Name al-Masih ’Isa, der Sohn Maryams ist, angesehen im Diesseits und Jenseits und einer der (Allah) Nahegestellten
+    Khoury: Als die Engel sagten: «O Maria, Gott verkündet dir ein Wort von Ihm, dessen Name Christus Jesus, der Sohn Marias, ist; er wird angesehen sein im Diesseits und Jenseits, und einer von denen, die in die Nähe (Gottes) zugelassen werden
+
+  [3:46]
+    وَیُكَلِّمُ ٱلنَّاسَ فِی ٱلۡمَهۡدِ وَكَهۡلࣰا وَمِنَ ٱلصَّـٰلِحِینَ
+    B/E:    Und er wird in der Wiege zu den Menschen sprechen und im Mannesalter und einer der Rechtschaffenen sein
+    Khoury: Er wird zu den Menschen sprechen in der Wiege und als Erwachsener und einer der Rechtschaffenen sein.»
+
+  [3:47]
+    قَالَتۡ رَبِّ أَنَّىٰ یَكُونُ لِی وَلَدࣱ وَلَمۡ یَمۡسَسۡنِی بَشَرࣱۖ قَالَ كَذَ ٰلِكِ ٱللَّهُ یَخۡلُقُ مَا یَشَاۤءُۚ إِذَا قَضَىٰۤ أَمۡرࣰا فَإِنَّمَا یَقُولُ لَهُۥ كُن فَیَكُونُ
+    B/E:    Sie sagte: „Mein Herr, wie sollte ich ein Kind haben, wo mich (doch) kein menschliches Wesen berührt hat? Er (, der Engel,) sagte: „So (wird es sein); Allah erschafft, was Er will. Wenn Er eine Angelegenheit bestimmt, so sagt Er zu ihr nur: ,Sei!’ und so ist sie
+    Khoury: Sie sagte: «Mein Herr, wie soll ich ein Kind bekommen, wo mich kein Mensch berührt hat?» Er sprach: «So ist es; Gott schafft, was Er will. Wenn Er eine Sache beschlossen hat, sagt Er zu ihr nur: Sei!, und sie ist.»
+
+  [3:48]
+    وَیُعَلِّمُهُ ٱلۡكِتَـٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ
+    B/E:    Und Er wird ihn die Schrift, die Weisheit, die Tora und das Evangelium lehren
+    Khoury: Und Er wird ihn lehren das Buch, die Weisheit, die Tora und das Evangelium
+
+  [3:49]
+    وَرَسُولًا إِلَىٰ بَنِیۤ إِسۡرَ ٰۤءِیلَ أَنِّی قَدۡ جِئۡتُكُم بِءَایَةࣲ مِّن رَّبِّكُمۡ أَنِّیۤ أَخۡلُقُ لَكُم مِّنَ ٱلطِّینِ كَهَیۡءَةِ ٱلطَّیۡرِ فَأَنفُخُ فِیهِ فَیَكُونُ طَیۡرَۢا بِإِذۡنِ ٱللَّهِۖ وَأُبۡرِئُ ٱلۡأَكۡمَهَ وَٱلۡأَبۡرَصَ وَأُحۡیِ ٱلۡمَوۡتَىٰ بِإِذۡنِ ٱللَّهِۖ وَأُنَبِّئُكُم بِمَا تَأۡكُلُونَ وَمَا تَدَّخِرُونَ فِی بُیُوتِكُمۡۚ إِنَّ فِی ذَ ٰلِكَ لَءَایَةࣰ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِینَ
+    B/E:    Und (Er wird ihn schicken) als einen Gesandten zu den Kindern Isra’ils (, zu denen er sagen wird): ,Gewiß, ich bin ja mit einem Zeichen von eurem Herrn zu euch gekommen: daß ich euch aus Lehm (etwas) schaffe, (was so aussieht) wie die Gestalt eines Vogels, und dann werde ich ihm einhauchen, und da wird es ein (wirklicher) Vogel sein. Und ich werde mit Allahs Erlaubnis den Blindgeborenen und den Weißgefleckten heilen und werde Tote mit Allahs Erlaubnis wieder lebendig machen. Und ich werde euch kundtun, was ihr eßt und was ihr in euren Häusern aufspeichert. Darin ist wahrlich ein Zeichen für euch, wenn ihr gläubig seid
+    Khoury: Und (Er wird ihn) zu einem Gesandten an die Kinder Israels (machen): «Ich komme zu euch mit einem Zeichen von eurem Herrn: Ich schaffe euch aus Ton etwas wie eine Vogelgestalt, dann blase ich hinein, und es wird zu einem Vogel mit Gottes Erlaubnis; und ich heile Blinde und Aussätzige und mache Tote wieder lebendig mit Gottes Erlaubnis; und ich tue euch kund, was ihr eßt und in euren Häusern aufspeichert. Darin ist für euch ein Zeichen, so ihr gläubig seid
+
+  [3:50]
+    وَمُصَدِّقࣰا لِّمَا بَیۡنَ یَدَیَّ مِنَ ٱلتَّوۡرَىٰةِ وَلِأُحِلَّ لَكُم بَعۡضَ ٱلَّذِی حُرِّمَ عَلَیۡكُمۡۚ وَجِئۡتُكُم بِءَایَةࣲ مِّن رَّبِّكُمۡ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ
+    B/E:    Und das zu bestätigen, was von der Tora vor mir (offenbart) war, und um euch einiges von dem zu erlauben, was euch verboten war. Und ich bin mit einem Zeichen von eurem Herrn zu euch gekommen; so fürchtet Allah und gehorcht mir
+    Khoury: Und (ich komme), das zu bestätigen, was von der Tora vor mir vorhanden war, und um euch einiges von dem zu erlauben, was euch verboten wurde. So komme ich zu euch mit einem Zeichen von eurem Herrn. Daher fürchtet Gott und gehorchet mir
+
+  [3:51]
+    إِنَّ ٱللَّهَ رَبِّی وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَـٰذَا صِرَ ٰطࣱ مُّسۡتَقِیمࣱ
+    B/E:    Gewiß, Allah ist mein Herr und euer Herr; so dient Ihm. Das ist ein gerader Weg’
+    Khoury: Gott ist mein Herr und euer Herr, so dienet Ihm. Das ist ein gerader Weg.»
+
+  [3:52]
+    ۞ فَلَمَّاۤ أَحَسَّ عِیسَىٰ مِنۡهُمُ ٱلۡكُفۡرَ قَالَ مَنۡ أَنصَارِیۤ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِیُّونَ نَحۡنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشۡهَدۡ بِأَنَّا مُسۡلِمُونَ
+    B/E:    Als ’Isa aber ihren Unglauben wahrnahm, sagte er: „Wer sind meine Helfer (auf dem Weg hin) zu Allah? Die Jünger sagten: „Wir sind Allahs Helfer. Wir glauben an Allah, und bezeuge, daß wir (Ihm) ergeben sind
+    Khoury: Als Jesus Unglauben von ihrer Seite spürte, sagte er: «Wer sind meine Helfer (auf dem Weg) zu Gott hin?» Die Jünger sagten: «Wir sind die Helfer Gottes. Wir glauben an Gott. Bezeuge, daß wir gottergeben sind
+
+  [3:53]
+    رَبَّنَاۤ ءَامَنَّا بِمَاۤ أَنزَلۡتَ وَٱتَّبَعۡنَا ٱلرَّسُولَ فَٱكۡتُبۡنَا مَعَ ٱلشَّـٰهِدِینَ
+    B/E:    Unser Herr, wir glauben an das, was Du (als Offenbarung) herabgesandt hast, und folgen dem Gesandten. So schreibe uns auf unter die Zeugnis Ablegenden
+    Khoury: Unser Herr, wir glauben an das, was Du herabgesandt hast, und wir folgen dem Gesandten. So verzeichne uns unter denen, die bezeugen.»
+
+  [3:54]
+    وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَیۡرُ ٱلۡمَـٰكِرِینَ
+    B/E:    Und sie schmiedeten Ränke, und (auch) Allah schmiedete Ränke; und Allah ist der beste Ränkeschmied
+    Khoury: Sie schmiedeten Ränke, und Gott schmiedete Ränke. Gott ist der beste derer, die Ränke schmieden
+
+  [3:55]
+    إِذۡ قَالَ ٱللَّهُ یَـٰعِیسَىٰۤ إِنِّی مُتَوَفِّیكَ وَرَافِعُكَ إِلَیَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِینَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِینَ ٱتَّبَعُوكَ فَوۡقَ ٱلَّذِینَ كَفَرُوۤا۟ إِلَىٰ یَوۡمِ ٱلۡقِیَـٰمَةِۖ ثُمَّ إِلَیَّ مَرۡجِعُكُمۡ فَأَحۡكُمُ بَیۡنَكُمۡ فِیمَا كُنتُمۡ فِیهِ تَخۡتَلِفُونَ
+    B/E:    Als Allah sagte: „O ’Isa, Ich werde dich (nunmehr) abberufen und dich zu mir emporheben und dich von denen, die ungläubig sind, reinigen und diejenigen, die dir folgen, bis zum Tag der Auferstehung über diejenigen stellen, die ungläubig sind. Hierauf wird eure Rückkehr zu Mir sein, und dann werde Ich zwischen euch richten über das, worüber ihr uneinig zu sein pflegtet
+    Khoury: Als Gott sprach: «O Jesus, Ich werde dich abberufen und zu Mir erheben und dich von denen, die ungläubig sind, rein machen. Und Ich werde diejenigen, die dir folgen, über die, die ungläubig sind, stellen bis zum Tag der Auferstehung. Dann wird zu Mir eure Rückkehr sein, und Ich werde zwischen euch über das urteilen, worüber ihr uneins waret
+
+  [3:56]
+    فَأَمَّا ٱلَّذِینَ كَفَرُوا۟ فَأُعَذِّبُهُمۡ عَذَابࣰا شَدِیدࣰا فِی ٱلدُّنۡیَا وَٱلۡءَاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِینَ
+    B/E:    Was nun diejenigen angeht, die ungläubig sind, so werde Ich sie im Diesseits und im Jenseits mit strenger Strafe strafen; und sie werden keine Helfer haben
+    Khoury: Diejenigen, die ungläubig sind, werde Ich mit einer harten Pein peinigen im Diesseits und Jenseits, und sie werden keine Helfer haben.»
+
+  [3:57]
+    وَأَمَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَیُوَفِّیهِمۡ أُجُورَهُمۡۗ وَٱللَّهُ لَا یُحِبُّ ٱلظَّـٰلِمِینَ
+    B/E:    Was aber jene angeht, die glauben und rechtschaffene Werke tun, so wird Er ihnen ihren Lohn in vollem Maß zukommen lassen. Und Allah liebt nicht die Ungerechten
+    Khoury: Denjenigen aber, die glauben und die guten Werke tun, wird Er ihren Lohn voll erstatten. Gott liebt die nicht, die Unrecht tun
+
+  [3:58]
+    ذَ ٰلِكَ نَتۡلُوهُ عَلَیۡكَ مِنَ ٱلۡءَایَـٰتِ وَٱلذِّكۡرِ ٱلۡحَكِیمِ
+    B/E:    Dies verlesen Wir dir von den Zeichen und den weisen Sprüchen
+    Khoury: Das verlesen Wir dir von den Zeichen und der weisen Ermahnung
+
+  [3:59]
+    إِنَّ مَثَلَ عِیسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَۖ خَلَقَهُۥ مِن تُرَابࣲ ثُمَّ قَالَ لَهُۥ كُن فَیَكُونُ
+    B/E:    Gewiß, das Gleichnis ’Isas ist bei Allah wie das Gleichnis Adams. Er erschuf ihn aus Erde. Hierauf sagte Er zu ihm: Sei! und da war er
+    Khoury: Mit Jesus ist es vor Gott wie mit Adam. Er erschuf ihn aus Erde, dann sagte Er zu ihm: Sei!, und er war
+
+  [3:60]
+    ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلۡمُمۡتَرِینَ
+    B/E:    (Das ist) die Wahrheit von deinem Herrn; gehöre daher nicht zu den Zweiflern
+    Khoury: Es ist die Wahrheit von deinem Herrn. Darum sei nicht einer von den Zweiflern
+
+  [3:61]
+    فَمَنۡ حَاۤجَّكَ فِیهِ مِنۢ بَعۡدِ مَا جَاۤءَكَ مِنَ ٱلۡعِلۡمِ فَقُلۡ تَعَالَوۡا۟ نَدۡعُ أَبۡنَاۤءَنَا وَأَبۡنَاۤءَكُمۡ وَنِسَاۤءَنَا وَنِسَاۤءَكُمۡ وَأَنفُسَنَا وَأَنفُسَكُمۡ ثُمَّ نَبۡتَهِلۡ فَنَجۡعَل لَّعۡنَتَ ٱللَّهِ عَلَى ٱلۡكَـٰذِبِینَ
+    B/E:    Wer nun mit dir darüber streitet, nach dem, was dir an Wissen zugekommen ist, so sag (zu denen): Kommt her! Laßt uns unsere Söhne und eure Söhne, unsere Frauen und eure Frauen, uns selbst und euch selbst zusammenrufen und hierauf flehen und so den Fluch Allahs über die Lügner kommen lassen
+    Khoury: Und wenn man mit dir darüber streitet nach dem, was zu dir an Wissen gekommen ist, dann sprich: Kommt her, laßt uns unsere Söhne und eure Söhne, unsere Frauen und eure Frauen, uns selbst und euch selbst zusammenrufen und dann den Gemeinschaftseid leisten und den Fluch Gottes auf die Lügner herabkommen lassen
+
+  [3:62]
+    إِنَّ هَـٰذَا لَهُوَ ٱلۡقَصَصُ ٱلۡحَقُّۚ وَمَا مِنۡ إِلَـٰهٍ إِلَّا ٱللَّهُۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ
+    B/E:    Gewiß, dies sind die wahren Geschichten. Und keinen Gott gibt es außer Allah. Allah - Er ist wahrlich der Allmächtige und Allweise
+    Khoury: Das ist gewiß der wahre Bericht. Und es gibt keinen Gott außer Gott. Gott ist der Mächtige, der Weise
+
+  [3:63]
+    فَإِن تَوَلَّوۡا۟ فَإِنَّ ٱللَّهَ عَلِیمُۢ بِٱلۡمُفۡسِدِینَ
+    B/E:    Doch wenn sie sich abkehren, so weiß Allah sehr wohl über die Unheilstifter Bescheid
+    Khoury: Wenn sie sich abkehren, so weiß Gott über die Unheilstifter Bescheid
+
+  [3:64]
+    قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ تَعَالَوۡا۟ إِلَىٰ كَلِمَةࣲ سَوَاۤءِۭ بَیۡنَنَا وَبَیۡنَكُمۡ أَلَّا نَعۡبُدَ إِلَّا ٱللَّهَ وَلَا نُشۡرِكَ بِهِۦ شَیۡءࣰا وَلَا یَتَّخِذَ بَعۡضُنَا بَعۡضًا أَرۡبَابࣰا مِّن دُونِ ٱللَّهِۚ فَإِن تَوَلَّوۡا۟ فَقُولُوا۟ ٱشۡهَدُوا۟ بِأَنَّا مُسۡلِمُونَ
+    B/E:    Sag: O Leute der Schrift, kommt her zu einem zwischen uns und euch gleichen Wort: daß wir niemandem dienen außer Allah und Ihm nichts beigesellen und sich nicht die einen von uns die anderen zu Herren außer Allah nehmen. Doch wenn sie sich abkehren, dann sagt: Bezeugt, daß wir (Allah) ergeben sind
+    Khoury: Sprich: O ihr Leute des Buches, kommt her zu einem zwischen uns und euch gleich angenommenen Wort: daß wir Gott allein dienen und Ihm nichts beigesellen, und daß wir nicht einander zu Herren nehmen neben Gott. Doch wenn sie sich abkehren, dann sagt: «Bezeugt, daß wir gottergeben sind.»
+
+  [3:65]
+    یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تُحَاۤجُّونَ فِیۤ إِبۡرَ ٰهِیمَ وَمَاۤ أُنزِلَتِ ٱلتَّوۡرَىٰةُ وَٱلۡإِنجِیلُ إِلَّا مِنۢ بَعۡدِهِۦۤۚ أَفَلَا تَعۡقِلُونَ
+    B/E:    O Leute der Schrift, warum streitet ihr über Ibrahim, wo die Tora und das Evangelium erst nach ihm (als Offenbarung) herabgesandt worden sind? Begreift ihr denn nicht
+    Khoury: O ihr Leute des Buches, warum streitet ihr über Abraham, wo doch die Tora und das Evangelium erst nach ihm herabgesandt wurden? Habt ihr denn keinen Verstand
+
+  [3:66]
+    هَـٰۤأَنتُمۡ هَـٰۤؤُلَاۤءِ حَـٰجَجۡتُمۡ فِیمَا لَكُم بِهِۦ عِلۡمࣱ فَلِمَ تُحَاۤجُّونَ فِیمَا لَیۡسَ لَكُم بِهِۦ عِلۡمࣱۚ وَٱللَّهُ یَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ
+    B/E:    Ihr da seid es doch, die ihr über etwas gestritten habt, wovon ihr Wissen habt; warum streitet ihr nun aber über etwas, wovon ihr kein Wissen habt? Allah weiß, ihr aber wißt nicht
+    Khoury: Siehe, ihr habt über etwas gestritten, wovon ihr Wissen habt. Warum streitet ihr denn nun über das, wovon ihr kein Wissen habt? Gott weiß, ihr aber wißt nicht Bescheid
+
+  [3:67]
+    مَا كَانَ إِبۡرَ ٰهِیمُ یَهُودِیࣰّا وَلَا نَصۡرَانِیࣰّا وَلَـٰكِن كَانَ حَنِیفࣰا مُّسۡلِمࣰا وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِینَ
+    B/E:    Ibrahim war weder ein Jude noch ein Christ, sondern er war Anhänger des rechten Glaubens, einer, der sich Allah ergeben hat, und er gehörte nicht zu den Götzendienern
+    Khoury: Abraham war weder Jude noch Christ, sondern er war Anhänger des reinen Glaubens, ein Gottergebener, und er gehörte nicht zu den Polytheisten
+
+  [3:68]
+    إِنَّ أَوۡلَى ٱلنَّاسِ بِإِبۡرَ ٰهِیمَ لَلَّذِینَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِیُّ وَٱلَّذِینَ ءَامَنُوا۟ۗ وَٱللَّهُ وَلِیُّ ٱلۡمُؤۡمِنِینَ
+    B/E:    Die Menschen, die Ibrahim am nächsten stehen, sind wahrlich diejenigen, die ihm folgten, sowie dieser Prophet und die, die (mit ihm) glauben. Und Allah ist der Schutzherr der Gläubigen
+    Khoury: Diejenigen unter den Menschen, die am ehesten Abraham beanspruchen dürfen, sind die, die ihm gefolgt sind, und dieser Prophet und diejenigen, die glauben. Und Gott ist der Freund der Gläubigen
+
+  [3:69]
+    وَدَّت طَّاۤئِفَةࣱ مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ لَوۡ یُضِلُّونَكُمۡ وَمَا یُضِلُّونَ إِلَّاۤ أَنفُسَهُمۡ وَمَا یَشۡعُرُونَ
+    B/E:    Gern möchte euch ein Teil von den Leuten der Schrift in die Irre führen. Aber sie führen nur sich selbst in die Irre, ohne (es) zu merken
+    Khoury: Eine Gruppe von den Leuten des Buches möchte euch gern in die Irre führen. Aber sie führen nur sich selbst in die Irre, und sie merken es nicht
+
+  [3:70]
+    یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَكۡفُرُونَ بِءَایَـٰتِ ٱللَّهِ وَأَنتُمۡ تَشۡهَدُونَ
+    B/E:    O Leute der Schrift! Warum verleugnet ihr Allahs Zeichen, wo ihr doch (selbst) Zeugen seid
+    Khoury: O ihr Leute des Buches, warum verleugnet ihr die Zeichen Gottes, wo ihr sie selbst bezeugt
+
+  [3:71]
+    یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَـٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ
+    B/E:    O Leute der Schrift, warum verdeckt ihr das Wahre durch das Falsche und verbergt wissentlich die Wahrheit
+    Khoury: O ihr Leute des Buches, warum verkleidet ihr die Wahrheit mit dem Falschen und verschweigt die Wahrheit, wo ihr es wißt
+
+  [3:72]
+    وَقَالَت طَّاۤئِفَةࣱ مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِیۤ أُنزِلَ عَلَى ٱلَّذِینَ ءَامَنُوا۟ وَجۡهَ ٱلنَّهَارِ وَٱكۡفُرُوۤا۟ ءَاخِرَهُۥ لَعَلَّهُمۡ یَرۡجِعُونَ
+    B/E:    Und ein Teil von den Leuten der Schrift sagt: „Glaubt an das, was auf diejenigen, die glauben, (als Offenbarung) herabgesandt worden ist, am Anfang des Tages und verleugnet es (wieder) an seinem Ende, auf daß sie umkehren mögen
+    Khoury: Eine Gruppe von den Leuten des Buches sagt: «Glaubt an das, was auf diejenigen, die glauben, herabgesandt wurde, nur am Anfang des Tages, und verleugnet es an seinem Ende. Vielleicht werden sie umkehren
+
+  [3:73]
+    وَلَا تُؤۡمِنُوۤا۟ إِلَّا لِمَن تَبِعَ دِینَكُمۡ قُلۡ إِنَّ ٱلۡهُدَىٰ هُدَى ٱللَّهِ أَن یُؤۡتَىٰۤ أَحَدࣱ مِّثۡلَ مَاۤ أُوتِیتُمۡ أَوۡ یُحَاۤجُّوكُمۡ عِندَ رَبِّكُمۡۗ قُلۡ إِنَّ ٱلۡفَضۡلَ بِیَدِ ٱللَّهِ یُؤۡتِیهِ مَن یَشَاۤءُۗ وَٱللَّهُ وَ ٰسِعٌ عَلِیمࣱ
+    B/E:    Und glaubt nur jemandem, der eurer Religion folgt. Sag: Gewiß, die (wahre) Rechtleitung ist Allahs Rechtleitung. (Und glaubt nicht,) daß (auch) jemandem (anderen) das gleiche gegeben werde, was euch gegeben wurde, oder daß man mit euch (zu Recht) vor eurem Herrn streite. Sag: Gewiß, die Huld liegt in Allahs Hand. Er gewährt sie, wem Er will. Und Allah ist Allumfassend und Allwissend
+    Khoury: Und glaubt nur denen, die eurer Religion folgen.» Sprich: Die Rechtleitung ist ja die Rechtleitung Gottes. (Fürchtet ihr,) daß jemandem (anderen) das gleiche zukommt, was euch zugekommen ist, oder daß sie mit euch vor eurem Herrn streiten? Sprich: Die Huld liegt in der Hand Gottes, Er läßt sie zukommen, wem Er will. Gott umfaßt und weiß alles
+
+  [3:74]
+    یَخۡتَصُّ بِرَحۡمَتِهِۦ مَن یَشَاۤءُۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ
+    B/E:    Er zeichnet mit Seinem Erbarmen aus, wen Er will, und Allah besitzt große Huld
+    Khoury: Er schenkt seine Barmherzigkeit besonders, wem Er will. Und Gott besitzt große Huld
+
+  [3:75]
+    ۞ وَمِنۡ أَهۡلِ ٱلۡكِتَـٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارࣲ یُؤَدِّهِۦۤ إِلَیۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِینَارࣲ لَّا یُؤَدِّهِۦۤ إِلَیۡكَ إِلَّا مَا دُمۡتَ عَلَیۡهِ قَاۤئِمࣰاۗ ذَ ٰلِكَ بِأَنَّهُمۡ قَالُوا۟ لَیۡسَ عَلَیۡنَا فِی ٱلۡأُمِّیِّـۧنَ سَبِیلࣱ وَیَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ یَعۡلَمُونَ
+    B/E:    Unter den Leuten der Schrift gibt es manche, die, wenn du ihnen einen Qintar anvertraust, ihn dir (wieder) aushändigen. Es gibt unter ihnen aber auch manche, die, wenn du ihnen (nur) einen Dinar anvertraust, ihn dir nicht (wieder) aushändigen, es sei denn, du bist ständig hinter ihnen her. Dies, weil sie sagen: Gegen uns kann man der Schriftunkundigen wegen nicht vorgehen. Und sie sprechen (damit) wissentlich eine Lüge gegen Allah aus
+    Khoury: Unter den Leuten des Buches gibt es manch einen, der, wenn du ihm einen Zentner anvertraust, ihn dir zurückgibt, und manch einen, der, wenn du ihm einen (einzigen) Dinar anvertraust, ihn dir nur dann zurückgibt, wenn du ihm dauernd zusetzt. Das rührt daher, daß sie sagen: «Man kann uns in bezug auf die Ungelehrten nicht belangen.» Damit sagen sie über Gott eine Lüge, und sie wissen es
+
+  [3:76]
+    بَلَىٰۚ مَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ یُحِبُّ ٱلۡمُتَّقِینَ
+    B/E:    Aber nein! Wer seinen Bund hält und gottesfürchtig ist, - gewiß, Allah liebt die Gottes fürchtigen
+    Khoury: Nein! Wenn einer seine Verpflichtung erfüllt und gottesfürchtig ist - siehe, Gott liebt die Gottesfürchtigen
+
+  [3:77]
+    إِنَّ ٱلَّذِینَ یَشۡتَرُونَ بِعَهۡدِ ٱللَّهِ وَأَیۡمَـٰنِهِمۡ ثَمَنࣰا قَلِیلًا أُو۟لَـٰۤئِكَ لَا خَلَـٰقَ لَهُمۡ فِی ٱلۡءَاخِرَةِ وَلَا یُكَلِّمُهُمُ ٱللَّهُ وَلَا یَنظُرُ إِلَیۡهِمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ وَلَا یُزَكِّیهِمۡ وَلَهُمۡ عَذَابٌ أَلِیمࣱ
+    B/E:    Diejenigen, die ihren Bund mit Allah und ihre Eide für einen geringen Preis verkaufen, haben am Jenseits keinen Anteil. Und Allah wird am Tag der Auferstehung weder zu ihnen sprechen noch sie anschauen noch sie läutern. Für sie wird es schmerzhafte Strafe geben
+    Khoury: Diejenigen, die den Bund Gottes und ihre Eide für einen geringen Preis verkaufen, haben am Jenseits keinen Anteil. Gott wird sie nicht ansprechen und nicht zu ihnen schauen am Tag der Auferstehung, und sie auch nicht für rein erklären. Und für sie ist eine schmerzhafte Pein bestimmt
+
+  [3:78]
+    وَإِنَّ مِنۡهُمۡ لَفَرِیقࣰا یَلۡوُۥنَ أَلۡسِنَتَهُم بِٱلۡكِتَـٰبِ لِتَحۡسَبُوهُ مِنَ ٱلۡكِتَـٰبِ وَمَا هُوَ مِنَ ٱلۡكِتَـٰبِ وَیَقُولُونَ هُوَ مِنۡ عِندِ ٱللَّهِ وَمَا هُوَ مِنۡ عِندِ ٱللَّهِ وَیَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ یَعۡلَمُونَ
+    B/E:    Und wahrlich, eine Gruppe von ihnen verdreht mit seinen Zungen die Schrift, damit ihr es für zur Schrift gehörig haltet, während es nicht zur Schrift gehört. Und sie sagen: „Es ist von Allah, während es nicht von Allah ist. Und sie sprechen (damit) wissentlich eine Lüge gegen Allah aus
+    Khoury: Unter ihnen gibt es eine Gruppe, die ihre Zungen beim Lesen des Buches verdrehen, damit ihr meint, es gehöre zum Buch, während es nicht zum Buch gehört, und die sagen, es sei von Gott her, während es nicht von Gott kommt. Damit sagen sie gegen Gott eine Lüge aus, und sie wissen es
+
+  [3:79]
+    مَا كَانَ لِبَشَرٍ أَن یُؤۡتِیَهُ ٱللَّهُ ٱلۡكِتَـٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ ثُمَّ یَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادࣰا لِّی مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِیِّـۧنَ بِمَا كُنتُمۡ تُعَلِّمُونَ ٱلۡكِتَـٰبَ وَبِمَا كُنتُمۡ تَدۡرُسُونَ
+    B/E:    Es steht einem menschlichen Wesen nicht zu, daß ihm Allah die Schrift, das Urteil und das Prophetentum gibt, und er hierauf zu den Menschen sagt: „Seid Diener von mir anstatt Allahs!, sondern: „Seid Leute des Herrn, da ihr das Buch zu lehren und da ihr (es) zu erlernen pflegtet
+    Khoury: Es steht keinem Menschen zu, daß Gott ihm das Buch, die Urteilskraft und die Prophetie zukommen läßt und daß er dann zu den Menschen sagt: «Seid meine Diener anstelle Gottes.» Vielmehr (wird er sagen): «Seid Gottesgelehrte, da ihr das Buch lehrt und da ihr es erforscht.»
+
+  [3:80]
+    وَلَا یَأۡمُرَكُمۡ أَن تَتَّخِذُوا۟ ٱلۡمَلَـٰۤئِكَةَ وَٱلنَّبِیِّـۧنَ أَرۡبَابًاۗ أَیَأۡمُرُكُم بِٱلۡكُفۡرِ بَعۡدَ إِذۡ أَنتُم مُّسۡلِمُونَ
+    B/E:    Und (es steht ihm nicht zu,) euch zu befehlen, die Engel und die Propheten zu Herren nehmen. Sollte er euch den Unglauben befehlen, nachdem ihr (Allah) Ergebene seid
+    Khoury: Und auch nicht, daß er euch befiehlt, die Engel und die Propheten zu Herren zu nehmen. Kann er euch den Unglauben befehlen, nachdem ihr Gottergebene geworden seid
+
+  [3:81]
+    وَإِذۡ أَخَذَ ٱللَّهُ مِیثَـٰقَ ٱلنَّبِیِّـۧنَ لَمَاۤ ءَاتَیۡتُكُم مِّن كِتَـٰبࣲ وَحِكۡمَةࣲ ثُمَّ جَاۤءَكُمۡ رَسُولࣱ مُّصَدِّقࣱ لِّمَا مَعَكُمۡ لَتُؤۡمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥۚ قَالَ ءَأَقۡرَرۡتُمۡ وَأَخَذۡتُمۡ عَلَىٰ ذَ ٰلِكُمۡ إِصۡرِیۖ قَالُوۤا۟ أَقۡرَرۡنَاۚ قَالَ فَٱشۡهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ ٱلشَّـٰهِدِینَ
+    B/E:    Und als Allah mit den Propheten ein Abkommen traf: Was immer Ich euch an Büchern und Weisheit gebracht habe -, und danach ist zu euch ein Gesandter gekommen, das bestätigend, was euch (bereits) vorliegt, an den müßt ihr ganz gewiß glauben und dem müßt ihr ganz gewiß helfen. Er sagte: „Erklärt ihr euch einverstanden und nehmt ihr unter dieser (Bedingung) Meine Bürde an? Sie sagten: „Wir erklären uns einverstanden. Er sagte: „So bezeugt es, und Ich gehöre mit euch zu den Zeugnis Ablegenden
+    Khoury: Und als Gott die Verpflichtung der Propheten entgegennahm: «Was immer Ich euch für ein Buch und eine Weisheit zukommen lasse, wenn danach ein Gesandter zu euch kommt, der bestätigt, was bei euch ist, dann müßt ihr an ihn glauben und ihn unterstützen.» Er sprach: «Erkennt ihr es an und betrachtet ihr euch Mir gegenüber daran gebunden?» Sie sagten: «Wir erkennen es an.» Er sprach: «So bezeugt es, und Ich gehöre mit euch zu den Zeugen.»
+
+  [3:82]
+    فَمَن تَوَلَّىٰ بَعۡدَ ذَ ٰلِكَ فَأُو۟لَـٰۤئِكَ هُمُ ٱلۡفَـٰسِقُونَ
+    B/E:    Wer sich aber nach diesem abkehrt, so sind jene die Frevler
+    Khoury: Diejenigen, die sich danach abkehren, das sind die Frevler
+
+  [3:83]
+    أَفَغَیۡرَ دِینِ ٱللَّهِ یَبۡغُونَ وَلَهُۥۤ أَسۡلَمَ مَن فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ طَوۡعࣰا وَكَرۡهࣰا وَإِلَیۡهِ یُرۡجَعُونَ
+    B/E:    Begehren sie denn eine andere als Allahs Religion, wo sich Ihm doch (jeder) ergeben hat, der in den Himmeln und auf der Erde ist, freiwillig oder widerwillig? Und zu Ihm werden sie zurückgebracht
+    Khoury: Suchen sie sich etwa eine andere Religion als die Religion Gottes, wo Ihm ergeben ist, was in den Himmeln und auf der Erde ist, ob freiwillig oder widerwillig, und wo sie (alle) zu Ihm zurückgebracht werden
+
+  [3:84]
+    قُلۡ ءَامَنَّا بِٱللَّهِ وَمَاۤ أُنزِلَ عَلَیۡنَا وَمَاۤ أُنزِلَ عَلَىٰۤ إِبۡرَ ٰهِیمَ وَإِسۡمَـٰعِیلَ وَإِسۡحَـٰقَ وَیَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَاۤ أُوتِیَ مُوسَىٰ وَعِیسَىٰ وَٱلنَّبِیُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ بَیۡنَ أَحَدࣲ مِّنۡهُمۡ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ
+    B/E:    Sag: Wir glauben an Allah und (an das,) was auf uns und was auf Ibrahim, Isma’il, Ishaq, Ya’qub und die Stämme (als Offenbarung) herabgesandt wurde und was Musa, ’Isa und den Propheten von ihrem Herrn gegeben wurde. Wir machen keinen Unterschied bei jemandem von Ihnen, und wir sind Ihm ergeben
+    Khoury: Sprich: Wir glauben an Gott und an das, was auf uns herabgesandt wurde, und an das, was herabgesandt wurde auf Abraham, Ismael, Isaak, Jakob und die Stämme, und an das, was Mose und Jesus und den Propheten von ihrem Herrn zugekommen ist. Wir machen bei keinem von ihnen einen Unterschied. Und wir sind Ihm ergeben
+
+  [3:85]
+    وَمَن یَبۡتَغِ غَیۡرَ ٱلۡإِسۡلَـٰمِ دِینࣰا فَلَن یُقۡبَلَ مِنۡهُ وَهُوَ فِی ٱلۡءَاخِرَةِ مِنَ ٱلۡخَـٰسِرِینَ
+    B/E:    Wer aber als Religion etwas anderes als den Islam begehrt, so wird es von ihm nicht angenommen werden, und im Jenseits wird er zu den Verlierern gehören
+    Khoury: Wer eine andere Religion als den Islam sucht, von dem wird es nicht angenommen werden. Und im Jenseits gehört er zu den Verlierern
+
+  [3:86]
+    كَیۡفَ یَهۡدِی ٱللَّهُ قَوۡمࣰا كَفَرُوا۟ بَعۡدَ إِیمَـٰنِهِمۡ وَشَهِدُوۤا۟ أَنَّ ٱلرَّسُولَ حَقࣱّ وَجَاۤءَهُمُ ٱلۡبَیِّنَـٰتُۚ وَٱللَّهُ لَا یَهۡدِی ٱلۡقَوۡمَ ٱلظَّـٰلِمِینَ
+    B/E:    Wie sollte Allah ein Volk rechtleiten, das (wieder) ungläubig wurde, nachdem es den Glauben (angenommen) hatte und (nachdem) es bezeugt hatte, daß der Gesandte wahrhaft ist, und (nachdem) zu ihm die klaren Beweise gekommen waren! Und Allah leitet nicht das ungerechte Volk recht
+    Khoury: Wie sollte Gott Leute rechtleiten, die ungläubig geworden sind, nachdem sie gläubig waren und bezeugt haben, daß der Gesandte wahrhaftig ist, und nachdem die deutlichen Zeichen zu ihnen gekommen sind? Gott leitet die ungerechten Leute nicht recht
+
+  [3:87]
+    أُو۟لَـٰۤئِكَ جَزَاۤؤُهُمۡ أَنَّ عَلَیۡهِمۡ لَعۡنَةَ ٱللَّهِ وَٱلۡمَلَـٰۤئِكَةِ وَٱلنَّاسِ أَجۡمَعِینَ
+    B/E:    Der Lohn jener ist, daß auf ihnen der Fluch Allahs und der Engel und der Menschen allesamt liegt
+    Khoury: Die Vergeltung für sie ist, daß der Fluch Gottes und der Engel und der Menschen allesamt über sie kommt
+
+  [3:88]
+    خَـٰلِدِینَ فِیهَا لَا یُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ یُنظَرُونَ
+    B/E:    ewig darin zu bleiben. Die Strafe soll ihnen nicht erleichtert noch soll ihnen Aufschub gewährt werden
+    Khoury: Sie werden darin ewig weilen. Ihnen wird die Pein nicht erleichtert, und ihnen wird kein Aufschub gewährt
+
+  [3:89]
+    إِلَّا ٱلَّذِینَ تَابُوا۟ مِنۢ بَعۡدِ ذَ ٰلِكَ وَأَصۡلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمٌ
+    B/E:    außer denjenigen, die nach alledem bereuen und verbessern, so ist Allah Allvergebend und Barmherzig
+    Khoury: Außer denen, die danach umkehren und Besserung zeigen. Denn Gott ist voller Vergebung und barmherzig
+
+  [3:90]
+    إِنَّ ٱلَّذِینَ كَفَرُوا۟ بَعۡدَ إِیمَـٰنِهِمۡ ثُمَّ ٱزۡدَادُوا۟ كُفۡرࣰا لَّن تُقۡبَلَ تَوۡبَتُهُمۡ وَأُو۟لَـٰۤئِكَ هُمُ ٱلضَّاۤلُّونَ
+    B/E:    Jene (aber), die ungläubig werden, nachdem sie den Glauben (angenommen) haben, und hierauf an Unglauben zunehmen, deren Reue wird nicht angenommen werden, und jene sind die Irregehenden
+    Khoury: Von denen, die, nachdem sie gläubig waren, ungläubig werden und an Unglauben zunehmen, wird ihre Reue nicht angenommen werden. Das sind die, die irregehen
+
+  [3:91]
+    إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمۡ كُفَّارࣱ فَلَن یُقۡبَلَ مِنۡ أَحَدِهِم مِّلۡءُ ٱلۡأَرۡضِ ذَهَبࣰا وَلَوِ ٱفۡتَدَىٰ بِهِۦۤۗ أُو۟لَـٰۤئِكَ لَهُمۡ عَذَابٌ أَلِیمࣱ وَمَا لَهُم مِّن نَّـٰصِرِینَ
+    B/E:    Gewiß, diejenigen, die ungläubig geworden sind und als Ungläubige sterben, - von keinem von ihnen würde die (ganze) Erde voll Gold angenommen werden, auch wenn er sich damit loskaufen wollte. Für jene wird es schmerzhafte Strafe geben; und sie werden keine Helfer haben
+    Khoury: Von denen, die ungläubig geworden sind und als Ungläubige sterben - nicht die Erde voll Gold würde von einem von ihnen angenommen, auch wenn er sich damit loskaufen wollte. Für sie ist eine schmerzhafte Pein bestimmt, und sie werden keine Helfer haben
+
+  [3:92]
+    لَن تَنَالُوا۟ ٱلۡبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَۚ وَمَا تُنفِقُوا۟ مِن شَیۡءࣲ فَإِنَّ ٱللَّهَ بِهِۦ عَلِیمࣱ
+    B/E:    Ihr werdet die Güte nicht erreichen, bevor ihr nicht von dem ausgebt, was euch lieb ist. Und was immer ihr ausgebt, so weiß Allah darüber Bescheid
+    Khoury: Ihr werdet die (wahre) Frömmigkeit nicht erlangen, bis ihr von dem spendet, was ihr liebt. Und was immer ihr spendet, Gott weiß es
+
+  [3:93]
+    ۞ كُلُّ ٱلطَّعَامِ كَانَ حِلࣰّا لِّبَنِیۤ إِسۡرَ ٰۤءِیلَ إِلَّا مَا حَرَّمَ إِسۡرَ ٰۤءِیلُ عَلَىٰ نَفۡسِهِۦ مِن قَبۡلِ أَن تُنَزَّلَ ٱلتَّوۡرَىٰةُۚ قُلۡ فَأۡتُوا۟ بِٱلتَّوۡرَىٰةِ فَٱتۡلُوهَاۤ إِن كُنتُمۡ صَـٰدِقِینَ
+    B/E:    Alle Speisen waren den Kindern Isra’ils erlaubt außer dem, was Isra’il sich selbst verbot, bevor die Tora offenbart wurde. Sag: Bringt doch die Tora bei und verlest sie dann, wenn ihr wahrhaftig seid
+    Khoury: Alle Speisen waren den Kindern Israels erlaubt, außer dem, was Israel sich selbst verboten hat, bevor die Tora herabgesandt wurde. Sprich: Bringt die Tora her und lest sie vor, so ihr die Wahrheit sagt
+
+  [3:94]
+    فَمَنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ ٱلۡكَذِبَ مِنۢ بَعۡدِ ذَ ٰلِكَ فَأُو۟لَـٰۤئِكَ هُمُ ٱلظَّـٰلِمُونَ
+    B/E:    Wer also nach alledem gegen Allah (noch) Lügen ersinnt, jene sind die Ungerechten
+    Khoury: Diejenigen, die nach diesem gegen Gott Lügen erdichten, das sind die, die Unrecht tun
+
+  [3:95]
+    قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبۡرَ ٰهِیمَ حَنِیفࣰاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِینَ
+    B/E:    Sag: Allah hat die Wahrheit gesprochen. So folgt dem Glaubensbekenntnis Ibrahims, (als) Anhänger des rechten Glaubens, und er gehörte nicht zu den Götzendienern
+    Khoury: Sprich: Gott sagt die Wahrheit. So folgt der Glaubensrichtung Abrahams, als Anhänger des reinen Glaubens, und er gehörte nicht zu den Polytheisten
+
+  [3:96]
+    إِنَّ أَوَّلَ بَیۡتࣲ وُضِعَ لِلنَّاسِ لَلَّذِی بِبَكَّةَ مُبَارَكࣰا وَهُدࣰى لِّلۡعَـٰلَمِینَ
+    B/E:    Das erste (Gottes)haus, das für die Menschen gegründet wurde, ist wahrlich dasjenige in Bakka, als ein gesegnetes (Haus) und eine Rechtleitung für die Weltenbewohner
+    Khoury: Das erste Haus, das für die Menschen errichtet wurde, ist gewiß dasjenige in Bakka; voller Segen ist es und Rechtleitung für die Weltenbewohner
+
+  [3:97]
+    فِیهِ ءَایَـٰتُۢ بَیِّنَـٰتࣱ مَّقَامُ إِبۡرَ ٰهِیمَۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنࣰاۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلۡبَیۡتِ مَنِ ٱسۡتَطَاعَ إِلَیۡهِ سَبِیلࣰاۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِیٌّ عَنِ ٱلۡعَـٰلَمِینَ
+    B/E:    Darin liegen klare Zeichen. (Es ist) der Standort Ibrahims. Und wer es betritt, ist sicher. Und Allah steht es den Menschen gegenüber zu, daß sie die Pilgerfahrt zum Hause unternehmen - (diejenigen,) die dazu die Möglichkeit haben. Wer aber ungläubig ist, so ist Allah der Weltenbewohner Unbedürftig
+    Khoury: In ihm sind deutliche Zeichen. Es ist die Stätte Abrahams, und wer es betritt, ist in Sicherheit. Und Gott hat den Menschen die Pflicht zur Wallfahrt nach dem Haus auferlegt, allen, die dazu eine Möglichkeit finden. Und wenn einer ungläubig ist, so ist Gott auf die Weltenbewohner nicht angewiesen
+
+  [3:98]
+    قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَكۡفُرُونَ بِءَایَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِیدٌ عَلَىٰ مَا تَعۡمَلُونَ
+    B/E:    Sag: O Leute der Schrift, warum verleugnet ihr Allahs Zeichen, wo doch Allah Zeuge dessen ist, was ihr tut
+    Khoury: Sprich: O ihr Leute des Buches, warum verleugnet ihr die Zeichen Gottes? Gott ist Zeuge über das, was ihr tut
+
+  [3:99]
+    قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَصُدُّونَ عَن سَبِیلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجࣰا وَأَنتُمۡ شُهَدَاۤءُۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعۡمَلُونَ
+    B/E:    Sag: O Leute der Schrift, warum haltet ihr die, die glauben, von Allahs Weg ab, indem ihr danach trachtet, ihn krumm zu machen, wo ihr doch Zeugen seid? Doch Allah ist nicht unachtsam dessen, was ihr tut
+    Khoury: Sprich: O ihr Leute des Buches, warum weist ihr den, der glaubt, vom Weg Gottes ab, indem ihr euch ihn krumm wünscht, wo ihr doch Zeugen seid? Und Gott läßt nicht unbeachtet, was ihr tut
+
+  [3:100]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تُطِیعُوا۟ فَرِیقࣰا مِّنَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ یَرُدُّوكُم بَعۡدَ إِیمَـٰنِكُمۡ كَـٰفِرِینَ
+    B/E:    O die ihr glaubt, wenn ihr einer Gruppe von denen gehorcht, denen die Schrift gegeben wurde, werden sie euch, nachdem ihr den Glauben (angenommen) habt, wieder zu Ungläubigen machen
+    Khoury: O ihr, die ihr glaubt, wenn ihr einer Gruppe derer gehorcht, denen das Buch zugekommen ist, werden sie euch, nachdem ihr gläubig geworden seid, wieder zu Ungläubigen machen
+
+  [3:101]
+    وَكَیۡفَ تَكۡفُرُونَ وَأَنتُمۡ تُتۡلَىٰ عَلَیۡكُمۡ ءَایَـٰتُ ٱللَّهِ وَفِیكُمۡ رَسُولُهُۥۗ وَمَن یَعۡتَصِم بِٱللَّهِ فَقَدۡ هُدِیَ إِلَىٰ صِرَ ٰطࣲ مُّسۡتَقِیمࣲ
+    B/E:    Wie aber könnt ihr (wieder) ungläubig werden, wo euch doch Allahs Zeichen verlesen werden und unter euch Sein Gesandter ist? Doch wer an Allah festhält, der wird gewiß auf einen geraden Weg geleitet
+    Khoury: Wie könnt ihr ungläubig werden, wo euch die Zeichen Gottes verlesen werden und sein Gesandter unter euch ist? Wer an Gott festhält, wird zu einem geraden Weg geleitet
+
+  [3:102]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسۡلِمُونَ
+    B/E:    O die ihr glaubt, fürchtet Allah in gebührender Furcht und sterbt ja nicht anders denn als (Allah) Ergebene
+    Khoury: O ihr, die ihr glaubt, fürchtet Gott, wie Er richtig gefürchtet werden soll, und sterbt nicht anders denn als Gottergebene
+
+  [3:103]
+    وَٱعۡتَصِمُوا۟ بِحَبۡلِ ٱللَّهِ جَمِیعࣰا وَلَا تَفَرَّقُوا۟ۚ وَٱذۡكُرُوا۟ نِعۡمَتَ ٱللَّهِ عَلَیۡكُمۡ إِذۡ كُنتُمۡ أَعۡدَاۤءࣰ فَأَلَّفَ بَیۡنَ قُلُوبِكُمۡ فَأَصۡبَحۡتُم بِنِعۡمَتِهِۦۤ إِخۡوَ ٰنࣰا وَكُنتُمۡ عَلَىٰ شَفَا حُفۡرَةࣲ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنۡهَاۗ كَذَ ٰلِكَ یُبَیِّنُ ٱللَّهُ لَكُمۡ ءَایَـٰتِهِۦ لَعَلَّكُمۡ تَهۡتَدُونَ
+    B/E:    Und haltet alle fest am Seil Allahs und geht nicht auseinander! Und gedenkt Allahs Gunst an euch, als ihr Feinde wart und Er dann eure Herzen zusammenführte, worauf ihr durch Seine Gunst Brüder wurdet. Und (als) ihr am Rand einer Feuergrube wart und Er euch dann davor errettete. So macht Allah euch Seine Zeichen klar, auf daß ihr rechtgeleitet werden möget
+    Khoury: Und haltet allesamt am Seil Gottes fest und spaltet euch nicht. Und gedenket der Gnade Gottes zu euch, als ihr Feinde waret und Er Vertrautheit zwischen euren Herzen stiftete, so daß ihr durch seine Gnade Brüder wurdet; und als ihr euch am Rande einer Feuergrube befandet und Er euch davor rettete. So macht euch Gott seine Zeichen deutlich, auf daß ihr der Rechtleitung folgt
+
+  [3:104]
+    وَلۡتَكُن مِّنكُمۡ أُمَّةࣱ یَدۡعُونَ إِلَى ٱلۡخَیۡرِ وَیَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَیَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِۚ وَأُو۟لَـٰۤئِكَ هُمُ ٱلۡمُفۡلِحُونَ
+    B/E:    Und es soll aus euch eine Gemeinschaft werden, die zum Guten aufruft, das Rechte gebietet und das Verwerfliche verbietet. Jene sind es, denen es wohl ergeht
+    Khoury: Aus euch soll eine Gemeinschaft (von Gläubigen) entstehen, die zum Guten aufrufen, das Rechte gebieten und das Verwerfliche verbieten. Das sind die, denen es wohl ergeht
+
+  [3:105]
+    وَلَا تَكُونُوا۟ كَٱلَّذِینَ تَفَرَّقُوا۟ وَٱخۡتَلَفُوا۟ مِنۢ بَعۡدِ مَا جَاۤءَهُمُ ٱلۡبَیِّنَـٰتُۚ وَأُو۟لَـٰۤئِكَ لَهُمۡ عَذَابٌ عَظِیمࣱ
+    B/E:    Und seid nicht wie jene, die auseinander gingen und uneinig wurden, nachdem die klaren Beweise zu ihnen gekommen waren. Für jene gibt es gewaltige Strafe
+    Khoury: Und seid nicht wie diejenigen, die sich gespalten haben und uneins geworden sind, nachdem die deutlichen Zeichen zu ihnen gekommen waren. Bestimmt ist für sie eine gewaltige Pein
+
+  [3:106]
+    یَوۡمَ تَبۡیَضُّ وُجُوهࣱ وَتَسۡوَدُّ وُجُوهࣱۚ فَأَمَّا ٱلَّذِینَ ٱسۡوَدَّتۡ وُجُوهُهُمۡ أَكَفَرۡتُم بَعۡدَ إِیمَـٰنِكُمۡ فَذُوقُوا۟ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ
+    B/E:    An dem Tag, da (die einen) Gesichter weiß und (die anderen) Gesichter schwarz sein werden. Was nun diejenigen angeht, deren Gesichter schwarz sein werden (, so wird zu ihnen gesagt werden): Seid ihr ungläubig geworden, nachdem ihr den Glauben (angenommen) hattet? So kostet die Strafe dafür, daß ihr wieder ungläubig geworden seid
+    Khoury: Am Tag, da einige Gesichter weiß und andere Gesichter schwarz sein werden. Zu denen, deren Gesichter schwarz sein werden, (wird gesprochen): «Wieso seid ihr ungläubig geworden, nachdem ihr gläubig waret? Kostet nun die Pein dafür, daß ihr ungläubig waret.»
+
+  [3:107]
+    وَأَمَّا ٱلَّذِینَ ٱبۡیَضَّتۡ وُجُوهُهُمۡ فَفِی رَحۡمَةِ ٱللَّهِۖ هُمۡ فِیهَا خَـٰلِدُونَ
+    B/E:    Was aber diejenigen angeht, deren Gesichter weiß sein werden, so werden sie sich in Allahs Erbarmen befinden. Ewig werden sie darin bleiben
+    Khoury: Diejenigen aber, deren Gesichter weiß sein werden, befinden sich in der Barmherzigkeit Gottes; sie werden darin ewig weilen
+
+  [3:108]
+    تِلۡكَ ءَایَـٰتُ ٱللَّهِ نَتۡلُوهَا عَلَیۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ یُرِیدُ ظُلۡمࣰا لِّلۡعَـٰلَمِینَ
+    B/E:    Dies sind die Zeichen Allahs, die Wir der Wahrheit entsprechend verlesen. Und Allah will keine Ungerechtigkeit für die Weltenbewohner
+    Khoury: Das sind die Zeichen Gottes. Wir verlesen sie dir der Wahrheit entsprechend. Und Gott will kein Unrecht für die Weltenbewohner
+
+  [3:109]
+    وَلِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ
+    B/E:    Allah gehört (alles), was in den Himmeln und was auf der Erde ist, und zu Allah werden (all) die Angelegenheiten zurückgebracht
+    Khoury: Gott gehört, was in den Himmeln und was auf der Erde ist. Und zu Ihm werden die Angelegenheiten zurückgebracht
+
+  [3:110]
+    كُنتُمۡ خَیۡرَ أُمَّةٍ أُخۡرِجَتۡ لِلنَّاسِ تَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَتَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَتُؤۡمِنُونَ بِٱللَّهِۗ وَلَوۡ ءَامَنَ أَهۡلُ ٱلۡكِتَـٰبِ لَكَانَ خَیۡرࣰا لَّهُمۚ مِّنۡهُمُ ٱلۡمُؤۡمِنُونَ وَأَكۡثَرُهُمُ ٱلۡفَـٰسِقُونَ
+    B/E:    Ihr seid die beste Gemeinschaft, die für die Menschen hervorgebracht worden ist. Ihr gebietet das Rechte und verbietet das Verwerfliche und glaubt an Allah. Und wenn die Leute der Schrift glauben würden, wäre es wahrlich besser für sie. Unter ihnen gibt es Gläubige, aber die meisten von ihnen sind Frevler
+    Khoury: Ihr seid die beste Gemeinschaft, die je unter den Menschen hervorgebracht worden ist. Ihr gebietet das Rechte und verbietet das Verwerfliche und glaubt an Gott. Würden die Leute des Buches glauben, es wäre besser für sie. Unter ihnen gibt es Gläubige, aber die meisten von ihnen sind Frevler
+
+  [3:111]
+    لَن یَضُرُّوكُمۡ إِلَّاۤ أَذࣰىۖ وَإِن یُقَـٰتِلُوكُمۡ یُوَلُّوكُمُ ٱلۡأَدۡبَارَ ثُمَّ لَا یُنصَرُونَ
+    B/E:    Sie werden euch keinen Schaden zufügen, außer Beleidigungen. Und wenn sie gegen euch kämpfen, werden sie euch den Rücken kehren, und hierauf wird ihnen keine Hilfe zuteil werden
+    Khoury: Sie werden euch keinen Schaden, nur geringes Leid zufügen. Und wenn sie gegen euch kämpfen, werden sie euch den Rücken kehren. Und dann werden sie keine Unterstützung erfahren
+
+  [3:112]
+    ضُرِبَتۡ عَلَیۡهِمُ ٱلذِّلَّةُ أَیۡنَ مَا ثُقِفُوۤا۟ إِلَّا بِحَبۡلࣲ مِّنَ ٱللَّهِ وَحَبۡلࣲ مِّنَ ٱلنَّاسِ وَبَاۤءُو بِغَضَبࣲ مِّنَ ٱللَّهِ وَضُرِبَتۡ عَلَیۡهِمُ ٱلۡمَسۡكَنَةُۚ ذَ ٰلِكَ بِأَنَّهُمۡ كَانُوا۟ یَكۡفُرُونَ بِءَایَـٰتِ ٱللَّهِ وَیَقۡتُلُونَ ٱلۡأَنۢبِیَاۤءَ بِغَیۡرِ حَقࣲّۚ ذَ ٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ یَعۡتَدُونَ
+    B/E:    Auferlegt ist ihnen Erniedrigung, wo immer sie angetroffen werden-, außer mit einem Seil von Allah und einem Seil von den Menschen -, und sie haben sich Zorn von Allah zugezogen, und Elend ist ihnen auferlegt. Dies, weil sie stets Allahs Zeichen verleugneten und die Propheten zu Unrecht töteten, weil sie sich widersetzten und stets übertraten
+    Khoury: Erniedrigung überdeckt sie, wo immer sie angetroffen werden, es sei denn, sie stehen unter dem Schutz einer Verbindung mit Gott und einer Verbindung mit Menschen. Und sie ziehen sich den Zorn Gottes zu. Und Elend überdeckt sie. Dies dafür, daß sie immer wieder die Zeichen Gottes verleugneten und die Propheten zu Unrecht töteten; dies dafür, daß sie ungehorsam waren und immer wieder Übertretungen begingen
+
+  [3:113]
+    ۞ لَیۡسُوا۟ سَوَاۤءࣰۗ مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ أُمَّةࣱ قَاۤئِمَةࣱ یَتۡلُونَ ءَایَـٰتِ ٱللَّهِ ءَانَاۤءَ ٱلَّیۡلِ وَهُمۡ یَسۡجُدُونَ
+    B/E:    Sie sind nicht (alle) gleich. Unter den Leuten der Schrift ist eine standhafte Gemeinschaft, die Allahs Zeichen zu Stunden der Nacht verliest und sich (im Gebet) niederwirft
+    Khoury: Sie sind nicht (alle) gleich. Unter den Leuten des Buches gibt es eine aufrechte Gemeinschaft. Sie verlesen die Zeichen Gottes zu (verschiedenen) Nachtzeiten, während sie sich niederwerfen
+
+  [3:114]
+    یُؤۡمِنُونَ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡءَاخِرِ وَیَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَیَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَیُسَـٰرِعُونَ فِی ٱلۡخَیۡرَ ٰتِۖ وَأُو۟لَـٰۤئِكَ مِنَ ٱلصَّـٰلِحِینَ
+    B/E:    Sie glauben an Allah und den Jüngsten Tag und gebieten das Rechte und verbieten das Verwerfliche und beeilen sich mit den guten Dingen. Jene gehören zu den Rechtschaffenen
+    Khoury: Sie glauben an Gott und an den Jüngsten Tag. Sie gebieten das Rechte und verbieten das Verwerfliche und eilen zu den guten Dingen um die Wette. Sie gehören zu den Rechtschaffenen
+
+  [3:115]
+    وَمَا یَفۡعَلُوا۟ مِنۡ خَیۡرࣲ فَلَن یُكۡفَرُوهُۗ وَٱللَّهُ عَلِیمُۢ بِٱلۡمُتَّقِینَ
+    B/E:    Und was sie an Gutem tun, das wird ihnen nicht ungedankt bleiben. Und Allah weiß über die Gottesfürchtigen Bescheid
+    Khoury: Was immer sie an Gutem tun, sie werden dafür nicht Undank ernten. Gott weiß über die Gottesfürchtigen Bescheid
+
+  [3:116]
+    إِنَّ ٱلَّذِینَ كَفَرُوا۟ لَن تُغۡنِیَ عَنۡهُمۡ أَمۡوَ ٰلُهُمۡ وَلَاۤ أَوۡلَـٰدُهُم مِّنَ ٱللَّهِ شَیۡءࣰاۖ وَأُو۟لَـٰۤئِكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ فِیهَا خَـٰلِدُونَ
+    B/E:    Gewiß, denjenigen, die ungläubig sind, werden weder ihr Besitz noch ihre Kinder vor Allah etwas nützen. Das sind Insassen des (Höllen)feuers. Ewig werden sie darin bleiben
+    Khoury: Denen, die ungläubig sind, werden weder ihr Vermögen noch ihre Kinder vor Gott etwas nützen. Das sind die Gefährten des Feuers; sie werden darin ewig weilen
+
+  [3:117]
+    مَثَلُ مَا یُنفِقُونَ فِی هَـٰذِهِ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا كَمَثَلِ رِیحࣲ فِیهَا صِرٌّ أَصَابَتۡ حَرۡثَ قَوۡمࣲ ظَلَمُوۤا۟ أَنفُسَهُمۡ فَأَهۡلَكَتۡهُۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنۡ أَنفُسَهُمۡ یَظۡلِمُونَ
+    B/E:    Das Gleichnis dessen, was sie in diesem irdischen Leben ausgeben, ist das eines eisigen Windes, der die Saatfelder von Leuten trifft, die sich selbst Unrecht zugefügt haben; und so vernichtet er sie. Allah hat ihnen kein Unrecht zugefügt, sondern sie selbst fügen sich Unrecht zu
+    Khoury: Mit dem, was sie in diesem irdischen Leben ausgeben, ist es wie mit einem eisigen Wind, der das Saatfeld von Leuten traf, die sich selbst Unrecht getan hatten, und es vernichtete. Und nicht Gott hat ihnen Unrecht getan, sondern sie tun sich selbst Unrecht
+
+  [3:118]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةࣰ مِّن دُونِكُمۡ لَا یَأۡلُونَكُمۡ خَبَالࣰا وَدُّوا۟ مَا عَنِتُّمۡ قَدۡ بَدَتِ ٱلۡبَغۡضَاۤءُ مِنۡ أَفۡوَ ٰهِهِمۡ وَمَا تُخۡفِی صُدُورُهُمۡ أَكۡبَرُۚ قَدۡ بَیَّنَّا لَكُمُ ٱلۡءَایَـٰتِۖ إِن كُنتُمۡ تَعۡقِلُونَ
+    B/E:    O die ihr glaubt, nehmt keine Vertrauten außer von euch. Sie scheuen keine Mühe, euch zu verwirren, und möchten gern, daß ihr in Bedrängnis geratet. Schon wurde aus ihren Mündern Haß offenkundig, aber was ihre Brüste verborgen halten, ist (noch) schwerwiegender. Wir haben euch die Zeichen bereits klargemacht, wenn ihr begreifen wollt
+    Khoury: O ihr, die ihr glaubt, nehmt euch keine Vertrauten unter denen, die nicht zu euch gehören. Sie werden euch kein Unheil ersparen. Sie möchten gern, ihr würdet in Bedrängnis geraten. Der Haß hat sich aus ihrem Munde kundgetan, und das, was ihre Brust verbirgt, ist schlimmer. Wir haben euch die Zeichen deutlich gemacht, so ihr verständig seid
+
+  [3:119]
+    هَـٰۤأَنتُمۡ أُو۟لَاۤءِ تُحِبُّونَهُمۡ وَلَا یُحِبُّونَكُمۡ وَتُؤۡمِنُونَ بِٱلۡكِتَـٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمۡ قَالُوۤا۟ ءَامَنَّا وَإِذَا خَلَوۡا۟ عَضُّوا۟ عَلَیۡكُمُ ٱلۡأَنَامِلَ مِنَ ٱلۡغَیۡظِۚ قُلۡ مُوتُوا۟ بِغَیۡظِكُمۡۗ إِنَّ ٱللَّهَ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ
+    B/E:    Da habt ihr sie doch geliebt, während sie euch nicht lieben, und ihr glaubt an das gesamte Buch. Wenn sie euch treffen, sagen sie: „Wir glauben. Wenn sie jedoch allein sind, beißen sie sich in die Fingerspitzen vor Grimm gegen euch. Sag: Sterbt an eurem Grimm! Gewiß, Allah weiß über das Innerste der Brüste Bescheid
+    Khoury: Seht, ihr liebt sie, sie aber lieben euch nicht. Ihr glaubt an das gesamte Buch. Wenn sie euch treffen, sagen sie: «Wir glauben.» Wenn sie allein sind, beißen sie sich gegen euch die Fingerspitzen vor Groll. Sprich: Sterbt an eurem Groll. Gott weiß über das innere Geheimnis Bescheid
+
+  [3:120]
+    إِن تَمۡسَسۡكُمۡ حَسَنَةࣱ تَسُؤۡهُمۡ وَإِن تُصِبۡكُمۡ سَیِّئَةࣱ یَفۡرَحُوا۟ بِهَاۖ وَإِن تَصۡبِرُوا۟ وَتَتَّقُوا۟ لَا یَضُرُّكُمۡ كَیۡدُهُمۡ شَیۡءًاۗ إِنَّ ٱللَّهَ بِمَا یَعۡمَلُونَ مُحِیطࣱ
+    B/E:    Wenn euch etwas Gutes widerfährt, tut es ihnen leid. Wenn euch jedoch etwas Böses trifft, sind sie froh darüber. Wenn ihr aber geduldig seid und gottesfürchtig, wird euch ihre Arglist keinen Schaden zufügen. Allah umfaßt, was sie tun
+    Khoury: Wenn euch Gutes widerfährt, tut es ihnen leid, und wenn euch Schlimmes trifft, freuen sie sich darüber. Wenn ihr euch geduldig und gottesfürchtig zeigt, wird ihre List euch nichts schaden. Gott umgreift, was sie tun
+
+  [3:121]
+    وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِینَ مَقَـٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِیعٌ عَلِیمٌ
+    B/E:    Und als du von deinen Angehörigen frühmorgens weggingst, um den Gläubigen Stellungen für den Kampf zuzuweisen. Und Allah ist Allhörend und Allwissend
+    Khoury: Und als du von deinen Angehörigen in der Frühe weggingst, um die Gläubigen in Stellungen zum Kampf einzuweisen. Und Gott hört und weiß alles
+
+  [3:122]
+    إِذۡ هَمَّت طَّاۤئِفَتَانِ مِنكُمۡ أَن تَفۡشَلَا وَٱللَّهُ وَلِیُّهُمَاۗ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
+    B/E:    Als zwei Teil(gruppen) von euch vorhatten, aufzugeben, wo doch Allah ihr Schutzherr ist. Und auf Allah sollen sich die Gläubigen verlassen
+    Khoury: Als zwei Gruppen von euch im Begriff waren, den Mut zu verlieren, wo doch Gott ihr Sachwalter war. Auf Gott sollen die Gläubigen vertrauen
+
+  [3:123]
+    وَلَقَدۡ نَصَرَكُمُ ٱللَّهُ بِبَدۡرࣲ وَأَنتُمۡ أَذِلَّةࣱۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمۡ تَشۡكُرُونَ
+    B/E:    Allah hat euch doch schon in Badr geholfen, als ihr verächtlich erschient. Darum fürchtet Allah, auf daß ihr dankbar sein möget
+    Khoury: Gott hat euch doch in Badr unterstützt, als ihr unterlegen waret. So fürchtet Gott, auf daß ihr dankbar werdet
+
+  [3:124]
+    إِذۡ تَقُولُ لِلۡمُؤۡمِنِینَ أَلَن یَكۡفِیَكُمۡ أَن یُمِدَّكُمۡ رَبُّكُم بِثَلَـٰثَةِ ءَالَـٰفࣲ مِّنَ ٱلۡمَلَـٰۤئِكَةِ مُنزَلِینَ
+    B/E:    Als du zu den Gläubigen sagtest:„Genügt es euch denn nicht, daß euch euer Herr mit dreitausend herabgesandten Engeln unterstützt
+    Khoury: Als du zu den Gläubigen sagtest: «Genügt es euch denn nicht, daß euer Herr euch mit dreitausend herabgesandten Engeln beisteht
+
+  [3:125]
+    بَلَىٰۤۚ إِن تَصۡبِرُوا۟ وَتَتَّقُوا۟ وَیَأۡتُوكُم مِّن فَوۡرِهِمۡ هَـٰذَا یُمۡدِدۡكُمۡ رَبُّكُم بِخَمۡسَةِ ءَالَـٰفࣲ مِّنَ ٱلۡمَلَـٰۤئِكَةِ مُسَوِّمِینَ
+    B/E:    Ja doch! Wenn ihr standhaft seid und gottesfürchtig und sie unverzüglich über euch kommen, unterstützt euch euer Herr mit fünftausend gekennzeichneten Engeln
+    Khoury: Ja, wenn ihr standhaft und gottesfürchtig seid und sie sogleich gegen euch vorrücken, steht euch euer Herr bei mit fünftausend stürmenden Engeln.»
+
+  [3:126]
+    وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ لَكُمۡ وَلِتَطۡمَئِنَّ قُلُوبُكُم بِهِۦۗ وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِ ٱلۡعَزِیزِ ٱلۡحَكِیمِ
+    B/E:    Allah machte es nur zu einer frohen Botschaft für euch, und damit eure Herzen dadurch Ruhe finden -, denn der Sieg kommt nur von Allah, dem Allmächtigen, dem Allweisen
+    Khoury: Und Gott hat es nur deswegen gemacht, damit es für euch eine Frohbotschaft sei und damit eure Herzen dadurch Ruhe finden - der Sieg kommt nur von Gott, dem Mächtigen, dem Weisen
+
+  [3:127]
+    لِیَقۡطَعَ طَرَفࣰا مِّنَ ٱلَّذِینَ كَفَرُوۤا۟ أَوۡ یَكۡبِتَهُمۡ فَیَنقَلِبُوا۟ خَاۤئِبِینَ
+    B/E:    damit Er einen Teil derjenigen, die ungläubig waren, abtrennte oder sie niederwarf, so daß sie enttäuscht umkehrten
+    Khoury: Dies, damit Er einen Teil derer, die ungläubig sind, ausmerze oder sie niederwerfe, so daß sie enttäuscht zurückkehren
+
+  [3:128]
+    لَیۡسَ لَكَ مِنَ ٱلۡأَمۡرِ شَیۡءٌ أَوۡ یَتُوبَ عَلَیۡهِمۡ أَوۡ یُعَذِّبَهُمۡ فَإِنَّهُمۡ ظَـٰلِمُونَ
+    B/E:    Es ist gar nicht deine Angelegenheit, ob Er ihre Reue annimmt oder sie straft, denn sie sind ja Ungerechte
+    Khoury: dir steht in dieser Angelegenheit keine Entscheidung zu -, oder damit Er sich ihnen wieder zuwende oder sie peinige, denn sie sind Leute, die Unrecht tun
+
+  [3:129]
+    وَلِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰتِ وَمَا فِی ٱلۡأَرۡضِۚ یَغۡفِرُ لِمَن یَشَاۤءُ وَیُعَذِّبُ مَن یَشَاۤءُۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ
+    B/E:    Und Allah gehört (alles), was in den Himmeln und was auf der Erde ist. Er vergibt, wem Er will, und Er straft, wen Er will. Und Allah ist Allvergebend und Barmherzig
+    Khoury: Gott gehört, was in den Himmeln und was auf der Erde ist. Er vergibt, wem Er will, und Er peinigt, wen Er will. Und Gott ist voller Vergebung und barmherzig
+
+  [3:130]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَأۡكُلُوا۟ ٱلرِّبَوٰۤا۟ أَضۡعَـٰفࣰا مُّضَـٰعَفَةࣰۖ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ
+    B/E:    O die ihr glaubt, verschlingt nicht den Zins um ein Vielfaches vermehrt, sondern fürchtet Allah, auf daß es euch wohl ergehen möge
+    Khoury: O ihr, die ihr glaubt, verzehrt nicht den Zins in mehrfach verdoppelten Beträgen und fürchtet Gott, auf daß es euch wohl ergehe
+
+  [3:131]
+    وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِیۤ أُعِدَّتۡ لِلۡكَـٰفِرِینَ
+    B/E:    Und hütet euch vor dem (Höllen)feuer, das für die Ungläubigen bereitet ist
+    Khoury: Und hütet euch vor dem Feuer, das für die Ungläubigen bereitet ist
+
+  [3:132]
+    وَأَطِیعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ
+    B/E:    Und gehorcht Allah und dem Gesandten, auf daß ihr Erbarmen finden möget
+    Khoury: Und gehorchet Gott und dem Gesandten, auf daß ihr Erbarmen findet
+
+  [3:133]
+    ۞ وَسَارِعُوۤا۟ إِلَىٰ مَغۡفِرَةࣲ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا ٱلسَّمَـٰوَ ٰتُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِینَ
+    B/E:    Und beeilt euch um Vergebung von eurem Herrn und (um) einen (Paradies)garten, dessen Breite (wie) die Himmel und die Erde ist. Er ist für die Gottesfürchtigen bereitet
+    Khoury: Wetteifert nach einer Vergebung von eurem Herrn und zu einem Garten, der so breit ist wie die Himmel und die Erde, der für die Gottesfürchtigen bereitet ist
+
+  [3:134]
+    ٱلَّذِینَ یُنفِقُونَ فِی ٱلسَّرَّاۤءِ وَٱلضَّرَّاۤءِ وَٱلۡكَـٰظِمِینَ ٱلۡغَیۡظَ وَٱلۡعَافِینَ عَنِ ٱلنَّاسِۗ وَٱللَّهُ یُحِبُّ ٱلۡمُحۡسِنِینَ
+    B/E:    die in Freude und Leid ausgeben und ihren Grimm zurückhalten und den Menschen verzeihen. Und Allah liebt die Gutes Tuenden
+    Khoury: Die in guten und schlechten Tagen spenden, ihren Groll unterdrücken und den Menschen verzeihen - Gott liebt die Rechtschaffenen
+
+  [3:135]
+    وَٱلَّذِینَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوۡ ظَلَمُوۤا۟ أَنفُسَهُمۡ ذَكَرُوا۟ ٱللَّهَ فَٱسۡتَغۡفَرُوا۟ لِذُنُوبِهِمۡ وَمَن یَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ یُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمۡ یَعۡلَمُونَ
+    B/E:    und diejenigen, die, wenn sie eine Abscheulichkeit begangen oder sich selbst Unrecht zugefügt haben, Allahs gedenken und dann für ihre Sünden um Vergebung bitten - und wer sollte die Sünden vergeben außer Allah? - und (die) nicht auf dem beharren, was sie getan haben, wo sie doch wissen
+    Khoury: Und die, wenn sie etwas Schändliches begangen oder sich selbst Unrecht getan haben, Gottes gedenken und um Vergebung für ihre Sünden bitten - und wer vergibt die Sünden außer Gott? - und auf dem, was sie getan haben, nicht beharren, wo sie es doch wissen
+
+  [3:136]
+    أُو۟لَـٰۤئِكَ جَزَاۤؤُهُم مَّغۡفِرَةࣱ مِّن رَّبِّهِمۡ وَجَنَّـٰتࣱ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۚ وَنِعۡمَ أَجۡرُ ٱلۡعَـٰمِلِینَ
+    B/E:    Der Lohn jener ist Vergebung von ihrem Herrn und Gärten, durcheilt von Bächen, ewig darin zu bleiben. Und wie trefflich ist der Lohn derjenigen, die (gut) handeln
+    Khoury: Deren Lohn ist Vergebung von ihrem Herrn und Gärten, unter denen Bäche fließen; darin werden sie ewig weilen. Vorzüglich ist doch der Lohn derer, die (gut) handeln
+
+  [3:137]
+    قَدۡ خَلَتۡ مِن قَبۡلِكُمۡ سُنَنࣱ فَسِیرُوا۟ فِی ٱلۡأَرۡضِ فَٱنظُرُوا۟ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُكَذِّبِینَ
+    B/E:    Schon vor euch sind Gesetzmäßigkeiten ergangen. So reist doch auf der Erde umher und schaut, wie das Ende der Leugner war
+    Khoury: Schon vor euch wurde (mit den Menschen) beispielhaft verfahren. Geht auf der Erde umher und schaut, wie das Ende derer war, die (die Botschaft) für Lüge erklärt haben
+
+  [3:138]
+    هَـٰذَا بَیَانࣱ لِّلنَّاسِ وَهُدࣰى وَمَوۡعِظَةࣱ لِّلۡمُتَّقِینَ
+    B/E:    Dies ist eine klare Darlegung für die Menschen und eine Rechtleitung und Ermahnung für die Gottesfürchtigen
+    Khoury: Dies ist eine Darlegung für die Menschen und eine Rechtleitung und eine Ermahnung für die Gottesfürchtigen
+
+  [3:139]
+    وَلَا تَهِنُوا۟ وَلَا تَحۡزَنُوا۟ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم مُّؤۡمِنِینَ
+    B/E:    Und werdet nicht schwach noch seid traurig, wo ihr doch die Oberhand haben werdet, wenn ihr gläubig seid
+    Khoury: Und erlahmt nicht und werdet nicht traurig, wo ihr doch die Oberhand haben werdet, so ihr gläubig seid
+
+  [3:140]
+    إِن یَمۡسَسۡكُمۡ قَرۡحࣱ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحࣱ مِّثۡلُهُۥۚ وَتِلۡكَ ٱلۡأَیَّامُ نُدَاوِلُهَا بَیۡنَ ٱلنَّاسِ وَلِیَعۡلَمَ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ وَیَتَّخِذَ مِنكُمۡ شُهَدَاۤءَۗ وَٱللَّهُ لَا یُحِبُّ ٱلظَّـٰلِمِینَ
+    B/E:    Wenn euch eine Wunde zugefügt worden ist, so ist dem (ungläubigen) Volk schon eine gleiche Wunde zugefügt worden. Und diese Tage (des Kriegsglücks) lassen Wir unter den Menschen wechseln, - damit Allah diejenigen, die glauben, kennt und (damit) Er Sich von euch (Blut)zeugen nimmt. Und Allah liebt nicht die Ungerechten
+    Khoury: Wenn ihr Wunden erlitten habt, so haben die (feindlichen) Leute ähnliche Wunden erlitten. Solche Tage teilen Wir den Menschen abwechselnd zu. (Dies geschieht) auch, damit Gott diejenigen in Erfahrung bringe, die glauben, und sich aus euren Reihen Zeugen nehme - und Gott liebt die nicht, die Unrecht tun
+
+  [3:141]
+    وَلِیُمَحِّصَ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ وَیَمۡحَقَ ٱلۡكَـٰفِرِینَ
+    B/E:    Und damit Allah diejenigen, die glauben, herausstellt und die Ungläubigen dahinschwinden läßt
+    Khoury: Und damit Gott diejenigen, die glauben, läutere und die Ungläubigen vernichte
+
+  [3:142]
+    أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُوا۟ ٱلۡجَنَّةَ وَلَمَّا یَعۡلَمِ ٱللَّهُ ٱلَّذِینَ جَـٰهَدُوا۟ مِنكُمۡ وَیَعۡلَمَ ٱلصَّـٰبِرِینَ
+    B/E:    Oder meint ihr etwa, daß ihr in den (Paradies)garten eingehen werdet, noch ehe Allah diejenigen von euch kennt, die unter euch sich (für Seine Sache) abmühen, und die Standhaften kennt
+    Khoury: oder meint ihr, daß ihr ins Paradies eingehen werdet, noch ehe Gott in Erfahrung gebracht hat, wer von ihnen sich eingesetzt hat? - und damit Er in Erfahrung bringe, wer die Standhaften sind
+
+  [3:143]
+    وَلَقَدۡ كُنتُمۡ تَمَنَّوۡنَ ٱلۡمَوۡتَ مِن قَبۡلِ أَن تَلۡقَوۡهُ فَقَدۡ رَأَیۡتُمُوهُ وَأَنتُمۡ تَنظُرُونَ
+    B/E:    Und ihr habt euch ja wiederholt den Tod gewünscht, bevor ihr ihm begegnet seid. Nun habt ihr ihn mit eigenen Augen geschaut
+    Khoury: Und ihr pflegtet euch den Tod zu wünschen, bevor ihr ihm begegnet seid. Nun habt ihr ihn gesehen, indem ihr zuschautet
+
+  [3:144]
+    وَمَا مُحَمَّدٌ إِلَّا رَسُولࣱ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِی۟ن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰۤ أَعۡقَـٰبِكُمۡۚ وَمَن یَنقَلِبۡ عَلَىٰ عَقِبَیۡهِ فَلَن یَضُرَّ ٱللَّهَ شَیۡءࣰاۗ وَسَیَجۡزِی ٱللَّهُ ٱلشَّـٰكِرِینَ
+    B/E:    Und Muhammad ist doch nur ein Gesandter, vor dem schon Gesandte vorübergegangen sind. Wenn er nun stirbt oder getötet wird, werdet ihr euch (dann) auf den Fersen umkehren? Und wer sich auf den Fersen umkehrt, wird Allah keinerlei Schaden zufügen. Aber Allah wird (es) den Dankbaren vergelten
+    Khoury: Muhammad ist nur ein Gesandter. Vor ihm sind etliche Gesandte dahingegangen. Werdet ihr denn, wenn er stirbt oder getötet wird, auf euren Fersen kehrtmachen? Wer auf seinen Fersen kehrtmacht, wird Gott nichts schaden können. Und Gott wird (es) den Dankbaren vergelten
+
+  [3:145]
+    وَمَا كَانَ لِنَفۡسٍ أَن تَمُوتَ إِلَّا بِإِذۡنِ ٱللَّهِ كِتَـٰبࣰا مُّؤَجَّلࣰاۗ وَمَن یُرِدۡ ثَوَابَ ٱلدُّنۡیَا نُؤۡتِهِۦ مِنۡهَا وَمَن یُرِدۡ ثَوَابَ ٱلۡءَاخِرَةِ نُؤۡتِهِۦ مِنۡهَاۚ وَسَنَجۡزِی ٱلشَّـٰكِرِینَ
+    B/E:    Keiner Seele ist es möglich zu sterben, außer mit Allahs Erlaubnis (und) nach einer befristeten Vorbestimmung. Wer die Belohnung des Diesseits will, dem geben Wir (etwas) von ihm; und wer die Belohnung des Jenseits will, dem geben Wir (etwas) von ihm. Und Wir werden (es) den Dankbaren vergelten
+    Khoury: Und niemand kann sterben außer mit der Erlaubnis Gottes gemäß einer Schrift mit festgelegter Frist. Und wer die Belohnung des Diesseits will, dem geben Wir etwas von ihm. Und wer die Belohnung des Jenseits will, dem geben Wir etwas von ihm. Und Wir werden (es) den Dankbaren vergelten
+
+  [3:146]
+    وَكَأَیِّن مِّن نَّبِیࣲّ قَـٰتَلَ مَعَهُۥ رِبِّیُّونَ كَثِیرࣱ فَمَا وَهَنُوا۟ لِمَاۤ أَصَابَهُمۡ فِی سَبِیلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسۡتَكَانُوا۟ۗ وَٱللَّهُ یُحِبُّ ٱلصَّـٰبِرِینَ
+    B/E:    Und mit wie vielen Propheten zusammen kämpften zahlreiche Bekenner des Herrn! Doch sie gaben nicht auf ob dessen, was sie auf Allahs Weg traf, noch wurden sie schwach, noch unterwarfen sie sich. Und Allah liebt die Standhaften
+    Khoury: Und so manchen Propheten gab es, mit dem viele Scharen gekämpft haben. Sie erlahmten nicht wegen dessen, was sie auf dem Weg Gottes traf, und sie wurden nicht schwach, und sie gaben nicht nach. Und Gott liebt die Standhaften
+
+  [3:147]
+    وَمَا كَانَ قَوۡلَهُمۡ إِلَّاۤ أَن قَالُوا۟ رَبَّنَا ٱغۡفِرۡ لَنَا ذُنُوبَنَا وَإِسۡرَافَنَا فِیۤ أَمۡرِنَا وَثَبِّتۡ أَقۡدَامَنَا وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَـٰفِرِینَ
+    B/E:    Ihre Worte waren nichts anderes, als daß sie sagten: „Unser Herr, vergib uns unsere Sünden und die Maßlosigkeit in unserer Angelegenheit, festige unsere Füße und hilf uns gegen das ungläubige Volk
+    Khoury: Und nichts anderes war ihre Rede, als daß sie sagten: «Unser Herr, vergib uns unsere Schuld und unsere Maßlosigkeit in unserem Anliegen. Festige unsere Schritte und unterstütze uns gegen die ungläubigen Leute.»
+
+  [3:148]
+    فَءَاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنۡیَا وَحُسۡنَ ثَوَابِ ٱلۡءَاخِرَةِۗ وَٱللَّهُ یُحِبُّ ٱلۡمُحۡسِنِینَ
+    B/E:    Da gab Allah ihnen die Belohnung des Diesseits und die schöne Belohnung des Jenseits. Und Allah liebt die Gutes Tuenden
+    Khoury: So gab ihnen Gott den Lohn des Diesseits und den schönen Lohn des Jenseits. Und Gott liebt die Rechtschaffenen
+
+  [3:149]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تُطِیعُوا۟ ٱلَّذِینَ كَفَرُوا۟ یَرُدُّوكُمۡ عَلَىٰۤ أَعۡقَـٰبِكُمۡ فَتَنقَلِبُوا۟ خَـٰسِرِینَ
+    B/E:    O die ihr glaubt, wenn ihr denen, die ungläubig sind, gehorcht, lassen sie euch auf den Fersen kehrtmachen, und dann werdet ihr als Verlierer zurückkehren
+    Khoury: O ihr, die ihr glaubt, wenn ihr denen gehorcht, die nicht glauben, lassen sie euch auf den Fersen kehrtmachen und als Verlierer zurückkehren
+
+  [3:150]
+    بَلِ ٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ خَیۡرُ ٱلنَّـٰصِرِینَ
+    B/E:    Nein! Vielmehr ist Allah euer Schutzherr; und Er ist der beste Helfer
+    Khoury: Nein, Gott ist euer Schutzherr, und Er ist der beste Helfer
+
+  [3:151]
+    سَنُلۡقِی فِی قُلُوبِ ٱلَّذِینَ كَفَرُوا۟ ٱلرُّعۡبَ بِمَاۤ أَشۡرَكُوا۟ بِٱللَّهِ مَا لَمۡ یُنَزِّلۡ بِهِۦ سُلۡطَـٰنࣰاۖ وَمَأۡوَىٰهُمُ ٱلنَّارُۖ وَبِئۡسَ مَثۡوَى ٱلظَّـٰلِمِینَ
+    B/E:    Wir werden in die Herzen derjenigen, die ungläubig sind, Schrecken einjagen dafür, daß sie Allah (andere Götter) beigesellt haben, wozu Er keine Ermächtigung offenbart hat. Ihr Zufluchtsort wird das (Höllen)feuer sein - ein schlimmer Aufenthaltsort für die Ungerechten
+    Khoury: Wir werden den Herzen derer, die ungläubig sind, Schrecken einjagen dafür, daß sie Gott solche beigesellen, für die Er keine Ermächtigung herabgesandt hat. Ihre Heimstätte ist das Feuer. Schlimm ist die Bleibe derer, die Unrecht tun
+
+  [3:152]
+    وَلَقَدۡ صَدَقَكُمُ ٱللَّهُ وَعۡدَهُۥۤ إِذۡ تَحُسُّونَهُم بِإِذۡنِهِۦۖ حَتَّىٰۤ إِذَا فَشِلۡتُمۡ وَتَنَـٰزَعۡتُمۡ فِی ٱلۡأَمۡرِ وَعَصَیۡتُم مِّنۢ بَعۡدِ مَاۤ أَرَىٰكُم مَّا تُحِبُّونَۚ مِنكُم مَّن یُرِیدُ ٱلدُّنۡیَا وَمِنكُم مَّن یُرِیدُ ٱلۡءَاخِرَةَۚ ثُمَّ صَرَفَكُمۡ عَنۡهُمۡ لِیَبۡتَلِیَكُمۡۖ وَلَقَدۡ عَفَا عَنكُمۡۗ وَٱللَّهُ ذُو فَضۡلٍ عَلَى ٱلۡمُؤۡمِنِینَ
+    B/E:    Allah hat ja Sein Versprechen euch gegenüber gehalten, als ihr sie mit Seiner Erlaubnis vernichtetet, bis daß ihr den Mut verlort und über die Angelegenheit miteinander strittet und euch widersetztet, nachdem Er euch gezeigt hatte, was euch lieb ist. - Unter euch gibt es manche, die das Diesseits wollen; unter euch gibt es aber auch manche, die das Jenseits wollen. - Hierauf wandte Er euch von ihnen ab, um euch zu prüfen. Nun hat Er euch wahrlich schon verziehen, denn Allah ist voll Huld gegen die Gläubigen
+    Khoury: Und Gott hat euch sein Versprechen wahr gemacht, als ihr sie mit seiner Erlaubnis vernichtend schlüget, bis ihr verzagtet, miteinander über die Angelegenheit strittet und ungehorsam wäret, nachdem Er euch hatte sehen lassen, was ihr liebt - unter euch gibt es welche, die das Diesseits wollen, und unter euch gibt es welche, die das Jenseits wollen; dann wies Er euch von ihnen ab, um euch zu prüfen. Und Er hat euch nunmehr verziehen. Gott ist voller Huld gegen die Gläubigen
+
+  [3:153]
+    ۞ إِذۡ تُصۡعِدُونَ وَلَا تَلۡوُۥنَ عَلَىٰۤ أَحَدࣲ وَٱلرَّسُولُ یَدۡعُوكُمۡ فِیۤ أُخۡرَىٰكُمۡ فَأَثَـٰبَكُمۡ غَمَّۢا بِغَمࣲّ لِّكَیۡلَا تَحۡزَنُوا۟ عَلَىٰ مَا فَاتَكُمۡ وَلَا مَاۤ أَصَـٰبَكُمۡۗ وَٱللَّهُ خَبِیرُۢ بِمَا تَعۡمَلُونَ
+    B/E:    Als ihr fortlieft und euch nach niemandem umdrehtet, während der Gesandte euch von hinten her rief. Da belohnte Er euch mit Kummer für (den) Kummer (des Propheten), damit ihr weder traurig wäret über das, was euch entgangen war, noch über das, was euch getroffen hatte. Und Allah ist Kundig dessen, was ihr tut
+    Khoury: Als ihr wegliefet, ohne euch nach jemandem umzuwenden, während der Gesandte euch weit hinten zurief. Da belohnte Er euch mit Kummer für (den dem Propheten gemachten) Kummer, damit ihr nicht traurig seid über das, was euch entgangen war, und auch nicht über das, was euch getroffen hatte. Und Gott hat Kenntnis von dem, was ihr tut
+
+  [3:154]
+    ثُمَّ أَنزَلَ عَلَیۡكُم مِّنۢ بَعۡدِ ٱلۡغَمِّ أَمَنَةࣰ نُّعَاسࣰا یَغۡشَىٰ طَاۤئِفَةࣰ مِّنكُمۡۖ وَطَاۤئِفَةࣱ قَدۡ أَهَمَّتۡهُمۡ أَنفُسُهُمۡ یَظُنُّونَ بِٱللَّهِ غَیۡرَ ٱلۡحَقِّ ظَنَّ ٱلۡجَـٰهِلِیَّةِۖ یَقُولُونَ هَل لَّنَا مِنَ ٱلۡأَمۡرِ مِن شَیۡءࣲۗ قُلۡ إِنَّ ٱلۡأَمۡرَ كُلَّهُۥ لِلَّهِۗ یُخۡفُونَ فِیۤ أَنفُسِهِم مَّا لَا یُبۡدُونَ لَكَۖ یَقُولُونَ لَوۡ كَانَ لَنَا مِنَ ٱلۡأَمۡرِ شَیۡءࣱ مَّا قُتِلۡنَا هَـٰهُنَاۗ قُل لَّوۡ كُنتُمۡ فِی بُیُوتِكُمۡ لَبَرَزَ ٱلَّذِینَ كُتِبَ عَلَیۡهِمُ ٱلۡقَتۡلُ إِلَىٰ مَضَاجِعِهِمۡۖ وَلِیَبۡتَلِیَ ٱللَّهُ مَا فِی صُدُورِكُمۡ وَلِیُمَحِّصَ مَا فِی قُلُوبِكُمۡۚ وَٱللَّهُ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ
+    B/E:    Dann sandte Er nach dem Kummer Sicherheit auf euch herab, Schläfrigkeit, die einen Teil von euch überkam, während ein (anderer) Teil um sich selbst besorgt war, indem sie von Allah in Gedanken der Unwissenheit dachte, was dem Wahren nicht entspricht. Sie sagten: „Haben wir denn irgend etwas in der Angelegenheit (zu entscheiden gehabt)? Sag: Die Angelegenheit ist ganz und gar (in) Allahs (Entscheidung). Sie halten in ihrem Innersten verborgen, was sie dir nicht offenlegen; sie sagen: „Wenn wir etwas von der Angelegenheit (zu entscheiden) hätten, würden wir hier nicht getötet. Sag: Wenn ihr auch in euren Häusern gewesen wäret, wären diejenigen, denen der Tod vorgezeichnet war, an den Stellen erschienen, wo sie (als Gefallene) liegen sollten, - damit Allah prüfe, was in euren Brüsten und herausstellt, was in euren Herzen ist. Und Allah weiß über das Innerste der Brüste Bescheid
+    Khoury: Dann, nach dem Kummer, sandte Er auf euch Sicherheit herab, einen Schlaf, der eine Gruppe von euch überkam, während eine (andere) Gruppe sich um sich selbst kümmerte, indem sie von Gott etwas anderes als die Wahrheit dachte, wie in der Zeit der Unwissenheit gedacht wurde. Sie sagten: «Haben wir bei der Angelegenheit etwas zu entscheiden?» Sprich: Gott allein entscheidet in der ganzen Angelegenheit. Sie halten in ihrem Inneren geheim, was sie dir nicht offenlegen. Sie sagen: «Wenn wir bei der Angelegenheit etwas zu entscheiden gehabt hätten, wären wir nicht hier getötet worden.» Sprich: Auch wenn ihr in euren Häusern geblieben wäret, so wären diejenigen, für die es bestimmt war, getötet zu werden, dennoch zu ihren Sterbestätten hinausgezogen. (Dies geschieht), damit Gott prüft, was in eurer Brust ist, und läutert, was in euren Herzen ist. Und Gott weiß über das innere Geheimnis Bescheid
+
+  [3:155]
+    إِنَّ ٱلَّذِینَ تَوَلَّوۡا۟ مِنكُمۡ یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ إِنَّمَا ٱسۡتَزَلَّهُمُ ٱلشَّیۡطَـٰنُ بِبَعۡضِ مَا كَسَبُوا۟ۖ وَلَقَدۡ عَفَا ٱللَّهُ عَنۡهُمۡۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِیمࣱ
+    B/E:    Gewiß, diejenigen von euch, die sich an dem Tag, da die beiden Heere aufeinandertrafen, abkehrten, ließ nur der Satan straucheln durch etwas von dem, was sie begangen hatten. Aber wahrlich, nun hat Allah ihnen verziehen. Allah ist Allvergebend und Nachsichtig
+    Khoury: Diejenigen von euch, die sich abkehrten am Tag, da die beiden Scharen aufeinandertrafen, die hat der Satan straucheln lassen wegen etwas von dem, was sie erworben haben. Gott hat ihnen nunmehr verziehen. Gott ist voller Vergebung und langmütig
+
+  [3:156]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِینَ كَفَرُوا۟ وَقَالُوا۟ لِإِخۡوَ ٰنِهِمۡ إِذَا ضَرَبُوا۟ فِی ٱلۡأَرۡضِ أَوۡ كَانُوا۟ غُزࣰّى لَّوۡ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِیَجۡعَلَ ٱللَّهُ ذَ ٰلِكَ حَسۡرَةࣰ فِی قُلُوبِهِمۡۗ وَٱللَّهُ یُحۡیِۦ وَیُمِیتُۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرࣱ
+    B/E:    O die ihr glaubt, seid nicht wie diejenigen, die ungläubig sind und von ihren Brüdern, wenn sie im Lande umhergereist sind oder sich auf einem Kriegszug befunden haben, sagen: „Wenn sie bei uns geblieben wären, wären sie nicht gestorben und nicht getötet worden, damit Allah dies zu einer gramvollen Reue in ihren Herzen mache. Allah macht lebendig und läßt sterben. Und was ihr tut, sieht Allah wohl
+    Khoury: O ihr, die ihr glaubt, seid nicht wie diejenigen, die nicht glauben und die von ihren Brüdern, wenn diese auf der Erde umherzogen oder sich auf einem Feldzug befanden, sagen: «Wären sie bei uns gewesen, wären sie nicht gestorben und nicht getötet worden.» Gott will dies zu einem Grund zu (tiefem) Bedauern in ihren Herzen machen. Und Gott macht lebendig und läßt sterben. Und Gott sieht wohl, was ihr tut
+
+  [3:157]
+    وَلَئِن قُتِلۡتُمۡ فِی سَبِیلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةࣱ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَیۡرࣱ مِّمَّا یَجۡمَعُونَ
+    B/E:    Und wenn ihr auf Allahs Weg getötet werdet oder sterbt, so sind Vergebung von Allah und Erbarmen fürwahr besser als (all) das, was sie zusammentragen
+    Khoury: Und wenn ihr auf dem Weg Gottes getötet werdet oder sterbt, so ist Vergebung und Barmherzigkeit von Gott besser als das, was sie zusammentragen
+
+  [3:158]
+    وَلَئِن مُّتُّمۡ أَوۡ قُتِلۡتُمۡ لَإِلَى ٱللَّهِ تُحۡشَرُونَ
+    B/E:    Und wenn ihr sterbt oder getötet werdet, so werdet ihr fürwahr zu Allah versammelt werden
+    Khoury: Und wenn ihr sterbt oder getötet werdet, so werdet ihr gewiß zu Gott versammelt werden
+
+  [3:159]
+    فَبِمَا رَحۡمَةࣲ مِّنَ ٱللَّهِ لِنتَ لَهُمۡۖ وَلَوۡ كُنتَ فَظًّا غَلِیظَ ٱلۡقَلۡبِ لَٱنفَضُّوا۟ مِنۡ حَوۡلِكَۖ فَٱعۡفُ عَنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمۡ وَشَاوِرۡهُمۡ فِی ٱلۡأَمۡرِۖ فَإِذَا عَزَمۡتَ فَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّ ٱللَّهَ یُحِبُّ ٱلۡمُتَوَكِّلِینَ
+    B/E:    Durch Erbarmen von Allah bist du mild zu ihnen gewesen; wärst du aber schroff und hartherzig, so würden sie wahrlich rings um dich auseinanderlaufen. So verzeihe ihnen, bitte für sie um Vergebung und ziehe sie in den Angelegenheiten zu Rate. Und wenn du dich entschlossen hast, dann verlasse dich auf Allah! Gewiß, Allah liebt die sich (auf Ihn) Verlassenden
+    Khoury: Es ist um der Barmherzigkeit Gottes willen, daß du ihnen gegenüber umgänglich warst. Wärest du grob und hartherzig gewesen, wären sie rings um dich fortgelaufen. So verzeihe ihnen und bitte für sie um Vergebung und ziehe sie zu Rate in den Angelegenheiten. Und wenn du dich entschlossen hast, dann vertraue auf Gott. Gott liebt ja die, die vertrauen
+
+  [3:160]
+    إِن یَنصُرۡكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمۡۖ وَإِن یَخۡذُلۡكُمۡ فَمَن ذَا ٱلَّذِی یَنصُرُكُم مِّنۢ بَعۡدِهِۦۗ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ
+    B/E:    Wenn Allah euch zum Sieg verhilft, so kann euch keiner besiegen. Doch wenn Er euch im Stich läßt, wer ist es denn, der euch dann, nach Ihm, noch helfen könnte? Und auf Allah sollen sich die Gläubigen verlassen
+    Khoury: Wenn Gott euch unterstützt, dann kann niemand euch besiegen. Und wenn Er euch im Stich läßt, wer ist es, der euch daraufhin unterstützen könnte? Auf Gott sollen also die Gläubigen vertrauen
+
+  [3:161]
+    وَمَا كَانَ لِنَبِیٍّ أَن یَغُلَّۚ وَمَن یَغۡلُلۡ یَأۡتِ بِمَا غَلَّ یَوۡمَ ٱلۡقِیَـٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسࣲ مَّا كَسَبَتۡ وَهُمۡ لَا یُظۡلَمُونَ
+    B/E:    Es steht keinem Propheten zu, (etwas) zu veruntreuen. Und wer (etwas) veruntreut, wird das, was er veruntreut hat, am Tag der Auferstehung bringen. Dann wird jeder Seele in vollem Maß zukommen, was sie verdient hat, und es wird ihnen kein Unrecht zugefügt
+    Khoury: Es steht einem Propheten nicht zu, zu veruntreuen. Wer veruntreut, wird das, was er veruntreut hat, am Tag der Auferstehung beibringen. Dann wird jeder Seele voll erstattet, was sie erworben hat. Und ihnen wird nicht Unrecht getan
+
+  [3:162]
+    أَفَمَنِ ٱتَّبَعَ رِضۡوَ ٰنَ ٱللَّهِ كَمَنۢ بَاۤءَ بِسَخَطࣲ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِیرُ
+    B/E:    Ist denn jemand, der Allahs Wohlgefallen folgt, wie einer, der sich Allahs Mißfallen zuzieht und dessen Zufluchtsort die Hölle ist? - Ein schlimmer Ausgang
+    Khoury: Ist denn derjenige, der dem Wohlgefallen Gottes folgt, wie der, der sich den Groll Gottes zuzieht und dessen Heimstätte die Hölle ist? Welch schlimmes Ende
+
+  [3:163]
+    هُمۡ دَرَجَـٰتٌ عِندَ ٱللَّهِۗ وَٱللَّهُ بَصِیرُۢ بِمَا یَعۡمَلُونَ
+    B/E:    Sie nehmen (unterschiedliche) Rangstufen bei Allah ein. Und Allah sieht wohl, was sie tun
+    Khoury: Sie nehmen verschiedene Rangstufen bei Gott ein. Und Gott sieht wohl, was sie tun
+
+  [3:164]
+    لَقَدۡ مَنَّ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِینَ إِذۡ بَعَثَ فِیهِمۡ رَسُولࣰا مِّنۡ أَنفُسِهِمۡ یَتۡلُوا۟ عَلَیۡهِمۡ ءَایَـٰتِهِۦ وَیُزَكِّیهِمۡ وَیُعَلِّمُهُمُ ٱلۡكِتَـٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُوا۟ مِن قَبۡلُ لَفِی ضَلَـٰلࣲ مُّبِینٍ
+    B/E:    Allah hat den Gläubigen wirklich eine Wohltat erwiesen, als Er unter ihnen einen Gesandten von ihnen selbst geschickt hat, der ihnen Seine Zeichen verliest, und sie läutert und sie das Buch und die Weisheit lehrt, obgleich sie sich zuvor wahrlich in deutlichem Irrtum befanden
+    Khoury: Gott hat den Gläubigen eine Wohltat erwiesen, als Er unter ihnen einen Gesandten aus ihrer Mitte hat erstehen lassen, der ihnen seine Zeichen verliest, sie läutert und sie das Buch und die Weisheit lehrt. Sie befanden sich ja vorher in einem offenkundigen Irrtum
+
+  [3:165]
+    أَوَ لَمَّاۤ أَصَـٰبَتۡكُم مُّصِیبَةࣱ قَدۡ أَصَبۡتُم مِّثۡلَیۡهَا قُلۡتُمۡ أَنَّىٰ هَـٰذَاۖ قُلۡ هُوَ مِنۡ عِندِ أَنفُسِكُمۡۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ
+    B/E:    Ist es nicht (so), daß, als euch ein Unglück traf, obwohl ihr (den Feind) mit einem zweimal so großen getroffen hattet, ihr sagtet: „Woher kommt das? Sag: Es kommt von euch selbst. Gewiß, Allah hat zu allem die Macht
+    Khoury: Wie konntet ihr, als euch ein Unglück traf, das ihr (den Feinden) doppelt so arg zugefügt hattet, sagen: «Woher kommt das?» Sprich: Es kommt von euch selbst. Gott hat Macht zu allen Dingen
+
+  [3:166]
+    وَمَاۤ أَصَـٰبَكُمۡ یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ فَبِإِذۡنِ ٱللَّهِ وَلِیَعۡلَمَ ٱلۡمُؤۡمِنِینَ
+    B/E:    Und was euch an dem Tag traf, da die beiden Heere aufeinandertrafen, so (geschah) das mit Allahs Erlaubnis, - damit Er die Gläubigen kennt
+    Khoury: Und was euch traf an dem Tag, da die beiden Scharen aufeinandertrafen, das geschah mit der Erlaubnis Gottes, und damit Er die Gläubigen in Erfahrung bringe
+
+  [3:167]
+    وَلِیَعۡلَمَ ٱلَّذِینَ نَافَقُوا۟ۚ وَقِیلَ لَهُمۡ تَعَالَوۡا۟ قَـٰتِلُوا۟ فِی سَبِیلِ ٱللَّهِ أَوِ ٱدۡفَعُوا۟ۖ قَالُوا۟ لَوۡ نَعۡلَمُ قِتَالࣰا لَّٱتَّبَعۡنَـٰكُمۡۗ هُمۡ لِلۡكُفۡرِ یَوۡمَئِذٍ أَقۡرَبُ مِنۡهُمۡ لِلۡإِیمَـٰنِۚ یَقُولُونَ بِأَفۡوَ ٰهِهِم مَّا لَیۡسَ فِی قُلُوبِهِمۡۚ وَٱللَّهُ أَعۡلَمُ بِمَا یَكۡتُمُونَ
+    B/E:    und damit Er diejenigen kennt, die heucheln, zu denen gesagt wurde: „Kommt her und kämpft auf Allahs Weg oder wehrt ab, worauf sie sagten: „Wenn wir zu kämpfen wüßten, würden wir euch wahrlich folgen. Sie waren an jenem Tag dem Unglauben näher als dem Glauben. Sie sagen mit ihren Mündern, was nicht in ihren Herzen ist. Doch Allah weiß sehr wohl, was sie verbergen
+    Khoury: Und auch die in Erfahrung bringe, die heucheln. Und es wurde zu ihnen gesagt: «Kommt her, kämpft auf dem Weg Gottes oder wehrt die Feinde ab.» Sie sagten: «Wenn wir wüßten, daß es einen Kampf geben würde, würden wir euch sicherlich folgen.» An jenem Tag waren sie dem Unglauben näher als dem Glauben, sie sagten ja mit ihrem Munde, was nicht in ihrem Herzen war. Und Gott weiß besser, was sie verschweigen
+
+  [3:168]
+    ٱلَّذِینَ قَالُوا۟ لِإِخۡوَ ٰنِهِمۡ وَقَعَدُوا۟ لَوۡ أَطَاعُونَا مَا قُتِلُوا۟ۗ قُلۡ فَٱدۡرَءُوا۟ عَنۡ أَنفُسِكُمُ ٱلۡمَوۡتَ إِن كُنتُمۡ صَـٰدِقِینَ
+    B/E:    Diejenigen, die von ihren Brüdern sagten, während sie (selbst daheim) sitzen blieben: „Wenn sie uns gehorcht hätten, wären sie nicht getötet worden. Sag: So wehrt den Tod von euch selbst ab, wenn ihr wahrhaftig seid
+    Khoury: Das sind diejenigen, die, während sie selbst zurückblieben, von ihren Brüdern sagten: «Hätten sie uns gehorcht, wären sie nicht getötet worden.» Sprich: Wehrt doch den Tod von euch ab, so ihr die Wahrheit sagt
+
+  [3:169]
+    وَلَا تَحۡسَبَنَّ ٱلَّذِینَ قُتِلُوا۟ فِی سَبِیلِ ٱللَّهِ أَمۡوَ ٰتَۢاۚ بَلۡ أَحۡیَاۤءٌ عِندَ رَبِّهِمۡ یُرۡزَقُونَ
+    B/E:    Und meine ja nicht, diejenigen, die auf Allahs Weg getötet worden sind, seien (wirklich) tot. Nein! Vielmehr sind sie lebendig bei ihrem Herrn und werden versorgt
+    Khoury: Halte diejenigen, die auf dem Weg Gottes getötet wurden, nicht für tot. Sie sind vielmehr lebendig bei ihrem Herrn, und sie werden versorgt
+
+  [3:170]
+    فَرِحِینَ بِمَاۤ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦ وَیَسۡتَبۡشِرُونَ بِٱلَّذِینَ لَمۡ یَلۡحَقُوا۟ بِهِم مِّنۡ خَلۡفِهِمۡ أَلَّا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ
+    B/E:    und sind froh über das, was Allah ihnen von Seiner Huld gewährt hat, und sind glückselig über diejenigen, die sich nach ihnen noch nicht angeschlossen haben, daß keine Furcht über sie kommen soll, noch sie traurig sein sollen
+    Khoury: Und sie freuen sich dabei über das, was Gott ihnen von seiner Huld zukommen ließ. Und sie erwarten die, die hinter ihnen nachgekommen sind und sie noch nicht eingeholt haben, voll Freude darüber, daß auch sie nichts zu befürchten haben und nicht traurig sein werden
+
+  [3:171]
+    ۞ یَسۡتَبۡشِرُونَ بِنِعۡمَةࣲ مِّنَ ٱللَّهِ وَفَضۡلࣲ وَأَنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ ٱلۡمُؤۡمِنِینَ
+    B/E:    Sie sind glückselig über eine Gunst von Allah und eine Huld und (darüber), daß Allah den Lohn der Gläubigen nicht verlorengehen läßt
+    Khoury: Sie empfangen mit Freude Gnade und Huld von Gott und (freuen sich) darüber, daß Gott den Lohn der Gläubigen nicht verlorengehen läßt
+
+  [3:172]
+    ٱلَّذِینَ ٱسۡتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعۡدِ مَاۤ أَصَابَهُمُ ٱلۡقَرۡحُۚ لِلَّذِینَ أَحۡسَنُوا۟ مِنۡهُمۡ وَٱتَّقَوۡا۟ أَجۡرٌ عَظِیمٌ
+    B/E:    Diejenigen, die auf Allah und den Gesandten hörten, nachdem ihnen eine Wunde zugefügt worden war - für diejenigen unter ihnen, die Gutes tun und gottesfürchtig sind, wird es großartigen Lohn geben
+    Khoury: Für diejenigen, die auf Gott und den Gesandten gehört haben, nachdem sie die Wunde erlitten hatten, - für diejenigen von ihnen, die rechtschaffen und gottesfürchtig waren, ist ein großartiger Lohn bestimmt
+
+  [3:173]
+    ٱلَّذِینَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدۡ جَمَعُوا۟ لَكُمۡ فَٱخۡشَوۡهُمۡ فَزَادَهُمۡ إِیمَـٰنࣰا وَقَالُوا۟ حَسۡبُنَا ٱللَّهُ وَنِعۡمَ ٱلۡوَكِیلُ
+    B/E:    Diejenigen, zu denen die Menschen sagten: „Die Menschen haben (sich) bereits gegen euch versammelt; darum fürchtet sie! - Doch da mehrte das (nur) ihren Glauben, und sie sagten: „Unsere Genüge ist Allah, und wie trefflich ist der Sachwalter
+    Khoury: Zu ihnen haben die Menschen gesagt: «Die Menschen haben sich gegen euch versammelt, daher fürchtet euch vor ihnen.» Aber das hat ihren Glauben nur verstärkt, und sie sagten: «Gott genügt uns. Welch vorzüglicher Sachwalter!»
+
+  [3:174]
+    فَٱنقَلَبُوا۟ بِنِعۡمَةࣲ مِّنَ ٱللَّهِ وَفَضۡلࣲ لَّمۡ یَمۡسَسۡهُمۡ سُوۤءࣱ وَٱتَّبَعُوا۟ رِضۡوَ ٰنَ ٱللَّهِۗ وَٱللَّهُ ذُو فَضۡلٍ عَظِیمٍ
+    B/E:    So kehrten sie mit einer Gunst von Allah und einer Huld zurück, ohne daß ihnen etwas Böses widerfahren war. Sie folgten Allahs Wohlgefallen, und Allah ist voll großer Huld
+    Khoury: Sie kehrten mit Gnade und Huld von Gott zurück, nichts Böses berührte sie, und sie folgten dem Wohlgefallen Gottes. Und Gott besitzt große Huld
+
+  [3:175]
+    إِنَّمَا ذَ ٰلِكُمُ ٱلشَّیۡطَـٰنُ یُخَوِّفُ أَوۡلِیَاۤءَهُۥ فَلَا تَخَافُوهُمۡ وَخَافُونِ إِن كُنتُم مُّؤۡمِنِینَ
+    B/E:    Dies ist nur der Satan, der (euch) mit seinen Gefolgsleuten Furcht einzuflößen sucht. Fürchtet sie aber nicht, sondern fürchtet Mich, wenn ihr gläubig seid
+    Khoury: Das ist der Satan. Er will (euch) vor seinen Freunden angst machen. Habt keine Angst vor ihnen, Mich sollt ihr fürchten, so ihr gläubig seid
+
+  [3:176]
+    وَلَا یَحۡزُنكَ ٱلَّذِینَ یُسَـٰرِعُونَ فِی ٱلۡكُفۡرِۚ إِنَّهُمۡ لَن یَضُرُّوا۟ ٱللَّهَ شَیۡءࣰاۗ یُرِیدُ ٱللَّهُ أَلَّا یَجۡعَلَ لَهُمۡ حَظࣰّا فِی ٱلۡءَاخِرَةِۖ وَلَهُمۡ عَذَابٌ عَظِیمٌ
+    B/E:    Und lasse dich nicht durch jene traurig machen, die im Unglauben dahineilen! Sie werden Allah gewiß keinerlei Schaden zufügen. Allah will, daß ihnen im Jenseits kein Anteil zugewiesen wird. Für sie wird es gewaltige Strafe geben
+    Khoury: Laß dich nicht durch die betrüben, die im Unglauben miteinander wetteifern. Sie können Gott nicht schaden. Gott will für sie im Jenseits keinen Anteil bereithalten. Und bestimmt ist für sie eine gewaltige Pein
+
+  [3:177]
+    إِنَّ ٱلَّذِینَ ٱشۡتَرَوُا۟ ٱلۡكُفۡرَ بِٱلۡإِیمَـٰنِ لَن یَضُرُّوا۟ ٱللَّهَ شَیۡءࣰاۖ وَلَهُمۡ عَذَابٌ أَلِیمࣱ
+    B/E:    Diejenigen, die den Unglauben für den Glauben erkauft haben, werden Allah keinerlei Schaden zufügen, und für sie wird es schmerzhafte Strafe geben
+    Khoury: Diejenigen, die den Unglauben für den Glauben erkauft haben, können Gott nichts schaden. Und bestimmt ist für sie eine schmerzhafte Pein
+
+  [3:178]
+    وَلَا یَحۡسَبَنَّ ٱلَّذِینَ كَفَرُوۤا۟ أَنَّمَا نُمۡلِی لَهُمۡ خَیۡرࣱ لِّأَنفُسِهِمۡۚ إِنَّمَا نُمۡلِی لَهُمۡ لِیَزۡدَادُوۤا۟ إِثۡمࣰاۖ وَلَهُمۡ عَذَابࣱ مُّهِینࣱ
+    B/E:    Und diejenigen, die ungläubig sind, sollen ja nicht meinen, daß das, was wir ihnen an Aufschub gewähren, gut für sich selbst sei.Wir gewähren ihnen nur Aufschub, damit sie an Sünde zunehmen, und für sie gibt es schmachvolle Strafe
+    Khoury: Und diejenigen, die ungläubig sind, sollen nicht meinen, es sei besser für sie, daß Wir ihnen Aufschub gewähren. Wir gewähren ihnen ja Aufschub, damit sie noch mehr Schuld auf sich laden. Und bestimmt ist für sie eine schmähliche Pein
+
+  [3:179]
+    مَّا كَانَ ٱللَّهُ لِیَذَرَ ٱلۡمُؤۡمِنِینَ عَلَىٰ مَاۤ أَنتُمۡ عَلَیۡهِ حَتَّىٰ یَمِیزَ ٱلۡخَبِیثَ مِنَ ٱلطَّیِّبِۗ وَمَا كَانَ ٱللَّهُ لِیُطۡلِعَكُمۡ عَلَى ٱلۡغَیۡبِ وَلَـٰكِنَّ ٱللَّهَ یَجۡتَبِی مِن رُّسُلِهِۦ مَن یَشَاۤءُۖ فَءَامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦۚ وَإِن تُؤۡمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمۡ أَجۡرٌ عَظِیمࣱ
+    B/E:    Nimmer wird Allah die Gläubigen in dem (Zustand) belassen, in dem ihr euch befindet, bis Er das Schlechte vom Guten gesondert hat. Und nimmer wird Allah euch Einblick in das Verborgene gewähren, doch Allah erwählt von Seinen Gesandten, wen Er will. So glaubt an Allah und Seine Gesandten! Und wenn ihr glaubt und gottesfürchtig seid, dann wird es für euch großartigen Lohn geben
+    Khoury: Nimmer wird Gott die Gläubigen in dem Zustand belassen, in dem ihr euch befindet; Er will nur das Schlechte vom Guten unterscheiden. Und nimmer wird Gott euch über das Unsichtbare Auskunft geben. Aber Gott erwählt von seinen Gesandten, wen Er will. So glaubt an Gott und seine Gesandten. Und wenn ihr glaubt und gottesfürchtig seid, ist für euch ein großartiger Lohn bestimmt
+
+  [3:180]
+    وَلَا یَحۡسَبَنَّ ٱلَّذِینَ یَبۡخَلُونَ بِمَاۤ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦ هُوَ خَیۡرࣰا لَّهُمۖ بَلۡ هُوَ شَرࣱّ لَّهُمۡۖ سَیُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ یَوۡمَ ٱلۡقِیَـٰمَةِۗ وَلِلَّهِ مِیرَ ٰثُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِیرࣱ
+    B/E:    Und diejenigen, die mit dem geizen, was Allah ihnen von Seiner Huld gewährt hat, sollen ja nicht meinen, das sei (so) besser für sie. Nein! Vielmehr ist es schlecht für sie. Mit dem, womit sie gegeizt haben, werden sie am Tag der Auferstehung umschlungen werden. Und Allah gehört das Erbe der Himmel und der Erde, und Allah ist dessen, was ihr tut, Kundig
+    Khoury: Diejenigen, die mit dem geizen, was Gott ihnen von seiner Huld beschert hat, sollen nicht meinen, das sei besser für sie. Nein, es ist schlechter für sie. Am Tag der Auferstehung wird ihnen das, womit sie gegeizt haben, als Halskette umgelegt werden. Gott gehört das Erbe der Himmel und der Erde. Und Gott hat Kenntnis von dem, was ihr tut
+
+  [3:181]
+    لَّقَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّذِینَ قَالُوۤا۟ إِنَّ ٱللَّهَ فَقِیرࣱ وَنَحۡنُ أَغۡنِیَاۤءُۘ سَنَكۡتُبُ مَا قَالُوا۟ وَقَتۡلَهُمُ ٱلۡأَنۢبِیَاۤءَ بِغَیۡرِ حَقࣲّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ
+    B/E:    Allah hat ja die Worte derjenigen gehört, die sagten: „Allah ist gewiß arm, und wir sind reich. Wir werden aufschreiben, was sie sagten, und daß sie die Propheten zu Unrecht töteten; und Wir werden zu ihnen sagen „Kostet die Strafe des Brennens
+    Khoury: Gott hat die Rede derer gehört, die da sagten: «Gott ist arm, wir sind reich.» Wir werden aufschreiben, was sie sagten, und daß sie die Propheten zu Unrecht töteten, und Wir werden sprechen: Kostet die Pein des Höllenbrandes
+
+  [3:182]
+    ذَ ٰلِكَ بِمَا قَدَّمَتۡ أَیۡدِیكُمۡ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّامࣲ لِّلۡعَبِیدِ
+    B/E:    Dies (geschieht) wegen dessen, was eure Hände vorausgeschickt haben, und deshalb, weil Allah keiner ist, der den Menschen Unrecht zufügt
+    Khoury: Dies für das, was eure Hände vorausgeschickt haben, und weil Gott den Dienern kein Unrecht tut
+
+  [3:183]
+    ٱلَّذِینَ قَالُوۤا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَیۡنَاۤ أَلَّا نُؤۡمِنَ لِرَسُولٍ حَتَّىٰ یَأۡتِیَنَا بِقُرۡبَانࣲ تَأۡكُلُهُ ٱلنَّارُۗ قُلۡ قَدۡ جَاۤءَكُمۡ رُسُلࣱ مِّن قَبۡلِی بِٱلۡبَیِّنَـٰتِ وَبِٱلَّذِی قُلۡتُمۡ فَلِمَ قَتَلۡتُمُوهُمۡ إِن كُنتُمۡ صَـٰدِقِینَ
+    B/E:    (Es sind) diejenigen, die sagten: „Allah hat uns verpflichtet, keinem Gesandten zu glauben, bis er uns ein Opfer bringt, das vom Feuer verzehrt wird. Sag: „Schon vor mir sind Gesandte mit klaren Beweisen zu euch gekommen und mit dem, wovon ihr spracht. Warum habt ihr sie dann getötet, wenn ihr wahrhaftig seid
+    Khoury: Das sind die, die sagten: «Gott hat uns auferlegt, an keinen Gesandten zu glauben, bis er uns ein Opfer bringt, das das Feuer verzehrt.» Sprich: Es sind vor mir Gesandte mit den deutlichen Zeichen und mit dem, was ihr gesagt habt, zu euch gekommen. Warum habt ihr sie dann getötet, so ihr die Wahrheit sagt
+
+  [3:184]
+    فَإِن كَذَّبُوكَ فَقَدۡ كُذِّبَ رُسُلࣱ مِّن قَبۡلِكَ جَاۤءُو بِٱلۡبَیِّنَـٰتِ وَٱلزُّبُرِ وَٱلۡكِتَـٰبِ ٱلۡمُنِیرِ
+    B/E:    Wenn sie dich der Lüge bezichtigen, so sind bereits Gesandte vor dir der Lüge bezichtigt worden, die mit den klaren Beweisen, den Büchern der Weisheit und den erleuchtenden Büchern kamen
+    Khoury: Wenn sie dich der Lüge zeihen, so sind schon vor dir Gesandte der Lüge geziehen worden, die mit den deutlichen Zeichen gekommen waren, und mit den Schriften und dem erleuchtenden Buch
+
+  [3:185]
+    كُلُّ نَفۡسࣲ ذَاۤئِقَةُ ٱلۡمَوۡتِۗ وَإِنَّمَا تُوَفَّوۡنَ أُجُورَكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِۖ فَمَن زُحۡزِحَ عَنِ ٱلنَّارِ وَأُدۡخِلَ ٱلۡجَنَّةَ فَقَدۡ فَازَۗ وَمَا ٱلۡحَیَوٰةُ ٱلدُّنۡیَاۤ إِلَّا مَتَـٰعُ ٱلۡغُرُورِ
+    B/E:    Jede Seele wird den Tod kosten. Und erst am Tag der Auferstehung wird euch euer Lohn in vollem Maß zukommen. Wer dann dem (Höllen)feuer entrückt und in den (Paradies)garten eingelassen wird, der hat fürwahr einen Erfolg erzielt. Und das diesseitige Leben ist nur trügerischer Genuß
+    Khoury: Jeder wird den Tod erleiden. Euch wird euer Lohn am Tag der Auferstehung voll erstattet. Wer vom Feuer weggerückt und ins Paradies geführt wird, der hat das Ziel erreicht. Das diesseitige Leben ist ja nur eine betörende Nutznießung
+
+  [3:186]
+    ۞ لَتُبۡلَوُنَّ فِیۤ أَمۡوَ ٰلِكُمۡ وَأَنفُسِكُمۡ وَلَتَسۡمَعُنَّ مِنَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ مِن قَبۡلِكُمۡ وَمِنَ ٱلَّذِینَ أَشۡرَكُوۤا۟ أَذࣰى كَثِیرࣰاۚ وَإِن تَصۡبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَ ٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ
+    B/E:    Ihr werdet ganz gewiß in eurem Besitz und in eurer eigenen Person geprüft werden, und ihr werdet ganz gewiß von denjenigen, denen die Schrift vor euch gegeben wurde, und denen, die (Allah etwas) beigesellen, viel Beleidigendes zu hören bekommen. Doch wenn ihr standhaft und gottesfürchtig seid, so gehört dies gewiß zur Entschlossenheit (in der Handhabung) der Angelegenheiten
+    Khoury: Ihr werdet sicherlich an eurem Vermögen und an euch selbst geprüft werden, und ihr werdet gewiß von denen, denen das Buch vor euch zugekommen ist, und von den Polytheisten viel Ungemach hören. Wenn ihr euch aber geduldig und gottesfürchtig verhaltet, so gehört dies zur Entschlossenheit in den Anliegen
+
+  [3:187]
+    وَإِذۡ أَخَذَ ٱللَّهُ مِیثَـٰقَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ لَتُبَیِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكۡتُمُونَهُۥ فَنَبَذُوهُ وَرَاۤءَ ظُهُورِهِمۡ وَٱشۡتَرَوۡا۟ بِهِۦ ثَمَنࣰا قَلِیلࣰاۖ فَبِئۡسَ مَا یَشۡتَرُونَ
+    B/E:    Und (gedenkt,) als Allah mit denjenigen, denen die Schrift gegeben worden war, ein Abkommen traf: „Ihr sollt sie den Menschen ganz gewiß klar machen und sie nicht verborgen halten! Da warfen sie sie hinter ihren Rücken und verkauften sie für einen geringen Preis; wie schlimm ist das, was sie erkaufen
+    Khoury: Und als Gott die Verpflichtung derer, denen das Buch zugekommen ist, entgegennahm: «Ihr müßt es den Menschen deutlich machen und dürft es nicht verschweigen.» Da warfen sie es hinter ihren Rücken und verkauften es für einen geringen Preis. Schlecht ist, was sie erkaufen
+
+  [3:188]
+    لَا تَحۡسَبَنَّ ٱلَّذِینَ یَفۡرَحُونَ بِمَاۤ أَتَوا۟ وَّیُحِبُّونَ أَن یُحۡمَدُوا۟ بِمَا لَمۡ یَفۡعَلُوا۟ فَلَا تَحۡسَبَنَّهُم بِمَفَازَةࣲ مِّنَ ٱلۡعَذَابِۖ وَلَهُمۡ عَذَابٌ أَلِیمࣱ
+    B/E:    Und meine ja nicht, daß diejenigen, die froh sind über das, was sie begangen haben, und denen es lieb ist, für etwas gelobt zu werden, was sie nicht getan haben, - meine ja nicht, sie seien der Strafe entronnen! Für sie wird es schmerzhafte Strafe geben
+    Khoury: Und meine nicht, daß diejenigen, die sich freuen über das, was sie vollbracht haben, und es lieben, für das gelobt zu werden, was sie nicht getan haben - meine nicht, sie würden der Pein entrinnen. Bestimmt ist für sie eine schmerzhafte Pein
+
+  [3:189]
+    وَلِلَّهِ مُلۡكُ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ
+    B/E:    Allah gehört die Herrschaft der Himmel und der Erde. Allah hat zu allem die Macht
+    Khoury: Und Gott gehört die Königsherrschaft der Himmel und der Erde. Und Gott hat Macht zu allen Dingen
+
+  [3:190]
+    إِنَّ فِی خَلۡقِ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَـٰفِ ٱلَّیۡلِ وَٱلنَّهَارِ لَءَایَـٰتࣲ لِّأُو۟لِی ٱلۡأَلۡبَـٰبِ
+    B/E:    In der Schöpfung der Himmel und der Erde und in dem Unterschied von Nacht und Tag liegen wahrlich Zeichen für diejenigen, die Verstand besitzen
+    Khoury: In der Erschaffung der Himmel und der Erde und im Aufeinanderfolgen von Nacht und Tag sind Zeichen für die Einsichtigen
+
+  [3:191]
+    ٱلَّذِینَ یَذۡكُرُونَ ٱللَّهَ قِیَـٰمࣰا وَقُعُودࣰا وَعَلَىٰ جُنُوبِهِمۡ وَیَتَفَكَّرُونَ فِی خَلۡقِ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ رَبَّنَا مَا خَلَقۡتَ هَـٰذَا بَـٰطِلࣰا سُبۡحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+    B/E:    die Allahs stehend, sitzend und auf der Seite (liegend) gedenken und über die Schöpfung der Himmel und der Erde nachdenken: „Unser Herr, Du hast (all) dies nicht umsonst erschaffen. Preis sei Dir! Bewahre uns vor der Strafe des (Höllen)feuers
+    Khoury: Die Gottes gedenken, im Stehen und Sitzen und auf ihren Seiten liegend, und über die Erschaffung der Himmel und der Erde nachdenken: «Unser Herr, Du hast dies nicht umsonst erschaffen. Preis sei Dir! Bewahre uns vor der Pein des Feuers
+
+  [3:192]
+    رَبَّنَاۤ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَیۡتَهُۥۖ وَمَا لِلظَّـٰلِمِینَ مِنۡ أَنصَارࣲ
+    B/E:    Unser Herr, gewiß, wen Du ins (Höllen)feuer eingehen läßt, den hast Du (damit) in Schande gestürzt. Und die Ungerechten werden keine Helfer haben
+    Khoury: Unser Herr, wen Du ins Feuer eingehen läßt, den hast Du zuschanden gemacht. Diejenigen, die Unrecht tun, werden keine Helfer haben
+
+  [3:193]
+    رَّبَّنَاۤ إِنَّنَا سَمِعۡنَا مُنَادِیࣰا یُنَادِی لِلۡإِیمَـٰنِ أَنۡ ءَامِنُوا۟ بِرَبِّكُمۡ فَءَامَنَّاۚ رَبَّنَا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَكَفِّرۡ عَنَّا سَیِّءَاتِنَا وَتَوَفَّنَا مَعَ ٱلۡأَبۡرَارِ
+    B/E:    Unser Herr, gewiß, wir hörten einen Rufer, der zum Glauben aufrief: ,Glaubt an euren Herrn.’ Da glaubten wir. Unser Herr, vergib uns unsere Sünden, tilge unsere bösen Taten und berufe uns ab unter den Gütigen
+    Khoury: Unser Herr, wir haben einen Rufer gehört, der zum Glauben ruft: Glaubt an euren Herrn. Da haben wir geglaubt. Unser Herr, vergib uns unsere Sünden und sühne uns unsere Missetaten, und berufe uns mit den Frommen ab
+
+  [3:194]
+    رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخۡزِنَا یَوۡمَ ٱلۡقِیَـٰمَةِۖ إِنَّكَ لَا تُخۡلِفُ ٱلۡمِیعَادَ
+    B/E:    Unser Herr, und gib uns, was Du uns durch Deine Gesandten versprochen hast, und stürze uns nicht in Schande am Tag der Auferstehung. Gewiß, Du brichst nicht, was Du versprochen hast
+    Khoury: Unser Herr, gib uns das, was Du uns durch deine Gesandten verheißen hast, und mache uns am Tag der Auferstehung nicht zuschanden. Du brichst das Versprechen nicht.»
+
+  [3:195]
+    فَٱسۡتَجَابَ لَهُمۡ رَبُّهُمۡ أَنِّی لَاۤ أُضِیعُ عَمَلَ عَـٰمِلࣲ مِّنكُم مِّن ذَكَرٍ أَوۡ أُنثَىٰۖ بَعۡضُكُم مِّنۢ بَعۡضࣲۖ فَٱلَّذِینَ هَاجَرُوا۟ وَأُخۡرِجُوا۟ مِن دِیَـٰرِهِمۡ وَأُوذُوا۟ فِی سَبِیلِی وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنۡهُمۡ سَیِّءَاتِهِمۡ وَلَأُدۡخِلَنَّهُمۡ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ ثَوَابࣰا مِّنۡ عِندِ ٱللَّهِۚ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلثَّوَابِ
+    B/E:    Da erhörte sie ihr Herr: „Ich lasse kein Werk eines (Gutes) Tuenden von euch verlorengehen, sei es von Mann oder Frau; die einen von euch sind von den anderen. Denen also, die ausgewandert und aus ihren Wohnstätten vertrieben worden sind und denen auf Meinem Weg Leid zugefügt worden ist, und die gekämpft haben und getötet worden sind, werde Ich ganz gewiß ihre bösen Taten tilgen und sie ganz gewiß in Gärten eingehen lassen, durcheilt von Bächen, als Belohnung von Allah. Und Allah - bei Ihm ist die schöne Belohnung
+    Khoury: Da erhörte sie ihr Herr: «Ich lasse keine Tat verlorengehen, die einer von euch getan hat, ob Mann oder Weib. Die einen stammen ja von den anderen. Denjenigen, die ausgewandert und aus ihren Wohnstätten vertrieben worden sind und auf meinem Weg Leid erlitten haben, die gekämpft haben und getötet worden sind, werde Ich ihre Missetaten sühnen und sie in Gärten eingehen lassen, unter denen Bäche fließen, als Belohnung von Gott.» Und bei Gott ist die schöne Belohnung
+
+  [3:196]
+    لَا یَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِینَ كَفَرُوا۟ فِی ٱلۡبِلَـٰدِ
+    B/E:    Lasse dich ja nicht durch den Wandel derer in den Landstrichen täuschen, die ungläubig sind
+    Khoury: Laß dich nicht betören durch das Umherziehen der Ungläubigen im Land
+
+  [3:197]
+    مَتَـٰعࣱ قَلِیلࣱ ثُمَّ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ
+    B/E:    (Es ist nur) ein geringer Genuß, daraufhin wird die Hölle ihr Zufluchtsort sein. Und wie schlimm ist die Lagerstatt
+    Khoury: Das ist eine geringe Nutznießung. Dann wird ihre Heimstätte die Hölle sein - welch schlimme Lagerstätte
+
+  [3:198]
+    لَـٰكِنِ ٱلَّذِینَ ٱتَّقَوۡا۟ رَبَّهُمۡ لَهُمۡ جَنَّـٰتࣱ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَا نُزُلࣰا مِّنۡ عِندِ ٱللَّهِۗ وَمَا عِندَ ٱللَّهِ خَیۡرࣱ لِّلۡأَبۡرَارِ
+    B/E:    Aber für diejenigen, die ihren Herrn fürchten, sind Gärten, durcheilt von Bächen, ewig darin zu bleiben; eine gastliche Aufnahme von Allah. Was bei Allah ist, ist besser für die Gütigen
+    Khoury: Aber für diejenigen, die ihren Herrn fürchten, sind Gärten bestimmt, unter denen Bäche fließen; darin werden sie ewig weilen, als Herberge von seiten Gottes. Und was bei Gott ist, ist besser für die Frommen
+
+  [3:199]
+    وَإِنَّ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ لَمَن یُؤۡمِنُ بِٱللَّهِ وَمَاۤ أُنزِلَ إِلَیۡكُمۡ وَمَاۤ أُنزِلَ إِلَیۡهِمۡ خَـٰشِعِینَ لِلَّهِ لَا یَشۡتَرُونَ بِءَایَـٰتِ ٱللَّهِ ثَمَنࣰا قَلِیلًاۚ أُو۟لَـٰۤئِكَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡۗ إِنَّ ٱللَّهَ سَرِیعُ ٱلۡحِسَابِ
+    B/E:    Und unter den Leuten der Schrift gibt es wahrlich manche, die an Allah glauben und (an) das, was zu euch (als Offenbarung) herabgesandt worden ist, und was zu ihnen (selbst) herabgesandt worden ist. Dabei sind sie demütig vor Allah und verkaufen nicht die Zeichen Allahs für einen geringen Preis. Jene haben ihren Lohn bei ihrem Herrn. Gewiß, Allah ist schnell im Abrechnen
+    Khoury: Unter den Leuten des Buches gibt es welche, die an Gott glauben und an das, was zu euch herabgesandt wurde, und an das, was zu ihnen herabgesandt wurde, und so zeigen sie sich demütig gegen Gott. Und sie verkaufen nicht die Zeichen Gottes für einen geringen Preis. Jene haben ihren Lohn bei ihrem Herrn. Gott ist schnell im Abrechnen
+
+  [3:200]
+    یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱصۡبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ
+    B/E:    O die ihr glaubt, geduldet euch, haltet standhaft aus, seid kampfbereit und fürchtet Allah, auf daß es euch wohl ergehen möge
+    Khoury: O ihr, die ihr glaubt, seid geduldig und miteinander standhaft und einsatzbereit. Und fürchtet Gott, auf daß es euch wohl ergehe
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  بهل              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  دنر              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  ذخر              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  رمز              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  غزو              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  فظظ              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  برص              1       2  sehr selten — nur 2x im ganzen Koran
+  حفر              1       2  sehr selten — nur 2x im ganzen Koran
+  خبل              1       2  sehr selten — nur 2x im ganzen Koran
+  دول              1       2  sehr selten — nur 2x im ganzen Koran
+  رسخ              1       2  sehr selten — nur 2x im ganzen Koran
+  زحزح             1       2  sehr selten — nur 2x im ganzen Koran
+  شفو              1       2  sehr selten — nur 2x im ganzen Koran
+  عضض              1       2  sehr selten — nur 2x im ganzen Koran
+  كمه              1       2  sehr selten — nur 2x im ganzen Koran
+  كهل              1       2  sehr selten — nur 2x im ganzen Koran
+  كين              1       2  sehr selten — nur 2x im ganzen Koran
+  محص              2       2  kommt AUSSCHLIESSLICH in dieser Sure vor
+  محق              1       2  sehr selten — nur 2x im ganzen Koran
+  نعس              1       2  sehr selten — nur 2x im ganzen Koran
+  أصر              1       3  sehr selten — nur 3x im ganzen Koran
+  خذل              1       3  sehr selten — nur 3x im ganzen Koran
+  ضجع              1       3  sehr selten — nur 3x im ganzen Koran
+  قرح              3       3  kommt AUSSCHLIESSLICH in dieser Sure vor
+  كبت              1       3  sehr selten — nur 3x im ganzen Koran
+  أمد              1       4  sehr selten — nur 4x im ganzen Koran
+  خصص              1       4  sehr selten — nur 4x im ganzen Koran
+  زلل              1       4  sehr selten — nur 4x im ganzen Koran
+  سخط              1       4  sehr selten — nur 4x im ganzen Koran
+  شور              1       4  sehr selten — nur 4x im ganzen Koran
+  طوق              1       4  sehr selten — nur 4x im ganzen Koran
+  فشل              2       4  sehr selten — nur 4x im ganzen Koran
+  فور              1       4  sehr selten — nur 4x im ganzen Koran
+  قلم              1       4  sehr selten — nur 4x im ganzen Koran
+  قنطر             3       4  sehr selten — nur 4x im ganzen Koran
+  ميز              1       4  sehr selten — nur 4x im ganzen Koran
+  نمل              1       4  sehr selten — nur 4x im ganzen Koran
+  هيأ              1       4  sehr selten — nur 4x im ganzen Koran
+  بغض              1       5  sehr selten — nur 5x im ganzen Koran
+  خيب              1       5  sehr selten — nur 5x im ganzen Koran
+  درأ              1       5  sehr selten — nur 5x im ganzen Koran
+  ربط              1       5  sehr selten — nur 5x im ganzen Koran
+  رعب              1       5  sehr selten — nur 5x im ganzen Koran
+  سبط              1       5  sehr selten — nur 5x im ganzen Koran
+  عنت              1       5  sehr selten — nur 5x im ganzen Koran
+  فوت              1       5  sehr selten — nur 5x im ganzen Koran
+  لوي              2       5  sehr selten — nur 5x im ganzen Koran
+  لين              1       5  sehr selten — nur 5x im ganzen Koran
+  نقذ              1       5  sehr selten — nur 5x im ganzen Koran
+  أدي              2       6  sehr selten — nur 6x im ganzen Koran
+  ثقف              1       6  sehr selten — nur 6x im ganzen Koran
+  حسس              2       6  sehr selten — nur 6x im ganzen Koran
+  حصر              1       6  sehr selten — nur 6x im ganzen Koran
+  دأب              1       6  sehr selten — nur 6x im ganzen Koran
+  درس              1       6  sehr selten — nur 6x im ganzen Koran
+  صرر              2       6  sehr selten — nur 6x im ganzen Koran
+  كظم              1       6  sehr selten — nur 6x im ganzen Koran
+  لحق              1       6  sehr selten — nur 6x im ganzen Koran
+  حبل              3       7  sehr selten — nur 7x im ganzen Koran
+  حظظ              1       7  sehr selten — nur 7x im ganzen Koran
+  أني              1       8  sehr selten — nur 8x im ganzen Koran
+  خمس              1       8  sehr selten — nur 8x im ganzen Koran
+  عقر              1       8  sehr selten — nur 8x im ganzen Koran
+  برز              1       9  sehr selten — nur 9x im ganzen Koran
+  حرق              1       9  sehr selten — nur 9x im ganzen Koran
+  خيل              1       9  sehr selten — nur 9x im ganzen Koran
+  دوم              1       9  sehr selten — nur 9x im ganzen Koran
+  زيغ              2       9  sehr selten — nur 9x im ganzen Koran
+  صعد              1       9  sehr selten — nur 9x im ganzen Koran
+  عبر              1       9  sehr selten — nur 9x im ganzen Koran
+  عزم              2       9  sehr selten — nur 9x im ganzen Koran
+  عوج              1       9  sehr selten — nur 9x im ganzen Koran
+  فضض              2       9  sehr selten — nur 9x im ganzen Koran
+  همم              2       9  sehr selten — nur 9x im ganzen Koran
+  وهن              2       9  sehr selten — nur 9x im ganzen Koran
+  دفع              1      10  sehr selten — nur 10x im ganzen Koran
+  سود              3      10  sehr selten — nur 10x im ganzen Koran
+  ضيع              2      10  sehr selten — nur 10x im ganzen Koran
+  كفل              2      10  sehr selten — nur 10x im ganzen Koran
+  ملو              2      10  sehr selten — nur 10x im ganzen Koran
+  أيد              1      11  selten — 11x im ganzen Koran
+  حرب              2      11  selten — 11x im ganzen Koran
+  زبر              1      11  selten — 11x im ganzen Koran
+  طرف              1      11  selten — 11x im ganzen Koran
+  غمم              3      11  selten — 11x im ganzen Koran
+  غيظ              3      11  selten — 11x im ganzen Koran
+  فأي              2      11  selten — 11x im ganzen Koran
+  وقد              1      11  selten — 11x im ganzen Koran
+  بخل              2      12  selten — 12x im ganzen Koran
+  بكر              1      12  selten — 12x im ganzen Koran
+  بيض              2      12  selten — 12x im ganzen Koran
+  جبي              1      12  selten — 12x im ganzen Koran
+  حسر              1      12  selten — 12x im ganzen Koran
+  حنف              2      12  selten — 12x im ganzen Koran
+  شبه              2      12  selten — 12x im ganzen Koran
+  طين              1      12  selten — 12x im ganzen Koran
+  نبذ              1      12  selten — 12x im ganzen Koran
+  نيل              1      12  selten — 12x im ganzen Koran
+  حور              1      13  selten — 13x im ganzen Koran
+  رأف              1      13  selten — 13x im ganzen Koran
+  ركع              2      13  selten — 13x im ganzen Koran
+  شهو              1      13  selten — 13x im ganzen Koran
+  طمأن             1      13  selten — 13x im ganzen Koran
+  عصم              2      13  selten — 13x im ganzen Koran
+  غلظ              1      13  selten — 13x im ganzen Koran
+  غلم              1      13  selten — 13x im ganzen Koran
+  فدي              1      13  selten — 13x im ganzen Koran
+  فوه              2      13  selten — 13x im ganzen Koran
+  قنت              2      13  selten — 13x im ganzen Koran
+  ثوي              1      14  selten — 14x im ganzen Koran
+  حرث              2      14  selten — 14x im ganzen Koran
+  رجم              1      14  selten — 14x im ganzen Koran
+  عشو              1      14  selten — 14x im ganzen Koran
+  فقر              1      14  selten — 14x im ganzen Koran
+  ولج              2      14  selten — 14x im ganzen Koran
+  حرر              1      15  selten — 15x im ganzen Koran
+  سوم              2      15  selten — 15x im ganzen Koran
+  مسح              1      15  selten — 15x im ganzen Koran
+  حبط              1      16  selten — 16x im ganzen Koran
+  خبث              1      16  selten — 16x im ganzen Koran
+  غدو              1      16  selten — 16x im ganzen Koran
+  غلل              3      16  selten — 16x im ganzen Koran
+  لبب              2      16  selten — 16x im ganzen Koran
+  مهد              3      16  selten — 16x im ganzen Koran
+  أوب              1      17  selten — 17x im ganzen Koran
+  بوأ              3      17  selten — 17x im ganzen Koran
+  خشع              1      17  selten — 17x im ganzen Koran
+  خفف              1      17  selten — 17x im ganzen Koran
+  صفو              3      17  selten — 17x im ganzen Koran
+  عوذ              1      17  selten — 17x im ganzen Koran
+  نقم              1      17  selten — 17x im ganzen Koran
+  ثبت              1      18  selten — 18x im ganzen Koran
+  خصم              1      18  selten — 18x im ganzen Koran
+  فكر              1      18  selten — 18x im ganzen Koran
+  لدن              2      18  selten — 18x im ganzen Koran
+  ملل              1      18  selten — 18x im ganzen Koran
+  بلد              1      19  selten — 19x im ganzen Koran
+  ثمن              3      19  selten — 19x im ganzen Koran
+  صور              1      19  selten — 19x im ganzen Koran
+  طلع              1      19  selten — 19x im ganzen Koran
+  درج              1      20  selten — 20x im ganzen Koran
+  ربو              1      20  selten — 20x im ganzen Koran
+  مري              1      20  selten — 20x im ganzen Koran
+  نزع              2      20  selten — 20x im ganzen Koran
+  نفخ              1      20  selten — 20x im ganzen Koran
+  حذر              2      21  selten — 21x im ganzen Koran
+  حلم              1      21  selten — 21x im ganzen Koran
+  سنن              1      21  selten — 21x im ganzen Koran
+  كتم              3      21  selten — 21x im ganzen Koran
+  ألف              3      22  selten — 22x im ganzen Koran
+  ترب              1      22  selten — 22x im ganzen Koran
+  فرح              3      22  selten — 22x im ganzen Koran
+  مني              1      22  selten — 22x im ganzen Koran
+  سرع              5      23  selten — 23x im ganzen Koran
+  سرف              1      23  selten — 23x im ganzen Koran
+  لبس              1      23  selten — 23x im ganzen Koran
+  أذي              3      24  selten — 24x im ganzen Koran
+  جهل              1      24  selten — 24x im ganzen Koran
+  ذلل              3      24  selten — 24x im ganzen Koran
+  غضب              1      24  selten — 24x im ganzen Koran
+  فحش              1      24  selten — 24x im ganzen Koran
+  أدم              2      25  selten — 25x im ganzen Koran
+  بطن              2      25  selten — 25x im ganzen Koran
+  حضر              1      25  selten — 25x im ganzen Koran
+  حول              1      25  selten — 25x im ganzen Koran
+  شري              5      25  selten — 25x im ganzen Koran
+  قسط              2      25  selten — 25x im ganzen Koran
+  لسن              1      25  selten — 25x im ganzen Koran
+  وعظ              1      25  selten — 25x im ganzen Koran
+  وهب              3      25  selten — 25x im ganzen Koran
+  خزي              2      26  selten — 26x im ganzen Koran
+  نبت              2      26  selten — 26x im ganzen Koran
+  هون              1      26  selten — 26x im ganzen Koran
+  وضع              4      26  selten — 26x im ganzen Koran
+  سير              1      27  selten — 27x im ganzen Koran
+  غرر              3      27  selten — 27x im ganzen Koran
+  منن              1      27  selten — 27x im ganzen Koran
+  ثوب              7      28  selten — 28x im ganzen Koran
+  حوط              1      28  selten — 28x im ganzen Koran
+  خلو              3      28  selten — 28x im ganzen Koran
+  رفع              1      29  selten — 29x im ganzen Koran
+  صير              2      29  selten — 29x im ganzen Koran
+  طير              2      29  selten — 29x im ganzen Koran
+  غشو              1      29  selten — 29x im ganzen Koran
+  فوز              2      29  selten — 29x im ganzen Koran
+  ودد              3      29  selten — 29x im ganzen Koran
+  أنث              3      30  selten — 30x im ganzen Koran
+  صرف              1      30  selten — 30x im ganzen Koran
+  قصص              1      30  selten — 30x im ganzen Koran
+  هود              1      30  selten — 30x im ganzen Koran
+  بدو              3      31  selten — 31x im ganzen Koran
+  برأ              1      31  selten — 31x im ganzen Koran
+  شرر              1      31  selten — 31x im ganzen Koran
+  طهر              3      31  selten — 31x im ganzen Koran
+  غلب              2      31  selten — 31x im ganzen Koran
+  قعد              3      31  selten — 31x im ganzen Koran
+  هجر              1      31  selten — 31x im ganzen Koran
+  برر              3      32  selten — 32x im ganzen Koran
+  برك              1      32  selten — 32x im ganzen Koran
+  ثلث              2      32  selten — 32x im ganzen Koran
+  عصي              2      32  selten — 32x im ganzen Koran
+  مدد              2      32  selten — 32x im ganzen Koran
+  نصب              1      32  selten — 32x im ganzen Koran
+  وري              1      32  selten — 32x im ganzen Koran
+  وسع              1      32  selten — 32x im ganzen Koran
+  جنب              1      33  selten — 33x im ganzen Koran
+  حجج              7      33  selten — 33x im ganzen Koran
+  كفي              1      33  selten — 33x im ganzen Koran
+  خفي              4      34  selten — 34x im ganzen Koran
+  وثق              2      34  selten — 34x im ganzen Koran
+  عفو              4      35  selten — 35x im ganzen Koran
+  غفل              1      35  selten — 35x im ganzen Koran
+  كيد              1      35  selten — 35x im ganzen Koran
+  ورث              1      35  selten — 35x im ganzen Koran
+  أوي              3      36  selten — 36x im ganzen Koran
+  بطل              2      36  selten — 36x im ganzen Koran
+  ريب              2      36  selten — 36x im ganzen Koran
+  قطع              1      36  selten — 36x im ganzen Koran
+  ألو              1      37  selten — 37x im ganzen Koran
+  نكر              3      37  selten — 37x im ganzen Koran
+  بلو              3      38  selten — 38x im ganzen Koran
+  ذرر              3      38  selten — 38x im ganzen Koran
+  قرر              2      38  selten — 38x im ganzen Koran
+  مرأ              2      38  selten — 38x im ganzen Koran
+  ذنب              7      39  selten — 39x im ganzen Koran
+  سلط              1      39  selten — 39x im ganzen Koran
+  شعر              1      40  selten — 40x im ganzen Koran
+  فلح              3      40  selten — 40x im ganzen Koran
+  ملأ              1      40  selten — 40x im ganzen Koran
+  جهد              1      41  
+  طوف              5      41  
+  كره              1      41  
+  لعن              2      41  
+  حزن              4      42  
+  صدد              1      42  
+  جوب              2      43  
+  حشر              2      43  
+  فوق              1      43  
+  مكر              3      43  
+  دبر              1      44  
+  سرر              1      44  
+  صبح              1      45  
+  صرط              2      45  
+  وذر              1      45  
+  زين              1      46  
+  صدر              5      46  
+  عهد              3      46  
+  أثم              1      48  
+  خشي              1      48  
+  طعم              1      48  
+  قدم              2      48  
+  عقل              2      49  
+  طيب              2      50  
+  فسد              1      50  
+  تحت              4      51  
+  حلل              2      51  
+  خبر              2      52  
+  ضعف              3      52  
+  ندي              3      53  
+  فسق              2      54  
+  دور              1      55  
+  أجل              1      56  
+  ذهب              2      56  
+  نهي              3      56  
+  روح              1      57  
+  عدد              3      57  
+  ضرب              3      58  
+  ردد              2      59  
+  زكو              2      59  
+  ظهر              1      59  
+  نسو              4      59  
+  غيب              2      60  
+  فتن              1      60  
+  فري              2      60  
+  زيد              3      61  
+  مسس              6      61  
+  تلو              6      63  
+  ذوق              3      63  
+  سحر              1      63  
+  قضي              1      63  
+  جري              4      64  
+  خسر              2      65  
+  عين              1      65  
+  وفي              7      66  
+  بعث              1      67  
+  كسب              3      67  
+  حمد              2      68  
+  هلك              1      68  
+  سكن              1      69  
+  ظنن              2      69  
+  علو              4      70  
+  متع              3      70  
+  وكل              5      70  
+  عرف              3      71  
+  يمن              1      71  
+  فرق              7      72  
+  بأس              5      73  
+  بيت              4      73  
+  رضو              3      73  
+  غني              4      73  
+  ضرر              6      74  
+  ألم              5      75  
+  شكر              3      75  
+  كلم              6      75  
+  قلل              4      76  
+  بلغ              2      77  
+  صوب              9      77  
+  وجه              7      78  
+  وحي              1      78  
+  عرض              2      79  
+  عقب              5      80  
+  زوج              1      81  
+  حرم              2      83  
+  سوي              2      83  
+  كيف              5      83  
+  أحد              4      85  
+  مول              3      86  
+  توب              3      87  
+  خلد              6      87  
+  شطن              3      88  
+  ليس              8      89  
+  سبح              2      92  
+  سجد              2      92  
+  ليل              4      92  
+  حبب             16      95  hier gehaeuft (x3.7 gegenueber dem Schnitt)
+  أخو              3      96  
+  بغي              6      96  
+  قرب              3      96  
+  صحب              1      97  
+  صلو              1      99  
+  دين              5     101  
+  أذن              5     102  
+  شدد              3     102  
+  ولد              3     102  
+  صبر              8     103  
+  رجع              4     104  
+  فضل              8     104  
+  عدو              2     106  
+  وجد              2     107  
+  أجر              7     108  
+  فعل              6     108  
+  أكل              3     109  
+  حسب             12     109  
+  نفق              6     111  
+  نهر              8     113  
+  جزي              4     118  
+  أمم              6     119  
+  عزز              6     120  
+  يدي              5     120  
+  بشر              8     123  
+  رزق              4     123  
+  خوف              4     124  
+  أول              6     125  
+  دخل              6     126  
+  أهل             13     127  
+  خلف              7     127  
+  عظم              6     128  
+  جمع              8     129  
+  طوع              8     129  
+  نظر              4     129  
+  نذر              1     130  
+  قدر              4     132  
+  دنو              9     133  
+  سلم             12     140  
+  نعم              7     140  
+  دون              4     144  
+  لقي              7     146  
+  بصر              5     148  
+  رود              6     148  
+  وعد              4     151  
+  غير              8     154  
+  صدق             10     155  
+  بعض              8     158  
+  نصر             16     158  
+  شهد             11     160  
+  نبأ             14     160  
+  كبر              2     161  
+  موت             16     165  
+  سوأ              6     167  
+  كثر              4     167  
+  شرك              5     168  
+  قلب             15     168  
+  مثل              8     169  
+  قتل             21     170  
+  تبع             11     172  
+  سبل              9     176  
+  صلح              5     180  
+  خرج              4     182  
+  بني              6     184  
+  سمع              7     185  
+  حيي             10     189  
+  ضلل              4     191  
+  حسن              9     194  
+  نور             12     194  
+  خير             14     196  
+  جنن              7     201  
+  عند             20     201  
+  ملك             13     206  
+  حكم             12     210  
+  دعو              6     212  
+  ولي             14     232  
+  غفر             16     234  
+  بعد             18     235  
+  أمر             16     248  
+  أخر             14     250  
+  وقي             23     258  
+  خلق              7     261  
+  أخذ              9     273  
+  عبد              7     275  
+  جيأ              9     278  
+  كذب              8     282  
+  حقق             12     287  
+  ذكر              8     292  
+  نزل             16     293  
+  قبل             16     294  
+  نفس             21     298  
+  ظلم             15     315  
+  هدي             11     316  
+  كتب             36     319  
+  رأي              5     328  
+  أنس             19     338  
+  رحم             10     339  
+  جعل              6     346  
+  عمل             14     360  
+  عذب             19     373  
+  كلل             13     377  
+  سمو             12     381  
+  أرض             13     461  
+  يوم             17     475  
+  رسل             18     513  
+  شيأ             32     519  
+  بين             22     523  
+  كفر             43     525  
+  أتي             24     549  
+  أيي             32     597  
+  قوم             20     660  
+  علم             40     854  
+  أمن             60     879  
+  ربب             42     980  
+  كون             55    1390  
+  قول             74    1722  
+  أله            215    2851  
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

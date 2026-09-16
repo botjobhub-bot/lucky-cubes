@@ -1,0 +1,304 @@
+==============================================================================
+SURE 80  —  42 Verse, 92 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [80:1]
+    ۞ عَبَسَ وَتَوَلَّىٰۤ
+    B/E:    Er blickte düster und kehrte sich ab
+    Khoury: Er runzelte die Stirn und kehrte sich ab
+
+  [80:2]
+    أَن جَاۤءَهُ ٱلۡأَعۡمَىٰ
+    B/E:    weil der Blinde zu ihm kam
+    Khoury: Weil der Blinde zu ihm kam
+
+  [80:3]
+    وَمَا یُدۡرِیكَ لَعَلَّهُۥ یَزَّكَّىٰۤ
+    B/E:    Was läßt dich wissen, vielleicht läutert er sich
+    Khoury: Woher sollst du es wissen, vielleicht will er sich läutern
+
+  [80:4]
+    أَوۡ یَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰۤ
+    B/E:    oder bedenkt, so daß ihm die Ermahnung nützt
+    Khoury: Oder bedenken, so daß ihm die Ermahnung nützt
+
+  [80:5]
+    أَمَّا مَنِ ٱسۡتَغۡنَىٰ
+    B/E:    Was nun jemanden angeht, der sich für unbedürftig hält
+    Khoury: Wer sich verhält, als wäre er auf niemanden angewiesen
+
+  [80:6]
+    فَأَنتَ لَهُۥ تَصَدَّىٰ
+    B/E:    so widmest du dich ihm
+    Khoury: Dem widmest du dich
+
+  [80:7]
+    وَمَا عَلَیۡكَ أَلَّا یَزَّكَّىٰ
+    B/E:    obgleich es dich nicht zu kümmern hat, daß er sich nicht läutern will
+    Khoury: Und es kümmert dich nicht, daß er sich nicht läutern will
+
+  [80:8]
+    وَأَمَّا مَن جَاۤءَكَ یَسۡعَىٰ
+    B/E:    Was aber jemanden angeht, der zu dir geeilt kommt
+    Khoury: Wer aber zu dir eilig kommt
+
+  [80:9]
+    وَهُوَ یَخۡشَىٰ
+    B/E:    und dabei gottesfürchtig ist
+    Khoury: Und dabei gottesfürchtig ist
+
+  [80:10]
+    فَأَنتَ عَنۡهُ تَلَهَّىٰ
+    B/E:    von dem läßt du dich ablenken
+    Khoury: Dem schenkst du keine Aufmerksamkeit
+
+  [80:11]
+    كَلَّاۤ إِنَّهَا تَذۡكِرَةࣱ
+    B/E:    Keineswegs! Gewiß, es ist eine Erinnerung
+    Khoury: Nein, es ist eine Erinnerung
+
+  [80:12]
+    فَمَن شَاۤءَ ذَكَرَهُۥ
+    B/E:    Wer nun will, gedenkt seiner
+    Khoury: Wer nun will, gedenkt seiner
+
+  [80:13]
+    فِی صُحُفࣲ مُّكَرَّمَةࣲ
+    B/E:    (Er steht) auf in Ehren gehaltenen Blättern
+    Khoury: (Er steht) auf Blättern, die in Ehren gehalten werden
+
+  [80:14]
+    مَّرۡفُوعَةࣲ مُّطَهَّرَةِۭ
+    B/E:    erhöhten und rein gehaltenen
+    Khoury: Emporgehoben und rein gehalten
+
+  [80:15]
+    بِأَیۡدِی سَفَرَةࣲ
+    B/E:    durch die Hände von Entsandten
+    Khoury: In den Händen von Schreibern
+
+  [80:16]
+    كِرَامِۭ بَرَرَةࣲ
+    B/E:    edlen, frommen
+    Khoury: Die edel und fromm sind
+
+  [80:17]
+    قُتِلَ ٱلۡإِنسَـٰنُ مَاۤ أَكۡفَرَهُۥ
+    B/E:    Tod dem Menschen, wie undankbar er ist
+    Khoury: Dem Tod geweiht sei der Mensch, wie undankbar ist er
+
+  [80:18]
+    مِنۡ أَیِّ شَیۡءٍ خَلَقَهُۥ
+    B/E:    Woraus hat Er ihn erschaffen
+    Khoury: Aus was für einem Stoff hat Er ihn erschaffen
+
+  [80:19]
+    مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ
+    B/E:    Aus einem Samentropfen hat Er ihn erschaffen und ihm dabei sein Maß festgesetzt
+    Khoury: Aus einem Tropfen hat Er ihn erschaffen und ihm sein Maß gesetzt
+
+  [80:20]
+    ثُمَّ ٱلسَّبِیلَ یَسَّرَهُۥ
+    B/E:    Den Weg hierauf macht Er ihm leicht
+    Khoury: Dann macht Er ihm seinen Weg leicht
+
+  [80:21]
+    ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ
+    B/E:    Hierauf läßt Er ihn sterben und bringt ihn dann ins Grab
+    Khoury: Dann läßt Er ihn sterben und bringt ihn ins Grab
+
+  [80:22]
+    ثُمَّ إِذَا شَاۤءَ أَنشَرَهُۥ
+    B/E:    Hierauf, wenn Er will, läßt Er ihn auferstehen
+    Khoury: Dann, wenn Er will, erweckt Er ihn auf
+
+  [80:23]
+    كَلَّا لَمَّا یَقۡضِ مَاۤ أَمَرَهُۥ
+    B/E:    Keineswegs! Er hat noch nicht ausgeführt, was Er ihm befohlen hat
+    Khoury: Nein, er hat noch nicht ausgeführt, was Er ihm befohlen hat
+
+  [80:24]
+    فَلۡیَنظُرِ ٱلۡإِنسَـٰنُ إِلَىٰ طَعَامِهِۦۤ
+    B/E:    So schaue der Mensch doch auf seine Nahrung
+    Khoury: Der Mensch soll auf seine Nahrung schauen
+
+  [80:25]
+    أَنَّا صَبَبۡنَا ٱلۡمَاۤءَ صَبࣰّا
+    B/E:    Wir gießen ja Güsse von Wasser
+    Khoury: Wir gießen doch Wasser in Strömen
+
+  [80:26]
+    ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقࣰّا
+    B/E:    hierauf spalten Wir die Erde in Spalten auf
+    Khoury: Dann spalten Wir die Erde auf
+
+  [80:27]
+    فَأَنۢبَتۡنَا فِیهَا حَبࣰّا
+    B/E:    und lassen dann auf ihr Korn wachsen
+    Khoury: Und lassen auf ihr Korn wachsen
+
+  [80:28]
+    وَعِنَبࣰا وَقَضۡبࣰا
+    B/E:    und Rebstöcke und Grünzeug
+    Khoury: Und Weinstöcke und Gemüse
+
+  [80:29]
+    وَزَیۡتُونࣰا وَنَخۡلࣰا
+    B/E:    und Ölbäume und Palmen
+    Khoury: Und Ölbäume und Palmen
+
+  [80:30]
+    وَحَدَاۤئِقَ غُلۡبࣰا
+    B/E:    und Gärten mit dicken Bäumen
+    Khoury: Und Gärten mit großen dicken Bäumen
+
+  [80:31]
+    وَفَـٰكِهَةࣰ وَأَبࣰّا
+    B/E:    und Früchte und Futter
+    Khoury: Und Früchten und Gras
+
+  [80:32]
+    مَّتَـٰعࣰا لَّكُمۡ وَلِأَنۡعَـٰمِكُمۡ
+    B/E:    als Nießbrauch für euch und für euer Vieh
+    Khoury: Als Nutznießung für euch und euer Vieh
+
+  [80:33]
+    فَإِذَا جَاۤءَتِ ٱلصَّاۤخَّةُ
+    B/E:    Wenn dann der betäubende (Schrei) kommt
+    Khoury: Wenn die ohrenbetäubende (Stunde) kommt
+
+  [80:34]
+    یَوۡمَ یَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِیهِ
+    B/E:    am Tag, da der Mensch flieht vor seinem Bruder
+    Khoury: Am Tag, da einer flieht vor seinem Bruder
+
+  [80:35]
+    وَأُمِّهِۦ وَأَبِیهِ
+    B/E:    und seiner Mutter und seinem Vater
+    Khoury: Und seiner Mutter und seinem Vater
+
+  [80:36]
+    وَصَـٰحِبَتِهِۦ وَبَنِیهِ
+    B/E:    und seiner Gefährtin und seinen Söhnen
+    Khoury: Und seiner Gefährtin und seinen Söhnen
+
+  [80:37]
+    لِكُلِّ ٱمۡرِئࣲ مِّنۡهُمۡ یَوۡمَئِذࣲ شَأۡنࣱ یُغۡنِیهِ
+    B/E:    jedermann von ihnen wird an jenem Tag eine Angelegenheit haben, die ihn beschäftigt
+    Khoury: An jenem Tag hat jeder von ihnen eine Angelegenheit, die ihn voll beansprucht
+
+  [80:38]
+    وُجُوهࣱ یَوۡمَئِذࣲ مُّسۡفِرَةࣱ
+    B/E:    (Die einen) Gesichter werden an jenem Tag erstrahlen
+    Khoury: An jenem Tag wird es strahlende Gesichter geben
+
+  [80:39]
+    ضَاحِكَةࣱ مُّسۡتَبۡشِرَةࣱ
+    B/E:    lachen und sich freuen
+    Khoury: Die lachen und sich freuen
+
+  [80:40]
+    وَوُجُوهࣱ یَوۡمَئِذٍ عَلَیۡهَا غَبَرَةࣱ
+    B/E:    Und auf (den anderen) Gesichtern wird an jenem Tag Staub sein
+    Khoury: Und es wird an jenem Tag Gesichter geben, auf denen Staub liegt
+
+  [80:41]
+    تَرۡهَقُهَا قَتَرَةٌ
+    B/E:    und sie werden von Dunkelheit bedeckt sein
+    Khoury: Und die von Ruß bedeckt sind
+
+  [80:42]
+    أُو۟لَـٰۤئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ
+    B/E:    Das sind die Ungläubigen und Sittenlosen
+    Khoury: Das sind die, die ungläubig und voller Laster sind
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  أبب              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  صخخ              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  قضب              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  صدي              1       2  sehr selten — nur 2x im ganzen Koran
+  حدق              1       3  sehr selten — nur 3x im ganzen Koran
+  عبس              1       3  sehr selten — nur 3x im ganzen Koran
+  شأن              1       4  sehr selten — nur 4x im ganzen Koran
+  صبب              2       5  sehr selten — nur 5x im ganzen Koran
+  قتر              1       5  sehr selten — nur 5x im ganzen Koran
+  زيت              1       7  sehr selten — nur 7x im ganzen Koran
+  غبر              1       8  sehr selten — nur 8x im ganzen Koran
+  قبر              1       8  sehr selten — nur 8x im ganzen Koran
+  صحف              1       9  sehr selten — nur 9x im ganzen Koran
+  رهق              1      10  sehr selten — nur 10x im ganzen Koran
+  ضحك              1      10  sehr selten — nur 10x im ganzen Koran
+  عنب              1      11  selten — 11x im ganzen Koran
+  فرر              1      11  selten — 11x im ganzen Koran
+  سفر              2      12  selten — 12x im ganzen Koran
+  نطف              1      12  selten — 12x im ganzen Koran
+  لهو              1      16  selten — 16x im ganzen Koran
+  فكه              1      19  selten — 19x im ganzen Koran
+  نخل              1      20  selten — 20x im ganzen Koran
+  نشر              1      21  selten — 21x im ganzen Koran
+  فجر              1      24  selten — 24x im ganzen Koran
+  نبت              1      26  selten — 26x im ganzen Koran
+  شقق              2      28  selten — 28x im ganzen Koran
+  دري              1      29  selten — 29x im ganzen Koran
+  رفع              1      29  selten — 29x im ganzen Koran
+  سعي              1      30  selten — 30x im ganzen Koran
+  طهر              1      31  selten — 31x im ganzen Koran
+  غلب              1      31  selten — 31x im ganzen Koran
+  برر              1      32  selten — 32x im ganzen Koran
+  عمي              1      33  selten — 33x im ganzen Koran
+  مرأ              2      38  selten — 38x im ganzen Koran
+  يسر              1      44  
+  كرم              2      47  
+  خشي              1      48  
+  طعم              1      48  
+  نفع              1      50  
+  زكو              2      59  
+  قضي              1      63  
+  موه              1      63  
+  متع              1      70  
+  غني              2      73  
+  وجه              2      78  
+  حبب              1      95  
+  أخو              1      96  
+  صحب              1      97  
+  أبو              1     117  
+  أمم              1     119  
+  يدي              1     120  
+  بشر              1     123  
+  نظر              1     129  
+  قدر              1     132  
+  نعم              1     140  
+  موت              1     165  
+  قتل              1     170  
+  سبل              1     176  
+  بني              1     184  
+  ولي              1     232  
+  أمر              1     248  
+  خلق              2     261  
+  جيأ              3     278  
+  ذكر              4     292  
+  أنس              2     338  
+  كلل              1     377  
+  أرض              1     461  
+  يوم              4     475  
+  شيأ              3     519  
+  كفر              2     525  
+  أيي              1     597  
+
+  ACHTUNG: Diese Sure hat nur 92 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

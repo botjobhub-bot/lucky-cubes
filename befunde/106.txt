@@ -1,0 +1,55 @@
+==============================================================================
+SURE 106  —  4 Verse, 13 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [106:1]
+    لِإِیلَـٰفِ قُرَیۡشٍ
+    B/E:    Für die Vereinigung der Qurais
+    Khoury: Dafür, daß Er die Quraysh zusammenbringt
+
+  [106:2]
+    إِۦلَـٰفِهِمۡ رِحۡلَةَ ٱلشِّتَاۤءِ وَٱلصَّیۡفِ
+    B/E:    ihre Vereinigung während der Reise des Winters und des Sommers
+    Khoury: Daß Er sie zusammenbringt für die Reise des Winters und des Sommers
+
+  [106:3]
+    فَلۡیَعۡبُدُوا۟ رَبَّ هَـٰذَا ٱلۡبَیۡتِ
+    B/E:    So sollen sie dem Herrn dieses Hauses dienen
+    Khoury: Sollen sie dem Herrn dieses Hauses dienen
+
+  [106:4]
+    ٱلَّذِیۤ أَطۡعَمَهُم مِّن جُوعࣲ وَءَامَنَهُم مِّنۡ خَوۡفِۭ
+    B/E:    Der ihnen Speise nach ihrem Hunger gegeben und ihnen Sicherheit nach ihrer Furcht gewährt hat
+    Khoury: Der ihnen Speise gegen den Hunger gibt und Sicherheit gegen die Furcht gewährt
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  شتو              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  صيف              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  قرش              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  رحل              1       4  sehr selten — nur 4x im ganzen Koran
+  جوع              1       5  sehr selten — nur 5x im ganzen Koran
+  ألف              2      22  selten — 22x im ganzen Koran
+  طعم              1      48  
+  بيت              1      73  
+  خوف              1     124  
+  عبد              1     275  
+  أمن              1     879  
+  ربب              1     980  
+
+  ACHTUNG: Diese Sure hat nur 13 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

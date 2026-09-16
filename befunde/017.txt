@@ -1,0 +1,915 @@
+==============================================================================
+SURE 17  —  111 Verse, 1046 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [17:1]
+    ۞ سُبۡحَـٰنَ ٱلَّذِیۤ أَسۡرَىٰ بِعَبۡدِهِۦ لَیۡلࣰا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِی بَـٰرَكۡنَا حَوۡلَهُۥ لِنُرِیَهُۥ مِنۡ ءَایَـٰتِنَاۤۚ إِنَّهُۥ هُوَ ٱلسَّمِیعُ ٱلۡبَصِیرُ
+    B/E:    Preis sei Dem, Der Seinen Diener bei Nacht von der geschützten Gebetsstätte zur fernsten Gebetsstätte, deren Umgebung Wir gesegnet haben, reisen ließ, damit Wir ihm (etwas) von Unseren Zeichen zeigen. Er ist ja der Allhörende, der Allsehende
+    Khoury: Preis sei dem, der seinen Diener bei Nacht von der heiligen Moschee zur fernsten Moschee, die Wir ringsum gesegnet haben, reisen ließ, damit Wir ihm etwas von unseren Zeichen zeigen. Er ist der, der alles hört und sieht
+
+  [17:2]
+    وَءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ وَجَعَلۡنَـٰهُ هُدࣰى لِّبَنِیۤ إِسۡرَ ٰۤءِیلَ أَلَّا تَتَّخِذُوا۟ مِن دُونِی وَكِیلࣰا
+    B/E:    Und Wir gaben Musa die Schrift und machten sie zu einer Rechtleitung für die Kinder Isra’ils: Nehmt euch außer Mir keinen Sachwalter
+    Khoury: Und Wir ließen dem Mose das Buch zukommen und machten es zu einer Rechtleitung für die Kinder Israels: «Nehmt euch außer Mir keinen Sachwalter
+
+  [17:3]
+    ذُرِّیَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدࣰا شَكُورࣰا
+    B/E:    (o ihr,) die Nachkommenschaft derer, die Wir mit Nuh trugen. Gewiß, er war ein dankbarer Diener
+    Khoury: Ihr, die Nachkommenschaft derer, die Wir mit Noach getragen haben. Er war ein dankbarer Diener.»
+
+  [17:4]
+    وَقَضَیۡنَاۤ إِلَىٰ بَنِیۤ إِسۡرَ ٰۤءِیلَ فِی ٱلۡكِتَـٰبِ لَتُفۡسِدُنَّ فِی ٱلۡأَرۡضِ مَرَّتَیۡنِ وَلَتَعۡلُنَّ عُلُوࣰّا كَبِیرࣰا
+    B/E:    Und Wir haben für die Kinder Isra’ils im Buch entschieden: Ihr werdet ganz gewiß zweimal auf der Erde Unheil stiften, und ihr werdet ganz gewiß mächtige Überheblichkeit erlangen
+    Khoury: Und Wir haben für die Kinder Israels im Buch bestimmt: «Wahrlich, ihr werdet zweimal auf der Erde Unheil stiften, und ihr werdet große Macht erringen
+
+  [17:5]
+    فَإِذَا جَاۤءَ وَعۡدُ أُولَىٰهُمَا بَعَثۡنَا عَلَیۡكُمۡ عِبَادࣰا لَّنَاۤ أُو۟لِی بَأۡسࣲ شَدِیدࣲ فَجَاسُوا۟ خِلَـٰلَ ٱلدِّیَارِۚ وَكَانَ وَعۡدࣰا مَّفۡعُولࣰا
+    B/E:    Wenn nun das Versprechen vom ersten der beiden (Male) eintrifft, schicken Wir gegen euch Diener von Uns, die eine starke Gewalt besitzen. Sie dringen zwischen den Wohnstätten hindurch ein, und das ist ein Versprechen, das sicher ausgeführt wird
+    Khoury: Wenn nun die Drohung vom ersten Mal eintrifft, schicken Wir gegen euch Diener von Uns, die eine starke Schlagkraft besitzen. Sie dringen durch die Wohnstätten ein. Und dies ist eine Drohung, die ausgeführt sein wird
+
+  [17:6]
+    ثُمَّ رَدَدۡنَا لَكُمُ ٱلۡكَرَّةَ عَلَیۡهِمۡ وَأَمۡدَدۡنَـٰكُم بِأَمۡوَ ٰلࣲ وَبَنِینَ وَجَعَلۡنَـٰكُمۡ أَكۡثَرَ نَفِیرًا
+    B/E:    Hierauf geben Wir euch wiederum die Oberhand über sie, und Wir unterstützen euch mit Besitz und Söhnen und machen euch zahlreicher
+    Khoury: Dann geben Wir euch wieder die Oberhand über sie, und Wir stehen euch bei mit Vermögen und Söhnen und machen euch zu einer zahlreicheren Schar
+
+  [17:7]
+    إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ فَإِذَا جَاۤءَ وَعۡدُ ٱلۡءَاخِرَةِ لِیَسُـࣳۤءُوا۟ وُجُوهَكُمۡ وَلِیَدۡخُلُوا۟ ٱلۡمَسۡجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةࣲ وَلِیُتَبِّرُوا۟ مَا عَلَوۡا۟ تَتۡبِیرًا
+    B/E:    Wenn ihr Gutes tut, tut ihr Gutes für euch selbst; und wenn ihr Böses tut, ist es (auch) für euch selbst. - Wenn nun das Versprechen vom letzten (Mal) eintrifft, so sollen sie eure Gesichter entstellen und die Gebetsstätte betreten, wie sie diese das erste Mal betraten, und das, worüber sie Macht erlangt haben, völlig zerstören
+    Khoury: Wenn ihr Gutes tut, tut ihr Gutes für euch selbst. Wenn ihr Böses tut, ist es auch für euch selbst. - Wenn dann die Drohung vom letzten Mal eintrifft, (kommen sie), um euch schlimm ins Gesicht zu treffen und die Moschee zu betreten, wie sie sie beim ersten Mal betraten, und das, worüber sie Macht errungen haben, dem völligen Verderben preiszugeben
+
+  [17:8]
+    عَسَىٰ رَبُّكُمۡ أَن یَرۡحَمَكُمۡۚ وَإِنۡ عُدتُّمۡ عُدۡنَاۚ وَجَعَلۡنَا جَهَنَّمَ لِلۡكَـٰفِرِینَ حَصِیرًا
+    B/E:    Vielleicht erbarmt euer Herr Sich eurer; doch wenn ihr (dazu) zurückkehrt, kehren (auch) Wir zurück. Und Wir haben die Hölle für die Ungläubigen zum Gefängnis gemacht
+    Khoury: Möge euer Herr sich euer erbarmen! Und wenn ihr (dazu) zurückkehrt, kehren Wir (auch) zurück. Und Wir haben die Hölle zum Gefängnis für die Ungläubigen gemacht.»
+
+  [17:9]
+    إِنَّ هَـٰذَا ٱلۡقُرۡءَانَ یَهۡدِی لِلَّتِی هِیَ أَقۡوَمُ وَیُبَشِّرُ ٱلۡمُؤۡمِنِینَ ٱلَّذِینَ یَعۡمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمۡ أَجۡرࣰا كَبِیرࣰا
+    B/E:    Gewiß, dieser Qur’an leitet zu dem, was richtiger ist, und verkündet den Gläubigen, die rechtschaffene Werke tun, daß es für sie großen Lohn geben wird
+    Khoury: Dieser Koran leitet zu dem, was richtiger ist, und verkündet den Gläubigen, die die guten Werke tun, daß für sie ein großer Lohn bestimmt ist
+
+  [17:10]
+    وَأَنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡءَاخِرَةِ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِیمࣰا
+    B/E:    und daß Wir denjenigen, die an das Jenseits nicht glauben, schmerzhafte Strafe bereitet haben
+    Khoury: Und daß Wir denen, die an das Jenseits nicht glauben, eine schmerzhafte Pein bereitet haben
+
+  [17:11]
+    وَیَدۡعُ ٱلۡإِنسَـٰنُ بِٱلشَّرِّ دُعَاۤءَهُۥ بِٱلۡخَیۡرِۖ وَكَانَ ٱلۡإِنسَـٰنُ عَجُولࣰا
+    B/E:    Der Mensch ruft (zu Allah) um das Schlechte, wie er um das Gute ruft; der Mensch ist ja stets voreilig
+    Khoury: Der Mensch erbittet das Böse, wie er das Gute erbittet. Der Mensch ist ja eilfertig
+
+  [17:12]
+    وَجَعَلۡنَا ٱلَّیۡلَ وَٱلنَّهَارَ ءَایَتَیۡنِۖ فَمَحَوۡنَاۤ ءَایَةَ ٱلَّیۡلِ وَجَعَلۡنَاۤ ءَایَةَ ٱلنَّهَارِ مُبۡصِرَةࣰ لِّتَبۡتَغُوا۟ فَضۡلࣰا مِّن رَّبِّكُمۡ وَلِتَعۡلَمُوا۟ عَدَدَ ٱلسِّنِینَ وَٱلۡحِسَابَۚ وَكُلَّ شَیۡءࣲ فَصَّلۡنَـٰهُ تَفۡصِیلࣰا
+    B/E:    Und Wir haben die Nacht und den Tag zu zwei Zeichen gemacht. Dann haben Wir das Zeichen der Nacht ausgelöscht und das Zeichen des Tages hell gemacht, damit ihr nach Huld von eurem Herrn trachtet und damit ihr die Zahl der Jahre und die (Zeit)rechnung wißt. Und alles haben Wir ganz ausführlich dargelegt
+    Khoury: Und Wir haben die Nacht und den Tag zu zwei Zeichen gemacht. Das Zeichen der Nacht haben Wir gelöscht, und Wir haben das Zeichen des Tages so gemacht, daß man (an ihm) sehen kann, damit ihr nach einer Huld von eurem Herrn strebt, und damit ihr die Zahl der Jahre und die Zeitrechnung wißt. Jedes Ding haben Wir im einzelnen dargelegt
+
+  [17:13]
+    وَكُلَّ إِنسَـٰنٍ أَلۡزَمۡنَـٰهُ طَـٰۤئِرَهُۥ فِی عُنُقِهِۦۖ وَنُخۡرِجُ لَهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ كِتَـٰبࣰا یَلۡقَىٰهُ مَنشُورًا
+    B/E:    Jedem Menschen haben Wir sein Vorzeichen an seinem Hals befestigt. Und am Tag der Auferstehung bringen Wir ihm ein Buch heraus, das er aufgeschlagen vorfinden wird
+    Khoury: Und jedem Menschen haben Wir sein Omen an seinem Hals befestigt. Und am Tag der Auferstehung holen Wir ihm ein Buch heraus, das er aufgeschlagen vorfindet
+
+  [17:14]
+    ٱقۡرَأۡ كِتَـٰبَكَ كَفَىٰ بِنَفۡسِكَ ٱلۡیَوۡمَ عَلَیۡكَ حَسِیبࣰا
+    B/E:    Lies dein Buch! Du selbst genügst heute als Abrechner über dich
+    Khoury: «Lies dein Buch. Du selbst genügst heute, um mit dir selbst abzurechnen.»
+
+  [17:15]
+    مَّنِ ٱهۡتَدَىٰ فَإِنَّمَا یَهۡتَدِی لِنَفۡسِهِۦۖ وَمَن ضَلَّ فَإِنَّمَا یَضِلُّ عَلَیۡهَاۚ وَلَا تَزِرُ وَازِرَةࣱ وِزۡرَ أُخۡرَىٰۗ وَمَا كُنَّا مُعَذِّبِینَ حَتَّىٰ نَبۡعَثَ رَسُولࣰا
+    B/E:    Wer der Rechtleitung folgt, der ist nur zu seinem eigenen Vorteil rechtgeleitet. Und wer irregeht, der geht nur zu seinem Nachteil irre. Und keine lasttragende (Seele) nimmt die Last einer anderen auf sich. Wir strafen nicht eher, bis Wir einen Gesandten geschickt haben
+    Khoury: Wer der Rechtleitung folgt, folgt ihr zu seinem eigenen Vorteil. Und wer irregeht, der geht irre zu seinem eigenen Schaden. Und keine lasttragende (Seele) trägt die Last einer anderen. Und Wir peinigen nicht, ehe Wir einen Gesandten haben erstehen lassen
+
+  [17:16]
+    وَإِذَاۤ أَرَدۡنَاۤ أَن نُّهۡلِكَ قَرۡیَةً أَمَرۡنَا مُتۡرَفِیهَا فَفَسَقُوا۟ فِیهَا فَحَقَّ عَلَیۡهَا ٱلۡقَوۡلُ فَدَمَّرۡنَـٰهَا تَدۡمِیرࣰا
+    B/E:    Und wenn Wir eine Stadt vernichten wollen, befehlen Wir denjenigen, die in ihr üppig leben (, zu freveln), und dann freveln sie in ihr. So bewahrheitet sich das Wort gegen sie, und dann zerstören Wir sie vollständig
+    Khoury: Und wenn Wir eine Stadt verderben wollen, befehlen Wir denen, die in ihr üppig leben, (zu freveln), und sie freveln in ihr. Somit wird der Spruch zu Recht gegen sie fällig, und Wir zerstören sie vollständig
+
+  [17:17]
+    وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحࣲۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِیرَۢا بَصِیرࣰا
+    B/E:    Wie viele Geschlechter nach Nuh haben Wir vernichtet! Und es genügt, daß dein Herr die Sünden Seiner Diener wohl kennt und sieht
+    Khoury: Und wie viele Generationen nach Noach haben Wir verderben lassen! Dein Herr kennt und sieht die Sünden seiner Diener zur Genüge
+
+  [17:18]
+    مَّن كَانَ یُرِیدُ ٱلۡعَاجِلَةَ عَجَّلۡنَا لَهُۥ فِیهَا مَا نَشَاۤءُ لِمَن نُّرِیدُ ثُمَّ جَعَلۡنَا لَهُۥ جَهَنَّمَ یَصۡلَىٰهَا مَذۡمُومࣰا مَّدۡحُورࣰا
+    B/E:    Wer immer das schnell Eintreffende will, dem gewähren Wir darin schnell, was Wir wollen - demjenigen, den Wir wollen; hierauf haben Wir für ihn die Hölle bestimmt, der er ausgesetzt sein wird, mit Vorwürfen behaftet und verstoßen
+    Khoury: Wer das schnell Eintreffende will, dem gewähren Wir darin schnell, was Wir wollen - dem, den Wir wollen. Dann bestimmen Wir für ihn die Hölle; darin wird er brennen, gescholten und verstoßen
+
+  [17:19]
+    وَمَنۡ أَرَادَ ٱلۡءَاخِرَةَ وَسَعَىٰ لَهَا سَعۡیَهَا وَهُوَ مُؤۡمِنࣱ فَأُو۟لَـٰۤئِكَ كَانَ سَعۡیُهُم مَّشۡكُورࣰا
+    B/E:    Wer das Jenseits will und sich darum bemüht, wie es ihm zusteht, wobei er gläubig ist, - denen wird für ihr Bemühen gedankt
+    Khoury: Denen, die das Jenseits wollen und sich entsprechend darum bemühen, wobei sie gläubig sind, denen wird für ihr Mühen gedankt
+
+  [17:20]
+    كُلࣰّا نُّمِدُّ هَـٰۤؤُلَاۤءِ وَهَـٰۤؤُلَاۤءِ مِنۡ عَطَاۤءِ رَبِّكَۚ وَمَا كَانَ عَطَاۤءُ رَبِّكَ مَحۡظُورًا
+    B/E:    Sie alle, diese und jene, unterstützen Wir mit etwas von der Gabe deines Herrn. Und die Gabe deines Herrn wird nicht verwehrt
+    Khoury: Ihnen allen, diesen und jenen, stehen Wir bei mit etwas von der Gabe deines Herrn. Die Gabe deines Herrn wird nicht verwehrt
+
+  [17:21]
+    ٱنظُرۡ كَیۡفَ فَضَّلۡنَا بَعۡضَهُمۡ عَلَىٰ بَعۡضࣲۚ وَلَلۡءَاخِرَةُ أَكۡبَرُ دَرَجَـٰتࣲ وَأَكۡبَرُ تَفۡضِیلࣰا
+    B/E:    Schau, wie Wir die einen von ihnen vor den anderen auszeichnen; aber das Jenseits ist wahrlich größer an Rangstufen und größer an Auszeichnungen
+    Khoury: Schau, wie Wir die einen von ihnen vor den anderen bevorzugen. Im Jenseits gibt es sicher höhere Rangstufen und größere Auszeichnungen
+
+  [17:22]
+    لَّا تَجۡعَلۡ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَقۡعُدَ مَذۡمُومࣰا مَّخۡذُولࣰا
+    B/E:    Setze neben Allah keinen anderen Gott, sonst wirst du gescholten und im Stich gelassen dasitzen
+    Khoury: Setze Gott keinen anderen Gott zur Seite, sonst wirst du dasitzen, gescholten und im Stich gelassen
+
+  [17:23]
+    ۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوۤا۟ إِلَّاۤ إِیَّاهُ وَبِٱلۡوَ ٰلِدَیۡنِ إِحۡسَـٰنًاۚ إِمَّا یَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَاۤ أَوۡ كِلَاهُمَا فَلَا تَقُل لَّهُمَاۤ أُفࣲّ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلࣰا كَرِیمࣰا
+    B/E:    Und dein Herr hat bestimmt, daß ihr nur Ihm dienen und zu den Eltern gütig sein sollt. Wenn nun einer von ihnen oder beide bei dir ein hohes Alter erreichen, so sag nicht zu ihnen: Pfui! und fahre sie nicht an, sondern sag zu ihnen ehrerbietige Worte
+    Khoury: Und dein Herr hat bestimmt, daß ihr nur Ihm dienen sollt, und daß man die Eltern gut behandeln soll. Wenn eines von ihnen oder beide bei dir ein hohes Alter erreichen, so sag nicht zu ihnen: «Pfui!», und fahre sie nicht an, sondern sprich zu ihnen ehrerbietige Worte
+
+  [17:24]
+    وَٱخۡفِضۡ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحۡمَةِ وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّیَانِی صَغِیرࣰا
+    B/E:    Und senke für sie aus Barmherzigkeit den Flügel der Demut und sag: Mein Herr, erbarme Dich ihrer, wie sie mich aufgezogen haben, als ich klein war
+    Khoury: Und senke für sie aus Barmherzigkeit den Flügel der Untergebenheit und sag: «Mein Herr, erbarme dich ihrer, wie sie mich aufgezogen haben, als ich klein war.»
+
+  [17:25]
+    رَّبُّكُمۡ أَعۡلَمُ بِمَا فِی نُفُوسِكُمۡۚ إِن تَكُونُوا۟ صَـٰلِحِینَ فَإِنَّهُۥ كَانَ لِلۡأَوَّ ٰبِینَ غَفُورࣰا
+    B/E:    Euer Herr weiß sehr wohl, was in eurem Innersten ist. Wenn ihr rechtschaffen seid, so ist Er gewiß für die sich (zu Ihm) stets Bekehrenden Allvergebend
+    Khoury: Euer Herr weiß besser, was in eurem Inneren ist. Wenn ihr rechtschaffen seid, so ist Er für die, die immer wieder umkehren, voller Vergebung
+
+  [17:26]
+    وَءَاتِ ذَا ٱلۡقُرۡبَىٰ حَقَّهُۥ وَٱلۡمِسۡكِینَ وَٱبۡنَ ٱلسَّبِیلِ وَلَا تُبَذِّرۡ تَبۡذِیرًا
+    B/E:    Und gib dem Verwandten sein Recht, ebenso dem Armen und dem Sohn des Weges. Und handle nicht ganz verschwenderisch
+    Khoury: Und laß dem Verwandten sein Recht zukommen, ebenso dem Bedürftigen und dem Reisenden, aber handle nicht ganz verschwenderisch
+
+  [17:27]
+    إِنَّ ٱلۡمُبَذِّرِینَ كَانُوۤا۟ إِخۡوَ ٰنَ ٱلشَّیَـٰطِینِۖ وَكَانَ ٱلشَّیۡطَـٰنُ لِرَبِّهِۦ كَفُورࣰا
+    B/E:    Gewiß, die Verschwender sind die Brüder der Satane; und der Satan ist gegenüber seinem Herrn sehr undankbar
+    Khoury: Diejenigen, die verschwenderisch sind, sind Brüder der Satane; und der Satan ist gegenüber seinem Herrn sehr undankbar
+
+  [17:28]
+    وَإِمَّا تُعۡرِضَنَّ عَنۡهُمُ ٱبۡتِغَاۤءَ رَحۡمَةࣲ مِّن رَّبِّكَ تَرۡجُوهَا فَقُل لَّهُمۡ قَوۡلࣰا مَّیۡسُورࣰا
+    B/E:    Doch wenn du dich nun von ihnen abwendest - im Trachten nach einer Barmherzigkeit von deinem Herrn, die du dir erhoffst -, so sag zu ihnen milde Worte
+    Khoury: Und falls du dich von ihnen abwendest im Streben nach einer von dir erhofften Barmherzigkeit von deinem Herrn, so sprich zu ihnen milde Worte
+
+  [17:29]
+    وَلَا تَجۡعَلۡ یَدَكَ مَغۡلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبۡسُطۡهَا كُلَّ ٱلۡبَسۡطِ فَتَقۡعُدَ مَلُومࣰا مَّحۡسُورًا
+    B/E:    Und lasse deine Hand nicht an deinem Hals gefesselt sein, strecke sie aber auch nicht vollständig aus, sonst würdest du getadelt und (aller Mittel) entblößt dasitzen
+    Khoury: Und laß deine Hand nicht an deinem Hals gefesselt sein, aber strecke sie auch nicht vollständig aus. Sonst würdest du getadelt und verarmt dasitzen
+
+  [17:30]
+    إِنَّ رَبَّكَ یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ وَیَقۡدِرُۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِیرَۢا بَصِیرࣰا
+    B/E:    Gewiß, dein Herr gewährt die Versorgung großzügig, wem Er will, und bemißt auch. Gewiß, Er kennt und sieht Seine Diener wohl
+    Khoury: Dein Herr teilt den Lebensunterhalt großzügig, wem Er will, und auch bemessen zu. Er hat Kenntnis von seinen Dienern, und Er sieht sie wohl
+
+  [17:31]
+    وَلَا تَقۡتُلُوۤا۟ أَوۡلَـٰدَكُمۡ خَشۡیَةَ إِمۡلَـٰقࣲۖ نَّحۡنُ نَرۡزُقُهُمۡ وَإِیَّاكُمۡۚ إِنَّ قَتۡلَهُمۡ كَانَ خِطۡءࣰا كَبِیرࣰا
+    B/E:    Und tötet nicht eure Kinder aus Furcht vor Verarmung; Wir versorgen sie und auch euch. Gewiß, sie zu töten ist ein großes Vergehen
+    Khoury: Und tötet nicht eure Kinder aus Furcht vor Verarmung. Ihnen und euch bescheren Wir doch den Lebensunterhalt. Sie töten ist eine große Sünde
+
+  [17:32]
+    وَلَا تَقۡرَبُوا۟ ٱلزِّنَىٰۤۖ إِنَّهُۥ كَانَ فَـٰحِشَةࣰ وَسَاۤءَ سَبِیلࣰا
+    B/E:    Und nähert euch nicht der Unzucht. Gewiß, sie ist etwas Abscheuliches - und wie böse ist der Weg
+    Khoury: Und nähert euch nicht der Unzucht. Sie ist etwas Schändliches, und sie ist ein übler Weg
+
+  [17:33]
+    وَلَا تَقۡتُلُوا۟ ٱلنَّفۡسَ ٱلَّتِی حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّۗ وَمَن قُتِلَ مَظۡلُومࣰا فَقَدۡ جَعَلۡنَا لِوَلِیِّهِۦ سُلۡطَـٰنࣰا فَلَا یُسۡرِف فِّی ٱلۡقَتۡلِۖ إِنَّهُۥ كَانَ مَنصُورࣰا
+    B/E:    Und tötet nicht die Seele, die Allah verboten hat (zu töten), außer aus einem rechtmäßigen Grund. Wer ungerechterweise getötet wird, dessen nächstem Verwandten haben Wir Ermächtigung erteilt (, Recht einzufordern); doch soll er nicht maßlos im Töten sein, denn ihm wird gewiß geholfen
+    Khoury: Und tötet nicht den Menschen, den Gott für unantastbar erklärt hat, es sei denn bei vorliegender Berechtigung. Wird jemand ungerechterweise getötet, so geben Wir seinem nächsten Verwandten Vollmacht (ihn zu rächen). Nur soll er nicht maßlos im Töten sein; siehe, er wird Beistand finden
+
+  [17:34]
+    وَلَا تَقۡرَبُوا۟ مَالَ ٱلۡیَتِیمِ إِلَّا بِٱلَّتِی هِیَ أَحۡسَنُ حَتَّىٰ یَبۡلُغَ أَشُدَّهُۥۚ وَأَوۡفُوا۟ بِٱلۡعَهۡدِۖ إِنَّ ٱلۡعَهۡدَ كَانَ مَسۡءُولࣰا
+    B/E:    Und nähert euch nicht dem Besitz des Waisenkindes, außer auf die beste Art, bis es seine Vollreife erlangt hat. Und erfüllt die (eingegangene) Verpflichtung. Gewiß, nach der (Erfüllung der) Verpflichtung wird gefragt werden
+    Khoury: Und nähert euch nicht dem Vermögen des Waisenkindes, es sei denn auf die beste Art, bis es seine Vollkraft erreicht hat. Und erfüllt eingegangene Verpflichtungen. Ober die Verpflichtungen wird Rechenschaft gefordert
+
+  [17:35]
+    وَأَوۡفُوا۟ ٱلۡكَیۡلَ إِذَا كِلۡتُمۡ وَزِنُوا۟ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِیمِۚ ذَ ٰلِكَ خَیۡرࣱ وَأَحۡسَنُ تَأۡوِیلࣰا
+    B/E:    Und gebt volles Maß, wenn ihr meßt, und wägt mit der richtigen Waage; das ist besser und eher ein guter Ausgang
+    Khoury: Und gebt volles Maß, wenn ihr meßt. Und wägt mit der richtigen Waage. Das ist besser und führt zu einem schöneren Ergebnis
+
+  [17:36]
+    وَلَا تَقۡفُ مَا لَیۡسَ لَكَ بِهِۦ عِلۡمٌۚ إِنَّ ٱلسَّمۡعَ وَٱلۡبَصَرَ وَٱلۡفُؤَادَ كُلُّ أُو۟لَـٰۤئِكَ كَانَ عَنۡهُ مَسۡءُولࣰا
+    B/E:    Und verfolge nicht das, wovon du kein Wissen hast. Gewiß, Gehör, Augenlicht und Herz, - all diese -, danach wird gefragt werden
+    Khoury: Und verfolge nicht das, wovon du kein Wissen hast. Ober Gehör, Augenlicht und Herz, über all das wird Rechenschaft gefordert
+
+  [17:37]
+    وَلَا تَمۡشِ فِی ٱلۡأَرۡضِ مَرَحًاۖ إِنَّكَ لَن تَخۡرِقَ ٱلۡأَرۡضَ وَلَن تَبۡلُغَ ٱلۡجِبَالَ طُولࣰا
+    B/E:    Und gehe nicht übermütig auf der Erde einher. Du wirst ja die Erde nicht aufreißen noch die Berge an Höhe erreichen (können)
+    Khoury: Und schreite nicht unbekümmert auf der Erde einher. Du wirst ja die Erde nicht durchbohren und die Berge an Höhe nicht erreichen können
+
+  [17:38]
+    كُلُّ ذَ ٰلِكَ كَانَ سَیِّئُهُۥ عِندَ رَبِّكَ مَكۡرُوهࣰا
+    B/E:    Das schlechte (Verhalten) in alledem ist bei deinem Herrn verabscheut
+    Khoury: Das schlechte Verhalten in alledem ist bei deinem Herrn verpönt
+
+  [17:39]
+    ذَ ٰلِكَ مِمَّاۤ أَوۡحَىٰۤ إِلَیۡكَ رَبُّكَ مِنَ ٱلۡحِكۡمَةِۗ وَلَا تَجۡعَلۡ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتُلۡقَىٰ فِی جَهَنَّمَ مَلُومࣰا مَّدۡحُورًا
+    B/E:    Das ist etwas von dem, was dir dein Herr an Weisheit (als Offenbarung) eingegeben hat. Und setze neben Allah keinen anderen Gott, sonst wirst du in die Hölle geworfen, getadelt und verstoßen
+    Khoury: Das ist etwas von dem, was dir dein Herr an Weisheit offenbart hat. Und setze Gott keinen anderen Gott zur Seite, sonst wirst du in die Hölle geworfen, getadelt und verstoßen
+
+  [17:40]
+    أَفَأَصۡفَىٰكُمۡ رَبُّكُم بِٱلۡبَنِینَ وَٱتَّخَذَ مِنَ ٱلۡمَلَـٰۤئِكَةِ إِنَـٰثًاۚ إِنَّكُمۡ لَتَقُولُونَ قَوۡلًا عَظِیمࣰا
+    B/E:    Hat denn euer Herr für euch die Söhne erwählt und Sich selbst unter den Engeln Töchter genommen? Ihr sagt da fürwahr ein gewaltiges Wort
+    Khoury: Hat denn euer Herr für euch die Söhne erwählt und sich selbst aus den Reihen der Engel Töchter genommen? Ihr sagt da etwas Ungeheuerliches
+
+  [17:41]
+    وَلَقَدۡ صَرَّفۡنَا فِی هَـٰذَا ٱلۡقُرۡءَانِ لِیَذَّكَّرُوا۟ وَمَا یَزِیدُهُمۡ إِلَّا نُفُورࣰا
+    B/E:    Wir haben doch in diesem Qur’an (die Botschaft) verschiedenartig dargelegt, damit sie bedenken, doch mehrt dies ihnen nur die Abneigung
+    Khoury: Wir haben in diesem Koran (die Botschaft) auf verschiedene Weise dargestellt, damit sie es bedenken. Aber das mehrt in ihnen nur die Abneigung
+
+  [17:42]
+    قُل لَّوۡ كَانَ مَعَهُۥۤ ءَالِهَةࣱ كَمَا یَقُولُونَ إِذࣰا لَّٱبۡتَغَوۡا۟ إِلَىٰ ذِی ٱلۡعَرۡشِ سَبِیلࣰا
+    B/E:    Sag: Wenn es neben Ihm noch (andere) Götter gäbe, wie sie sagen, dann würden sie wahrlich nach einem Weg zum Besitzer des Thrones trachten
+    Khoury: Sprich: Gäbe es neben Ihm noch (andere) Götter, wie sie sagen, dann würden sie nach einem Weg suchen, zum Herrn des Thrones zu gelangen
+
+  [17:43]
+    سُبۡحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا یَقُولُونَ عُلُوࣰّا كَبِیرࣰا
+    B/E:    Preis sei Ihm! Überaus hoch Erhaben ist Er über das, was sie sagen
+    Khoury: Preis sei Ihm, und überaus hoch erhaben ist Er über das, was sie sagen
+
+  [17:44]
+    تُسَبِّحُ لَهُ ٱلسَّمَـٰوَ ٰتُ ٱلسَّبۡعُ وَٱلۡأَرۡضُ وَمَن فِیهِنَّۚ وَإِن مِّن شَیۡءٍ إِلَّا یُسَبِّحُ بِحَمۡدِهِۦ وَلَـٰكِن لَّا تَفۡقَهُونَ تَسۡبِیحَهُمۡۚ إِنَّهُۥ كَانَ حَلِیمًا غَفُورࣰا
+    B/E:    Ihn preisen die sieben Himmel und die Erde, und wer in ihnen ist. Es gibt nichts, was Ihn nicht lobpreist; ihr aber versteht ihr Preisen nicht. Gewiß, Er ist Nachsichtig und Allvergebend
+    Khoury: Ihn preisen die sieben Himmel und die Erde, und wer in ihnen ist. Es gibt nichts, was nicht sein Lob singen würde. Aber ihr begreift ihren Preisgesang nicht. Er ist langmütig und voller Vergebung
+
+  [17:45]
+    وَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ جَعَلۡنَا بَیۡنَكَ وَبَیۡنَ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡءَاخِرَةِ حِجَابࣰا مَّسۡتُورࣰا
+    B/E:    Wenn du den Qur’an vorträgst, machen Wir zwischen dir und denjenigen, die an das Jenseits nicht glauben, einen unsichtbaren Vorhang
+    Khoury: Und wenn du den Koran verliest, stellen Wir zwischen dich und die, die an das Jenseits nicht glauben, einen unsichtbaren Vorhang
+
+  [17:46]
+    وَجَعَلۡنَا عَلَىٰ قُلُوبِهِمۡ أَكِنَّةً أَن یَفۡقَهُوهُ وَفِیۤ ءَاذَانِهِمۡ وَقۡرࣰاۚ وَإِذَا ذَكَرۡتَ رَبَّكَ فِی ٱلۡقُرۡءَانِ وَحۡدَهُۥ وَلَّوۡا۟ عَلَىٰۤ أَدۡبَـٰرِهِمۡ نُفُورࣰا
+    B/E:    Und Wir legen auf ihre Herzen Hüllen, so daß sie ihn nicht verstehen, und in ihre Ohren Schwerhörigkeit. Und wenn du im Qur’an deinen Herrn allein (ohne ihre Götter) erwähnst, kehren sie aus Abneigung den Rücken
+    Khoury: Und Wir legen auf ihre Herzen Hüllen, so daß sie ihn nicht begreifen, und in ihre Ohren Schwerhörigkeit. Und wenn du im Koran allein deinen Herrn erwähnst, kehren sie aus Abneigung den Rücken
+
+  [17:47]
+    نَّحۡنُ أَعۡلَمُ بِمَا یَسۡتَمِعُونَ بِهِۦۤ إِذۡ یَسۡتَمِعُونَ إِلَیۡكَ وَإِذۡ هُمۡ نَجۡوَىٰۤ إِذۡ یَقُولُ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلࣰا مَّسۡحُورًا
+    B/E:    Wir wissen sehr wohl, worauf sie hören, wenn sie dir zuhören und (auch) wenn sie sich in vertraulichen Gesprächen befinden, wenn die Ungerechten sagen: „Ihr folgt doch nur einem Mann, der einem Zauber verfallen ist
+    Khoury: Wir wissen besser, womit sie zuhören, wenn sie dir zuhören, und (auch) wenn sie sich in vertraulichem Gespräch befinden, da die, die Unrecht tun, sagen: «Ihr folgt doch nur einem Mann, der einem Zauber verfallen ist.»
+
+  [17:48]
+    ٱنظُرۡ كَیۡفَ ضَرَبُوا۟ لَكَ ٱلۡأَمۡثَالَ فَضَلُّوا۟ فَلَا یَسۡتَطِیعُونَ سَبِیلࣰا
+    B/E:    Schau, wie sie dir Gleichnisse prägen, und so sind sie abgeirrt, daß sie keinen Weg (mehr) finden können
+    Khoury: Schau, wie sie dir Gleichnisse anführen, und so abgeirrt sind, daß sie keinen Weg mehr finden
+
+  [17:49]
+    وَقَالُوۤا۟ أَءِذَا كُنَّا عِظَـٰمࣰا وَرُفَـٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقࣰا جَدِیدࣰا
+    B/E:    Und sie sagen: „Sollen wir etwa, wenn wir (bereits) Knochen und Überreste geworden sind, denn wirklich als neue Schöpfung auferweckt werden
+    Khoury: Und sie sagen: «Sollen wir, wenn wir (bereits) Knochen geworden und auseinandergefallen sind, wirklich wieder als neue Schöpfung erweckt werden?»
+
+  [17:50]
+    ۞ قُلۡ كُونُوا۟ حِجَارَةً أَوۡ حَدِیدًا
+    B/E:    Sag: „Seid Steine oder Eisen
+    Khoury: Sprich: «(Ja), ob ihr nun Steine oder Eisen seid
+
+  [17:51]
+    أَوۡ خَلۡقࣰا مِّمَّا یَكۡبُرُ فِی صُدُورِكُمۡۚ فَسَیَقُولُونَ مَن یُعِیدُنَاۖ قُلِ ٱلَّذِی فَطَرَكُمۡ أَوَّلَ مَرَّةࣲۚ فَسَیُنۡغِضُونَ إِلَیۡكَ رُءُوسَهُمۡ وَیَقُولُونَ مَتَىٰ هُوَۖ قُلۡ عَسَىٰۤ أَن یَكُونَ قَرِیبࣰا
+    B/E:    oder etwas Erschaffenes von der Art, die in eurer Vorstellung noch schwerwiegender wäre. Dann werden sie sagen: „Wer wird uns (ins Leben) zurückbringen? Sag: „Derjenige, Der euch das erste Mal erschaffen hat. Dann werden sie vor dir die Köpfe schütteln und sagen: ,,Wann wird das sein? Sag: „Vielleicht wird es bald sein
+    Khoury: Oder etwas Erschaffenes von der Art, die in eurer Vorstellung kaum möglich wäre.» Sie werden sagen: «Wer wird uns (ins Leben) zurückbringen?» Sprich: «Der, der euch das erste Mal erschaffen hat.» Dann werden sie vor dir den Kopf schütteln und sagen: «Wann wird das sein?» Sprich: «Vielleicht wird es bald sein
+
+  [17:52]
+    یَوۡمَ یَدۡعُوكُمۡ فَتَسۡتَجِیبُونَ بِحَمۡدِهِۦ وَتَظُنُّونَ إِن لَّبِثۡتُمۡ إِلَّا قَلِیلࣰا
+    B/E:    Am Tag, da Er euch rufen wird und da ihr mit Seinem Lob antworten und meinen werdet, ihr hättet nur ein wenig verweilt
+    Khoury: Am Tag, da Er euch rufen wird, und da ihr mit seinem Lob antworten und meinen werdet, ihr hättet nur ein wenig verweilt.»
+
+  [17:53]
+    وَقُل لِّعِبَادِی یَقُولُوا۟ ٱلَّتِی هِیَ أَحۡسَنُۚ إِنَّ ٱلشَّیۡطَـٰنَ یَنزَغُ بَیۡنَهُمۡۚ إِنَّ ٱلشَّیۡطَـٰنَ كَانَ لِلۡإِنسَـٰنِ عَدُوࣰّا مُّبِینࣰا
+    B/E:    Und sag Meinen Dienern, sie sollen das, was am besten ist, sagen. Gewiß, der Satan stachelt zwischen ihnen (zu Zwietracht) auf. Der Satan ist ja dem Menschen ein deutlicher Feind
+    Khoury: Und sag meinen Dienern, sie sollen die besten Worte sprechen. Der Satan stachelt zwischen ihnen auf. Der Satan ist dem Menschen ein offenkundiger Feind
+
+  [17:54]
+    رَّبُّكُمۡ أَعۡلَمُ بِكُمۡۖ إِن یَشَأۡ یَرۡحَمۡكُمۡ أَوۡ إِن یَشَأۡ یُعَذِّبۡكُمۡۚ وَمَاۤ أَرۡسَلۡنَـٰكَ عَلَیۡهِمۡ وَكِیلࣰا
+    B/E:    Euer Herr kennt euch sehr wohl; wenn Er will, erbarmt Er Sich eurer, oder wenn Er will, straft Er euch. Und Wir haben dich nicht als Sachwalter über sie gesandt
+    Khoury: Euer Herr weiß besser über euch Bescheid. Wenn Er will, erbarmt Er sich euer, und wenn Er will, peinigt Er euch. Und Wir haben dich nicht als Sachwalter über sie gesandt
+
+  [17:55]
+    وَرَبُّكَ أَعۡلَمُ بِمَن فِی ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِۗ وَلَقَدۡ فَضَّلۡنَا بَعۡضَ ٱلنَّبِیِّـۧنَ عَلَىٰ بَعۡضࣲۖ وَءَاتَیۡنَا دَاوُۥدَ زَبُورࣰا
+    B/E:    Und dein Herr kennt diejenigen sehr wohl, die in den Himmeln und auf der Erde sind. Und Wir haben ja einige der Propheten vor anderen bevorzugt. Und Dawud haben Wir ein Buch der Weisheit gegeben
+    Khoury: Und dein Herr weiß besser über die Bescheid, die in den Himmeln und auf der Erde sind. Und Wir haben einige der Propheten vor den anderen bevorzugt. Und Wir haben David eine Schrift zukommen lassen
+
+  [17:56]
+    قُلِ ٱدۡعُوا۟ ٱلَّذِینَ زَعَمۡتُم مِّن دُونِهِۦ فَلَا یَمۡلِكُونَ كَشۡفَ ٱلضُّرِّ عَنكُمۡ وَلَا تَحۡوِیلًا
+    B/E:    Sag: Ruft diejenigen an, die ihr außer Ihm angebt; sie vermögen doch von euch das Unheil weder hinwegzunehmen noch abzuwenden
+    Khoury: Sprich: Ruft die, die ihr anstelle Gottes angebt, an. Sie vermögen doch von euch den Schaden weder zu beheben noch abzuwenden
+
+  [17:57]
+    أُو۟لَـٰۤئِكَ ٱلَّذِینَ یَدۡعُونَ یَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِیلَةَ أَیُّهُمۡ أَقۡرَبُ وَیَرۡجُونَ رَحۡمَتَهُۥ وَیَخَافُونَ عَذَابَهُۥۤۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورࣰا
+    B/E:    Diejenigen, die sie anrufen, trachten nach einem Mittel zu ihrem Herrn (und wetteifern), wer von ihnen (Ihm) am nächsten sei, und hoffen auf Seine Barmherzigkeit und fürchten Seine Strafe. Gewiß, die Strafe deines Herrn ist furchtbar
+    Khoury: Jene, die sie anrufen, suchen selbst ein Mittel, zu ihrem Herrn zu gelangen, (und wetteifern), wer von ihnen am nächsten sei; und sie hoffen auf seine Barmherzigkeit und haben Angst vor seiner Pein. Die Pein deines Herrn ist etwas, wovor man auf der Hut sein muß
+
+  [17:58]
+    وَإِن مِّن قَرۡیَةٍ إِلَّا نَحۡنُ مُهۡلِكُوهَا قَبۡلَ یَوۡمِ ٱلۡقِیَـٰمَةِ أَوۡ مُعَذِّبُوهَا عَذَابࣰا شَدِیدࣰاۚ كَانَ ذَ ٰلِكَ فِی ٱلۡكِتَـٰبِ مَسۡطُورࣰا
+    B/E:    Und es gibt keine Stadt, die Wir nicht vor dem Tag der Auferstehung vernichten oder mit strenger Strafe strafen werden. Dies steht im Buch (der Vorsehung) verzeichnet
+    Khoury: Und es gibt keine Stadt, die Wir nicht vor dem Tag der Auferstehung verderben oder mit einer harten Pein peinigen würden. Dies steht im Buch zeilenweise niedergeschrieben
+
+  [17:59]
+    وَمَا مَنَعَنَاۤ أَن نُّرۡسِلَ بِٱلۡءَایَـٰتِ إِلَّاۤ أَن كَذَّبَ بِهَا ٱلۡأَوَّلُونَۚ وَءَاتَیۡنَا ثَمُودَ ٱلنَّاقَةَ مُبۡصِرَةࣰ فَظَلَمُوا۟ بِهَاۚ وَمَا نُرۡسِلُ بِٱلۡءَایَـٰتِ إِلَّا تَخۡوِیفࣰا
+    B/E:    Und nichts (anderes) hat Uns davon abgehalten, die Zeichen (mit den Propheten) zu senden, als daß die Früheren sie für Lüge erklärten. Und Wir gaben den Tamud die deutlich sichtbare Kamelstute, sie aber taten an ihr Unrecht. Und Wir senden die Zeichen (mit den Propheten) nur, um Furcht einzuflößen
+    Khoury: Und nichts anderes hinderte Uns daran, (Propheten) mit den Zeichen zu senden, als daß die Früheren sie für Lüge erklärten. Und Wir ließen den Thamud die Kamelstute als sichtbares Zeichen zukommen. Sie aber handelten an ihr ungerecht. Und Wir senden (die Propheten) mit den Zeichen nur zur Abschreckung
+
+  [17:60]
+    وَإِذۡ قُلۡنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِۚ وَمَا جَعَلۡنَا ٱلرُّءۡیَا ٱلَّتِیۤ أَرَیۡنَـٰكَ إِلَّا فِتۡنَةࣰ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلۡمَلۡعُونَةَ فِی ٱلۡقُرۡءَانِۚ وَنُخَوِّفُهُمۡ فَمَا یَزِیدُهُمۡ إِلَّا طُغۡیَـٰنࣰا كَبِیرࣰا
+    B/E:    Und als Wir zu dir sagten: „Gewiß, dein Herr umfaßt die Menschen. Und Wir haben das Gesicht, das Wir dich sehen ließen, nur zu einer Versuchung für die Menschen gemacht, und (ebenso) den verfluchten Baum im Qur’an. Wir flößen ihnen Furcht ein, doch mehrt ihnen dies nur das Übermaß an Auflehnung
+    Khoury: Und als Wir zu dir sprachen: «Dein Herr umfängt die Menschen.» Und Wir haben das Traumgesicht, das Wir dich sehen ließen, nur zu einer Versuchung für die Menschen gemacht, ebenso den verfluchten Baum im Koran. Wir machen ihnen angst, aber es steigert bei ihnen nur um so mehr das Übermaß ihres Frevels
+
+  [17:61]
+    وَإِذۡ قُلۡنَا لِلۡمَلَـٰۤئِكَةِ ٱسۡجُدُوا۟ لِءَادَمَ فَسَجَدُوۤا۟ إِلَّاۤ إِبۡلِیسَ قَالَ ءَأَسۡجُدُ لِمَنۡ خَلَقۡتَ طِینࣰا
+    B/E:    Und als Wir zu den Engeln sagten: „Werft euch vor Adam nieder. Da warfen sie sich nieder, außer Iblis. Er sagte: „Soll ich mich vor jemandem niederwerfen, den Du aus Lehm erschaffen hast
+    Khoury: Und als Wir zu den Engeln sprachen: «Werft euch vor Adam nieder.» Da warfen sie sich nieder, außer Iblis. Er sagte: «Soll ich mich vor dem niederwerfen, den Du aus Ton erschaffen hast?»
+
+  [17:62]
+    قَالَ أَرَءَیۡتَكَ هَـٰذَا ٱلَّذِی كَرَّمۡتَ عَلَیَّ لَئِنۡ أَخَّرۡتَنِ إِلَىٰ یَوۡمِ ٱلۡقِیَـٰمَةِ لَأَحۡتَنِكَنَّ ذُرِّیَّتَهُۥۤ إِلَّا قَلِیلࣰا
+    B/E:    Er sagte: „Was meinst Du wohl von diesem, den Du höher geehrt hast als mich? Wenn Du mich bis zum Tag der Auferstehung zurückstellst, werde ich seiner Nachkommenschaft bis auf wenige ganz gewiß die Zügel anlegen
+    Khoury: Er sagte: «Was meinst Du von diesem, dem Du mehr Ehre verliehen hast als mir? Wenn du mir bis zum Tag der Auferstehung Aufschub gewährst, werde ich seiner Nachkommenschaft die Zügel anlegen, bis auf wenige.»
+
+  [17:63]
+    قَالَ ٱذۡهَبۡ فَمَن تَبِعَكَ مِنۡهُمۡ فَإِنَّ جَهَنَّمَ جَزَاۤؤُكُمۡ جَزَاۤءࣰ مَّوۡفُورࣰا
+    B/E:    Er sagte: „Geh (deines Weges)! Wer von ihnen dir folgt, gewiß, so ist die Hölle euer Lohn, ein reichlicher Lohn
+    Khoury: Er sprach: «Geh weg. Wenn einer von ihnen dir folgt, so ist die Hölle euer Lohn, ein reichlicher Lohn
+
+  [17:64]
+    وَٱسۡتَفۡزِزۡ مَنِ ٱسۡتَطَعۡتَ مِنۡهُم بِصَوۡتِكَ وَأَجۡلِبۡ عَلَیۡهِم بِخَیۡلِكَ وَرَجِلِكَ وَشَارِكۡهُمۡ فِی ٱلۡأَمۡوَ ٰلِ وَٱلۡأَوۡلَـٰدِ وَعِدۡهُمۡۚ وَمَا یَعِدُهُمُ ٱلشَّیۡطَـٰنُ إِلَّا غُرُورًا
+    B/E:    Und errege, wen von ihnen du (erregen) kannst, mit deiner Stimme, und biete gegen sie deine Reiterei und dein Fußvolk auf, und habe Anteil an ihrem Besitz und ihren Kindern, und mache ihnen Versprechungen. - Aber der Satan macht ihnen nur Versprechungen in Trug
+    Khoury: Und schrecke mit deiner Stimme auf, wen von ihnen du vermagst, und biete gegen sie deine Pferde und dein Fußvolk auf, und nimm von ihnen einen Anteil an Vermögen und Kindern, und mach ihnen Versprechungen.» - Der Satan verspricht ihnen nur Betörung
+
+  [17:65]
+    إِنَّ عِبَادِی لَیۡسَ لَكَ عَلَیۡهِمۡ سُلۡطَـٰنࣱۚ وَكَفَىٰ بِرَبِّكَ وَكِیلࣰا
+    B/E:    „Gewiß, über Meine Diener hast du keine Macht. Und dein Herr genügt als Sachwalter
+    Khoury: «Über meine Diener hast du keine Macht.» Und dein Herr genügt als Sachwalter
+
+  [17:66]
+    رَّبُّكُمُ ٱلَّذِی یُزۡجِی لَكُمُ ٱلۡفُلۡكَ فِی ٱلۡبَحۡرِ لِتَبۡتَغُوا۟ مِن فَضۡلِهِۦۤۚ إِنَّهُۥ كَانَ بِكُمۡ رَحِیمࣰا
+    B/E:    Euer Herr ist es, der für euch die Schiffe auf dem Meer sanft bewegt, damit ihr nach etwas von Seiner Huld trachtet. Gewiß, Er ist zu euch Barmherzig
+    Khoury: Euer Herr ist es, der für euch die Schiffe auf dem Meer treibt, damit ihr nach etwas von seiner Huld strebt. Er ist ja zu euch barmherzig
+
+  [17:67]
+    وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِی ٱلۡبَحۡرِ ضَلَّ مَن تَدۡعُونَ إِلَّاۤ إِیَّاهُۖ فَلَمَّا نَجَّىٰكُمۡ إِلَى ٱلۡبَرِّ أَعۡرَضۡتُمۡۚ وَكَانَ ٱلۡإِنسَـٰنُ كَفُورًا
+    B/E:    Und wenn euch auf dem Meer ein Unheil widerfährt, entschwinden (euch) diejenigen, die ihr außer Ihm anruft. Aber nachdem Er euch ans (Fest)land errettet hat, wendet ihr euch (von Ihm) ab; der Mensch ist eben sehr undankbar
+    Khoury: Wenn euch auf dem Meer ein Schaden trifft, da irren die, die ihr außer Ihm anruft, (weit) weg. Hat Er euch dann ans Land errettet, wendet ihr euch ab. Der Mensch ist eben undankbar
+
+  [17:68]
+    أَفَأَمِنتُمۡ أَن یَخۡسِفَ بِكُمۡ جَانِبَ ٱلۡبَرِّ أَوۡ یُرۡسِلَ عَلَیۡكُمۡ حَاصِبࣰا ثُمَّ لَا تَجِدُوا۟ لَكُمۡ وَكِیلًا
+    B/E:    Glaubt ihr denn in Sicherheit davor zu sein, daß Er die Seiten des Festlandes mit euch versinken läßt oder einen Sturm von Steinchen gegen euch sendet und (daß) ihr dann für euch keinen Sachwalter findet
+    Khoury: Wähnt ihr euch denn in Sicherheit davor, daß Er eine Ecke des Festlandes mit euch versinken läßt oder einen Sandsturm gegen euch schickt, und daß ihr dann für euch keinen Sachwalter findet
+
+  [17:69]
+    أَمۡ أَمِنتُمۡ أَن یُعِیدَكُمۡ فِیهِ تَارَةً أُخۡرَىٰ فَیُرۡسِلَ عَلَیۡكُمۡ قَاصِفࣰا مِّنَ ٱلرِّیحِ فَیُغۡرِقَكُم بِمَا كَفَرۡتُمۡ ثُمَّ لَا تَجِدُوا۟ لَكُمۡ عَلَیۡنَا بِهِۦ تَبِیعࣰا
+    B/E:    Oder glaubt ihr in Sicherheit davor zu sein, daß Er euch ein anderes Mal aufs Meer zurückbringt und einen verheerenden Wind gegen euch sendet und euch ertrinken läßt, weil ihr ungläubig seid, und (daß) ihr dann für euch keinen Gefolgsmann findet, der Uns deswegen belangen könnte
+    Khoury: Oder wähnt ihr euch in Sicherheit davor, daß Er euch ein anderes Mal aufs Meer zurückbringt und einen verheerenden Wind gegen euch schickt und euch ertrinken läßt, weil ihr ungläubig seid, und daß ihr dann für euch niemanden findet, der Uns deswegen belangen könnte
+
+  [17:70]
+    ۞ وَلَقَدۡ كَرَّمۡنَا بَنِیۤ ءَادَمَ وَحَمَلۡنَـٰهُمۡ فِی ٱلۡبَرِّ وَٱلۡبَحۡرِ وَرَزَقۡنَـٰهُم مِّنَ ٱلطَّیِّبَـٰتِ وَفَضَّلۡنَـٰهُمۡ عَلَىٰ كَثِیرࣲ مِّمَّنۡ خَلَقۡنَا تَفۡضِیلࣰا
+    B/E:    Und Wir haben ja die Kinder Adams geehrt; Wir haben sie auf dem Festland und auf dem Meer getragen und sie von den guten Dingen versorgt, und Wir haben sie vor vielen von denen, die Wir erschaffen haben, eindeutig bevorzugt
+    Khoury: Und Wir haben den Kindern Adams Ehre erwiesen; Wir haben sie auf dem Festland und auf dem Meer getragen und ihnen (einiges) von den köstlichen Dingen beschert, und Wir haben sie vor vielen von denen, die Wir erschaffen haben, eindeutig bevorzugt
+
+  [17:71]
+    یَوۡمَ نَدۡعُوا۟ كُلَّ أُنَاسِۭ بِإِمَـٰمِهِمۡۖ فَمَنۡ أُوتِیَ كِتَـٰبَهُۥ بِیَمِینِهِۦ فَأُو۟لَـٰۤئِكَ یَقۡرَءُونَ كِتَـٰبَهُمۡ وَلَا یُظۡلَمُونَ فَتِیلࣰا
+    B/E:    (Gedenke) des Tages, da Wir alle Menschen mit ihrem (jeweiligen) Anführer rufen werden. Wem dann sein Buch in seine rechte Hand gegeben wird, jene werden ihr Buch (ohne weiteres) lesen, und ihnen wird nicht um ein Fädchen Unrecht zugefügt
+    Khoury: Am Tag, da Wir jede Menschengruppe mit ihrem Vorsteher rufen werden. Diejenigen, denen dann ihr Buch in ihre Rechte gereicht wird, werden ihr Buch lesen, und ihnen wird nicht ein Dattelfädchen Unrecht getan
+
+  [17:72]
+    وَمَن كَانَ فِی هَـٰذِهِۦۤ أَعۡمَىٰ فَهُوَ فِی ٱلۡءَاخِرَةِ أَعۡمَىٰ وَأَضَلُّ سَبِیلࣰا
+    B/E:    Und wer in diesem (Leben) blind ist, der wird (auch) im Jenseits blind und noch weiter vom Weg abgeirrt sein
+    Khoury: Und wer in diesem (Leben) blind ist, der ist (auch) im Jenseits blind und irrt noch mehr vom Weg ab
+
+  [17:73]
+    وَإِن كَادُوا۟ لَیَفۡتِنُونَكَ عَنِ ٱلَّذِیۤ أَوۡحَیۡنَاۤ إِلَیۡكَ لِتَفۡتَرِیَ عَلَیۡنَا غَیۡرَهُۥۖ وَإِذࣰا لَّٱتَّخَذُوكَ خَلِیلࣰا
+    B/E:    Beinahe hätten sie dich fürwahr verführt (und) von dem (abgebracht), was Wir dir (als Offenbarung) eingegeben haben, damit du gegen Uns etwas anderes ersinnst, und dann hätten sie dich wahrlich zum Freund genommen
+    Khoury: Fast hätten sie dich verführt (und) von dem (abgebracht), was Wir dir offenbart haben, damit du gegen Uns etwas anderes erdichtest. Dann hätten sie dich zum Vertrauten genommen
+
+  [17:74]
+    وَلَوۡلَاۤ أَن ثَبَّتۡنَـٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَیۡهِمۡ شَیۡءࣰا قَلِیلًا
+    B/E:    Wenn Wir dich nicht gefestigt hätten, hättest du wohl beinahe bei ihnen ein wenig Stütze gesucht
+    Khoury: Hätten Wir dich nicht gefestigt, du hättest wohl bei ihnen ein wenig Stütze gesucht
+
+  [17:75]
+    إِذࣰا لَّأَذَقۡنَـٰكَ ضِعۡفَ ٱلۡحَیَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَیۡنَا نَصِیرࣰا
+    B/E:    Dann hätten Wir dich fürwahr ein Mehrfaches (an Strafe) im Leben und ein Mehrfaches (an Strafe) im Tod kosten lassen, und hierauf würdest du für dich keinen Helfer gegen Uns finden
+    Khoury: Dann hätten Wir dich doppeltes Leben und doppelten Tod erleiden lassen, und dann würdest du für dich keinen Helfer gegen Uns finden
+
+  [17:76]
+    وَإِن كَادُوا۟ لَیَسۡتَفِزُّونَكَ مِنَ ٱلۡأَرۡضِ لِیُخۡرِجُوكَ مِنۡهَاۖ وَإِذࣰا لَّا یَلۡبَثُونَ خِلَـٰفَكَ إِلَّا قَلِیلࣰا
+    B/E:    Und beinahe hätten sie dich fürwahr aus dem Land aufgestört, um dich daraus zu vertreiben; aber dann würden sie nach dir nur ein wenig verweilen
+    Khoury: Und fast hätten sie dich aus dem Land aufgeschreckt, um dich daraus zu vertreiben. Dann würden sie nach dir nur ein wenig verweilen können
+
+  [17:77]
+    سُنَّةَ مَن قَدۡ أَرۡسَلۡنَا قَبۡلَكَ مِن رُّسُلِنَاۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحۡوِیلًا
+    B/E:    (Das ist) die Gesetzmäßigkeit (, mit der) an denjenigen von Unseren Gesandten (verfahren wurde), die Wir bereits vor dir sandten. Und du wirst bei Unserer Gesetzmäßigkeit keine Abwandlung finden
+    Khoury: Nach diesem Beispiel wurde verfahren mit denen von unseren Gesandten, die Wir vor dir gesandt haben. Und du wirst keine Veränderungen bei unserem Verfahren finden
+
+  [17:78]
+    أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّیۡلِ وَقُرۡءَانَ ٱلۡفَجۡرِۖ إِنَّ قُرۡءَانَ ٱلۡفَجۡرِ كَانَ مَشۡهُودࣰا
+    B/E:    Verrichte das Gebet beim Neigen der Sonne bis zum Dunkel der Nacht, und (auch) die (Qur’an-)Lesung (in) der Morgendämmerung. Gewiß, die (Qur’an-)Lesung (in) der Morgendämmerung wird (von den Engeln) bezeugt
+    Khoury: Verrichte das Gebet beim Neigen der Sonne bis zum Dunkel der Nacht, und (auch) die Koranlesung bei Tagesanbruch. Der Koranlesung bei Tagesanbruch soll man beiwohnen
+
+  [17:79]
+    وَمِنَ ٱلَّیۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةࣰ لَّكَ عَسَىٰۤ أَن یَبۡعَثَكَ رَبُّكَ مَقَامࣰا مَّحۡمُودࣰا
+    B/E:    Und (einen Teil) der Nacht, verbringe ihn damit, zusätzlich für dich. Vielleicht wird dich dein Herr zu einer lobenswerten (Rang)stellung erwecken
+    Khoury: Und wache einen Teil der Nacht damit, als zusätzliche Tat für dich. Dein Herr möge dich zu einer lobenswerten Rangstellung erwecken
+
+  [17:80]
+    وَقُل رَّبِّ أَدۡخِلۡنِی مُدۡخَلَ صِدۡقࣲ وَأَخۡرِجۡنِی مُخۡرَجَ صِدۡقࣲ وَٱجۡعَل لِّی مِن لَّدُنكَ سُلۡطَـٰنࣰا نَّصِیرࣰا
+    B/E:    Und sag: Mein Herr, gewähre mir einen wahrhaftigen Eingang, und gewähre mir einen wahrhaftigen Ausgang, und schaffe mir von Dir aus eine hilfreiche Macht
+    Khoury: Und sprich: Mein Herr, gewähre mir einen wahrhaftigen Eingang und gewähre mir einen wahrhaftigen Ausgang, und schaffe mir von Dir her eine unterstützende Macht
+
+  [17:81]
+    وَقُلۡ جَاۤءَ ٱلۡحَقُّ وَزَهَقَ ٱلۡبَـٰطِلُۚ إِنَّ ٱلۡبَـٰطِلَ كَانَ زَهُوقࣰا
+    B/E:    Und sag: Die Wahrheit ist gekommen, und das Falsche geht dahin; das Falsche ist ja dazu bestimmt, dahinzugehen
+    Khoury: Und sprich: Die Wahrheit ist gekommen, und das Falsche schwindet dahin. Das Falsche schwindet ja schnell dahin
+
+  [17:82]
+    وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ شِفَاۤءࣱ وَرَحۡمَةࣱ لِّلۡمُؤۡمِنِینَ وَلَا یَزِیدُ ٱلظَّـٰلِمِینَ إِلَّا خَسَارࣰا
+    B/E:    Und Wir offenbaren vom Qur’an, was für die Gläubigen Heilung und Barmherzigkeit ist; den Ungerechten aber mehrt es nur den Verlust
+    Khoury: Und Wir senden vom Koran hinab, was den Gläubigen Heilung und Barmherzigkeit bringt; denen aber, die Unrecht tun, bringt es nur noch mehr Verlust
+
+  [17:83]
+    وَإِذَاۤ أَنۡعَمۡنَا عَلَى ٱلۡإِنسَـٰنِ أَعۡرَضَ وَنَءَا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ یَءُوسࣰا
+    B/E:    Wenn Wir dem Menschen Gunst erweisen, wendet er sich ab und entfernt sich zur Seite. Wenn ihm aber Schlechtes widerfährt, ist er sehr verzweifelt
+    Khoury: Wenn Wir dem Menschen Gnade erweisen, wendet er sich ab und entfernt sich beiseite. Und wenn ihn das Böse trifft, ist er sehr verzweifelt
+
+  [17:84]
+    قُلۡ كُلࣱّ یَعۡمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمۡ أَعۡلَمُ بِمَنۡ هُوَ أَهۡدَىٰ سَبِیلࣰا
+    B/E:    Sag: Jeder handelt nach seiner Weise. Euer Herr weiß sehr wohl, wessen Weg der Rechtleitung eher entspricht
+    Khoury: Sprich: Jeder handelt nach seiner Weise. Euer Herr weiß besser, wer dem richtigeren Weg folgt
+
+  [17:85]
+    وَیَسۡءَلُونَكَ عَنِ ٱلرُّوحِۖ قُلِ ٱلرُّوحُ مِنۡ أَمۡرِ رَبِّی وَمَاۤ أُوتِیتُم مِّنَ ٱلۡعِلۡمِ إِلَّا قَلِیلࣰا
+    B/E:    Sie fragen dich nach dem Geist. Sag: Der Geist ist vom Befehl meines Herrn, euch aber ist vom Wissen gewiß nur wenig gegeben
+    Khoury: Und sie fragen dich nach dem Geist. Sprich: Der Geist ist vom Befehl meines Herrn. Und euch ist vom Wissen nur wenig zugekommen
+
+  [17:86]
+    وَلَئِن شِئۡنَا لَنَذۡهَبَنَّ بِٱلَّذِیۤ أَوۡحَیۡنَاۤ إِلَیۡكَ ثُمَّ لَا تَجِدُ لَكَ بِهِۦ عَلَیۡنَا وَكِیلًا
+    B/E:    Und wenn Wir wollten, würden Wir ganz gewiß wegnehmen, was Wir dir (als Offenbarung) eingegeben haben. Hierauf würdest du für dich in dieser (Sache) keinen Sachwalter gegen Uns finden
+    Khoury: Und wenn Wir wollten, würden Wir sicherlich wegnehmen, was Wir dir offenbart haben. Du könntest dann für dich in dieser Sache keinen Sachwalter gegen Uns finden
+
+  [17:87]
+    إِلَّا رَحۡمَةࣰ مِّن رَّبِّكَۚ إِنَّ فَضۡلَهُۥ كَانَ عَلَیۡكَ كَبِیرࣰا
+    B/E:    außer Barmherzigkeit von deinem Herrn. Gewiß, Seine Huld zu dir ist ja groß
+    Khoury: Es ist nichts als Barmherzigkeit von deinem Herrn. Seine Huld zu dir ist ja groß
+
+  [17:88]
+    قُل لَّئِنِ ٱجۡتَمَعَتِ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَىٰۤ أَن یَأۡتُوا۟ بِمِثۡلِ هَـٰذَا ٱلۡقُرۡءَانِ لَا یَأۡتُونَ بِمِثۡلِهِۦ وَلَوۡ كَانَ بَعۡضُهُمۡ لِبَعۡضࣲ ظَهِیرࣰا
+    B/E:    Sag: Wenn sich die Menschen und die Ginn zusammentäten, um etwas beizubringen, was diesem Qur’an gleich wäre, sie brächten nicht seinesgleichen bei, auch wenn sie einander Beistand leisten würden
+    Khoury: Sprich: Wenn die Menschen und die Djinn zusammenkämen, um etwas beizubringen, was diesem Koran gleich wäre, sie brächten nicht seinesgleichen bei, auch wenn sie einander helfen würden
+
+  [17:89]
+    وَلَقَدۡ صَرَّفۡنَا لِلنَّاسِ فِی هَـٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلࣲ فَأَبَىٰۤ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورࣰا
+    B/E:    Wir haben ja den Menschen in diesem Qur’an ein jedes Gleichnis verschiedenartig dargelegt, doch die meisten Menschen weigern sich (und wollen nichts) außer dem Unglauben
+    Khoury: Und Wir haben den Menschen in diesem Koran verschiedene Gleichnisse dargelegt. Doch bestehen die meisten Menschen auf dem Unglauben
+
+  [17:90]
+    وَقَالُوا۟ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ تَفۡجُرَ لَنَا مِنَ ٱلۡأَرۡضِ یَنۢبُوعًا
+    B/E:    Und sie sagen: „Wir werden dir nicht glauben, bis du uns aus der Erde eine Quelle hervorströmen läßt
+    Khoury: Und sie sagen: «Wir werden dir nicht glauben, bis du uns aus der Erde eine Quelle hervorbrechen läßt
+
+  [17:91]
+    أَوۡ تَكُونَ لَكَ جَنَّةࣱ مِّن نَّخِیلࣲ وَعِنَبࣲ فَتُفَجِّرَ ٱلۡأَنۡهَـٰرَ خِلَـٰلَهَا تَفۡجِیرًا
+    B/E:    oder (bis) du einen Garten mit Palmen und Rebstöcken hast, in dem du dazwischen Flüsse ausgiebig hervorströmen läßt
+    Khoury: Oder bis du einen Garten von Palmen und Weinstöcken hast und durch ihn Bäche ausgiebig hervorbrechen läßt
+
+  [17:92]
+    أَوۡ تُسۡقِطَ ٱلسَّمَاۤءَ كَمَا زَعَمۡتَ عَلَیۡنَا كِسَفًا أَوۡ تَأۡتِیَ بِٱللَّهِ وَٱلۡمَلَـٰۤئِكَةِ قَبِیلًا
+    B/E:    oder (bis) du den Himmel, wie du behauptet hast, auf uns in Stücken herabfallen läßt oder Allah und die Engel vor unsere Augen bringst
+    Khoury: Oder bis du den Himmel auf uns in Stücken herabfallen läßt, wie du behauptet hast, oder Gott und die Engel vor unsere Augen bringst
+
+  [17:93]
+    أَوۡ یَكُونَ لَكَ بَیۡتࣱ مِّن زُخۡرُفٍ أَوۡ تَرۡقَىٰ فِی ٱلسَّمَاۤءِ وَلَن نُّؤۡمِنَ لِرُقِیِّكَ حَتَّىٰ تُنَزِّلَ عَلَیۡنَا كِتَـٰبࣰا نَّقۡرَؤُهُۥۗ قُلۡ سُبۡحَانَ رَبِّی هَلۡ كُنتُ إِلَّا بَشَرࣰا رَّسُولࣰا
+    B/E:    oder (bis) du ein Haus aus Gold hast oder in den Himmel aufsteigst. Und wir werden nicht an deinen Aufstieg glauben, bis du auf uns ein Buch herabsendest, das wir (selbst) lesen (können). Sag: Preis sei meinem Herrn! Bin ich etwas anderes als ein menschliches Wesen und ein Gesandter
+    Khoury: Oder bis du ein Haus aus Gold besitzt oder in den Himmel hochsteigst. Und wir werden nicht glauben, daß du hochgestiegen bist, bis du auf uns ein Buch herabsendest, das wir lesen können.» Sprich: Preis sei meinem Herrn! Bin ich etwas anderes als ein Mensch und ein Gesandter
+
+  [17:94]
+    وَمَا مَنَعَ ٱلنَّاسَ أَن یُؤۡمِنُوۤا۟ إِذۡ جَاۤءَهُمُ ٱلۡهُدَىٰۤ إِلَّاۤ أَن قَالُوۤا۟ أَبَعَثَ ٱللَّهُ بَشَرࣰا رَّسُولࣰا
+    B/E:    Und nichts anderes hielt die Menschen davon ab zu glauben, als die Rechtleitung zu ihnen kam, außer daß sie sagten: „Hat denn Allah ein menschliches Wesen als Gesandten geschickt
+    Khoury: Und was die Menschen daran hinderte, als die Rechtleitung zu ihnen kam, zu glauben, ist nichts anderes, als daß sie sagten: «Hat denn Gott einen Menschen als Gesandten erstehen lassen?»
+
+  [17:95]
+    قُل لَّوۡ كَانَ فِی ٱلۡأَرۡضِ مَلَـٰۤئِكَةࣱ یَمۡشُونَ مُطۡمَئِنِّینَ لَنَزَّلۡنَا عَلَیۡهِم مِّنَ ٱلسَّمَاۤءِ مَلَكࣰا رَّسُولࣰا
+    B/E:    Sag: Wenn es auf der Erde Engel gäbe, die (da) in Ruhe umhergingen, hätten Wir ihnen vom Himmel wahrlich einen Engel als Gesandten hinabgesandt
+    Khoury: Sprich: Wenn es auf der Erde Engel gäbe, die da in Ruhe umhergingen, dann hätten Wir ihnen vom Himmel ja einen Engel als Gesandten hinabgeschickt
+
+  [17:96]
+    قُلۡ كَفَىٰ بِٱللَّهِ شَهِیدَۢا بَیۡنِی وَبَیۡنَكُمۡۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِیرَۢا بَصِیرࣰا
+    B/E:    Sag: Allah genügt als Zeuge zwischen mir und euch. Gewiß, Er kennt und sieht Seine Diener wohl
+    Khoury: Sprich: Gott genügt als Zeuge zwischen mir und euch. Er hat Kenntnis von seinen Dienern, und Er sieht sie wohl
+
+  [17:97]
+    وَمَن یَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن یُضۡلِلۡ فَلَن تَجِدَ لَهُمۡ أَوۡلِیَاۤءَ مِن دُونِهِۦۖ وَنَحۡشُرُهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ عَلَىٰ وُجُوهِهِمۡ عُمۡیࣰا وَبُكۡمࣰا وَصُمࣰّاۖ مَّأۡوَىٰهُمۡ جَهَنَّمُۖ كُلَّمَا خَبَتۡ زِدۡنَـٰهُمۡ سَعِیرࣰا
+    B/E:    Wen Allah rechtleitet, der ist (in Wahrheit) rechtgeleitet; wen Er aber in die Irre gehen läßt, für diejenigen wirst du außer Ihm keine Schutzherren finden. Und Wir werden sie am Tag der Auferstehung auf ihren Gesichtern versammeln, (sie wandeln) vor sich hin, blind, stumm, taub. Ihr Zufluchtsort ist die Hölle. Jedesmal, wenn sie schwächer wird, mehren Wir ihnen die Feuerglut
+    Khoury: Wen Gott rechtleitet, der ist es, der der Rechtleitung folgt. Und für die, die Er irreführt, wirst du außer Ihm keine Freunde finden. Und Wir werden sie am Tag der Auferstehung versammeln, (sie wandeln) vor sich hin, blind, stumm, taub. Ihre Heimstätte ist die Hölle. Sooft sie schwächer wird, mehren Wir ihnen den Feuerbrand
+
+  [17:98]
+    ذَ ٰلِكَ جَزَاۤؤُهُم بِأَنَّهُمۡ كَفَرُوا۟ بِءَایَـٰتِنَا وَقَالُوۤا۟ أَءِذَا كُنَّا عِظَـٰمࣰا وَرُفَـٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقࣰا جَدِیدًا
+    B/E:    Das ist ihr Lohn dafür, daß sie Unsere Zeichen verleugnet und gesagt haben: „Sollen wir denn, wenn wir (bereits) Knochen und Überreste geworden sind, fürwahr wieder als neue Schöpfung auferweckt werden
+    Khoury: Das ist ihr Lohn dafür, daß sie unsere Zeichen verleugnet und gesagt haben: «Sollen wir, wenn wir (bereits) Knochen geworden und auseinandergefallen sind, wirklich wieder als neue Schöpfung auferweckt werden?»
+
+  [17:99]
+    ۞ أَوَ لَمۡ یَرَوۡا۟ أَنَّ ٱللَّهَ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضَ قَادِرٌ عَلَىٰۤ أَن یَخۡلُقَ مِثۡلَهُمۡ وَجَعَلَ لَهُمۡ أَجَلࣰا لَّا رَیۡبَ فِیهِ فَأَبَى ٱلظَّـٰلِمُونَ إِلَّا كُفُورࣰا
+    B/E:    Sehen sie denn nicht, daß Allah, Der die Himmel und die Erde erschaffen hat, (auch) die Macht hat, ihresgleichen zu erschaffen? Und Er hat ihnen eine Frist gesetzt, an der es keinen Zweifel gibt, doch die Ungerechten weigern sich (und wollen nichts) außer dem Unglauben
+    Khoury: Haben sie denn nicht gesehen, daß Gott, der die Himmel und die Erde erschaffen hat, die Macht hat, ihresgleichen zu erschaffen? Und Er hat ihnen eine Frist gesetzt, an der kein Zweifel möglich ist. Doch bestehen die, die Unrecht tun, auf dem Unglauben
+
+  [17:100]
+    قُل لَّوۡ أَنتُمۡ تَمۡلِكُونَ خَزَاۤئِنَ رَحۡمَةِ رَبِّیۤ إِذࣰا لَّأَمۡسَكۡتُمۡ خَشۡیَةَ ٱلۡإِنفَاقِۚ وَكَانَ ٱلۡإِنسَـٰنُ قَتُورࣰا
+    B/E:    Sag: Wenn ihr über die Schatzkammern der Barmherzigkeit meines Herrn verfügtet, dann würdet ihr aus Furcht vor dem Ausgeben wahrlich zurückhaltend sein, denn der Mensch ist knauserig
+    Khoury: Sprich: Würdet ihr über die Vorratskammern der Barmherzigkeit meines Herrn verfügen, ihr würdet aus Furcht vor dem Ausgeben zurückhaltend sein. Der Mensch ist ja geizig
+
+  [17:101]
+    وَلَقَدۡ ءَاتَیۡنَا مُوسَىٰ تِسۡعَ ءَایَـٰتِۭ بَیِّنَـٰتࣲۖ فَسۡءَلۡ بَنِیۤ إِسۡرَ ٰۤءِیلَ إِذۡ جَاۤءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّی لَأَظُنُّكَ یَـٰمُوسَىٰ مَسۡحُورࣰا
+    B/E:    Und Wir gaben Musa ja neun klare Zeichen. So frage die Kinder Isra’ils (danach). Als er zu ihnen kam, da sagte Fir’aun zu ihm: „Ich glaube fürwahr, o Musa, daß du einem Zauber verfallen bist
+    Khoury: Und Wir haben dem Mose neun deutliche Zeichen zukommen lassen. So frag die Kinder Israels. Als er zu ihnen kam, sagte Pharao zu ihm: «Ich bin der Meinung, o Mose, daß du einem Zauber verfallen bist.»
+
+  [17:102]
+    قَالَ لَقَدۡ عَلِمۡتَ مَاۤ أَنزَلَ هَـٰۤؤُلَاۤءِ إِلَّا رَبُّ ٱلسَّمَـٰوَ ٰتِ وَٱلۡأَرۡضِ بَصَاۤئِرَ وَإِنِّی لَأَظُنُّكَ یَـٰفِرۡعَوۡنُ مَثۡبُورࣰا
+    B/E:    Er sagte: „Du weißt ja, niemand außer dem Herrn der Himmel und der Erde hat diese als einsichtbringende Zeichen herabgesandt. Und ich glaube fürwahr, o Fir’aun, daß du der Vernichtung verfallen bist
+    Khoury: Er sagte: «Du weißt, niemand anderes als der Herr der Himmel und der Erde hat diese als Einsicht bringende Zeichen herabgesandt. Und ich bin der Meinung, o Pharao, daß du dem Verderben verfallen bist.»
+
+  [17:103]
+    فَأَرَادَ أَن یَسۡتَفِزَّهُم مِّنَ ٱلۡأَرۡضِ فَأَغۡرَقۡنَـٰهُ وَمَن مَّعَهُۥ جَمِیعࣰا
+    B/E:    Da wollte er sie aus dem Land aufstören. Wir aber ließen ihn ertrinken, und (auch) alle, die mit ihm waren
+    Khoury: Da wollte er sie aus dem Land aufschrecken. Wir aber ließen ihn ertrinken, und auch alle, die mit ihm waren
+
+  [17:104]
+    وَقُلۡنَا مِنۢ بَعۡدِهِۦ لِبَنِیۤ إِسۡرَ ٰۤءِیلَ ٱسۡكُنُوا۟ ٱلۡأَرۡضَ فَإِذَا جَاۤءَ وَعۡدُ ٱلۡءَاخِرَةِ جِئۡنَا بِكُمۡ لَفِیفࣰا
+    B/E:    Und Wir sagten nach seiner Vernichtung zu den Kindern Isra’ils: „Bewohnt das Land. Wenn dann das Versprechen vom letzten Mal eintrifft, bringen Wir euch in buntgemischten Gruppen herbei
+    Khoury: Und nach seinem Ableben sprachen Wir zu den Kindern Israels: «Bewohnt das Land. Wenn dann das Versprechen des Jenseits eintrifft, bringen Wir euch als gebündelte Schar herbei.»
+
+  [17:105]
+    وَبِٱلۡحَقِّ أَنزَلۡنَـٰهُ وَبِٱلۡحَقِّ نَزَلَۗ وَمَاۤ أَرۡسَلۡنَـٰكَ إِلَّا مُبَشِّرࣰا وَنَذِیرࣰا
+    B/E:    Mit der Wahrheit haben Wir ihn (als Offenbarung) hinabgesandt, und mit der Wahrheit ist er hinabgekommen. Und Wir haben dich nur als Verkünder froher Botschaft und Warner gesandt
+    Khoury: Mit der Wahrheit haben Wir ihn hinabgesandt, und mit der Wahrheit ist er hinabgekommen. Und Wir haben dich nur als Freudenboten und Warner gesandt
+
+  [17:106]
+    وَقُرۡءَانࣰا فَرَقۡنَـٰهُ لِتَقۡرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكۡثࣲ وَنَزَّلۡنَـٰهُ تَنزِیلࣰا
+    B/E:    Einen Qur’an haben Wir (offenbart, den Wir in Abschnitte) unterteilt (haben), damit du ihn den Menschen in Abständen vorträgst; und Wir haben ihn wahrlich nach und nach offenbart
+    Khoury: Und Wir haben ihn als Koran in Abschnitte geteilt, damit du ihn den Menschen ohne Hast verliest. Und Wir haben ihn nach und nach hinabgesandt
+
+  [17:107]
+    قُلۡ ءَامِنُوا۟ بِهِۦۤ أَوۡ لَا تُؤۡمِنُوۤا۟ۚ إِنَّ ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ مِن قَبۡلِهِۦۤ إِذَا یُتۡلَىٰ عَلَیۡهِمۡ یَ̅خِ̅رُّ̅و̅نَ̅ ̅لِ̅لۡ̅أَ̅ذۡ̅قَ̅ا̅نِ̅ ̅سُ̅جَّ̅دࣰ̅ا̅
+    B/E:    Sag: Glaubt daran oder glaubt (eben) nicht. Diejenigen, denen vor ihm das Wissen gegeben wurde, fallen, wenn er ihnen verlesen wird, ehrerbietig auf das Kinn nieder
+    Khoury: Sprich: Glaubt daran oder glaubt eben nicht. Diejenigen, denen vor ihm das Wissen zugekommen ist, wenn er ihnen verlesen wird, fallen in Anbetung auf ihr Kinn nieder
+
+  [17:108]
+    وَیَقُولُونَ سُبۡحَـٰنَ رَبِّنَاۤ إِن كَانَ وَعۡدُ رَبِّنَا لَمَفۡعُولࣰا
+    B/E:    und sagen: „Preis sei unserem Herrn! Das Versprechen unseres Herrn ist wahrlich ausgeführt
+    Khoury: Und sagen: «Preis sei unserem Herrn! Das Versprechen unseres Herrn ist ausgeführt.»
+
+  [17:109]
+    وَیَخِرُّونَ لِلۡأَذۡقَانِ یَبۡكُونَ وَیَزِیدُهُمۡ خُشُوعࣰا ۩
+    B/E:    Und sie fallen auf das Kinn weinend nieder, und es mehrt ihnen die Demut
+    Khoury: Und sie werfen sich auf ihr Kinn weinend nieder, und es mehrt in ihnen die Demut
+
+  [17:110]
+    قُلِ ٱدۡعُوا۟ ٱللَّهَ أَوِ ٱدۡعُوا۟ ٱلرَّحۡمَـٰنَۖ أَیࣰّا مَّا تَدۡعُوا۟ فَلَهُ ٱلۡأَسۡمَاۤءُ ٱلۡحُسۡنَىٰۚ وَلَا تَجۡهَرۡ بِصَلَاتِكَ وَلَا تُخَافِتۡ بِهَا وَٱبۡتَغِ بَیۡنَ ذَ ٰلِكَ سَبِیلࣰا
+    B/E:    Sag: Ruft Allah oder ruft den Allerbarmer an; welchen ihr auch ruft, Sein sind die schönsten Namen. Und sei nicht zu laut beim Gebet, und sei auch nicht zu leise dabei, sondern suche einen Weg dazwischen
+    Khoury: Sprich: Ruft Gott oder ruft den Erbarmer an. Welchen ihr auch anruft, Ihm gehören die schönsten Namen. Und sei nicht laut beim Gebet, und auch nicht leise dabei. Suche einen Weg dazwischen
+
+  [17:111]
+    وَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی لَمۡ یَتَّخِذۡ وَلَدࣰا وَلَمۡ یَكُن لَّهُۥ شَرِیكࣱ فِی ٱلۡمُلۡكِ وَلَمۡ یَكُن لَّهُۥ وَلِیࣱّ مِّنَ ٱلذُّلِّۖ وَكَبِّرۡهُ تَكۡبِیرَۢا
+    B/E:    Und sag: (Alles) Lob gehört Allah, Der Sich keine Kinder genommen hat, und es gibt weder einen Teilhaber an Seiner Herrschaft, noch benötigt Er einen Beschützer vor Demütigung. Und verherrliche Ihn doch als den Größten
+    Khoury: Und sprich: Lob sei Gott, der sich kein Kind genommen hat, und der keinen Teilhaber an der Königsherrschaft hat und keinen Freund als Helfer aus der Erniedrigung! Und preise mit Nachdruck seine Größe
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  جوس              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  حنك              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  خبو              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  دلك              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  قصف              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  نغض              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  هجد              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  وفر              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  تور              1       2  sehr selten — nur 2x im ganzen Koran
+  جلب              1       2  sehr selten — nur 2x im ganzen Koran
+  حظر              1       2  sehr selten — nur 2x im ganzen Koran
+  رفت              2       2  kommt AUSSCHLIESSLICH in dieser Sure vor
+  شكل              1       2  sehr selten — nur 2x im ganzen Koran
+  قسطس             1       2  sehr selten — nur 2x im ganzen Koran
+  كلو              1       2  sehr selten — nur 2x im ganzen Koran
+  ملق              1       2  sehr selten — nur 2x im ganzen Koran
+  نبع              1       2  sehr selten — nur 2x im ganzen Koran
+  وسل              1       2  sehr selten — nur 2x im ganzen Koran
+  أفف              1       3  sehr selten — nur 3x im ganzen Koran
+  بذر              3       3  kommt AUSSCHLIESSLICH in dieser Sure vor
+  خذل              1       3  sehr selten — nur 3x im ganzen Koran
+  خفت              1       3  sehr selten — nur 3x im ganzen Koran
+  ذقن              2       3  sehr selten — nur 3x im ganzen Koran
+  زجو              1       3  sehr selten — nur 3x im ganzen Koran
+  ستر              1       3  sehr selten — nur 3x im ganzen Koran
+  فتل              1       3  sehr selten — nur 3x im ganzen Koran
+  فزز              3       3  kommt AUSSCHLIESSLICH in dieser Sure vor
+  لفف              1       3  sehr selten — nur 3x im ganzen Koran
+  محو              1       3  sehr selten — nur 3x im ganzen Koran
+  مرح              1       3  sehr selten — nur 3x im ganzen Koran
+  نأي              1       3  sehr selten — nur 3x im ganzen Koran
+  خرق              1       4  sehr selten — nur 4x im ganzen Koran
+  خفض              1       4  sehr selten — nur 4x im ganzen Koran
+  دحر              2       4  sehr selten — nur 4x im ganzen Koran
+  رقي              2       4  sehr selten — nur 4x im ganzen Koran
+  ركن              1       4  sehr selten — nur 4x im ganzen Koran
+  زخرف             1       4  sehr selten — nur 4x im ganzen Koran
+  غسق              1       4  sehr selten — nur 4x im ganzen Koran
+  نفل              1       4  sehr selten — nur 4x im ganzen Koran
+  ثبر              1       5  sehr selten — nur 5x im ganzen Koran
+  حصب              1       5  sehr selten — nur 5x im ganzen Koran
+  ذمم              2       5  sehr selten — nur 5x im ganzen Koran
+  زهق              2       5  sehr selten — nur 5x im ganzen Koran
+  قتر              1       5  sehr selten — nur 5x im ganzen Koran
+  قصو              1       5  sehr selten — nur 5x im ganzen Koran
+  قفو              1       5  sehr selten — nur 5x im ganzen Koran
+  كسف              1       5  sehr selten — nur 5x im ganzen Koran
+  لزم              1       5  sehr selten — nur 5x im ganzen Koran
+  بكم              1       6  sehr selten — nur 6x im ganzen Koran
+  تبر              2       6  sehr selten — nur 6x im ganzen Koran
+  حصر              1       6  sehr selten — nur 6x im ganzen Koran
+  شفي              1       6  sehr selten — nur 6x im ganzen Koran
+  كرر              1       6  sehr selten — nur 6x im ganzen Koran
+  نزغ              1       6  sehr selten — nur 6x im ganzen Koran
+  بكي              1       7  sehr selten — nur 7x im ganzen Koran
+  تسع              1       7  sehr selten — nur 7x im ganzen Koran
+  مكث              1       7  sehr selten — nur 7x im ganzen Koran
+  نوق              1       7  sehr selten — nur 7x im ganzen Koran
+  ترف              1       8  sehr selten — nur 8x im ganzen Koran
+  حجب              1       8  sehr selten — nur 8x im ganzen Koran
+  خسف              1       8  sehr selten — nur 8x im ganzen Koran
+  سري              1       8  sehr selten — nur 8x im ganzen Koran
+  سقط              1       8  sehr selten — nur 8x im ganzen Koran
+  صوت              1       8  sehr selten — nur 8x im ganzen Koran
+  خيل              1       9  sehr selten — nur 9x im ganzen Koran
+  زني              1       9  sehr selten — nur 9x im ganzen Koran
+  عنق              2       9  sehr selten — nur 9x im ganzen Koran
+  وقر              1       9  sehr selten — nur 9x im ganzen Koran
+  جدد              2      10  sehr selten — nur 10x im ganzen Koran
+  دمر              2      10  sehr selten — nur 10x im ganzen Koran
+  طول              1      10  sehr selten — nur 10x im ganzen Koran
+  زبر              1      11  selten — 11x im ganzen Koran
+  عنب              1      11  selten — 11x im ganzen Koran
+  حسر              1      12  selten — 12x im ganzen Koran
+  خرر              2      12  selten — 12x im ganzen Koran
+  طين              1      12  selten — 12x im ganzen Koran
+  كنن              1      12  selten — 12x im ganzen Koran
+  أبي              2      13  selten — 13x im ganzen Koran
+  خزن              1      13  selten — 13x im ganzen Koran
+  خلل              3      13  selten — 13x im ganzen Koran
+  صغر              1      13  selten — 13x im ganzen Koran
+  طمأن             1      13  selten — 13x im ganzen Koran
+  يأس              1      13  selten — 13x im ganzen Koran
+  عطو              2      14  selten — 14x im ganzen Koran
+  لوم              2      14  selten — 14x im ganzen Koran
+  صمم              1      15  selten — 15x im ganzen Koran
+  جهر              1      16  selten — 16x im ganzen Koran
+  سطر              1      16  selten — 16x im ganzen Koran
+  عتد              1      16  selten — 16x im ganzen Koran
+  غلل              1      16  selten — 16x im ganzen Koran
+  فأد              1      16  selten — 16x im ganzen Koran
+  كيل              2      16  selten — 16x im ganzen Koran
+  أوب              1      17  selten — 17x im ganzen Koran
+  خشع              1      17  selten — 17x im ganzen Koran
+  زعم              2      17  selten — 17x im ganzen Koran
+  صفو              1      17  selten — 17x im ganzen Koran
+  منع              2      17  selten — 17x im ganzen Koran
+  ثبت              1      18  selten — 18x im ganzen Koran
+  رأس              1      18  selten — 18x im ganzen Koran
+  لدن              1      18  selten — 18x im ganzen Koran
+  نفر              3      18  selten — 18x im ganzen Koran
+  سعر              1      19  selten — 19x im ganzen Koran
+  درج              1      20  selten — 20x im ganzen Koran
+  ربو              1      20  selten — 20x im ganzen Koran
+  سنو              1      20  selten — 20x im ganzen Koran
+  فطر              1      20  selten — 20x im ganzen Koran
+  فقه              2      20  selten — 20x im ganzen Koran
+  كشف              1      20  selten — 20x im ganzen Koran
+  نخل              1      20  selten — 20x im ganzen Koran
+  حجر              1      21  selten — 21x im ganzen Koran
+  حذر              1      21  selten — 21x im ganzen Koran
+  حلم              1      21  selten — 21x im ganzen Koran
+  سنن              2      21  selten — 21x im ganzen Koran
+  نشر              1      21  selten — 21x im ganzen Koran
+  خطأ              1      22  selten — 22x im ganzen Koran
+  سرف              1      23  selten — 23x im ganzen Koran
+  غرق              2      23  selten — 23x im ganzen Koran
+  مشي              2      23  selten — 23x im ganzen Koran
+  وزن              1      23  selten — 23x im ganzen Koran
+  يتم              1      23  selten — 23x im ganzen Koran
+  ذلل              2      24  selten — 24x im ganzen Koran
+  فجر              5      24  selten — 24x im ganzen Koran
+  فحش              1      24  selten — 24x im ganzen Koran
+  كود              3      24  selten — 24x im ganzen Koran
+  أدم              2      25  selten — 25x im ganzen Koran
+  بسط              3      25  selten — 25x im ganzen Koran
+  حدد              1      25  selten — 25x im ganzen Koran
+  حول              3      25  selten — 25x im ganzen Koran
+  صلي              1      25  selten — 25x im ganzen Koran
+  فلك              1      25  selten — 25x im ganzen Koran
+  شجر              1      27  selten — 27x im ganzen Koran
+  غرر              1      27  selten — 27x im ganzen Koran
+  مسك              1      27  selten — 27x im ganzen Koran
+  وزر              3      27  selten — 27x im ganzen Koran
+  حوط              1      28  selten — 28x im ganzen Koran
+  رجو              2      28  selten — 28x im ganzen Koran
+  سبع              1      28  selten — 28x im ganzen Koran
+  طير              1      29  selten — 29x im ganzen Koran
+  أنث              1      30  selten — 30x im ganzen Koran
+  سعي              3      30  selten — 30x im ganzen Koran
+  صرف              2      30  selten — 30x im ganzen Koran
+  عسي              3      30  selten — 30x im ganzen Koran
+  شرر              2      31  selten — 31x im ganzen Koran
+  قعد              2      31  selten — 31x im ganzen Koran
+  لبث              2      31  selten — 31x im ganzen Koran
+  برر              3      32  selten — 32x im ganzen Koran
+  برك              1      32  selten — 32x im ganzen Koran
+  مدد              2      32  selten — 32x im ganzen Koran
+  جنب              2      33  selten — 33x im ganzen Koran
+  شمس              1      33  selten — 33x im ganzen Koran
+  عرش              1      33  selten — 33x im ganzen Koran
+  عمي              3      33  selten — 33x im ganzen Koran
+  كفي              4      33  selten — 33x im ganzen Koran
+  جنح              1      34  selten — 34x im ganzen Koran
+  مرر              3      35  selten — 35x im ganzen Koran
+  أوي              1      36  selten — 36x im ganzen Koran
+  بطل              2      36  selten — 36x im ganzen Koran
+  ريب              1      36  selten — 36x im ganzen Koran
+  قرن              1      36  selten — 36x im ganzen Koran
+  ذرر              2      38  selten — 38x im ganzen Koran
+  ذنب              1      39  selten — 39x im ganzen Koran
+  سلط              3      39  selten — 39x im ganzen Koran
+  طغي              1      39  selten — 39x im ganzen Koran
+  جبل              1      41  
+  كره              1      41  
+  لعن              1      41  
+  بحر              3      42  
+  جوب              1      43  
+  حشر              1      43  
+  فصل              2      43  
+  دبر              1      44  
+  يسر              1      44  
+  صدر              1      46  
+  عهد              2      46  
+  عجل              3      47  
+  كرم              3      47  
+  خشي              2      48  
+  طيب              1      50  
+  فسد              1      50  
+  خبر              3      52  
+  ضعف              2      52  
+  فسق              1      54  
+  دور              1      55  
+  أجل              1      56  
+  ذهب              2      56  
+  روح              3      57  
+  عدد              1      57  
+  قري              2      57  
+  ضرب              1      58  
+  ردد              1      59  
+  ظهر              1      59  
+  فتن              2      60  
+  فري              1      60  
+  زيد              5      61  hier gehaeuft (x3.9 gegenueber dem Schnitt)
+  مسس              2      61  
+  تلو              1      63  
+  ذوق              1      63  
+  سحر              2      63  
+  عود              4      63  hier gehaeuft (x3.1 gegenueber dem Schnitt)
+  قضي              2      63  
+  حمل              2      64  
+  خسر              1      65  
+  وفي              2      66  
+  بعث              6      67  hier gehaeuft (x4.3 gegenueber dem Schnitt)
+  حمد              4      68  
+  هلك              3      68  
+  وحد              1      68  
+  سكن              2      69  
+  ظنن              3      69  
+  علو              5      70  hier gehaeuft (x3.4 gegenueber dem Schnitt)
+  وكل              5      70  hier gehaeuft (x3.4 gegenueber dem Schnitt)
+  يمن              1      71  
+  فرق              1      72  
+  بأس              1      73  
+  بيت              1      73  
+  رجل              2      73  
+  ضرر              2      74  
+  ألم              1      75  
+  شكر              2      75  
+  قلل              5      76  hier gehaeuft (x3.2 gegenueber dem Schnitt)
+  بلغ              3      77  
+  وجه              2      78  
+  وحي              3      78  
+  عرض              3      79  
+  حرم              2      83  
+  كيف              2      83  
+  نجو              2      84  
+  أحد              1      85  
+  مول              3      86  
+  شطن              5      88  
+  قرأ             16      88  hier gehaeuft (x8.7 gegenueber dem Schnitt)
+  ليس              2      89  
+  سبح              7      92  hier gehaeuft (x3.7 gegenueber dem Schnitt)
+  سجد              7      92  hier gehaeuft (x3.7 gegenueber dem Schnitt)
+  ليل              5      92  
+  أخو              1      96  
+  بغي              6      96  hier gehaeuft (x3.0 gegenueber dem Schnitt)
+  قرب              5      96  
+  صلو              2      99  
+  أذن              1     102  
+  شدد              3     102  
+  ولد              4     102  
+  فضل              8     104  hier gehaeuft (x3.7 gegenueber dem Schnitt)
+  عدو              1     106  
+  وجد              6     107  
+  أجر              1     108  
+  فعل              2     108  
+  حسب              2     109  
+  نفق              1     111  
+  نهر              4     113  
+  جزي              3     118  
+  أمم              1     119  
+  يدي              1     120  
+  بشر              4     123  
+  رزق              3     123  
+  خوف              3     124  
+  أول              5     125  
+  دخل              4     126  
+  خلف              1     127  
+  عظم              3     128  
+  جمع              2     129  
+  سأل              4     129  
+  طوع              2     129  
+  نظر              2     129  
+  نذر              1     130  
+  قدر              2     132  
+  نعم              1     140  
+  دون              3     144  
+  لقي              2     146  
+  بصر              8     148  
+  رود              5     148  
+  وعد              7     151  
+  غير              1     154  
+  صدق              2     155  
+  بعض              6     158  
+  نصر              3     158  
+  شهد              2     160  
+  نبأ              1     160  
+  كبر             12     161  hier gehaeuft (x3.6 gegenueber dem Schnitt)
+  موت              1     165  
+  سوأ              4     167  
+  كثر              3     167  
+  شرك              2     168  
+  قلب              1     168  
+  مثل              5     169  
+  قتل              5     170  
+  تبع              3     172  
+  سبل              7     176  
+  صلح              2     180  
+  خرج              4     182  
+  بني              8     184  
+  سمع              4     185  
+  حيي              1     189  
+  ضلل              6     191  
+  حسن              7     194  
+  خير              2     196  
+  جنن              2     201  
+  عند              2     201  
+  ملك              8     206  
+  حكم              1     210  
+  دعو             10     212  
+  ولي              4     232  
+  غفر              2     234  
+  بعد              2     235  
+  أمر              2     248  
+  أخر             12     250  
+  خلق              7     261  
+  أخذ              4     273  
+  عبد              9     275  
+  جيأ              7     278  
+  كذب              1     282  
+  حقق              6     287  
+  ذكر              2     292  
+  نزل              8     293  
+  قبل              4     294  
+  نفس              5     298  
+  ظلم              6     315  
+  هدي              8     316  
+  كتب              8     319  
+  رأي              5     328  
+  أنس             15     338  
+  رحم             11     339  
+  جعل             15     346  
+  عمل              2     360  
+  عذب              7     373  
+  كلل             10     377  
+  سمو              8     381  
+  أرض             12     461  
+  يوم              7     475  
+  رسل             12     513  
+  شيأ              8     519  
+  بين              8     523  
+  كفر              7     525  
+  أتي             11     549  
+  أيي             10     597  
+  قوم              8     660  
+  علم             10     854  
+  أمن             12     879  
+  ربب             32     980  
+  كون             44    1390  
+  قول             46    1722  
+  أله             13    2851  
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

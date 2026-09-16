@@ -1,0 +1,101 @@
+==============================================================================
+SURE 93  —  11 Verse, 28 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [93:1]
+    وَٱلضُّحَىٰ
+    B/E:    Bei der Morgenhelle
+    Khoury: Bei dem Morgen
+
+  [93:2]
+    وَٱلَّیۡلِ إِذَا سَجَىٰ
+    B/E:    und der Nacht, wenn sie (alles) umhüllt
+    Khoury: Und (bei) der Nacht, wenn sie still ist
+
+  [93:3]
+    مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
+    B/E:    Dein Herr hat sich weder von dir verabschiedet noch haßt Er (dich)
+    Khoury: Dein Herr hat dir nicht den Abschied gegeben und haßt (dich) nicht
+
+  [93:4]
+    وَلَلۡءَاخِرَةُ خَیۡرࣱ لَّكَ مِنَ ٱلۡأُولَىٰ
+    B/E:    Und das Jenseits ist wahrlich besser für dich als das Diesseits
+    Khoury: Wahrlich, das Jenseits ist besser für dich als das Diesseits
+
+  [93:5]
+    وَلَسَوۡفَ یُعۡطِیكَ رَبُّكَ فَتَرۡضَىٰۤ
+    B/E:    Und dein Herr wird dir wahrlich geben, und dann wirst du zufrieden sein
+    Khoury: Und wahrlich, dein Herr wird dir geben, und du wirst zufrieden sein
+
+  [93:6]
+    أَلَمۡ یَجِدۡكَ یَتِیمࣰا فَءَاوَىٰ
+    B/E:    Hat Er dich nicht als Waise gefunden und (dir) dann Zuflucht verschafft
+    Khoury: Hat Er dich nicht als Waise gefunden und dir Unterkunft besorgt
+
+  [93:7]
+    وَوَجَدَكَ ضَاۤلࣰّا فَهَدَىٰ
+    B/E:    und dich irregehend gefunden und dann rechtgeleitet
+    Khoury: Und dich abgeirrt gefunden und rechtgeleitet
+
+  [93:8]
+    وَوَجَدَكَ عَاۤئِلࣰا فَأَغۡنَىٰ
+    B/E:    und dich arm gefunden und dann reich gemacht
+    Khoury: Und bedürftig gefunden und reich gemacht
+
+  [93:9]
+    فَأَمَّا ٱلۡیَتِیمَ فَلَا تَقۡهَرۡ
+    B/E:    Was nun die Waise angeht, so unterjoche (sie) nicht
+    Khoury: So unterdrücke die Waise nicht
+
+  [93:10]
+    وَأَمَّا ٱلسَّاۤئِلَ فَلَا تَنۡهَرۡ
+    B/E:    und was den Bettler angeht, so fahre (ihn) nicht an
+    Khoury: Und fahre den Bettler nicht an
+
+  [93:11]
+    وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ
+    B/E:    und was die Gunst deines Herrn angeht, so erzähle (davon)
+    Khoury: Und erzähle von der Gnade deines Herrn
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  سجو              1       1  kommt AUSSCHLIESSLICH in dieser Sure vor
+  عيل              1       2  sehr selten — nur 2x im ganzen Koran
+  قلي              1       2  sehr selten — nur 2x im ganzen Koran
+  ودع              1       4  sehr selten — nur 4x im ganzen Koran
+  ضحو              1       7  sehr selten — nur 7x im ganzen Koran
+  قهر              1      10  sehr selten — nur 10x im ganzen Koran
+  عطو              1      14  selten — 14x im ganzen Koran
+  يتم              2      23  selten — 23x im ganzen Koran
+  أوي              1      36  selten — 36x im ganzen Koran
+  حدث              1      36  selten — 36x im ganzen Koran
+  رضو              1      73  
+  غني              1      73  
+  ليل              1      92  
+  وجد              3     107  
+  نهر              1     113  
+  أول              1     125  
+  سأل              1     129  
+  نعم              1     140  
+  ضلل              1     191  
+  خير              1     196  
+  أخر              1     250  
+  هدي              1     316  
+  ربب              3     980  
+
+  ACHTUNG: Diese Sure hat nur 28 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

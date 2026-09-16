@@ -1,0 +1,97 @@
+==============================================================================
+SURE 101  —  11 Verse, 24 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [101:1]
+    ٱلۡقَارِعَةُ
+    B/E:    Das Verhängnis
+    Khoury: Die Katastrophe
+
+  [101:2]
+    مَا ٱلۡقَارِعَةُ
+    B/E:    Was ist das Verhängnis
+    Khoury: Was ist die Katastrophe
+
+  [101:3]
+    وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ
+    B/E:    Und was läßt dich wissen, was das Verhängnis ist
+    Khoury: Und woher sollst du wissen, was die Katastrophe ist
+
+  [101:4]
+    یَوۡمَ یَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ
+    B/E:    Am Tag, da die Menschen wie flatternde Motten sein werden
+    Khoury: Am Tag, da die Menschen wie verstreute Motten sein werden
+
+  [101:5]
+    وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ
+    B/E:    und die Berge wie zerflockte gefärbte Wolle sein werden
+    Khoury: Und die Berge wie zerflockte bunte Wolle
+
+  [101:6]
+    فَأَمَّا مَن ثَقُلَتۡ مَوَ ٰزِینُهُۥ
+    B/E:    Was nun jemanden angeht, dessen Waagschalen schwer sind
+    Khoury: Wer dann schwere Waagschalen hat
+
+  [101:7]
+    فَهُوَ فِی عِیشَةࣲ رَّاضِیَةࣲ
+    B/E:    so wird er in einem zufriedenen Leben sein
+    Khoury: Der wird ein zufriedenes Leben haben
+
+  [101:8]
+    وَأَمَّا مَنۡ خَفَّتۡ مَوَ ٰزِینُهُۥ
+    B/E:    Was aber jemanden angeht, dessen Waagschalen leicht sind
+    Khoury: Und wer leichte Waagschalen hat
+
+  [101:9]
+    فَأُمُّهُۥ هَاوِیَةࣱ
+    B/E:    dessen Mutter wird ein Abgrund sein
+    Khoury: Der wird zur Mutter einen Abgrund haben
+
+  [101:10]
+    وَمَاۤ أَدۡرَىٰكَ مَا هِیَهۡ
+    B/E:    Und was läßt dich wissen, was das ist
+    Khoury: Und woher sollst du wissen, was das ist
+
+  [101:11]
+    نَارٌ حَامِیَةُۢ
+    B/E:    Ein sehr heißes Feuer
+    Khoury: Ein glühendes Feuer
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  عهن              1       2  sehr selten — nur 2x im ganzen Koran
+  نفش              1       2  sehr selten — nur 2x im ganzen Koran
+  قرع              3       5  sehr selten — nur 5x im ganzen Koran
+  حمي              1       6  sehr selten — nur 6x im ganzen Koran
+  فرش              1       6  sehr selten — nur 6x im ganzen Koran
+  عيش              1       8  sehr selten — nur 8x im ganzen Koran
+  بثث              1       9  sehr selten — nur 9x im ganzen Koran
+  خفف              1      17  selten — 17x im ganzen Koran
+  وزن              2      23  selten — 23x im ganzen Koran
+  ثقل              1      28  selten — 28x im ganzen Koran
+  دري              2      29  selten — 29x im ganzen Koran
+  هوي              1      38  selten — 38x im ganzen Koran
+  جبل              1      41  
+  رضو              1      73  
+  أمم              1     119  
+  نور              1     194  
+  أنس              1     338  
+  يوم              1     475  
+  كون              2    1390  
+
+  ACHTUNG: Diese Sure hat nur 24 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

@@ -1,0 +1,77 @@
+==============================================================================
+SURE 94  —  8 Verse, 16 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [94:1]
+    ۞ أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ
+    B/E:    Haben Wir dir nicht deine Brust aufgetan
+    Khoury: Haben Wir dir nicht deine Brust geweitet
+
+  [94:2]
+    وَوَضَعۡنَا عَنكَ وِزۡرَكَ
+    B/E:    und dir deine Last abgenommen
+    Khoury: Und dir deine Last abgenommen
+
+  [94:3]
+    ٱلَّذِیۤ أَنقَضَ ظَهۡرَكَ
+    B/E:    die deinen Rücken niederdrückte
+    Khoury: Die deinen Rücken schwer erdrückte
+
+  [94:4]
+    وَرَفَعۡنَا لَكَ ذِكۡرَكَ
+    B/E:    und dir dein Ansehen erhöht
+    Khoury: Und dir deinen Ruf erhöht
+
+  [94:5]
+    فَإِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرًا
+    B/E:    Also gewiß, mit der Erschwernis ist Erleichterung
+    Khoury: Wahrlich, mit der Erschwernis gibt es eine Erleichterung
+
+  [94:6]
+    إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا
+    B/E:    gewiß, mit der Erschwernis ist Erleichterung
+    Khoury: Ja, mit der Erschwernis gibt es eine Erleichterung
+
+  [94:7]
+    فَإِذَا فَرَغۡتَ فَٱنصَبۡ
+    B/E:    Wenn du nun fertig bist, dann strenge dich an
+    Khoury: Wenn du fertig bist, dann mühe dich ab
+
+  [94:8]
+    وَإِلَىٰ رَبِّكَ فَٱرۡغَب
+    B/E:    und nach deinem Herrn richte dein Begehren aus
+    Khoury: Und richte deine Wünsche auf deinen Herrn aus
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  شرح              1       5  sehr selten — nur 5x im ganzen Koran
+  فرغ              1       6  sehr selten — nur 6x im ganzen Koran
+  رغب              1       8  sehr selten — nur 8x im ganzen Koran
+  نقض              1       9  sehr selten — nur 9x im ganzen Koran
+  عسر              2      12  selten — 12x im ganzen Koran
+  وضع              1      26  selten — 26x im ganzen Koran
+  وزر              1      27  selten — 27x im ganzen Koran
+  رفع              1      29  selten — 29x im ganzen Koran
+  نصب              1      32  selten — 32x im ganzen Koran
+  يسر              2      44  
+  صدر              1      46  
+  ظهر              1      59  
+  ذكر              1     292  
+  ربب              1     980  
+
+  ACHTUNG: Diese Sure hat nur 16 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

@@ -1,0 +1,64 @@
+==============================================================================
+SURE 97  —  5 Verse, 21 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [97:1]
+    إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةِ ٱلۡقَدۡرِ
+    B/E:    Wir haben ihn ja in der Nacht der Bestimmung hinabgesandt
+    Khoury: Wir haben ihn in der Nacht der Bestimmung hinabgesandt
+
+  [97:2]
+    وَمَاۤ أَدۡرَىٰكَ مَا لَیۡلَةُ ٱلۡقَدۡرِ
+    B/E:    Und was läßt dich wissen, was die Nacht der Bestimmung ist
+    Khoury: Woher sollst du wissen, was die Nacht der Bestimmung ist
+
+  [97:3]
+    لَیۡلَةُ ٱلۡقَدۡرِ خَیۡرࣱ مِّنۡ أَلۡفِ شَهۡرࣲ
+    B/E:    Die Nacht der Bestimmung ist besser als tausend Monate
+    Khoury: Die Nacht der Bestimmung ist besser als tausend Monate
+
+  [97:4]
+    تَنَزَّلُ ٱلۡمَلَـٰۤئِكَةُ وَٱلرُّوحُ فِیهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرࣲ
+    B/E:    Es kommen die Engel und der Geist in ihr mit der Erlaubnis ihres Herrn mit jeder Angelegenheit herab
+    Khoury: Die Engel und der Geist kommen in ihr mit der Erlaubnis ihres Herrn herab mit jedem Anliegen
+
+  [97:5]
+    سَلَـٰمٌ هِیَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ
+    B/E:    Frieden ist sie bis zum Anbruch der Morgendämmerung
+    Khoury: Voller Frieden ist sie bis zum Aufgang der Morgenröte
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  طلع              1      19  selten — 19x im ganzen Koran
+  شهر              1      21  selten — 21x im ganzen Koran
+  ألف              1      22  selten — 22x im ganzen Koran
+  فجر              1      24  selten — 24x im ganzen Koran
+  دري              1      29  selten — 29x im ganzen Koran
+  روح              1      57  
+  ليل              3      92  
+  أذن              1     102  
+  قدر              3     132  
+  سلم              1     140  
+  خير              1     196  
+  ملك              1     206  
+  أمر              1     248  
+  نزل              2     293  
+  كلل              1     377  
+  ربب              1     980  
+
+  ACHTUNG: Diese Sure hat nur 21 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+

@@ -1,0 +1,58 @@
+==============================================================================
+SURE 109  —  6 Verse, 13 wurzelfuehrende Woerter
+==============================================================================
+
+SCHRITT 1 — WORTLAUT
+
+  [109:1]
+    قُلۡ یَـٰۤأَیُّهَا ٱلۡكَـٰفِرُونَ
+    B/E:    Sag: O ihr Ungläubigen
+    Khoury: Sprich: O ihr Ungläubigen
+
+  [109:2]
+    لَاۤ أَعۡبُدُ مَا تَعۡبُدُونَ
+    B/E:    ich diene nicht dem, dem ihr dient
+    Khoury: Ich verehre nicht, was ihr verehrt
+
+  [109:3]
+    وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ
+    B/E:    und ihr dient nicht Dem, Dem ich diene
+    Khoury: Auch ihr verehrt nicht, was ich verehre
+
+  [109:4]
+    وَلَاۤ أَنَا۠ عَابِدࣱ مَّا عَبَدتُّمۡ
+    B/E:    Und ich werde (auch) nicht dem dienen, dem ihr gedient habt
+    Khoury: Weder ich werde verehren, was ihr verehrt habt
+
+  [109:5]
+    وَلَاۤ أَنتُمۡ عَـٰبِدُونَ مَاۤ أَعۡبُدُ
+    B/E:    Und ihr werdet nicht Dem dienen, Dem ich diene
+    Khoury: Noch werdet ihr verehren, was ich verehre
+
+  [109:6]
+    لَكُمۡ دِینُكُمۡ وَلِیَ دِینِ
+    B/E:    Euch eure Religion und mir meine Religion
+    Khoury: Ihr habt eure Religion, und ich habe meine Religion
+
+
+SCHRITT 3 — BEGRIFFE: Wurzeln dieser Sure
+
+  Sortiert nach Seltenheit im Gesamtkoran. Seltene Wurzeln tragen
+  die meiste Deutungslast — haeufige wie 'amn' (glauben) sagen wenig ueber
+  DIESE Sure aus.
+
+  Wurzel        hier   Koran  Einordnung
+  ------------ ----- -------  --------------------------------------------
+  دين              2     101  
+  عبد              8     275  
+  كفر              1     525  
+  أيي              1     597  
+  قول              1    1722  
+
+  ACHTUNG: Diese Sure hat nur 13 Woerter. Haeufigkeitsvergleiche
+  mit dem Gesamtkoran sind hier statistisch wertlos — bei so kleinen Zahlen
+  wirkt alles 'ueberrepraesentiert'. Verwertbar ist allein die Spalte
+  'Koran': wie selten das Wort ueberhaupt ist.
+
+  Naechster Schritt: werkzeuge/hikmet.py wurzel <WURZEL>  fuer die Querbezuege.
+
