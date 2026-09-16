@@ -1,0 +1,194 @@
+<title>Das Palindrom der Umlaufbahn</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{
+  --ground:#FBFAF7; --surface:#FFFFFF; --sunk:#F2F0EA;
+  --ink:#141A24; --ink-soft:#56616F; --ink-faint:#8A94A1;
+  --rule:#E0DED6; --rule-soft:#EDEBE4;
+  --gold:#8A6216; --gold-soft:#F6EEDC; --gold-line:#C59A45;
+  --kalt:#2E6B8F; --kalt-soft:#E6EFF5;
+  --serif:'Newsreader',Georgia,serif;
+  --sans:'IBM Plex Sans',system-ui,sans-serif;
+  --arab:'Amiri','Scheherazade New',serif;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#0B0F17; --surface:#131A26; --sunk:#0F151F;
+  --ink:#E8EDF5; --ink-soft:#97A4B8; --ink-faint:#68768A;
+  --rule:#22303F; --rule-soft:#1A2432;
+  --gold:#E0B66A; --gold-soft:#1F1B12; --gold-line:#8A6E32;
+  --kalt:#7FB2D8; --kalt-soft:#10202C;
+}}
+:root[data-theme="dark"]{
+  --ground:#0B0F17; --surface:#131A26; --sunk:#0F151F;
+  --ink:#E8EDF5; --ink-soft:#97A4B8; --ink-faint:#68768A;
+  --rule:#22303F; --rule-soft:#1A2432;
+  --gold:#E0B66A; --gold-soft:#1F1B12; --gold-line:#8A6E32;
+  --kalt:#7FB2D8; --kalt-soft:#10202C;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--serif);
+  font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased}
+.seite{max-width:720px;margin:0 auto;padding:0 20px 90px}
+h1,h2,h3{text-wrap:balance;margin:0;font-weight:600;letter-spacing:-.015em}
+p{margin:0 0 17px;max-width:66ch}
+em{font-style:italic;color:var(--ink)}
+.eyebrow{font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--gold)}
+
+header{padding:58px 0 34px;border-bottom:1px solid var(--rule);margin-bottom:34px}
+header h1{font-size:clamp(31px,6.4vw,50px);line-height:1.08;margin:14px 0 16px}
+header .unter{font-size:19px;color:var(--ink-soft);max-width:54ch;line-height:1.55}
+
+h2{font-size:clamp(21px,3.6vw,27px);margin:48px 0 15px;padding-top:4px}
+h3{font-family:var(--sans);font-size:13px;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--ink-faint);margin:0 0 11px}
+
+.vers{background:var(--surface);border:1px solid var(--rule);border-radius:12px;
+  padding:22px 24px;margin:22px 0}
+.vers .ref{font-family:var(--sans);font-size:11.5px;font-weight:600;letter-spacing:.08em;
+  color:var(--gold);margin-bottom:12px}
+.vers .ar{font-family:var(--arab);font-size:clamp(23px,4.4vw,29px);line-height:2;
+  direction:rtl;text-align:right;margin-bottom:13px}
+.vers .de{font-size:16px;color:var(--ink-soft);margin:0;line-height:1.55}
+.vers .ar b{color:var(--gold);font-weight:400}
+
+figure{margin:34px 0;background:var(--sunk);border:1px solid var(--rule);
+  border-radius:14px;padding:26px 18px 20px;overflow-x:auto}
+figure svg{display:block;margin:0 auto;max-width:100%;height:auto}
+figcaption{font-family:var(--sans);font-size:12.5px;color:var(--ink-faint);
+  text-align:center;margin-top:16px;line-height:1.55;max-width:52ch;
+  margin-left:auto;margin-right:auto}
+
+.befund{display:grid;grid-template-columns:auto minmax(0,1fr);gap:2px 15px;
+  margin:24px 0;padding:20px 22px;background:var(--surface);
+  border:1px solid var(--rule);border-radius:12px}
+.befund dt{font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:.04em;
+  text-transform:uppercase;color:var(--ink-faint);padding-top:5px;white-space:nowrap}
+.befund dd{margin:0 0 9px;font-size:16.5px}
+.befund dd:last-of-type{margin-bottom:0}
+.ja{color:var(--gold);font-weight:600}
+.nein{color:var(--kalt);font-weight:600}
+
+table{width:100%;border-collapse:collapse;font-size:14.5px;margin:20px 0}
+th{font-family:var(--sans);font-size:10.5px;font-weight:600;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink-faint);text-align:left;
+  padding:0 10px 9px 0;border-bottom:1px solid var(--rule)}
+td{padding:9px 10px 9px 0;border-bottom:1px solid var(--rule-soft);vertical-align:top}
+td.pal{font-family:var(--arab);font-size:21px;direction:rtl;white-space:nowrap;letter-spacing:.1em}
+td.ref{font-family:var(--sans);font-size:12px;color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.hier td{background:var(--gold-soft)}
+tr.hier td.pal{color:var(--gold);font-weight:700}
+.tabellenrahmen{overflow-x:auto;-webkit-overflow-scrolling:touch}
+
+.merk{border-left:3px solid var(--gold-line);padding:3px 0 3px 19px;margin:26px 0}
+.merk p{margin:0;font-size:18px;line-height:1.55}
+.merk p + p{margin-top:12px}
+
+.schluss{background:var(--surface);border:1px solid var(--rule);border-radius:14px;
+  padding:26px 26px 22px;margin:40px 0 0}
+.schluss h2{margin-top:0}
+
+footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--rule);
+  font-family:var(--sans);font-size:12.5px;color:var(--ink-faint);line-height:1.7}
+@media (max-width:560px){
+  .befund{grid-template-columns:minmax(0,1fr);gap:0}
+  .befund dt{padding-top:12px}
+}
+</style>
+
+<div class="seite">
+<header>
+  <div class="eyebrow">Eine Prüfung · Sure 21:33 und 36:40</div>
+  <h1>Das Palindrom der Umlaufbahn</h1>
+  <p class="unter">Die Buchstabenfolge <em>kullun fī falak</em> — „jedes in einer Umlaufbahn“ —
+  liest sich vorwärts wie rückwärts. Sie stimmt. Die Frage ist, was das bedeutet.</p>
+</header>
+
+<p>Die Behauptung lautet: In einem Vers über kreisende Himmelskörper steht eine Phrase,
+die selbst kreisförmig gebaut ist — sie kehrt in sich zurück. Form und Inhalt fallen zusammen.</p>
+
+<p>Ich habe das am Textkorpus geprüft, und zwar mit einer Regel, die <em>vor</em> dem Ergebnis
+feststand: Konsonantengerüst des gesamten Korans, Leerzeichen entfernt, alle Palindrome ab
+sieben Buchstaben. Hier ist, was dabei herauskam.</p>
+
+<h2>Die beiden Verse</h2>
+<div class="vers"><div class="ref">21:33</div><div class="ar">وَهُوَ ٱلَّذِی خَلَقَ ٱلَّیۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلࣱّ فِی فَلَكࣲ یَسۡبَحُونَ</div><p class="de">Und Er ist es, Der die Nacht und den Tag, die Sonne und den Mond erschaffen hat; alles läuft in einer (jeweils eigenen) Umlaufbahn</p></div>
+<div class="vers"><div class="ref">36:40</div><div class="ar">لَا ٱلشَّمۡسُ یَنۢبَغِی لَهَاۤ أَن تُدۡرِكَ ٱلۡقَمَرَ وَلَا ٱلَّیۡلُ سَابِقُ ٱلنَّهَارِۚ وَكُلࣱّ فِی فَلَكࣲ یَسۡبَحُونَ</div><p class="de">Weder ziemt es der Sonne, den Mond einzuholen, noch wird die Nacht dem Tag zuvorkommen; alle laufen in einer (jeweils eigenen) Umlaufbahn</p></div>
+<p>Dieselbe Phrase, zweimal, beide Male über Sonne, Mond und ihre Bahnen. Das ist kein Zufall
+der Auswahl — es sind die einzigen zwei Stellen, an denen sie vorkommt.</p>
+
+<h2>Die Symmetrie</h2>
+<figure>
+  <svg viewBox="0 0 660 300" role="img" aria-label="Die sieben Buchstaben von kullun fi falak, mit Bögen zwischen den gespiegelten Paaren"><line x1="330" y1="46" x2="330" y2="258" stroke="var(--gold-line)" stroke-width="1.5" stroke-dasharray="5 5"/><path d="M 582 186 Q 330.0 10 78 186" fill="none" stroke="var(--gold-line)" stroke-width="1.6" opacity="0.90"/><circle cx="330.0" cy="98.0" r="12.5" fill="var(--ground)" stroke="var(--gold-line)" stroke-width="1.2"/><text x="330.0" y="102.5" text-anchor="middle" fill="var(--gold)" font-family="IBM Plex Sans, sans-serif" font-size="11.5" font-weight="600">1</text><path d="M 498 186 Q 330.0 54 162 186" fill="none" stroke="var(--gold-line)" stroke-width="1.6" opacity="0.74"/><circle cx="330.0" cy="120.0" r="12.5" fill="var(--ground)" stroke="var(--gold-line)" stroke-width="1.2"/><text x="330.0" y="124.5" text-anchor="middle" fill="var(--gold)" font-family="IBM Plex Sans, sans-serif" font-size="11.5" font-weight="600">2</text><path d="M 414 186 Q 330.0 98 246 186" fill="none" stroke="var(--gold-line)" stroke-width="1.6" opacity="0.58"/><circle cx="330.0" cy="142.0" r="12.5" fill="var(--ground)" stroke="var(--gold-line)" stroke-width="1.2"/><text x="330.0" y="146.5" text-anchor="middle" fill="var(--gold)" font-family="IBM Plex Sans, sans-serif" font-size="11.5" font-weight="600">3</text><circle cx="582" cy="216" r="30" fill="var(--surface)" stroke="var(--rule)" stroke-width="1.2"/><text x="582" y="230" text-anchor="middle" fill="var(--ink)" font-family="Amiri, serif" font-size="38">ك</text><text x="582" y="270" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="10.5">1</text><circle cx="498" cy="216" r="30" fill="var(--surface)" stroke="var(--rule)" stroke-width="1.2"/><text x="498" y="230" text-anchor="middle" fill="var(--ink)" font-family="Amiri, serif" font-size="38">ل</text><text x="498" y="270" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="10.5">2</text><circle cx="414" cy="216" r="30" fill="var(--surface)" stroke="var(--rule)" stroke-width="1.2"/><text x="414" y="230" text-anchor="middle" fill="var(--ink)" font-family="Amiri, serif" font-size="38">ف</text><text x="414" y="270" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="10.5">3</text><circle cx="330" cy="216" r="30" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="330" y="230" text-anchor="middle" fill="var(--gold)" font-family="Amiri, serif" font-size="38">ي</text><text x="330" y="270" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="10.5">4</text><circle cx="246" cy="216" r="30" fill="var(--surface)" stroke="var(--rule)" stroke-width="1.2"/><text x="246" y="230" text-anchor="middle" fill="var(--ink)" font-family="Amiri, serif" font-size="38">ف</text><text x="246" y="270" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="10.5">5</text><circle cx="162" cy="216" r="30" fill="var(--surface)" stroke="var(--rule)" stroke-width="1.2"/><text x="162" y="230" text-anchor="middle" fill="var(--ink)" font-family="Amiri, serif" font-size="38">ل</text><text x="162" y="270" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="10.5">6</text><circle cx="78" cy="216" r="30" fill="var(--surface)" stroke="var(--rule)" stroke-width="1.2"/><text x="78" y="230" text-anchor="middle" fill="var(--ink)" font-family="Amiri, serif" font-size="38">ك</text><text x="78" y="270" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="10.5">7</text><text x="636" y="296" text-anchor="end" fill="var(--ink-faint)" font-family="IBM Plex Sans, sans-serif" font-size="11" letter-spacing="0.5">Leserichtung ←</text></svg>
+  <figcaption>Die sieben Konsonanten von <em>kullun fī falak</em>. Buchstabe 4 ist die
+  Spiegelachse; die Paare 1–7, 2–6 und 3–5 sind identisch. Arabisch wird von rechts
+  nach links gelesen — hier spielt die Richtung keine Rolle, und genau das ist der Punkt.</figcaption>
+</figure>
+
+<dl class="befund">
+  <dt>Palindrom</dt><dd class="ja">Ja — ك ل ف ي ف ل ك, in beide Richtungen identisch</dd>
+  <dt>Im Text</dt><dd>Ja, wörtlich so in 21:33 und 36:40</dd>
+  <dt>Bedingung</dt><dd>Gilt für das Konsonantengerüst ohne Vokalzeichen — so, wie die
+  frühen Handschriften geschrieben wurden</dd>
+  <dt>Schnitt</dt><dd>Das vorangehende <em>wa-</em> und das folgende <em>yasbaḥūn</em> müssen
+  wegfallen. Die Grenze ist sprachlich natürlich, aber sie ist gesetzt</dd>
+</dl>
+
+<h2>Der Test: Wie selten ist so etwas?</h2>
+<p>Ein Palindrom ist nur dann bemerkenswert, wenn es nicht ohnehin dauernd vorkommt.
+Also habe ich den ganzen Koran durchsucht. Ergebnis: <strong>40 verschiedene Palindrome</strong>
+mit sieben oder mehr Buchstaben.</p>
+
+<div class="tabellenrahmen">
+<table>
+  <thead><tr><th>Palindrom</th><th>Länge</th><th>Häufigkeit</th><th>Stellen</th></tr></thead>
+  <tbody><tr class=""><td class="pal">ا ل ا ا و ل و ا ا ل ا</td><td class="ref">11</td><td class="ref">2×</td><td class="ref">2:269, 3:7</td></tr><tr class=""><td class="pal">ه ت ه م ا ن ا م ه ت ه</td><td class="ref">11</td><td class="ref">1×</td><td class="ref">58:2</td></tr><tr class=""><td class="pal">ق ت ا ل ا ل ا ت ق</td><td class="ref">9</td><td class="ref">1×</td><td class="ref">2:246</td></tr><tr class=""><td class="pal">ل و ا ن ح ن ا و ل</td><td class="ref">9</td><td class="ref">1×</td><td class="ref">27:33</td></tr><tr class=""><td class="pal">ك ا ن م و م ن ا ك</td><td class="ref">9</td><td class="ref">1×</td><td class="ref">32:18</td></tr><tr class=""><td class="pal">ا ي ه ا ل ا ه ي ا</td><td class="ref">9</td><td class="ref">1×</td><td class="ref">43:48</td></tr><tr class=""><td class="pal">ا ل ا ي ر ي ا ل ا</td><td class="ref">9</td><td class="ref">1×</td><td class="ref">46:25</td></tr><tr class=""><td class="pal">ا ل ا و ل و ا ل ا</td><td class="ref">9</td><td class="ref">1×</td><td class="ref">57:3</td></tr><tr class=""><td class="pal">ن ا م ه ت ه م ا ن</td><td class="ref">9</td><td class="ref">1×</td><td class="ref">58:2</td></tr><tr class=""><td class="pal">ب ا ن ا ا ن ا ب</td><td class="ref">8</td><td class="ref">1×</td><td class="ref">12:81</td></tr><tr class=""><td class="pal">ل ا ن س ن ا ل</td><td class="ref">7</td><td class="ref">5×</td><td class="ref">10:12, 17:13, 53:39, 75:3</td></tr><tr class=""><td class="pal">ن ا و ت و ا ن</td><td class="ref">7</td><td class="ref">3×</td><td class="ref">3:23, 4:44, 4:51</td></tr><tr class=""><td class="pal">ن ا ا ل ا ا ن</td><td class="ref">7</td><td class="ref">3×</td><td class="ref">5:59, 7:5, 7:126</td></tr><tr class=""><td class="pal">ت ا ل ا ل ا ت</td><td class="ref">7</td><td class="ref">2×</td><td class="ref">2:246, 3:167</td></tr><tr class=""><td class="pal">ل ق ي ف ي ق ل</td><td class="ref">7</td><td class="ref">2×</td><td class="ref">3:151, 8:12</td></tr><tr class=""><td class="pal">م ه ل ع ل ه م</td><td class="ref">7</td><td class="ref">2×</td><td class="ref">6:154, 28:43</td></tr></tbody>
+</table>
+</div>
+
+<p>Die untersuchte Folge ist <strong>nicht die längste</strong> — es gibt elfbuchstabige,
+etwa in 2:269 und in 58:2. Als bloße Buchstabensymmetrie ist sie also unauffällig.
+Arabisch erzeugt solche Spiegelungen leicht, weil Wortgrenzen beim Weglassen der Leerzeichen
+verschwimmen.</p>
+
+<h2>Wo der Unterschied liegt</h2>
+<p>Sieh dir an, woher die anderen Palindrome kommen. <em>lā-nsanā-l</em> in 53:39 entsteht
+aus „für den Menschen nichts anderes als“ — die Symmetrie läuft mitten durch Wortgrenzen
+und bedeutet nichts. Dasselbe bei den übrigen: Buchstabenzufälle ohne Bezug zum Inhalt.</p>
+
+<div class="merk">
+  <p>Bei <em>kullun fī falak</em> ist es anders: Die Symmetrie umfasst <strong>genau eine
+  sinnvolle Phrase</strong>, und diese Phrase handelt von zyklischer Bewegung.</p>
+  <p>Unter 40 Palindromen ist das die einzige Stelle, an der Form und Inhalt aufeinander
+  zeigen.</p>
+</div>
+
+<div class="schluss">
+<h2>Mein Urteil</h2>
+<p><strong>Das ist die erste Behauptung in unserer Reihe, die ich nicht verwerfe.</strong>
+Kein Umrechnen, keine Maßeinheit aus dem 18. Jahrhundert, keine nachträglich gewählte
+Zählregel. Die Symmetrie steht im Konsonantengerüst, sie ist in zehn Sekunden nachprüfbar,
+und sie passt zum Inhalt.</p>
+<p>Ob sie <em>beabsichtigt</em> ist, kann ich nicht entscheiden. Arabisch bringt Palindrome
+leicht hervor, und wer bei 40 Fundstellen nach Bedeutung sucht, findet irgendwo eine.
+Aber es ist eine echte literarische Beobachtung, und die hält, während die Zahlenspiele
+zerfallen.</p>
+<p><strong>Was es nicht ist: eine Erklärung des Sonnensystems.</strong> 36:38–40 sagt, die
+Sonne laufe zu einem bestimmten Ort, der Mond habe Phasen, keiner überhole den anderen,
+jedes ziehe seine Bahn. Das ist mit jedem Weltbild vereinbar — auch mit dem geozentrischen,
+das damals galt. Keine Planeten, kein Heliozentrismus, keine Bahnmechanik. Wer daraus
+moderne Astronomie liest, projiziert zurück.</p>
+<p>Die Schönheit liegt in der Sprache, nicht in der Physik. Das ist kein kleineres Ergebnis —
+es ist nur ein anderes.</p>
+</div>
+
+<footer>
+  Grundlage: Quranic Arabic Corpus (Morphologie), Uthmani-Text, deutsche Übersetzung von
+  Frank Bubenheim &amp; Nadeem Elyas. Palindrome ermittelt über das Konsonantengerüst des
+  gesamten Korans ohne Leerzeichen, ab sieben Buchstaben, maximale Treffer.
+  Zählweise vor der Auswertung festgelegt.
+</footer>
+</div>
