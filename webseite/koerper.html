@@ -6,18 +6,23 @@
       <select id="sura-wahl"></select>
       <label class="schalter"><input type="checkbox" id="vergleich" checked><span>4 Übersetzungen</span></label>
     </div>
+    <div class="suchfeld">
+      <input id="suche" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Suchen: Geduld · sbr · كفر · 2:255">
+      <button class="loeschen" id="loeschen" hidden aria-label="Suche löschen">✕</button>
+    </div>
   </div>
 </header>
 
 <section class="anleitung">
   <h2>Zwei Wege unter die Übersetzung</h2>
   <div class="schritte">
+    <div class="schritt"><span class="nr">SUCHEN</span>
+      <p>Deutsch (<i>Geduld</i>), arabisch (<i>كفر</i>), in Umschrift (<i>sbr</i>) oder als Stelle (<i>2:255</i>). Die Suche zeigt dir dazu, <b>welche arabischen Wurzeln</b> hinter deinen Treffern stecken.</p></div>
     <div class="schritt"><span class="nr">ÜBERSETZER VERGLEICHEN</span>
       <p>Jeder Vers steht in <b>vier deutschen Fassungen</b>. Wo sie auseinandergehen, hat jemand eine Entscheidung getroffen, die du sonst nicht siehst.</p></div>
     <div class="schritt"><span class="nr">WURZEL ANTIPPEN</span>
       <p>Die Kästchen unter jedem Vers sind die <b>Wortwurzeln</b>. Antippen zeigt jede andere Stelle im Koran, an der dieselbe Wurzel steht.</p></div>
-    <div class="schritt"><span class="nr">SELTENES ZUERST</span>
-      <p><b>Braun heißt selten</b> — höchstens zehn Vorkommen im ganzen Koran. Diese Wörter tragen die meiste Bedeutung.</p></div>
     <div class="schritt"><span class="nr">WAS DAS NICHT IST</span>
       <p>Uneinigkeit heißt <b>nicht, dass einer falsch liegt</b>. Sie heißt: Hier wurde entschieden. Prüfen musst du selbst.</p></div>
   </div>
@@ -157,25 +162,191 @@
     el('abdeckung').classList.toggle('offen', auf);
   }
 
+
+  // ---------------------------------------------------------------- Suche
+  const feld = el('suche'), loeschen = el('loeschen');
+
+  // Umschrift: jede Wurzel ohne arabische Tastatur eingebbar
+  const UM = {'ا':'a','أ':'a','إ':'a','آ':'a','ى':'a','ء':'a','ؤ':'a','ئ':'a','ب':'b','ت':'t',
+    'ة':'t','ث':'th','ج':'j','ح':'h','خ':'kh','د':'d','ذ':'dh','ر':'r','ز':'z','س':'s','ش':'sh',
+    'ص':'s','ض':'d','ط':'t','ظ':'z','غ':'gh','ف':'f','ق':'q','ك':'k','ل':'l','م':'m','ن':'n',
+    'ه':'h','و':'w','ي':'y'};
+  const umschrift = (w,ain) => [...w].map(c => c==='ع' ? ain : (UM[c] ?? c)).join('');
+  const wSchluessel = wurzeln.map(w => [umschrift(w,''), umschrift(w,'a'), w]);
+
+  const arabischRein = t => t
+    .replace(/[ً-ٰٟۖ-ۭـ]/g,'')
+    .replace(/[أإآٱ]/g,'ا').replace(/ى/g,'ي').replace(/ة/g,'ه');
+
+  let deutschIndex = null, arabIndex = null;
+  function indexBauen(){
+    if (deutschIndex) return;
+    deutschIndex = verse.map(v => v[3].join(' § ').toLowerCase());
+    arabIndex    = verse.map(v => arabischRein(v[2]));
+  }
+
+  const maskieren = t => t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+  function hervorheben(text, q){
+    if (!q) return text;
+    return text.replace(new RegExp(maskieren(q),'gi'), m => `<mark>${m}</mark>`);
+  }
+
+  // Welche Wurzeln stecken auffaellig oft hinter den Treffern?
+  function wurzelKandidaten(treffer){
+    if (treffer.length < 3) return [];
+    const inTreffern = new Map();
+    treffer.forEach(vi => (worte[String(vi)]||[]).forEach(ri =>
+      inTreffern.set(ri,(inTreffern.get(ri)||0)+1)));
+    const punkte = [];
+    for (const [ri,k] of inTreffern){
+      if (k < 2) continue;
+      const grund = (stellen[String(ri)]||[]).length / verse.length;
+      const hier  = k / treffer.length;
+      if (grund <= 0) continue;
+      const hub = hier / grund;
+      if (hub < 4) continue;
+      punkte.push([hub, k, ri]);
+    }
+    // Nach Abdeckung sortieren, nicht nach Auffaelligkeit: eine Wurzel mit zwei
+    // Zufallstreffern hat einen hohen Hub, sagt aber nichts.
+    return punkte.sort((a,b)=> b[1]-a[1] || b[0]-a[0]).slice(0,6);
+  }
+
+  let sichtbar = 40, letzteTreffer = [], letzteFrage = '';
+
+  function suchen(roh){
+    const q = roh.trim();
+    loeschen.hidden = !q;
+    if (!q){ zeigeSura(Number(wahl.value)); return; }
+
+    // Stellenangabe 2:255 oder 103
+    const stelle = q.match(/^(\d{1,3})\s*[:.\s]\s*(\d{1,3})$/);
+    if (stelle){
+      const s = +stelle[1], v = +stelle[2];
+      const vi = verse.findIndex(x => x[0]===s && x[1]===v);
+      if (vi >= 0){ wahl.value = s; zeigeSura(s); feld.value=''; loeschen.hidden=true;
+        requestAnimationFrame(()=> el('v'+vi)?.scrollIntoView({block:'center'})); return; }
+    }
+    const nurSure = q.match(/^(\d{1,3})$/);
+    if (nurSure && +nurSure[1] >= 1 && +nurSure[1] <= 114){
+      wahl.value = +nurSure[1]; zeigeSura(+nurSure[1]);
+      feld.value=''; loeschen.hidden=true; window.scrollTo({top:0}); return;
+    }
+
+    indexBauen();
+    const klein = q.toLowerCase();
+    const arab  = arabischRein(q);
+    const hatArabisch = /[؀-ۿ]/.test(q);
+
+    // passende Wurzeln (arabisch oder Umschrift)
+    const wTreffer = [];
+    wSchluessel.forEach(([a,b,orig],ri)=>{
+      if (hatArabisch ? arabischRein(orig).includes(arab)
+                      : (klein.length>=2 && (a===klein || b===klein)))
+        wTreffer.push(ri);
+    });
+
+    const vTreffer = [];
+    for (let i=0;i<verse.length;i++){
+      if (hatArabisch ? arabIndex[i].includes(arab) : deutschIndex[i].includes(klein))
+        vTreffer.push(i);
+    }
+
+    letzteTreffer = vTreffer; letzteFrage = q; sichtbar = 40;
+    zeigeTreffer(q, wTreffer, vTreffer);
+  }
+
+  function zeigeTreffer(q, wTreffer, vTreffer){
+    const kand = wTreffer.length ? [] : wurzelKandidaten(vTreffer);
+
+    let kopf = `<div class="treffer-kopf"><h1>„${q}“</h1>
+      <div class="zusatz">${vTreffer.length} ${vTreffer.length===1?'Vers':'Verse'}` +
+      (wTreffer.length ? ` · ${wTreffer.length} passende ${wTreffer.length===1?'Wurzel':'Wurzeln'}` : '') +
+      `</div></div>`;
+
+    if (wTreffer.length){
+      kopf += `<div class="wurzelfund"><h3>Passende Wurzeln</h3>
+        <p>Antippen zeigt jede Stelle im Koran.</p><div class="chips">` +
+        wTreffer.map(ri => `<button class="chip${zaehlung[ri][0]<=10?' selten':''}" data-wurzel="${ri}">
+          <span class="w">${wurzeln[ri]}</span><span class="n">${zaehlung[ri][0]}</span></button>`).join('') +
+        `</div></div>`;
+    } else if (kand.length){
+      kopf += `<div class="wurzelfund"><h3>Welche arabischen Wurzeln dahinterstecken</h3>
+        <p>Diese Wurzeln stehen in deinen Treffern auffällig viel häufiger als sonst im Koran.
+        Ein deutsches Wort deckt oft <b>mehrere</b> arabische ab — das ist die eigentliche Auskunft.</p>
+        <div class="chips">` +
+        kand.map(([hub,k,ri]) => `<button class="chip${zaehlung[ri][0]<=10?' selten':''}" data-wurzel="${ri}">
+          <span class="w">${wurzeln[ri]}</span><span class="n">in ${k}</span></button>`).join('') +
+        `</div></div>`;
+    }
+
+    if (!vTreffer.length && !wTreffer.length){
+      el('verse').innerHTML = kopf + `<div class="nix"><b>Nichts gefunden.</b>
+        Deutsche Wörter stehen in den Übersetzungen genau so, wie die Übersetzer sie geschrieben
+        haben — versuch es mit einem kürzeren Wortstamm (<i>geduld</i> statt <i>geduldig</i>).
+        Für arabische Wurzeln geht auch Umschrift: <i>sbr</i>, <i>kfr</i>, <i>drb</i>.</div>`;
+      window.scrollTo({top:0,behavior:'smooth'}); return;
+    }
+
+    const liste = vTreffer.slice(0, sichtbar).map(vi=>{
+      const v = verse[vi], rs = worte[String(vi)] || [];
+      const ueTeile = schalter.checked ? v[3] : [v[3][0]];
+      const texte = ueTeile.map((t,i)=>
+        `<div class="ue"><span class="ue-name">${ueb[i]}</span><p>${hervorheben(t,q)}</p></div>`).join('');
+      const chips = rs.map(ri => `<button class="chip${zaehlung[ri][0]<=10?' selten':''}" data-wurzel="${ri}">
+        <span class="w">${wurzeln[ri]}</span><span class="n">${zaehlung[ri][0]}</span></button>`).join('');
+      return `<article class="vers" id="v${vi}">
+        <div class="vers-nr">${suren[v[0]-1][0].toUpperCase()} · ${v[0]}:${v[1]}</div>
+        <div class="arabisch">${v[2]}</div>
+        <div class="ue-block">${texte}</div>
+        <div class="chips">${chips}</div></article>`;
+    }).join('');
+
+    const rest = vTreffer.length - sichtbar;
+    el('verse').innerHTML = kopf + liste +
+      (rest > 0 ? `<button class="mehr" id="mehr">Weitere ${Math.min(rest,40)} von ${rest} anzeigen</button>` : '');
+    el('sura-kopf').innerHTML = '';
+    markiere();
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+
+  let tick;
+  feld.addEventListener('input', ()=>{
+    clearTimeout(tick);
+    tick = setTimeout(()=> suchen(feld.value), 180);
+  });
+  loeschen.addEventListener('click', ()=>{
+    feld.value=''; loeschen.hidden=true; zeigeSura(Number(wahl.value)); feld.focus();
+  });
+
   document.addEventListener('click', e=>{
     const chip = e.target.closest('.chip');
     if (chip){ zeigeWurzel(Number(chip.dataset.wurzel)); return; }
     const stelle = e.target.closest('.stelle');
     if (stelle){
       const vi = Number(stelle.dataset.vers), v = verse[vi];
-      if (v[0] !== Number(wahl.value)){ wahl.value = v[0]; zeigeSura(v[0]); }
+      feld.value=''; loeschen.hidden = true;
+      wahl.value = v[0]; zeigeSura(v[0]);
       oeffne(false);
       el('v'+vi)?.scrollIntoView({behavior:'smooth', block:'center'});
+      return;
+    }
+    if (e.target.closest('#mehr')){
+      sichtbar += 40;
+      zeigeTreffer(letzteFrage, [], letzteTreffer);
       return;
     }
     if (e.target.closest('#schliessen') || e.target.closest('#abdeckung')) oeffne(false);
   });
 
   wahl.addEventListener('change', ()=>{
+    feld.value=''; loeschen.hidden = true;
     zeigeSura(Number(wahl.value));
     window.scrollTo({top:0, behavior:'smooth'});
   });
-  schalter.addEventListener('change', ()=> zeigeSura(Number(wahl.value)));
+  schalter.addEventListener('change', ()=>{
+    if (feld.value.trim()) suchen(feld.value); else zeigeSura(Number(wahl.value));
+  });
 
   // Startzustand: 57:20 zeigt die Sache in einem einzigen Vers —
   // dieselbe Wurzel k-f-r, einmal "Ungläubige", zweimal "Säer", einmal gar nicht übersetzt.

@@ -179,4 +179,33 @@ select{font:inherit;font-family:var(--sans);padding:7px 10px;border-radius:7px;
   .ue-name{padding-top:0}
   .ue-block{padding-left:11px}
 }
+
+/* ---- Suche ---- */
+.suchfeld{position:relative;flex:1 1 230px;min-width:190px;max-width:420px}
+.suchfeld input{width:100%;font:inherit;font-family:var(--sans);font-size:14px;
+  padding:8px 32px 8px 12px;border-radius:8px;border:1px solid var(--rule);
+  background:var(--surface);color:var(--ink)}
+.suchfeld input::placeholder{color:var(--ink-faint)}
+.suchfeld .loeschen{position:absolute;right:6px;top:50%;transform:translateY(-50%);
+  width:22px;height:22px;border:0;border-radius:50%;background:var(--surface-2);
+  color:var(--ink-soft);font-size:13px;line-height:1;padding:0}
+.treffer-kopf{border-bottom:2px solid var(--ink);padding-bottom:12px;margin-bottom:4px}
+.treffer-kopf h1{font-size:clamp(20px,3.6vw,26px);font-weight:600;letter-spacing:-.015em}
+.treffer-kopf .zusatz{font-family:var(--sans);font-size:13px;color:var(--ink-soft);margin-top:6px}
+.wurzelfund{margin:18px 0 6px;padding:15px 17px;background:var(--surface);
+  border:1px solid var(--rule);border-radius:10px}
+.wurzelfund h3{font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink-faint);margin-bottom:5px}
+.wurzelfund p{margin:0 0 11px;font-size:14px;line-height:1.5;color:var(--ink-soft)}
+.wurzelfund .chips{gap:7px}
+.wurzelfund .chip .n{color:var(--accent);font-weight:600}
+mark{background:var(--accent-soft);color:var(--accent-ink);padding:0 2px;border-radius:3px;
+  font-weight:600}
+:root[data-theme="dark"] mark, :root:not([data-theme="light"]) mark{color:var(--accent-ink)}
+.mehr{display:block;width:100%;margin-top:18px;padding:11px;border-radius:9px;
+  border:1px solid var(--rule);background:var(--surface);font-family:var(--sans);
+  font-size:13.5px;color:var(--ink-soft)}
+.nix{padding:34px 4px;color:var(--ink-faint);font-size:15px;line-height:1.7}
+.nix b{color:var(--ink);display:block;margin-bottom:8px;font-size:16px}
+@media (max-width:640px){.suchfeld{flex-basis:100%;max-width:none;order:9}}
 </style>
