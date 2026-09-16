@@ -67,3 +67,48 @@ die Verse, und behauptete von beiden, seine Formel bestätige sie.
 
 **Der Prüfstein für jede Code-Behauptung:** Was passiert, wenn die Zahlen nicht passen?
 Wird die Behauptung aufgegeben — oder der Text geändert?
+
+---
+
+# Die 14 Buchstaben — phonetische Auswertung
+
+**Visuelle Fassung:** https://claude.ai/artifact/XZqkF1A1DFVcUC2Mftj4Cm
+
+## Textabdeckung **[B]**
+
+Die 14 Anfangsbuchstaben decken **74,6 %** des Korantextes ab (bei Zufall ~50 %).
+10 der 14 häufigsten Buchstaben sind Anfangsbuchstaben.
+
+## Artikulationsort **[B]**
+
+Position 1 = Kehlkopf … 11 = Lippen. Klassifikation vor der Auswertung festgelegt.
+
+| | Mittlere Position |
+|---|---|
+| 13 Anfangs-Konsonanten | **5,69** |
+| Zufall (200.000 Ziehungen) | 6,74 |
+| Anteil der Ziehungen, die so weit hinten liegen | **4,2 %** |
+| 13 häufigste Konsonanten | 6,92 — weiter *vorn* |
+
+**Häufigkeit erklärt es nicht.** Anfangsbuchstaben trotz Seltenheit: ح س ص ط
+(hinten/Zischlaute). Häufig, aber nicht dabei: ب ت ف و (Lippen/Zähne).
+
+## Ganz-oder-gar-nicht-Gruppen **[B]**
+
+| Vollständig dabei | ه ح ع (Kehle/Rachen) · ا م ن ل ر ي (Klinger) |
+|---|---|
+| Vollständig draußen | ث ذ ظ (Zwischenzahn) · ش ج (Vordergaumen) · ب ف و (Lippen) |
+
+## Die Selbstbremse **[D]**
+
+Die Wahrscheinlichkeit, dass eine Zufallsauswahl von 14 aus 28 genau diese neun enthält
+und genau jene acht nicht, liegt bei **1 zu 87.000**.
+
+**Diese Zahl ist wertlos.** Die Gruppen wurden gebildet, *nachdem* der Befund vorlag —
+genau der Fehler, an dem die Eisen-Rechnung und der 19er-Code scheitern. Belastbar ist
+nur der vorab festgelegte Artikulationsort: 4,2 %. Auffällig, kein Beweis.
+
+## Offen
+
+**Warum** diese Auswahl — dafür habe ich keine Erklärung, und ich erfinde keine.
+Ein Muster in der Auswahl ist keine verschlüsselte Botschaft.

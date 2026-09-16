@@ -1,0 +1,193 @@
+<title>Die vierzehn Buchstaben</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{
+  --ground:#FBFAF7; --surface:#FFFFFF; --sunk:#F2F0EA;
+  --ink:#141A24; --ink-soft:#56616F; --ink-faint:#8A94A1;
+  --rule:#E0DED6; --rule-soft:#EDEBE4;
+  --gold:#8A6216; --gold-soft:#F6EEDC; --gold-line:#C59A45;
+  --kalt:#2E6B8F; --kalt-soft:#E6EFF5;
+  --serif:'Newsreader',Georgia,serif;
+  --sans:'IBM Plex Sans',system-ui,sans-serif;
+  --arab:'Amiri','Scheherazade New',serif;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --ground:#0B0F17; --surface:#131A26; --sunk:#0F151F;
+  --ink:#E8EDF5; --ink-soft:#97A4B8; --ink-faint:#68768A;
+  --rule:#22303F; --rule-soft:#1A2432;
+  --gold:#E0B66A; --gold-soft:#1F1B12; --gold-line:#8A6E32;
+  --kalt:#7FB2D8; --kalt-soft:#10202C;
+}}
+:root[data-theme="dark"]{
+  --ground:#0B0F17; --surface:#131A26; --sunk:#0F151F;
+  --ink:#E8EDF5; --ink-soft:#97A4B8; --ink-faint:#68768A;
+  --rule:#22303F; --rule-soft:#1A2432;
+  --gold:#E0B66A; --gold-soft:#1F1B12; --gold-line:#8A6E32;
+  --kalt:#7FB2D8; --kalt-soft:#10202C;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--serif);
+  font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased}
+.seite{max-width:720px;margin:0 auto;padding:0 20px 90px}
+h1,h2,h3{text-wrap:balance;margin:0;font-weight:600;letter-spacing:-.015em}
+p{margin:0 0 17px;max-width:66ch}
+em{font-style:italic;color:var(--ink)}
+.eyebrow{font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--gold)}
+
+header{padding:58px 0 34px;border-bottom:1px solid var(--rule);margin-bottom:34px}
+header h1{font-size:clamp(31px,6.4vw,50px);line-height:1.08;margin:14px 0 16px}
+header .unter{font-size:19px;color:var(--ink-soft);max-width:54ch;line-height:1.55}
+
+h2{font-size:clamp(21px,3.6vw,27px);margin:48px 0 15px;padding-top:4px}
+h3{font-family:var(--sans);font-size:13px;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--ink-faint);margin:0 0 11px}
+
+.vers{background:var(--surface);border:1px solid var(--rule);border-radius:12px;
+  padding:22px 24px;margin:22px 0}
+.vers .ref{font-family:var(--sans);font-size:11.5px;font-weight:600;letter-spacing:.08em;
+  color:var(--gold);margin-bottom:12px}
+.vers .ar{font-family:var(--arab);font-size:clamp(23px,4.4vw,29px);line-height:2;
+  direction:rtl;text-align:right;margin-bottom:13px}
+.vers .de{font-size:16px;color:var(--ink-soft);margin:0;line-height:1.55}
+.vers .ar b{color:var(--gold);font-weight:400}
+
+figure{margin:34px 0;background:var(--sunk);border:1px solid var(--rule);
+  border-radius:14px;padding:26px 18px 20px;overflow-x:auto}
+figure svg{display:block;margin:0 auto;max-width:100%;height:auto}
+figcaption{font-family:var(--sans);font-size:12.5px;color:var(--ink-faint);
+  text-align:center;margin-top:16px;line-height:1.55;max-width:52ch;
+  margin-left:auto;margin-right:auto}
+
+.befund{display:grid;grid-template-columns:auto minmax(0,1fr);gap:2px 15px;
+  margin:24px 0;padding:20px 22px;background:var(--surface);
+  border:1px solid var(--rule);border-radius:12px}
+.befund dt{font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:.04em;
+  text-transform:uppercase;color:var(--ink-faint);padding-top:5px;white-space:nowrap}
+.befund dd{margin:0 0 9px;font-size:16.5px}
+.befund dd:last-of-type{margin-bottom:0}
+.ja{color:var(--gold);font-weight:600}
+.nein{color:var(--kalt);font-weight:600}
+
+table{width:100%;border-collapse:collapse;font-size:14.5px;margin:20px 0}
+th{font-family:var(--sans);font-size:10.5px;font-weight:600;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink-faint);text-align:left;
+  padding:0 10px 9px 0;border-bottom:1px solid var(--rule)}
+td{padding:9px 10px 9px 0;border-bottom:1px solid var(--rule-soft);vertical-align:top}
+td.pal{font-family:var(--arab);font-size:21px;direction:rtl;white-space:nowrap;letter-spacing:.1em}
+td.ref{font-family:var(--sans);font-size:12px;color:var(--ink-faint);
+  font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.hier td{background:var(--gold-soft)}
+tr.hier td.pal{color:var(--gold);font-weight:700}
+.tabellenrahmen{overflow-x:auto;-webkit-overflow-scrolling:touch}
+
+.merk{border-left:3px solid var(--gold-line);padding:3px 0 3px 19px;margin:26px 0}
+.merk p{margin:0;font-size:18px;line-height:1.55}
+.merk p + p{margin-top:12px}
+
+.schluss{background:var(--surface);border:1px solid var(--rule);border-radius:14px;
+  padding:26px 26px 22px;margin:40px 0 0}
+.schluss h2{margin-top:0}
+
+footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--rule);
+  font-family:var(--sans);font-size:12.5px;color:var(--ink-faint);line-height:1.7}
+@media (max-width:560px){
+  .befund{grid-template-columns:minmax(0,1fr);gap:0}
+  .befund dt{padding-top:12px}
+}
+</style>
+
+<div class="seite">
+<header>
+  <div class="eyebrow">Eine Prüfung · die Anfangsbuchstaben von 29 Suren</div>
+  <h1>Die vierzehn Buchstaben</h1>
+  <p class="unter">29 Suren beginnen mit Buchstaben ohne erkennbare Bedeutung. Es sind
+  genau 14 verschiedene — die Hälfte des Alphabets. Warum diese?</p>
+</header>
+
+<p>Die klassischen Kommentatoren schrieben offen, dass sie es nicht wissen. Das ist kein
+Ausweichen, sondern Redlichkeit. Ich kann die Frage auch nicht beantworten — aber ich kann
+messen, <em>welche</em> vierzehn es sind. Und die fallen nicht zufällig.</p>
+
+<figure>
+  <svg viewBox="0 0 820 430" role="img" aria-label="Die 28 arabischen Buchstaben nach Artikulationsort, von den Lippen bis zur Kehle; die 14 Anfangsbuchstaben hervorgehoben"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="var(--kalt)" stop-opacity="0.16"/><stop offset="1" stop-color="var(--gold-line)" stop-opacity="0.34"/></linearGradient></defs><rect x="26" y="360" width="760" height="9" rx="4.5" fill="url(#g)"/><text x="26" y="386" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="11.5">vorn · Lippen</text><text x="786" y="386" text-anchor="end" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="11.5">hinten · Kehle</text><text x="56" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Lippen</text><circle cx="56" cy="116" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="56" y="126" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ب</text><circle cx="56" cy="172" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="56" y="182" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">م</text><circle cx="56" cy="228" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="56" y="238" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">و</text><text x="126" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Lippe–Zahn</text><rect x="99" y="87" width="54" height="50" rx="9" fill="none" stroke="var(--kalt)" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.75"/><circle cx="126" cy="116" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="126" y="126" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ف</text><text x="196" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Zwischen-</text><text x="196" y="47" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">zahn</text><rect x="169" y="87" width="54" height="162" rx="9" fill="none" stroke="var(--kalt)" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.75"/><circle cx="196" cy="116" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="196" y="126" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ث</text><circle cx="196" cy="172" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="196" y="182" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ذ</text><circle cx="196" cy="228" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="196" y="238" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ظ</text><text x="266" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Zahndamm</text><circle cx="266" cy="116" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="266" y="126" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ت</text><circle cx="266" cy="172" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="266" y="182" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">د</text><circle cx="266" cy="228" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="266" y="238" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ط</text><circle cx="266" cy="284" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="266" y="294" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ض</text><circle cx="266" cy="340" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="266" y="350" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ن</text><circle cx="266" cy="396" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="266" y="406" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ل</text><circle cx="266" cy="452" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="266" y="462" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ر</text><text x="336" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Zisch-</text><text x="336" y="47" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">laute</text><circle cx="336" cy="116" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="336" y="126" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">س</text><circle cx="336" cy="172" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="336" y="182" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ز</text><circle cx="336" cy="228" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="336" y="238" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ص</text><text x="406" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Vorder-</text><text x="406" y="47" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">gaumen</text><rect x="379" y="87" width="54" height="106" rx="9" fill="none" stroke="var(--kalt)" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.75"/><circle cx="406" cy="116" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="406" y="126" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ش</text><circle cx="406" cy="172" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="406" y="182" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">ج</text><text x="476" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Gaumen</text><rect x="449" y="87" width="54" height="50" rx="9" fill="none" stroke="var(--gold-line)" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.75"/><circle cx="476" cy="116" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="476" y="126" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ي</text><text x="546" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Hinter-</text><text x="546" y="47" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">gaumen</text><rect x="519" y="87" width="54" height="50" rx="9" fill="none" stroke="var(--gold-line)" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.75"/><circle cx="546" cy="116" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="546" y="126" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ك</text><text x="616" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Zäpfchen</text><circle cx="616" cy="116" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="616" y="126" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">خ</text><circle cx="616" cy="172" r="21" fill="none" stroke="var(--rule)" stroke-width="1.2"/><text x="616" y="182" text-anchor="middle" fill="var(--ink-faint)" font-family="Amiri,serif" font-size="27">غ</text><circle cx="616" cy="228" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="616" y="238" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ق</text><text x="686" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Rachen</text><rect x="659" y="87" width="54" height="106" rx="9" fill="none" stroke="var(--gold-line)" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.75"/><circle cx="686" cy="116" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="686" y="126" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ح</text><circle cx="686" cy="172" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="686" y="182" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ع</text><text x="756" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">Kehl-</text><text x="756" y="47" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10" letter-spacing="0.3">kopf</text><rect x="729" y="87" width="54" height="50" rx="9" fill="none" stroke="var(--gold-line)" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.75"/><circle cx="756" cy="116" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="756" y="126" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ه</text><circle cx="828" cy="116" r="21" fill="var(--gold-soft)" stroke="var(--gold-line)" stroke-width="2"/><text x="828" y="126" text-anchor="middle" fill="var(--gold)" font-family="Amiri,serif" font-size="27">ا</text><text x="828" y="34" text-anchor="middle" fill="var(--ink-faint)" font-family="IBM Plex Sans,sans-serif" font-size="10">Vokal</text></svg>
+  <figcaption>Alle 28 arabischen Buchstaben, angeordnet nach dem Ort, an dem sie im Mund
+  gebildet werden. <strong>Gold</strong> = Anfangsbuchstabe. Gestrichelte Rahmen markieren
+  Gruppen, die <em>vollständig</em> dabei oder <em>vollständig</em> draußen sind.</figcaption>
+</figure>
+
+<h2>Was auffällt</h2>
+<p>Fünf Lautgruppen sind ganz oder gar nicht vertreten — kein Teils-teils:</p>
+
+<dl class="befund">
+  <dt>Vollständig dabei</dt><dd><span class="ja">Kehle und Rachen</span> — ه ح ع, alle drei</dd>
+  <dt></dt><dd><span class="ja">Klinger</span> — ا م ن ل ر ي, alle sechs (Nasale, Liquide, Halbvokale)</dd>
+  <dt>Vollständig draußen</dt><dd><span class="nein">Zwischenzahnlaute</span> — ث ذ ظ, keiner</dd>
+  <dt></dt><dd><span class="nein">Vordergaumen</span> — ش ج, keiner</dd>
+  <dt></dt><dd><span class="nein">Lippenlaute</span> — ب ف و, keiner</dd>
+</dl>
+
+<p>Die Richtung ist deutlich: <strong>hinten im Mund gebildete Laute und Klinger sind
+drin, vorn gebildete sind draußen.</strong> Was dazwischenliegt, ist geteilt.</p>
+
+<h2>Zwei Tests</h2>
+
+<h3>Liegen sie wirklich weiter hinten?</h3>
+<p>Ich habe jedem Konsonanten eine Position gegeben (1 = Kehlkopf bis 11 = Lippen) und den
+Mittelwert der 13 Anfangs-Konsonanten mit 200.000 Zufallsziehungen verglichen.</p>
+<dl class="befund">
+  <dt>Anfangsbuchstaben</dt><dd><span class="ja">5,69</span> — deutlich hinten</dd>
+  <dt>Zufall</dt><dd>6,74 im Mittel</dd>
+  <dt>Ergebnis</dt><dd>Nur <strong>4,2 %</strong> der Zufallsziehungen liegen so weit hinten</dd>
+</dl>
+
+<h3>Ist es einfach nur Häufigkeit?</h3>
+<p>Das war mein erster Verdacht: Die 14 decken <strong>74,6 %</strong> des Korantextes ab —
+vielleicht sind es schlicht die gängigsten Buchstaben. Also habe ich es geprüft.</p>
+<dl class="befund">
+  <dt>13 häufigste Konsonanten</dt><dd>Position <strong>6,92</strong> — weiter <em>vorn</em> als der Zufall</dd>
+  <dt>Antwort</dt><dd><span class="nein">Nein.</span> Häufigkeit erklärt es nicht</dd>
+</dl>
+<p>Der Vergleich zeigt es genau. Vier Buchstaben sind Anfangsbuchstaben, obwohl sie selten
+sind — <strong>ح س ص ط</strong>, alle hinten oder Zischlaute. Vier sind häufig und trotzdem
+nicht dabei — <strong>ب ت ف و</strong>, drei davon an Lippen oder Zähnen. Die Auswahl
+bevorzugt den hinteren Mundraum <em>gegen</em> die Häufigkeit, nicht wegen ihr.</p>
+
+<div class="merk">
+  <p><strong>Und jetzt die Bremse — gegen mich selbst.</strong></p>
+  <p>Ich kann ausrechnen, wie unwahrscheinlich das genaue Muster ist: Dass eine zufällige
+  Auswahl von 14 aus 28 <em>alle neun</em> der einen Gruppe enthält und <em>keinen einzigen</em>
+  der anderen acht, hat eine Wahrscheinlichkeit von etwa <strong>1 zu 87.000</strong>.</p>
+  <p>Diese Zahl ist wertlos. Ich habe die beiden Gruppen gebildet, <strong>nachdem</strong> ich
+  gesehen hatte, welche Buchstaben dabei sind. Das ist exakt der Fehler, an dem die
+  Eisen-Rechnung und der 19er-Code gescheitert sind — die Regel wird nach dem Ergebnis
+  gewählt. Wer 28 Buchstaben nach beliebigen Merkmalen sortieren darf, findet immer
+  irgendeine saubere Teilung.</p>
+  <p>Belastbar ist nur, was ich <em>vorher</em> festlegen konnte: der Artikulationsort — eine
+  Standardgröße der Phonetik, nicht von mir erfunden. Dafür steht der Wert bei 4,2 %. Das
+  ist auffällig, aber kein Beweis.</p>
+</div>
+
+<div class="schluss">
+<h2>Wo das steht</h2>
+<p><strong>Was gesichert ist:</strong> Es sind 14 von 28. Sie decken 74,6 % des Textes ab.
+Sie liegen im Mittel weiter hinten im Mundraum als eine Zufallsauswahl, und das ist
+nicht durch Häufigkeit erklärt. Fünf Lautgruppen sind ganz oder gar nicht vertreten.</p>
+<p><strong>Was offen ist:</strong> Warum. Ich habe keine Erklärung, und ich werde keine
+erfinden. Die klassischen Kommentatoren sagten „Gott weiß es besser“, und nach dieser
+Rechnung verstehe ich besser, warum sie das sagten — das Muster ist da, aber es deutet
+sich nicht selbst.</p>
+<p><strong>Was die Daten nicht hergeben:</strong> einen Code. Ein Muster in der Auswahl ist
+keine verschlüsselte Botschaft. Der stärkere Befund bleibt der andere: In 26 von 29 Fällen
+folgt auf die Buchstaben unmittelbar eine Aussage über die Schrift selbst.</p>
+</div>
+
+<footer>
+  Grundlage: Quranic Arabic Corpus, Uthmani-Text. Buchstabenhäufigkeiten ohne die
+  Muqattaʿāt-Verse selbst gezählt. Artikulationsorte nach der Standardbeschreibung des
+  arabischen Lautsystems, vor der Auswertung festgelegt. Permutationstest mit 200.000
+  Ziehungen.
+</footer>
+</div>
